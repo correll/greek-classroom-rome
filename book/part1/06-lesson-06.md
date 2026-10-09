@@ -4,7 +4,7 @@
 Theodoros was at the board before anyone sat down, and he did not say good
 morning.
 
-He wrote eleven words, put the chalk down, and sat.
+He wrote seventeen words, put the chalk down, and sat.
 
 > **Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.**
 
@@ -68,7 +68,7 @@ is guessing with increasing confidence and decreasing accuracy.
 lacks one — which of two nouns is the subject.
 
 **Mark what you are certain of and leave the rest alone.** You are allowed
-to write *"I do not know this word"* and carry on. Livia read eleven words
+to write *"I do not know this word"* and carry on. Livia read seventeen words
 without knowing four of them, because she did not need those four to answer
 the question she had been asked.
 
@@ -278,7 +278,7 @@ Here it is, with the four words you were missing.
 - **ἐν ἀρχῇ** — in the beginning *(a case you meet in Part II; take the
   phrase whole for now)*
 - **ἦν** — was *(the past of **εἰμί**; its endings come in Part III)*
-- **ὁ λόγος** — the word, the account, the reasoning *(Lesson 3)*
+- **ὁ λόγος** — the word, the account, the reasoning *(Lesson 1)*
 - **καί** — and *(Lesson 4)*
 - **πρός** — with, towards, in the presence of
 - **τὸν θεόν** — God *(accusative, after **πρός**)*
@@ -333,7 +333,7 @@ again.
 :::
 
 ::: {.story time="—"}
-At the end of the hour Theodoros rubbed out ten of the eleven words.
+At the end of the hour Theodoros rubbed out fifteen of the seventeen words.
 
 He left **ὁ λόγος** on the board, in the corner, and it stayed there until
 the winter, when a slave cleaning the room wiped it off without knowing what

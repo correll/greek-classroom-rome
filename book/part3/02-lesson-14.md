@@ -121,7 +121,7 @@ Marcus was right about the indicative and wrong about the language.
 
 Latin's *dixit* does double duty: it serves both as *he said* (a single
 event — the Greek aorist) and as *he has said* (a thing done, with a result
-standing — the Greek **perfect**, which you meet in Part V). Greek keeps
+standing — the Greek **perfect**, which this course leaves for later). Greek keeps
 those two apart with different tenses.
 
 So the score is roughly even in the past and lopsided everywhere else.
@@ -142,7 +142,8 @@ irritation.
 
 ::: note
 **ἐγένετο** is a third person singular aorist of a verb whose endings you
-have not met — the middle voice, which waits until Part V. Take it whole. It
+have not met — the middle voice, which this course does not teach in full. Take it
+whole. It
 is one of the commonest words in Greek narrative and it means *came to be*,
 in the strong sense: something that was not, now is.
 
@@ -151,7 +152,7 @@ imperfect. When you see it, expect a single event.
 
 **τέλος** here is adverbial, *finally*. It is also a noun, **τὸ τέλος** —
 *end, purpose, completion* — of the third declension, which arrives in
-Part IV. English *teleology* is built on it: the study of what things are
+Lesson 15. English *teleology* is built on it: the study of what things are
 **for**.
 :::
 :::
@@ -197,7 +198,7 @@ Say whether each is imperfect or aorist, and what told you.
    This is the characteristic Greek narrative shape.
 2. *At once I came into the house.* Or *they came* — **ἦλθον** is ambiguous.
 3. *He was always writing, but he did not write the letter.* The joke is in
-   the aspect: endless writing, nothing finished. Greek can say this in six
+   the aspect: endless writing, nothing finished. Greek can say this in seven
    words.
 4. *The word of God came to the men.*
 :::
@@ -274,7 +275,7 @@ both sides. Had the author written **ἦν σάρξ** he would have said the Wor
 the Word begin.
 
 He wrote neither, and the whole of the difference is carried by two verb
-forms you learned this afternoon.
+forms you learned this week.
 
 Notice also **σάρξ**: no article, standing outside the group, which by
 Lesson 10 makes it a predicate. The construction is exactly that of

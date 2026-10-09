@@ -160,8 +160,10 @@ rule rules out the others.
 ::: answers
 1. **ὁ** → **ὁδός**. The gap is an initial vowel, so it must carry a
    breathing; the word is *hodos*, so the breathing is rough. The vowel
-   must be **ο**, since **ω** would make the first syllable long and the
-   accent would then have to move.
+   is **ο**, not **ω**: nothing in the rules forbids **ὡ-** here, which
+   is why Theodoros made them say the word aloud — *hodos*, short — before
+   they wrote it. Not every gap is settled by rule; some are settled by
+   the ear.
 2. **ό** → **οὐρανός**. The pattern **-ος** is a nominative ending; **ω**
    is ruled out because **-ως** is not this kind of ending.
 3. **ο** → **οἶκος**. Same ending. Note that the circumflex is already on
@@ -248,7 +250,7 @@ that **ἄγαν** begins with a smooth breathing — so no *h*. You can see tha
 the accent on **μηδὲν** is a grave, which tells you another word follows it
 closely. Neither of those marks is on the stone. Both are a modern
 editor telling you something they believe to be true about a word carved
-nine hundred years before the marks were invented.
+some four hundred years before the marks were invented.
 :::
 
 ::: {.question time="5 min"}

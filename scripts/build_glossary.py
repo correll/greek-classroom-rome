@@ -89,20 +89,36 @@ def vocab_blocks(text):
                 if depth == 1:
                     body.append(lines[i])
                 i += 1
-            yield "\n".join(body)
+            yield "\n".join(unwrap(body))
         i += 1
 
 
-LEADIN = re.compile(r"^(?:I|to|the|a|an)\s+")
+def unwrap(lines):
+    """Join the continuation lines of a wrapped list item onto its first
+    line, so that an entry whose gloss runs over is read whole and a bold
+    form on its second line is not mistaken for a new headword."""
+    out = []
+    for line in lines:
+        if out and line.startswith("  ") and line.strip() \
+                and not re.match(r"^\s*[-*]\s+", line) \
+                and re.match(r"^[-*]\s+", out[-1]):
+            out[-1] = out[-1].rstrip() + " " + line.strip()
+        else:
+            out.append(line)
+    return out
+
+
+LEADIN = re.compile(r"^(?:I|to|the|a|an|he|she|it|they|we|you)\s+")
 PAREN = re.compile(r"\*?\([^)]*\)\*?")
 
 
 def senses(gloss):
     """Split an English gloss into the headwords a student would look up."""
     g = PAREN.sub("", gloss).replace("*", "")
+    g = re.sub(r"\bhe, she, or it\s+", "", g)
     out = []
     for piece in re.split(r"[;,]", g):
-        t = piece.strip(" .;:·")
+        t = piece.strip(" .;:·—–-")
         t = LEADIN.sub("", t).strip()
         # a long phrase is an explanation, not a word to look up under
         if not t or len(t.split()) > 4:

@@ -240,12 +240,19 @@ Use this when planning, and when deciding how much of a scene to act out.
 | 11 | Marcus, Livia | Livia points out he has already answered four |
 | 13 | Quintus | a story is not a list of events |
 | 14 | Marcus | one past tense is not enough |
+| 15 | Julia | Homer has no article; the load-bearing wall is four hundred years in the future |
 | 16 | Theodosius, Quintus, Sabina | is Odysseus admirable? left unresolved |
 | 17 | Quintus | his Plato, at last |
 | 18 | Marcus, Julia | elegant and wrong against right and inaudible |
 | 19, 21 | Theodosius | the Greek behind a Latin he has known since he was six |
+| 20 | Julia | "this is not good Greek" — and why it was written that way |
 | 22 | Sabina | fastest in the room |
 | 23 | Felix | his ear is vindicated |
+| 24 | the class | four pairs of texts; nobody breaks the rule |
+| 25 | Livia, Marcus | one accent turns a question into a statement; a question with no answer |
 | 26 | Marcus | his best argument of the year, and its flaw |
+| 27 | Julia, Livia | the lexicon against the page; Livia asks for the verse before |
 | 28 | Aelia, Felix | letters home; Felix writes to the cat |
+| 29 | the class | three questions each; Marcus prepares and says nothing |
+| 30 | Marcus | reads the sentence he got wrong, and gets it right |
 | 30 | Marcus | reads last, prepared |

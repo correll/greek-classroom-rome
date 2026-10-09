@@ -18,19 +18,20 @@ something false about the language.
 |:--|:--|
 | Homer | Allen, *Homeri Opera* (Oxford Classical Texts), public domain |
 | Plato | Burnet, *Platonis Opera* (Oxford Classical Texts), public domain |
-| Aesop | Halm / Chambry, public-domain collections |
-| Menander, *Monostichoi* | Jaekel and public-domain predecessors |
 | Septuagint | Rahlfs–Hanhart text; public-domain Swete where required |
 | New Testament | Westcott–Hort (1881), public domain |
-| Inscriptions | *Inscriptiones Graecae*, public-domain volumes |
+| Papyri | BGU II 423 (Berlin), as printed in public-domain collections |
 
 Where a modern critical edition is still in copyright, a public-domain
 predecessor has been used and the difference noted if it affects the
-reading being taught.
+reading being taught. Every quoted passage from Lesson 15 onward also
+carries a note in the teacher's edition asking that it be checked against
+the edition in use before it is put on the board; the course asks that of
+its pupils and asks it of itself.
 
 ## Adapted passages
 
-Some passages — chiefly the Aesopic fables in Lesson 12 — appear first in a
+Some passages — chiefly the sentence of Protagoras in Lesson 12 — appear first in a
 form adapted to the vocabulary and grammar available at that point in the
 course. Adapted passages are always labelled **adapted**, and the authentic
 text is printed alongside or immediately afterwards so that students can

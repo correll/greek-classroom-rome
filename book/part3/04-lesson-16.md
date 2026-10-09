@@ -38,7 +38,7 @@ hundred more lines of it."
 
 Quintus had been waiting for this since the first day of the Cyclops.
 
-"He is in a cave," he said, "with a man-eating giant, and eight of his crew
+"He is in a cave," he said, "with a man-eating giant, and six of his crew
 are already dead. What is the honest answer? *My name is Odysseus, son of
 Laertes, king of Ithaca, please eat me next?*"
 
@@ -260,7 +260,7 @@ were about the *Odyssey* and one of them was about Felix.
 :::
 
 ::: {.exercise title="What tells you that?"}
-Here are two sentences. They differ by one letter.
+Here are two sentences. They differ by one ending.
 
 - **λέγει τὸν ἄνθρωπον γράφειν.**
 - **λέγει τὸν ἄνθρωπον γράψαι.**

@@ -19,7 +19,7 @@ long-held position. "It is a little word. It is decoration. The noun does
 the work and the little word sits in front of it looking important. If I
 leave it off entirely you still know what I mean."
 
-Theodoros, who had been letting this run, stood up and wrote four words on
+Theodoros, who had been letting this run, stood up and wrote three words on
 the board.
 
 > **χαλεπὰ τὰ καλά**
@@ -29,7 +29,7 @@ the board.
 "*Fine things are hard*," said Marcus. "We did it. It is a proverb."
 
 "Good." Theodoros rubbed out nothing, moved nothing, and simply wrote the
-same four words again underneath in a different order:
+same three words again underneath in a different order:
 
 > **τὰ χαλεπὰ καλά**
 
@@ -91,7 +91,7 @@ The nouns follow, in the two patterns you already half know:
 | **acc. plur.** | **τοὺς λόγους** | **τὰς ψυχάς** | **τὰς οἰκίας** | **τὰ δῶρα** |
 
 The second declension (**λόγος**, **δῶρον**) and the first (**ψυχή**,
-**οἰκία**) are the two you will meet most. The third arrives in Part III and
+**οἰκία**) are the two you will meet most. The third arrives in Lesson 15 and
 is worth not worrying about yet.
 
 ## Why ἄνθρωπος moves its accent
@@ -155,8 +155,8 @@ one has the article, the one with the article is what you are talking
 
 ::: note
 **τὰ γράμματα** is given in the plural because that is how it is normally
-used. Its singular belongs to the third declension, which you meet in Part
-III; until then, recognise it and leave it alone.
+used. Its singular belongs to the third declension, which you meet in Lesson
+15; until then, recognise it and leave it alone.
 
 **πολλοί** and **μόνος** are adjectives, and adjectives have endings that
 must agree with their noun. That is Lesson 10. For now take them in the
@@ -284,7 +284,7 @@ anything else — you established that this afternoon, in exercise 1, question
 3. The two words are grammatically interchangeable and the sentence should
 be unreadable.
 
-It is not unreadable, and the reason is three letters long. **τὰ καλά**
+It is not unreadable, and the reason is two letters long. **τὰ καλά**
 carries the article, so **τὰ καλά** is the thing being talked about.
 **χαλεπά** does not, so **χαλεπά** is what is being said about it.
 

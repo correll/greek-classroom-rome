@@ -13,7 +13,7 @@ even as the Greek gets harder. The timings assume a 45-minute period.
 | 1 | **The Story** | 5 min | A short scene in the classroom. |
 | 2 | **The New Greek** | 10 min | A few new words and **one** main grammatical idea. |
 | 3 | **The Investigation** | 15 min | You decode, translate, compare, or compose — and explain your reasoning. |
-| 4 | **The Ancient Voice** | 10 min | A passage by a real author. At first a single word. By Lesson 30, several sentences. |
+| 4 | **The Ancient Voice** | 10 min | A passage by a real author. At first two words. By the end, whole passages. |
 | 5 | **The Question** | 5 min | A short reflection. What does this mean? Why these words? Is the idea still live? |
 
 The third movement is the one that matters. Producing an English sentence is
@@ -41,8 +41,8 @@ your first complete sentence.
 
 The article in full; the genitive and dative; adjective agreement; the
 present tense drilled until the endings are automatic. By Lesson 12 you will
-read an Aesopic fable — first in an adapted version, then the real one, so
-you can see exactly what was changed and why.
+read a sentence of Protagoras — first in an adapted version, then the real
+one, so you can see exactly what was changed and why.
 
 ### Part III · The World of the Classics — Lessons 13–18
 
@@ -56,7 +56,7 @@ exactly how it differs rather than left to be confused.
 
 The Greek of the Septuagint and the New Testament, set beside the Attic you
 know. Why familiar-looking words shift meaning; why translated Greek
-sometimes sounds unlike Greek; and what changes in a language over eight
+sometimes sounds unlike Greek; and what changes in a language over five
 hundred years.
 
 ### Part V · Becoming a Reader — Lessons 25–30

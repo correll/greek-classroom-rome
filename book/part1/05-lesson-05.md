@@ -32,7 +32,7 @@ Felix made a small sound.
 "Not *I know the road*. Not *I show the road*. **I am the road.** You have
 told this room that you are a paved surface running from here to Ostia."
 
-Felix had put his head on the desk.
+Felix had put his head on his knees.
 
 "It is a perfectly good sentence," Theodoros went on. "Every word is
 correct. The endings agree. It is, as Greek, faultless. It simply does not
@@ -277,7 +277,7 @@ nearly the same words, and meant them.
 
 - **ἐγώ** — I
 - **εἰμι** — am
-- **ἡ ὁδός** — the way, the road *(Lesson 3)*
+- **ἡ ὁδός** — the way, the road *(Lesson 2)*
 - **καί** — and *(Lesson 4)*
 - **ἡ ἀλήθεια** — the truth *(Lesson 4)*
 - **ἡ ζωή** — the life
@@ -298,7 +298,7 @@ the same reason: to put the weight on the speaker. *I* am these things.
 **All three nouns carry the article.** Not *a way*, not *a kind of truth* —
 **ἡ ὁδός**, **ἡ ἀλήθεια**, **ἡ ζωή**, each one definite, each one the only
 one. Drop the three articles and the sentence becomes modest. They are the
-most important six letters in it.
+most important three letters in it.
 
 **It answers the question from last lesson.** Pilate asked
 **τί ἐστιν ἀλήθεια;** — *what is truth?* This sentence, in the same book,

@@ -27,7 +27,7 @@ the first week."
 
 "In the small words."
 
-He wrote one sentence on the board. It was nine words long.
+He wrote one sentence on the board. It was seven words long.
 
 Quintus looked at it for some time.
 
@@ -55,7 +55,7 @@ purpose, and the half I have withheld is the half every translation into
 Latin also withholds, which is why educated men have been quoting this
 sentence wrongly for four hundred years." He put the chalk down. "Philosophy
 in Greek is not difficult because the words are long. It is difficult because
-the words that carry the argument are two letters each, and nobody thinks
+the words that carry the argument are two or three letters each, and nobody thinks
 they matter, and they are the only things that do."
 :::
 
@@ -234,7 +234,7 @@ at the connector.
 :::
 
 ::: {.exercise title="What tells you that?"}
-These three sentences use the same seven words. Only the small word changes.
+These three sentences use the same eight words. Only the small word changes.
 
 - **ὁ ἄνθρωπος οὐ λέγει· ὁ γὰρ παῖς λέγει.**
 - **ὁ ἄνθρωπος οὐ λέγει· ὁ δὲ παῖς λέγει.**
@@ -307,8 +307,8 @@ why he will not accept exile and silence in place of death.
 *But the unexamined life is not worth living for a human being.*
 
 **There is no verb.** Not one. Greek does not need **ἐστίν** here, exactly as
-it did not need it in Lesson 2: the article tells you which word is the
-subject, and the rest follows. Nine words, no verb, and the most quoted
+it did not need it in Lesson 3: the article tells you which word is the
+subject, and the rest follows. Seven words, no verb, and the most quoted
 sentence in Greek philosophy.
 
 **Now the second word.**

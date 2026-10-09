@@ -80,7 +80,7 @@ you to notice first.
 | **βλέπει ὁ ἄνθρωπος τὸν φίλον** | He *does* see him — the man sees the friend. |
 
 English has to reach for extra words — *it is*, *does* — to do what Greek
-does by moving one word to the front. This is not a quirk. It is most of
+does by moving two words to the front (**τὸν φίλον**), or one (**βλέπει**). This is not a quirk. It is most of
 what makes Greek prose worth reading in Greek.
 
 ::: latinbridge
@@ -157,7 +157,7 @@ the endings and the freedom that comes with them.
 
 ::: note
 **ὁ μάρτυς** is given here as a subject only. Its accusative belongs to a
-family of endings you meet in Part III, and there is no sense in learning
+family of endings you meet in Lesson 15, and there is no sense in learning
 it twice. Until then, let the witness do the seeing and the speaking.
 
 **ἡ ἀλήθεια** is worth a second look. It is built from **ἀ-** (*not*) and a
@@ -301,9 +301,9 @@ being a decision to make. Expect the first attempts to be slow.
 :::
 
 ::: {.voice time="10 min" source="John 18:38"}
-Here is a sentence somebody else wrote. It is four words long, it was
+Here is a sentence somebody else wrote. It is three words long, it was
 written down about three hundred years before Theodoros taught this lesson,
-and you can already account for one of the four.
+and you can already account for one of the three.
 
 The setting is a courtroom — a real one, with a Roman governor presiding.
 The man standing trial has just said that he came into the world to bear
@@ -318,8 +318,9 @@ witness to the truth. The governor answers him:
 
 *What is truth?*
 
-Three words of it are new. **ἀλήθεια** is yours — you learned it this
-afternoon, nominative, the subject of the sentence.
+Two words of it are new. The third, **ἀλήθεια**, is yours — you learned it
+this afternoon, nominative, and here with no article: *what is truth?*,
+not *what is the truth?*
 
 ::: note
 **This is not Attic.** It is **Koine** — the ordinary Greek of the eastern
@@ -331,7 +332,7 @@ at. A course about checking claims cannot be vague about its own sources.
 :::
 
 Notice what the governor does *not* do. He does not answer the man, and he
-does not wait for the man to answer him. Two words of Greek, and the trial
+does not wait for the man to answer him. Three words of Greek, and the trial
 moves on.
 
 Sabina's court spent an afternoon deciding who had done what, and could do

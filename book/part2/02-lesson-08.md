@@ -22,7 +22,7 @@ so."
 "It does not say *the teacher*," said Julia.
 
 "It says **ΔΙΔΑΣΚΑΛΟΥ**. That is the teacher. I know that word, I have known
-it since the second week —"
+it since the third lesson —"
 
 "You know the word. You do not know the ending." Julia took the tablet.
 "**ὁ διδάσκαλος** is *the teacher*. This is **τοῦ διδασκάλου**. It is a
@@ -125,7 +125,7 @@ teacher's book — and if you have met it, the idea transfers whole.
 
 The warning is about the prepositions. Latin *de*, *ex* and *ab* take the
 **ablative**, a case Greek does not have. Greek handed the ablative's work
-to the genitive and the dative and kept four cases where Latin has five.
+to the genitive and the dative, and has no ablative at all.
 So when a Greek preposition wants the genitive, do not look for an ablative
 ending. There is not one.
 :::
@@ -145,7 +145,7 @@ freely.
 
 **ἡ θυγάτηρ** and **τὸ ὄνομα** belong to the third declension and their
 genitives are not formed like anything above. Recognise them in the
-nominative for now; Part III gives you their endings. A course that teaches
+nominative for now; Lesson 15 gives you their endings. A course that teaches
 you a form you cannot yet use has wasted your afternoon.
 :::
 :::
@@ -249,7 +249,7 @@ line of the New Testament.
 
 - **βίβλος** — book, record *(nominative — the only one in the sentence)*
 - **γενέσεως** — of the origin, of the descent *(genitive; third
-  declension, which you meet in Part III)*
+  declension, which you meet in Lesson 15)*
 - **Ἰησοῦ Χριστοῦ** — of Jesus Christ *(genitive)*
 - **υἱοῦ** — of the son *(genitive — your word, from this lesson)*
 - **Δαυίδ** — David

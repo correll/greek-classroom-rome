@@ -49,13 +49,13 @@ because it sounds right; find the thing on the page that makes it right.*
 The second is that **you get what you ask for, not what you meant**. Saying
 precisely what you want — no looser, no vaguer — turns out to be a learnable
 skill and an uncommon one. Greek teaches it by punishing imprecision
-immediately. One letter is the difference between *to the soul* and *of the
-soul*. An accent in the wrong place turns *who?* into *someone*. There is no
+immediately. One letter is the difference between the man doing something and the
+man having it done to him. An accent in the wrong place turns *who?* into *someone*. There is no
 partial credit from a language; the sentence either says what you meant or
 it says something else, and it will tell you which.
 
 Your teacher in this story, Theodoros, asks one question more than any other:
-**What in the sentence tells you that?** It is the whole course in six words,
+**What in the sentence tells you that?** It is the whole course in seven words,
 and it is a question worth being able to ask of anything that is confidently
 telling you something — a classmate, a textbook, a politician, or a machine.
 
@@ -76,9 +76,9 @@ yours, and so is the responsibility.
 
 Difficult at first, and then differently difficult.
 
-The first six lessons are mostly the alphabet. This is the part that looks
-hardest and is actually easiest: twenty-four letters and some marks, and
-almost everyone has it within a fortnight. Do not be discouraged in week one
+The first two lessons are the alphabet. This is the part that looks hardest
+and is actually easiest: twenty-four letters and some marks, and almost
+everyone has it within a fortnight. Do not be discouraged in week one
 and do not be overconfident in week three.
 
 The middle of the course is where Greek asks something real of you. If you

@@ -60,14 +60,18 @@ for another two lessons.
 
 ## Endings carry the job
 
-Look at these two sentences. One word changes.
+Look at these two sentences. The man stays first, the horse stays last, and
+the verb stays in the middle.
 
 > **ὁ ἄνθρωπος βλέπει τὸν ἵππον.** — The man sees the horse.
 >
-> **ὁ ἵππος βλέπει τὸν ἄνθρωπον.** — The horse sees the man.
+> **τὸν ἄνθρωπον βλέπει ὁ ἵππος.** — The horse sees the man.
 
-Nothing moved. The words are in the same order. What changed is the
-*endings*, and the endings changed who is doing the seeing.
+Nothing moved. What changed is the *endings* — **-ος** became **-ον** on the
+man, **-ον** became **-ος** on the horse, and the little word in front of
+each changed with it — and the endings changed who is doing the seeing.
+English would have to swap the nouns round to say the second sentence.
+Greek did not have to touch them.
 
 - **-ος** with **ὁ** marks the **subject** — the one doing it. This is
   called the **nominative** case.
@@ -166,9 +170,10 @@ piece of evidence that told you.
 3. Ambiguous. Neuter, so nominative and accusative are identical. Only the
    rest of the sentence can decide.
 4. Nominative — **ὁ** and **-ος**.
-5. Accusative — **τήν** and **-ην**. (Note that **ὁδός** is feminine
-   despite the **-ος**; the article is the only thing that tells you, which
-   is exactly why you learn it with the noun.)
+5. Accusative — **τήν** and **-ον**. (Note that **ὁδός** is feminine
+   despite the **-ος**, and so takes **-ον** like **λόγον** and not **-ην**
+   like **ψυχήν**; the article is the only thing that tells you the gender,
+   which is exactly why you learn it with the noun.)
 6. Ambiguous, for the same reason as 3.
 
 The point of including 3 and 6 is that *"I can't tell yet"* is sometimes

@@ -274,7 +274,7 @@ Take your own answer to number 3 above — **γιγνώσκομεν τὸν λό
 :::
 
 ::: {.voice time="10 min" source="John 1:1c"}
-Six words. You have had all six since Part I.
+Five words. You have had all five since Part I.
 
 **καὶ θεὸς ἦν ὁ λόγος.**
 
@@ -300,7 +300,7 @@ about. Greek has a second device for exactly this situation, and it is the
 article.
 
 **ὁ λόγος** has it. **θεός** does not. The article marks the subject — this
-is Lesson 2, and it has been load-bearing ever since. So the sentence is
+is Lesson 3, and it has been load-bearing ever since. So the sentence is
 about **ὁ λόγος**, and **θεός** is what is being said about it.
 
 **Now Marcus.** His translation follows the Greek word order exactly, and
@@ -310,7 +310,7 @@ about God. The Greek says it is about the Word. Marcus has reproduced the
 order and reversed the grammar, and the reason he could do it without
 noticing is that English assigns roles by position and Greek does not.
 
-That is Lesson 4, five months later, with something at stake.
+That is Lesson 4, four months later, with something at stake.
 
 **Why is θεός in front, then?** Because Greek puts a word first for emphasis,
 and the article is doing the work of marking the subject, so the writer is
@@ -334,7 +334,7 @@ definite — so Felix cannot argue straight from *no article* to *a god*; that
 inference does not hold as a rule. But neither does the grammar by itself
 force *God* rather than *divine*. What is left is a question about what an
 anarthrous predicate noun in this position is doing, and that is a question
-about usage and about the rest of the book, not about these six words.
+about usage and about the rest of the book, not about these five words.
 
 **This is the honest end of the lesson.** The grammar eliminates one
 translation outright, shows a second to be describing a distinction its

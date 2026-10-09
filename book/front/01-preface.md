@@ -35,7 +35,7 @@ it.
 ## Why this matters more than it did
 
 The objection is not a new one, and you are in good company if you feel it.
-In the second scene of this book Marcus asks why he should learn another
+In the first lesson of this book Marcus asks why he should learn another
 alphabet when he already has a perfectly good one, and he asks it in Rome in
 AD 400 — by which time Greek had been the mark of an educated person for
 centuries, and was already having to be defended rather than assumed. He was
@@ -55,7 +55,7 @@ trains both.
 
 **Saying exactly what you mean.** Precision is a learnable skill and an
 uncommon one. Greek teaches it by refusing you partial credit: one letter
-separates a dative from a genitive, an accent separates *who?* from
+separates the one acting from the one acted upon, an accent separates *who?* from
 *someone*. You will discover quickly that the sentence says what you wrote
 rather than what you had in mind. This is annoying for about a term and
 useful for the rest of your life.
@@ -75,7 +75,7 @@ A grammar can be learned without a story. It is learned better with one.
 
 You remember what happened to someone. A table of endings memorised on its
 own is gone in a week; the same table attached to the afternoon somebody
-mislabelled the household cat will still be there in the summer. So the story
+labelled a classmate will still be there in the summer. So the story
 is not decoration laid over the grammar — it is the shape the grammar hangs
 on. Each lesson's trouble has been chosen to dramatise the exact distinction
 that lesson teaches. When the pupils argue about whose tablet is whose, they
@@ -145,8 +145,8 @@ it is.
 You meet Koine first, in Part I, and before you have met much Attic. That is
 deliberate. The three short sentences there are among the most famous in the
 language, they are made almost entirely of words you will already know, and
-reading real Greek in your sixth lesson is worth more than another fortnight
-of sentences written to be easy. They are labelled as Koine every time.
+reading a sentence of the New Testament in your fourth lesson is worth more
+than another fortnight of sentences written to be easy. They are labelled as Koine every time.
 
 This matters, for the same reason as everything above. If you meet **εἶπεν**
 in Luke and **εἶπε** in Plato and someone tells you they are "the same

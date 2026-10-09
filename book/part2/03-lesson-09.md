@@ -101,8 +101,10 @@ dative into something else. Write it.
 - **genitive** — whose it is, or where it came from
 - **dative** — the one it goes to
 
-Every noun in Greek is in one of these four, always, and tells you which.
-There is no fifth case to come. The rest of Part II is practice.
+Every noun inside a sentence is in one of these four, and tells you which.
+(The vocative, for calling to someone, stands outside the sentence; you had
+it in Lesson 4.) There is nothing more to come. The rest of Part II is
+practice.
 :::
 
 ## Two more things the dative does
@@ -148,7 +150,7 @@ the Greek is asking you.
 ::: note
 **δίδωμι** does not end in **-ω** like the verbs you know, and it does not
 conjugate like them. It belongs to a small, very old, very common family
-whose endings you meet in Part V. Learn **δίδωμι** and **δίδωσι** as two
+whose full set of endings this course does not teach. Learn **δίδωμι** and **δίδωσι** as two
 whole words for now and do not try to build the rest.
 
 **ἡ ἐπιστολή** goes like **ἡ ψυχή** throughout: **τῆς ἐπιστολῆς**, **τῇ

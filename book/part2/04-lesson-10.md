@@ -280,14 +280,15 @@ So the three words after **εἰμι** are a single thing being claimed:
 *the-good-shepherd*. That is what the speaker says he is. One small word
 holds it together.
 
-This is the third **ἐγώ εἰμι** you have met — the way and the truth and the
-life in Lesson 5, and now this. The pronoun is doing in all of them what it
+This is the third **ἐγώ εἰμι** you have met — Aelia's, then the way and the
+truth and the life in Lesson 5, and now this. The pronoun is doing in all of them what it
 did for Aelia: putting the weight on the speaker.
 
 ::: note
-Koine, and from John again. The course will move to Attic prose for most of
-Part III; these three sentences were chosen because you could read them in
-your first term, not because the New Testament is the centre of the course.
+Koine, and from John again. The course's own sentences are Attic throughout,
+and Part III brings Homer and Plato; these three gospel sentences were chosen
+because you could read them in your first term, not because the New
+Testament is the centre of the course.
 :::
 :::
 

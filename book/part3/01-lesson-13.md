@@ -167,7 +167,7 @@ noticed the ambiguity; a pupil who gives both has read the table.
 1. **τότε ἐλέγομεν τοὺς λόγους τῆς ἀληθείας.**
 2. **ὁ διδάσκαλος ἀεὶ ἐδίδασκε τοὺς υἱοὺς τῶν ἀνθρώπων.**
 3. **ἤκουον πάλιν τὴν ἐπιστολήν, ἀλλὰ οὐκ ἐμάνθανον.**
-4. **ἐν τῇ ἀρχῇ ἦν ὁ λόγος.**
+4. **ἐν ἀρχῇ ἦν ὁ λόγος.**
 :::
 
 ::: answers
@@ -249,7 +249,7 @@ been the argument. It will not be the last.
 ::: note
 Greek had another option here and did not take it. There is a tense for
 *came to be* — it is the one Marcus is about to meet — and the author of
-this line uses it twelve verses later, about the same subject, to say
+this line uses it thirteen verses later, about the same subject, to say
 something entirely different. Next week you will be able to read both and
 see the difference.
 :::

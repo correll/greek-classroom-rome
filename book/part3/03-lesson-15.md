@@ -19,8 +19,8 @@ the second will be unwelcome."
 
 "The first?"
 
-"These are the most important four hundred lines in the history of the
-language. Every Greek you will ever read had them by heart. When Plato
+"This is the most important poem in the history of the
+language. Every Greek you will ever read had it by heart. When Plato
 wants to settle an argument he quotes this. When a soldier scratches a line
 on a wall at the edge of the world, it is usually this."
 
@@ -95,6 +95,36 @@ see a difference without a standard to see it against.
 You now have the standard. That is what the last twelve lessons were for.
 :::
 
+## The third declension, at last
+
+Homer's nouns, and most of this lesson's, belong to the declension you have
+been told to wait for since Lesson 4. Here it is, on **ὁ ἀνήρ**, *man*.
+
+| | singular | plural |
+|:--|:--|:--|
+| **nominative** | **ὁ ἀνήρ** | **οἱ ἄνδρες** |
+| **accusative** | **τὸν ἄνδρα** | **τοὺς ἄνδρας** |
+| **genitive** | **τοῦ ἀνδρός** | **τῶν ἀνδρῶν** |
+| **dative** | **τῷ ἀνδρί** | **τοῖς ἀνδράσι(ν)** |
+
+The endings are the thing to learn, because they are the same for every
+masculine and feminine noun of this declension: **-ς** or nothing, **-α**,
+**-ος**, **-ι**; then **-ες**, **-ας**, **-ων**, **-σι(ν)**. Neuters, as
+always, have nominative and accusative alike, and **-α** in the plural
+(**τὸ ὄνομα**, **τὰ ὀνόματα**).
+
+What makes this declension awkward is not the endings but the **stem**:
+**ἀνήρ** hides it, **ἀνδρ-** shows it. The nominative is often the one form
+that looks nothing like the rest. That is why a dictionary gives you the
+genitive alongside — **ἀνήρ, ἀνδρός** — and why, from here on, this book
+does the same for every third-declension word it introduces. Learn the two
+forms together and the other six follow.
+
+You have already met several of these without their endings: **ὁ μάρτυς,
+μάρτυρος** (Lesson 4), **ἡ θυγάτηρ, θυγατρός** and **τὸ ὄνομα, ὀνόματος**
+(Lesson 8). The article in front of each has been telling you the case all
+along; now the noun can too.
+
 ## Formulas
 
 Homer is built out of repeated phrases — **πολύτροπος Ὀδυσσεύς**,
@@ -102,7 +132,7 @@ Homer is built out of repeated phrases — **πολύτροπος Ὀδυσσε�
 They are the technique of a poet composing in performance, with a fixed
 rhythm to fill, who needs a phrase of exactly the right shape to hand.
 
-When you meet the same four words about the same man for the twentieth
+When you meet the same two or three words about the same man for the twentieth
 time, you are seeing the machinery of oral poetry, not a shortage of
 imagination.
 

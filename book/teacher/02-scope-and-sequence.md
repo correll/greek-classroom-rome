@@ -21,7 +21,7 @@ period.
 | 1 | **The Story** | 5 min | A short scene in the classroom. Someone has lost a tablet, misread an instruction, challenged Marcus, or provoked Theodoros into a digression. |
 | 2 | **The New Greek** | 10 min | A small number of new words and **one** main grammatical idea, with pronunciation and examples. |
 | 3 | **The Investigation** | 15 min | Students decode, translate, compare, or compose. They must explain their reasoning, not merely produce an answer. |
-| 4 | **The Ancient Voice** | 10 min | A passage from a real author. At first this is a single word or phrase. By Lesson 30 it is several sentences. |
+| 4 | **The Ancient Voice** | 10 min | A passage from a real author. At first this is two words. By the end it is whole passages. |
 | 5 | **The Question** | 5 min | A short reflection. What does this mean? Why these words? Is the idea still live? What did the pupils get wrong, and why was it a reasonable mistake? |
 
 ## Part I · The Strange Language (1–6)
@@ -39,12 +39,12 @@ Greek is learnable.*
 | 6 | The First Real Sentence | Article, noun, and verb combined | The class decodes a short sentence and realises it can read Greek without knowing every word. |
 
 Authentic text begins at Lesson 4 rather than Lesson 6. The three passages
-of Part I are Koine, taken from the opening and the closing chapters of
+of Part I are Koine, taken from the opening and later chapters of
 John, and they are chosen because they are short, famous, and built almost
 entirely from words the pupils already hold: **τί ἐστιν ἀλήθεια;** (4),
 **ἐγώ εἰμι ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή** (5), and **ἐν ἀρχῇ ἦν ὁ λόγος**
 (6). Each is labelled as Koine where it appears. The pedagogical argument
-for meeting real Greek this early is that a pupil who can read eleven
+for meeting real Greek this early is that a pupil who can read seventeen
 authentic words in week six has evidence that the course works; a pupil who
 has only ever read composed sentences has the teacher's word for it.
 
@@ -63,11 +63,13 @@ and the present tense.*
 | 9 | The Dative and the Recipient | Dative; indirect object; dative of means | Felix writes a message for Theodoros but accidentally makes the recipient the subject. |
 | 10 | Adjectives Must Agree | Gender, number, case agreement; attributive vs. predicate position | Sabina insists on giving everyone increasingly ridiculous adjectives. |
 | 11 | One Verb, Several Clues | Present active conjugation; person and number | Theodoros removes the subjects from a set of sentences. The verb endings have to do the work. |
-| 12 | The First Reading Challenge | Consolidation | An adapted Aesopic fable, then the same fable's authentic opening. Teams explain every ending. |
+| 12 | The First Reading Challenge | Consolidation | An adapted sentence of Protagoras, then the authentic one. Teams explain every ending. |
 
-Aesop is the right first author: the narratives are short, the moral is
-discussable without a literary introduction, and the Greek can be adapted
-honestly because the fables already circulated in many versions.
+Protagoras's one surviving sentence is the right first classical text: it
+is short, its claim is discussable without a literary introduction, and
+adapting it honestly — and then showing the real thing — teaches the
+difference between composed and quoted Greek, which the course insists on
+throughout.
 
 ## Part III · The World of the Classics (13–18)
 
