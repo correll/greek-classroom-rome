@@ -72,6 +72,16 @@ def collect():
             front.append(("front-" + os.path.splitext(n)[0], heading_of(p), p))
     out.append(("Front matter", front))
 
+    teach = []
+    d = os.path.join(ROOT, "book", "teacher")
+    if os.path.isdir(d):
+        for n in sorted(os.listdir(d)):
+            if n.endswith(".md"):
+                p = os.path.join(d, n)
+                teach.append(("teacher-" + os.path.splitext(n)[0], heading_of(p), p))
+    if teach:
+        out.append(("For the teacher", teach))
+
     for i in range(1, 6):
         d = os.path.join(ROOT, "book", "part%d" % i)
         if not os.path.isdir(d):
@@ -149,7 +159,7 @@ PAGE = u"""<!doctype html>
   <a class="brand" href="index.html">{sitetitle}</a>
   <div class="tools">
     <a href="ebook.html" title="Read the typeset pages as a flip-book">Flip-book</a>
-    <button id="edition" type="button" title="Show or hide the answer keys">Show answers</button>
+    <button id="edition" type="button" title="Show or hide the answer keys and teaching notes">Teacher\u2019s edition</button>
     <button id="theme" type="button" title="Switch between light and dark">Theme</button>
   </div>
 </div></header>
@@ -186,7 +196,7 @@ PAGE = u"""<!doctype html>
   var eb = document.getElementById("edition");
   function label() {{
     if (eb) eb.textContent = body.classList.contains("student-edition")
-      ? "Show answers" : "Hide answers";
+      ? "Teacher\u2019s edition" : "Student edition";
   }}
   label();
   if (eb) eb.addEventListener("click", function () {{

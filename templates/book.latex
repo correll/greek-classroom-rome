@@ -165,6 +165,14 @@
   left=10pt, right=10pt, top=8pt, bottom=8pt,
   before skip=10pt, after skip=10pt, #1}
 
+\newtcolorbox{teacherbox}[1][]{
+  enhanced, breakable, colback=white, colframe=olive,
+  boxrule=0pt, arc=0pt, outer arc=0pt,
+  borderline west={2.5pt}{0pt}{olive},
+  left=10pt, right=10pt, top=8pt, bottom=8pt,
+  fontupper=\small,
+  before skip=10pt, after skip=10pt, #1}
+
 %% section markers used inside lessons
 \newcommand{\lessonrubric}[2]{%
   \needspace{3\baselineskip}%

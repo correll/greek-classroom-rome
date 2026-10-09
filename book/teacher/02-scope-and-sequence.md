@@ -1,5 +1,11 @@
 # Scope and Sequence {.unnumbered}
 
+::: note
+**Teacher's edition only.** The story column below names who carries each
+lesson and how it turns out. The student edition has the part-level overview
+instead, without the plots.
+:::
+
 Thirty lessons, in five parts of six. The course can run as one semester at
 two substantial lessons a week, or as a full year with time for practice,
 projects, and extra reading. A year is better.
@@ -130,12 +136,13 @@ teacher's edition.
 
 ## A note on the characters as models
 
-The eight pupils model different kinds of success, and the course uses them
-to make a point to the student reading it: Julia excels at forms, Sabina at
-narrative, Felix at vocabulary, Quintus at reflection, Livia at reasoning.
-None of them is good at all four at the start, and all of them improve at
+The eight pupils model different kinds of success: Julia excels at forms,
+Sabina at narrative, Felix at vocabulary, Quintus at reflection, Livia at
+reasoning. None is good at all four at the start, and each improves at
 something they began badly.
 
-Students should be told this explicitly. A child who decides in Lesson 4
-that they are "bad at Greek" has usually decided they are bad at one of
-four things.
+Make this point to the class **around Lesson 18**, once they have watched it
+happen — not at the start, where it would be a cast list in disguise. A child
+who decides in Lesson 4 that they are "bad at Greek" has usually decided they
+are bad at one of four things, and showing them the other three is the whole
+intervention.

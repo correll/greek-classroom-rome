@@ -12,14 +12,20 @@ FONTDIR  := $(abspath assets/fonts)/
 FROM     := markdown+fenced_divs+bracketed_spans+pipe_tables+smart+implicit_figures+raw_tex
 FILTER   := --lua-filter=scripts/filters/blocks.lua
 
-BOOK_SRC    := book/metadata.yaml \
-               $(sort $(wildcard book/front/*.md)) \
-               $(sort $(wildcard book/part1/*.md)) \
+# book/teacher/ holds whole chapters that belong only to the teacher's
+# edition - the character notes and staging. Short teacher-only passages
+# inside a lesson use a ::: teacheronly block instead.
+FRONT_SRC   := book/metadata.yaml $(sort $(wildcard book/front/*.md))
+TEACH_SRC   := $(sort $(wildcard book/teacher/*.md))
+BODY_SRC    := $(sort $(wildcard book/part1/*.md)) \
                $(sort $(wildcard book/part2/*.md)) \
                $(sort $(wildcard book/part3/*.md)) \
                $(sort $(wildcard book/part4/*.md)) \
                $(sort $(wildcard book/part5/*.md)) \
                $(sort $(wildcard book/back/*.md))
+
+BOOK_SRC    := $(FRONT_SRC) $(BODY_SRC)
+TEACHER_BOOK_SRC := $(FRONT_SRC) $(TEACH_SRC) $(BODY_SRC)
 
 GRAM_SRC    := grammar/metadata.yaml $(sort $(wildcard grammar/*.md))
 
@@ -76,8 +82,8 @@ $(BUILD)/greek-classroom.pdf: $(BOOK_SRC) templates/book.latex scripts/filters/b
 	$(call build_pdf,$(STUDENT_FLAGS),greek-classroom,$(BOOK_SRC))
 
 teacher: $(BUILD)/greek-classroom-teacher.pdf
-$(BUILD)/greek-classroom-teacher.pdf: $(BOOK_SRC) templates/book.latex scripts/filters/blocks.lua | $(BUILD)
-	$(call build_pdf,$(TEACHER_FLAGS),greek-classroom-teacher,$(BOOK_SRC))
+$(BUILD)/greek-classroom-teacher.pdf: $(TEACHER_BOOK_SRC) templates/book.latex scripts/filters/blocks.lua | $(BUILD)
+	$(call build_pdf,$(TEACHER_FLAGS),greek-classroom-teacher,$(TEACHER_BOOK_SRC))
 
 grammar: $(BUILD)/greek-grammar.pdf
 $(BUILD)/greek-grammar.pdf: $(GRAM_SRC) templates/book.latex scripts/filters/blocks.lua | $(BUILD)

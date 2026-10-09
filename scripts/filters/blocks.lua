@@ -12,6 +12,7 @@
     ::: vocab                            vocabulary to memorise
     ::: {.exercise title="..."}          a numbered exercise
     ::: answers                          answer key (teacher edition only)
+    ::: teacheronly                      teacher's notes (teacher edition only)
     ::: note                             an aside
     ::: paradigm                         a paradigm table
     ::: latinbridge                      "you already know this from Latin"
@@ -67,6 +68,25 @@ end
 function Div(el)
   local cls = el.classes[1]
   if not cls then return nil end
+
+  -- teacher-only material: character notes, staging, what to reveal when.
+  -- Dropped from the student edition exactly as the answer keys are.
+  if el.classes:includes("teacheronly") then
+    if edition ~= "teacher" then return {} end
+    local label = el.attributes["label"] or "For the teacher"
+    if FORMAT:match("latex") then
+      local out = { latex("\\begin{teacherbox}\\noindent{\\footnotesize\\scshape\\color{olive}"
+            .. esc(label) .. "}\\par\\vspace{3pt}") }
+      for _, b in ipairs(el.content) do out[#out+1] = b end
+      out[#out+1] = latex("\\end{teacherbox}")
+      return out
+    else
+      local out = { html('<section class="teacheronly"><h4 class="rubric">' .. label .. "</h4>") }
+      for _, b in ipairs(el.content) do out[#out+1] = b end
+      out[#out+1] = html("</section>")
+      return out
+    end
+  end
 
   -- answer key: dropped unless building the teacher edition
   if el.classes:includes("answers") then

@@ -18,7 +18,7 @@ One source tree produces four things:
 | | |
 |:--|:--|
 | `build/greek-classroom.pdf` | the textbook, student edition |
-| `build/greek-classroom-teacher.pdf` | the same book with answer keys inline |
+| `build/greek-classroom-teacher.pdf` | the same book plus answer keys, character notes, and the full scope and sequence |
 | `build/greek-grammar.pdf` | the companion reference grammar |
 | `site/` | a GitHub Pages site: the chapters as web pages, a flip-book reader, and the PDFs |
 
@@ -90,8 +90,10 @@ pip3 install fonttools brotli
 ```
 book/                 the textbook
   metadata.yaml       title, author, defaults
-  front/              preface, note to students, the school, pronunciation,
-                      scope and sequence
+  front/              preface, note to students, the setting, pronunciation,
+                      what the course covers
+  teacher/            teacher's edition only: character notes, full scope
+                      and sequence
   part1/ … part5/     00-part.md is the part divider; the rest are lessons
   back/               editions note, generated glossary, sources
 grammar/              the reference grammar, §1–§17
@@ -165,6 +167,7 @@ What exactly did you do when you read that?
 | `vocab` | words to learn — compact list |
 | `.exercise` | numbered automatically per lesson; `title=` is optional |
 | `answers` | **teacher's edition only**; hidden in the student PDF |
+| `teacheronly` | teaching notes, also teacher's edition only; takes `label=` |
 | `note` | an aside |
 | `latinbridge` | a *From Latin* box |
 | `.part` | a part divider; takes `name=` and `goal=` |
@@ -192,6 +195,27 @@ make pdf
 normalisation, breathing marks on initial vowels, final-sigma placement,
 and Latin letters hiding inside Greek words. Put `<!--nocheck-->` on a line
 that deliberately prints incorrect Greek as an example.
+
+## What the course is for
+
+The reason for teaching Greek here is not the literature, and not the story.
+It is that **Greek is an unusually efficient instrument for teaching formal
+reasoning about language.** English hides its grammar inside habits absorbed
+before literacy; Greek writes the grammar on the outside of every word, so a
+student can point at the evidence for a reading and defend it.
+
+That trains two things that have become unusually valuable: saying precisely
+what you mean, and checking a confident claim against evidence rather than
+against how plausible it sounds. The course's recurring question — *what in
+the sentence tells you that?* — is the whole transferable skill, and the rest
+exists to force it.
+
+The case is made to teachers in the preface and to students, in their own
+terms, in *To the Student*.
+
+**Characters are revealed through the lessons.** The student edition has no
+cast list and no plot summaries; the character notes live in the teacher's
+edition, where they are written as staging guidance rather than biography.
 
 ## Drafting status
 

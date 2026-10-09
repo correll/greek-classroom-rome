@@ -31,7 +31,7 @@ NOCHECK = "<!--nocheck-->"
 
 KNOWN_BLOCKS = set([
     "story", "newgreek", "investigation", "voice", "question",
-    "vocab", "exercise", "answers", "note", "grammar", "latinbridge",
+    "vocab", "exercise", "answers", "teacheronly", "note", "grammar", "latinbridge",
     "paradigm", "part",
 ])
 

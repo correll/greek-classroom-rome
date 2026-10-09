@@ -168,6 +168,15 @@ section.answers .rubric { color: var(--olive); border-bottom-color: var(--olive)
                           margin-top: 0; }
 body.student-edition section.answers { display: none; }
 
+section.teacheronly {
+  border: 1px solid var(--olive); border-left-width: 3px; border-radius: 4px;
+  padding: 0.85rem 1.1rem 0.1rem; margin: 0.9rem 0 1.5rem;
+  background: var(--bg-soft); font-size: 0.95rem;
+}
+section.teacheronly .rubric { color: var(--olive); border-bottom-color: var(--olive);
+                              margin-top: 0; }
+body.student-edition section.teacheronly { display: none; }
+
 section.partdivider { text-align: center; padding: 3rem 0 1rem; }
 section.partdivider h2 { font-size: 1.9rem; margin: 0; }
 section.partdivider .goal { font-style: italic; color: var(--grey);
