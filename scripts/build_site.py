@@ -29,7 +29,7 @@ FILTER = os.path.join(ROOT, "scripts", "filters", "blocks.lua")
 
 TITLE = "The Greek Classroom of Rome, AD 400"
 SUBTITLE = "A Classical Greek course for grades 7-9"
-REPO = os.environ.get("REPO_URL", "")
+REPO = os.environ.get("REPO_URL", "https://github.com/correll/greek-classroom-rome")
 
 
 VOLUMES = [
@@ -161,6 +161,9 @@ PAGE = u"""<!doctype html>
 </main>
 </div>
 <footer class="site"><div class="inner">
+  <p class="repo-line"><a href="{repo}">Source on GitHub</a> ·
+     <a href="{repo}/issues">Report a mistake</a> ·
+     <a href="{repo}/blob/main/README.md">Build it yourself</a></p>
   <p>{sitetitle} · {subtitle}. Text licensed CC BY-NC-SA 4.0;
      build system licensed MIT. Greek set in Gentium Book Plus (SIL OFL).</p>
 </div></footer>
@@ -235,7 +238,8 @@ EBOOK_PAGE = u"""<!doctype html>
   <p class="r-links">
     <a href="index.html">The scrolling edition</a><br>
     <a href="front-05-scope-and-sequence.html">Scope and sequence</a><br>
-    <a href="part1-01-lesson-01.html">Lesson 1 as text</a>
+    <a href="part1-01-lesson-01.html">Lesson 1 as text</a><br>
+    <a href="{repo}">Source on GitHub</a>
   </p>
 </nav>
 <div class="r-scrim" id="scrim"></div>
@@ -290,6 +294,8 @@ def landing(groups):
   <h1>{t}</h1>
   <p class="sub">{s}</p>
   <p class="greek">ΤΟ ΔΙΔΑΣΚΑΛΕΙΟΝ</p>
+  <p class="repo"><a href="{repo}">{repo_short}</a> &mdash; the course and its
+     sources, free to read, copy and adapt.</p>
 </div>
 
 <p>Rome, autumn of AD 400. Eight Latin-speaking children in a household
@@ -345,7 +351,8 @@ comedy; the texts themselves provide the substance.</p>
 them all, inline after each exercise. Both are generated from the same
 source files, so they cannot drift apart. On this site you can toggle the
 answer keys with the button in the top right.</p>
-""".format(t=TITLE, s=SUBTITLE, p=pdf_html,
+""".format(t=TITLE, s=SUBTITLE, p=pdf_html, repo=REPO,
+           repo_short=REPO.replace("https://", ""),
            l="\n".join('<li><a href="%s.html">%s</a></li>' % (s, t)
                        for s, t, _ in lessons))
     return body
@@ -404,21 +411,21 @@ def main():
     io.open(os.path.join(SITE, "index.html"), "w", encoding="utf-8").write(
         PAGE.format(title="Home", sitetitle=TITLE, subtitle=SUBTITLE,
                     bodyclass="student-edition", nav=nav_html(groups),
-                    body=landing(groups), pager=""))
+                    body=landing(groups), pager="", repo=REPO))
 
     for i, (slug, title, src) in enumerate(flat):
         io.open(os.path.join(SITE, slug + ".html"), "w", encoding="utf-8").write(
             PAGE.format(title=title, sitetitle=TITLE, subtitle=SUBTITLE,
                         bodyclass="student-edition",
                         nav=nav_html(groups, slug),
-                        body=convert(src), pager=pager(flat, i)))
+                        body=convert(src), pager=pager(flat, i), repo=REPO))
 
     # the flip-book reader, over whichever volumes were actually built
     vols = [{"id": i, "file": f, "title": t, "subtitle": sub}
             for i, f, t, sub in VOLUMES
             if os.path.exists(os.path.join(SITE, f))]
     io.open(os.path.join(SITE, "ebook.html"), "w", encoding="utf-8").write(
-        EBOOK_PAGE.format(sitetitle=TITLE,
+        EBOOK_PAGE.format(sitetitle=TITLE, repo=REPO,
                           books=json.dumps(vols, ensure_ascii=False)))
     print("  flip-book: %d volume(s)" % len(vols))
 

@@ -221,6 +221,16 @@ footer.site { border-top: 1px solid var(--rule); margin-top: 3rem;
   padding: 1.5rem 16px 3rem; font-size: 0.82rem; color: var(--grey); }
 footer.site .inner { max-width: 72rem; margin: 0 auto; }
 
+/* ---- repository links ---- */
+footer.site .repo-line { margin-bottom: 0.35rem; }
+footer.site .repo-line a { color: var(--terra); text-decoration: none; }
+footer.site .repo-line a:hover { text-decoration: underline; }
+.hero .repo { font-size: 0.92rem; color: var(--grey); margin-top: 0.9rem; }
+.hero .repo a { font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.88em; color: var(--terra); text-decoration: none;
+                border-bottom: 1px solid var(--rule); }
+.hero .repo a:hover { border-bottom-color: var(--terra); }
+
 /* ---- landing page ---- */
 .hero { padding: 3rem 0 1.5rem; }
 .hero h1 { font-size: 2.6rem; }

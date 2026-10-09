@@ -2,6 +2,10 @@
 
 A Classical Greek course for grades 7–9, built as a continuing story.
 
+**[Read it online](https://correll.github.io/greek-classroom-rome/)** ·
+[as a flip-book](https://correll.github.io/greek-classroom-rome/ebook.html) ·
+[source](https://github.com/correll/greek-classroom-rome)
+
 Rome, autumn of AD 400. Eight Latin-speaking children in a household school
 on the Caelian Hill are made to study Greek by a grammarian from Antioch.
 They find the language old-fashioned, the declensions infuriating, and
@@ -224,8 +228,12 @@ editions cannot drift apart.
 ## Deploying
 
 Push to `main`. The workflow in `.github/workflows/build.yml` validates the
-source, builds all three PDFs and the site, and deploys to GitHub Pages.
-Enable Pages once under **Settings → Pages → Source → GitHub Actions**.
+source, builds all three PDFs and the site, and deploys to GitHub Pages at
+<https://correll.github.io/greek-classroom-rome/>.
+
+Pages needs enabling once, under **Settings → Pages → Source → GitHub
+Actions**. Until that is done the workflow still runs and still attaches the
+PDFs to each run; only the deploy step is skipped.
 
 The PDFs are also attached to every run as a build artefact, so a pull
 request can be reviewed as a PDF without building it locally.
