@@ -31,7 +31,7 @@ Greek is learnable.*
 
 | | Lesson | Language | Story and text |
 |:--|:--|:--|:--|
-| 1 | The Unwelcome Tablet | Alphabet; letter names vs. sounds; writing direction | Marcus declares that Greek letters are Latin letters that have gone wrong. Theodoros writes **ΑΘΗΝΑ** and asks what they already recognise. |
+| 1 | The Unwelcome Tablet | Alphabet; letter names vs. sounds; writing direction | Marcus objects that they already know letters, without looking at the page. Felix suggests Greek letters are Latin ones that went wrong on a long journey. Theodoros writes **ΑΘΗΝΑ** and asks what they already recognise. |
 | 2 | The Case of the Missing Letters | Alphabet review; diphthongs; breathing marks | Felix claims two letters have escaped from his tablet. The class reconstructs words from clues. |
 | 3 | Names and Nouns | Grammatical gender; nominative and accusative; the article | The pupils label objects around the room. Word endings turn out to carry information. |
 | 4 | Who Did What? | Subject and object; flexible word order | Sabina stages a courtroom in which the class must determine who performed an action. |

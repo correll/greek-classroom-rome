@@ -330,8 +330,9 @@ comedy; the texts themselves provide the substance.</p>
   </div>
   <div class="card">
     <h3>Lesson 1</h3>
-    <p>Marcus declares that Greek letters are Latin letters that have gone
-       wrong. Theodoros writes ΑΘΗΝΑ on the board.</p>
+    <p>Marcus objects that they already know letters, without looking at the
+       page. Theodoros writes ΑΘΗΝΑ on the board and asks what they
+       already recognise.</p>
     <p><a href="part1-01-lesson-01.html">The Unwelcome Tablet &rarr;</a></p>
   </div>
   <div class="card">

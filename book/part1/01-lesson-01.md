@@ -12,11 +12,16 @@ tricked a king, and Quintus was explaining to nobody in particular that
 tardiness was a moral question rather than a practical one. Livia was
 watching the door.
 
-Theodoros came in carrying a manuscript.
+Theodoros came in carrying a manuscript. He set it down open on the table,
+where all of them could see it.
 
-"Today," he said, "we begin Greek."
+The page was covered in small, even writing. Not one of them could read a
+word of it.
 
-Marcus looked at the manuscript. "But we already know letters."
+"Today," he said, "we begin Greek. Which means we begin where every
+language begins. With the letters."
+
+Marcus did not look at the page. "But we already know letters."
 
 "Excellent," said Theodoros. "Then you should have no difficulty learning
 new ones."
