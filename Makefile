@@ -10,7 +10,8 @@ SITE     := site
 FONTDIR  := $(abspath assets/fonts)/
 
 FROM     := markdown+fenced_divs+bracketed_spans+pipe_tables+smart+implicit_figures+raw_tex
-FILTER   := --lua-filter=scripts/filters/blocks.lua
+FILTER   := --lua-filter=scripts/filters/blocks.lua \
+            --lua-filter=scripts/filters/studentpages.lua
 
 # book/teacher/ holds whole chapters that belong only to the teacher's
 # edition - the character notes and staging. Short teacher-only passages
@@ -28,6 +29,11 @@ BOOK_SRC    := $(FRONT_SRC) $(BODY_SRC)
 TEACHER_BOOK_SRC := $(FRONT_SRC) $(TEACH_SRC) $(BODY_SRC)
 
 GRAM_SRC    := grammar/metadata.yaml $(sort $(wildcard grammar/*.md))
+
+# The teacher's edition cites the student edition's page numbers, which only
+# exist once the student edition has been typeset. The map is harvested from
+# its .aux file, so the teacher PDF depends on it and make orders the two.
+STUDENT_PAGES := $(BUILD)/student-pages.lua
 
 # PDFs are built in two stages - pandoc to .tex, then XeLaTeX - rather than
 # letting pandoc drive the engine in a temporary directory. It costs nothing
@@ -78,15 +84,18 @@ $(BUILD):
 	@mkdir -p $(BUILD)
 
 pdf: $(BUILD)/greek-classroom.pdf
-$(BUILD)/greek-classroom.pdf: $(BOOK_SRC) templates/book.latex scripts/filters/blocks.lua | $(BUILD)
+$(BUILD)/greek-classroom.pdf: $(BOOK_SRC) templates/book.latex scripts/filters/blocks.lua scripts/filters/studentpages.lua | $(BUILD)
 	$(call build_pdf,$(STUDENT_FLAGS),greek-classroom,$(BOOK_SRC))
 
+$(STUDENT_PAGES): $(BUILD)/greek-classroom.pdf scripts/student_pages.py | $(BUILD)
+	python3 scripts/student_pages.py $(TEXDIR)/greek-classroom.aux $@
+
 teacher: $(BUILD)/greek-classroom-teacher.pdf
-$(BUILD)/greek-classroom-teacher.pdf: $(TEACHER_BOOK_SRC) templates/book.latex scripts/filters/blocks.lua | $(BUILD)
+$(BUILD)/greek-classroom-teacher.pdf: $(TEACHER_BOOK_SRC) templates/book.latex scripts/filters/blocks.lua scripts/filters/studentpages.lua $(STUDENT_PAGES) | $(BUILD)
 	$(call build_pdf,$(TEACHER_FLAGS),greek-classroom-teacher,$(TEACHER_BOOK_SRC))
 
 grammar: $(BUILD)/greek-grammar.pdf
-$(BUILD)/greek-grammar.pdf: $(GRAM_SRC) templates/book.latex scripts/filters/blocks.lua | $(BUILD)
+$(BUILD)/greek-grammar.pdf: $(GRAM_SRC) templates/book.latex scripts/filters/blocks.lua scripts/filters/studentpages.lua | $(BUILD)
 	$(call build_pdf,$(GRAMMAR_FLAGS),greek-grammar,$(GRAM_SRC))
 
 site: pdf teacher grammar

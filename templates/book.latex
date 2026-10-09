@@ -201,6 +201,12 @@
 \newcommand{\gap}{\hspace{0.08em}\raisebox{-0.15ex}{\color{terra}%
   \fbox{\rule{0pt}{1.25ex}\rule{0.95em}{0pt}}}\hspace{0.08em}}
 
+%% where this material sits in the student edition (teacher edition only)
+\newcommand{\studentpage}[1]{%
+  \par\nobreak\vspace{-2pt}%
+  {\footnotesize\itshape\color{olive}\raggedleft Student edition, p.~#1\par}%
+  \nobreak\vspace{4pt}}
+
 %% cross-reference to the grammar volume
 \newcommand{\gref}[1]{{\small\color{olive}[\,Grammar §#1\,]}}
 

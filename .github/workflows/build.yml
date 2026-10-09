@@ -79,9 +79,10 @@ jobs:
       - name: Check the glossary is up to date
         run: |
           make glossary
-          if ! git diff --quiet -- book/back/02-vocabulary.md; then
-            echo "::error::book/back/02-vocabulary.md is stale. Run 'make glossary' and commit the result."
-            git --no-pager diff -- book/back/02-vocabulary.md
+          generated="book/back/02-vocabulary.md book/back/03-english-greek.md"
+          if ! git diff --quiet -- $generated; then
+            echo "::error::A generated vocabulary list is stale. Run 'make glossary' and commit the result."
+            git --no-pager diff -- $generated
             exit 1
           fi
 
