@@ -1,0 +1,94 @@
+name: Build and deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pandoc and XeLaTeX
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends \
+            pandoc \
+            texlive-xetex \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            texlive-fonts-recommended \
+            lmodern \
+            fonts-lmodern \
+            poppler-utils
+          pandoc --version | head -1
+          xelatex --version | head -1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: pip install fonttools brotli
+
+      - name: Validate Greek and block syntax
+        run: make check
+
+      - name: Check the glossary is up to date
+        run: |
+          make glossary
+          if ! git diff --quiet -- book/back/02-vocabulary.md; then
+            echo "::error::book/back/02-vocabulary.md is stale. Run 'make glossary' and commit the result."
+            git --no-pager diff -- book/back/02-vocabulary.md
+            exit 1
+          fi
+
+      - name: Build the PDFs
+        run: make pdf teacher grammar
+
+      - name: Build the site
+        run: make site
+
+      - name: Report page counts
+        run: |
+          for f in build/*.pdf; do
+            printf '%-40s %s\n' "$f" "$(pdfinfo "$f" | awk '/^Pages/{print $2" pages"}')"
+          done
+
+      - name: Upload the PDFs as artefacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: pdfs
+          path: build/*.pdf
+          if-no-files-found: error
+
+      - name: Upload the site
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

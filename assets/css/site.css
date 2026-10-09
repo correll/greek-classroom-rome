@@ -1,0 +1,250 @@
+/* ------------------------------------------------------------------
+   The Greek Classroom of Rome, AD 400
+   Site styles. Mirrors the print design: same palette, same hierarchy.
+   ------------------------------------------------------------------ */
+
+@font-face {
+  font-family: "Gentium Book Plus";
+  src: url("fonts/GentiumBookPlus-Regular.woff2") format("woff2"),
+       url("fonts/GentiumBookPlus-Regular.ttf") format("truetype");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Gentium Book Plus";
+  src: url("fonts/GentiumBookPlus-Bold.woff2") format("woff2"),
+       url("fonts/GentiumBookPlus-Bold.ttf") format("truetype");
+  font-weight: 700; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Gentium Book Plus";
+  src: url("fonts/GentiumBookPlus-Italic.woff2") format("woff2"),
+       url("fonts/GentiumBookPlus-Italic.ttf") format("truetype");
+  font-weight: 400; font-style: italic; font-display: swap;
+}
+
+:root {
+  --ink:        #1F3A5F;
+  --terra:      #9C3D2E;
+  --olive:      #6B7A4F;
+  --parch:      #FAF6EF;
+  --parchdeep:  #F2EADC;
+  --rule:       #C8BBA6;
+  --grey:       #4A4A4A;
+  --body:       #262523;
+  --bg:         #FFFDF9;
+  --bg-soft:    #FFFFFF;
+  --max:        44rem;
+  --serif: "Gentium Book Plus", "Gentium Plus", "Palatino Linotype",
+           Palatino, "Book Antiqua", Georgia, serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ink:       #A8C4E8;
+    --terra:     #E3907C;
+    --olive:     #A8B883;
+    --parch:     #22262B;
+    --parchdeep: #1C2025;
+    --rule:      #3C434B;
+    --grey:      #A8A8A8;
+    --body:      #E4E1DC;
+    --bg:        #15181C;
+    --bg-soft:   #1A1E23;
+  }
+}
+:root[data-theme="dark"] {
+  --ink: #A8C4E8; --terra: #E3907C; --olive: #A8B883;
+  --parch: #22262B; --parchdeep: #1C2025; --rule: #3C434B;
+  --grey: #A8A8A8; --body: #E4E1DC; --bg: #15181C; --bg-soft: #1A1E23;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--body);
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  line-height: 1.62;
+  text-rendering: optimizeLegibility;
+}
+
+.wrap { display: flex; gap: 2.5rem; max-width: 72rem; margin: 0 auto;
+        padding: 0 16px; align-items: flex-start; }
+
+/* ---- navigation ---- */
+nav.toc {
+  flex: 0 0 15rem; position: sticky; top: 0; align-self: flex-start;
+  max-height: 100vh; overflow-y: auto;
+  padding: 1.75rem 0 2rem; font-size: 0.875rem; line-height: 1.45;
+}
+nav.toc h2 { font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase;
+             color: var(--terra); margin: 1.5rem 0 0.4rem; font-weight: 700; }
+nav.toc h2:first-child { margin-top: 0; }
+nav.toc ol { list-style: none; margin: 0; padding: 0; }
+nav.toc li { margin: 0.1rem 0; }
+nav.toc a { display: block; padding: 0.18rem 0.5rem 0.18rem 0;
+            color: var(--body); text-decoration: none; border-radius: 3px; }
+nav.toc a:hover { color: var(--terra); }
+nav.toc a.current { color: var(--terra); font-weight: 700; }
+nav.toc .num { color: var(--grey); font-variant-numeric: tabular-nums;
+               display: inline-block; min-width: 1.5rem; }
+
+main { flex: 1 1 auto; min-width: 0; max-width: var(--max);
+       padding: 2.5rem 0 5rem; }
+
+/* ---- headings ---- */
+h1, h2, h3, h4 { font-weight: 700; line-height: 1.22; color: var(--ink); }
+h1 { font-size: 2rem; margin: 0 0 1.75rem; letter-spacing: -0.01em; }
+h1::after { content: ""; display: block; width: 100%; height: 1px;
+            background: var(--rule); margin-top: 0.85rem; }
+h2 { font-size: 1.3rem; margin: 2.25rem 0 0.6rem; }
+h3 { font-size: 1.1rem; margin: 1.75rem 0 0.4rem; color: var(--terra); }
+h4 { font-size: 1rem; margin: 1.25rem 0 0.3rem; }
+
+p { margin: 0 0 0.95rem; }
+a { color: var(--terra); text-underline-offset: 2px; }
+
+/* ---- the lesson blocks ---- */
+.rubric {
+  display: flex; justify-content: space-between; align-items: baseline;
+  gap: 1rem;
+  font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase;
+  font-weight: 700; color: var(--terra);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.3rem; margin: 2.25rem 0 0.9rem;
+}
+.rubric-meta { color: var(--grey); font-weight: 400; letter-spacing: 0.06em;
+               text-align: right; flex: 0 1 auto; }
+
+section.story > p:first-of-type,
+section.story { font-style: italic; }
+section.story {
+  background: var(--parch); border-left: 3px solid var(--terra);
+  padding: 0.9rem 1.1rem 0.1rem; margin: 0 0 1.25rem; border-radius: 0 3px 3px 0;
+}
+section.story .rubric { font-style: normal; margin-top: 0; }
+
+section.newgreek {
+  background: var(--parchdeep); padding: 1rem 1.1rem 0.3rem;
+  margin: 0 0 1.25rem; border-radius: 3px;
+}
+section.newgreek .rubric { margin-top: 0; }
+
+section.voice {
+  border-left: 3px solid var(--ink); padding: 0.6rem 0 0.1rem 1.1rem;
+  margin: 0 0 1.25rem; font-size: 1.1rem; line-height: 1.75;
+}
+section.voice .rubric { font-size: 0.72rem; line-height: 1.4; }
+
+section.question {
+  border-left: 3px solid var(--olive); padding: 0.6rem 0 0.1rem 1.1rem;
+  margin: 0 0 1.25rem;
+}
+
+section.vocab, section.note, section.latinbridge, section.grammar {
+  margin: 0 0 1.25rem;
+}
+section.note, section.latinbridge {
+  border: 1px solid var(--rule); border-radius: 4px;
+  padding: 0.85rem 1.1rem 0.1rem; font-size: 0.95rem;
+  background: var(--bg-soft);
+}
+section.vocab ul { list-style: none; padding-left: 0; margin: 0.4rem 0 1rem; }
+section.vocab li { margin: 0.25rem 0; }
+
+section.exercise { margin: 1.25rem 0; }
+section.exercise .rubric { color: var(--ink); }
+
+section.answers {
+  border: 1px solid var(--olive); border-radius: 4px;
+  padding: 0.85rem 1.1rem 0.1rem; margin: 0.9rem 0 1.5rem;
+  background: var(--bg-soft);
+}
+section.answers .rubric { color: var(--olive); border-bottom-color: var(--olive);
+                          margin-top: 0; }
+body.student-edition section.answers { display: none; }
+
+section.partdivider { text-align: center; padding: 3rem 0 1rem; }
+section.partdivider h2 { font-size: 1.9rem; margin: 0; }
+section.partdivider .goal { font-style: italic; color: var(--grey);
+                            max-width: 32rem; margin: 0.9rem auto 0; }
+
+.gap { display: inline-block; width: 1.5em; height: 1em;
+       border: 1px solid var(--terra); border-radius: 2px;
+       vertical-align: -0.12em; margin: 0 0.1em; }
+
+.gref { color: var(--olive); font-size: 0.9em; }
+
+/* ---- tables ---- */
+table { border-collapse: collapse; width: 100%; margin: 1rem 0 1.4rem;
+        font-size: 0.95rem; }
+th, td { text-align: left; padding: 0.38rem 0.7rem 0.38rem 0; vertical-align: top; }
+thead th { border-bottom: 1.5px solid var(--rule); color: var(--ink);
+           font-size: 0.78rem; letter-spacing: 0.05em; text-transform: uppercase; }
+tbody tr:nth-child(even) { background: color-mix(in srgb, var(--parch) 60%, transparent); }
+tbody tr + tr td { border-top: 1px solid color-mix(in srgb, var(--rule) 45%, transparent); }
+
+blockquote { margin: 1rem 0; padding-left: 1rem;
+             border-left: 2px solid var(--rule); color: var(--grey); }
+
+hr { border: 0; border-top: 1px solid var(--rule); margin: 2.5rem 0; }
+
+/* ---- page chrome ---- */
+header.site {
+  border-bottom: 1px solid var(--rule); background: var(--bg);
+  position: sticky; top: 0; z-index: 10;
+}
+header.site .inner { max-width: 72rem; margin: 0 auto; padding: 0.7rem 16px;
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+header.site a.brand { color: var(--ink); font-weight: 700; text-decoration: none;
+                      font-size: 0.95rem; }
+header.site .tools { display: flex; gap: 0.75rem; align-items: center;
+                     font-size: 0.82rem; }
+header.site .tools a, header.site .tools button {
+  color: var(--grey); text-decoration: none; background: none;
+  border: 1px solid var(--rule); border-radius: 4px; padding: 0.2rem 0.55rem;
+  font: inherit; font-size: 0.78rem; cursor: pointer;
+}
+header.site .tools a:hover, header.site .tools button:hover { color: var(--terra); }
+
+.pager { display: flex; justify-content: space-between; gap: 1rem;
+         margin-top: 3.5rem; padding-top: 1rem; border-top: 1px solid var(--rule);
+         font-size: 0.9rem; }
+.pager a { text-decoration: none; }
+.pager .spacer { flex: 1; }
+
+footer.site { border-top: 1px solid var(--rule); margin-top: 3rem;
+  padding: 1.5rem 16px 3rem; font-size: 0.82rem; color: var(--grey); }
+footer.site .inner { max-width: 72rem; margin: 0 auto; }
+
+/* ---- landing page ---- */
+.hero { padding: 3rem 0 1.5rem; }
+.hero h1 { font-size: 2.6rem; }
+.hero h1::after { display: none; }
+.hero .sub { font-size: 1.15rem; color: var(--grey); font-style: italic;
+             margin-top: -0.9rem; }
+.hero .greek { font-size: 2rem; color: var(--terra); letter-spacing: 0.12em;
+               margin: 1.5rem 0 0; }
+.cards { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+         margin: 2rem 0; }
+.card { border: 1px solid var(--rule); border-radius: 6px; padding: 1rem 1.1rem;
+        background: var(--bg-soft); }
+.card h3 { margin-top: 0; }
+.card p { font-size: 0.92rem; margin-bottom: 0.4rem; }
+
+/* ---- small screens ---- */
+@media (max-width: 56rem) {
+  .wrap { display: block; padding: 0 16px; }
+  nav.toc { position: static; max-height: none; flex: none; width: 100%;
+            border-bottom: 1px solid var(--rule); padding-bottom: 1.25rem; }
+  main { max-width: none; padding-top: 1.75rem; }
+  h1 { font-size: 1.65rem; }
+  .hero h1 { font-size: 2rem; }
+  .rubric { flex-direction: column; gap: 0.15rem; }
+  .rubric-meta { text-align: left; }
+  table { display: block; overflow-x: auto; }
+}

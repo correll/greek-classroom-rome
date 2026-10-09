@@ -1,0 +1,274 @@
+%% ---------------------------------------------------------------
+%%  The Greek Classroom of Rome, AD 400
+%%  XeLaTeX / Pandoc template
+%%  Build with: make pdf   (see Makefile)
+%% ---------------------------------------------------------------
+\documentclass[11pt,twoside,openright]{book}
+
+%% ---- page geometry: 7in x 10in trade textbook ------------------
+\usepackage[
+  paperwidth=7in, paperheight=10in,
+  top=0.95in, bottom=1.0in,
+  inner=0.95in, outer=0.75in,
+  headsep=16pt, footskip=30pt,
+  marginparwidth=0pt, marginparsep=0pt
+]{geometry}
+
+%% ---- fonts ------------------------------------------------------
+\usepackage{fontspec}
+\usepackage{xunicode}
+\defaultfontfeatures{Ligatures=TeX}
+
+\setmainfont{GentiumBookPlus}[
+  Path            = $fontdir$,
+  Extension       = .ttf,
+  UprightFont     = *-Regular,
+  BoldFont        = *-Bold,
+  ItalicFont      = *-Italic,
+  BoldItalicFont  = *-BoldItalic,
+  Numbers         = OldStyle
+]
+% Latin Modern ships with every TeX Live install, so the build does not
+% depend on any font beyond the two vendored in assets/fonts/.
+\setsansfont{Latin Modern Sans}[Scale=0.92]
+\setmonofont{Latin Modern Mono}[Scale=0.88]
+
+%% Greek display face (title pages, lesson numerals, epigraphs)
+\newfontfamily\greekdisplay{GFSDidot-Regular}[
+  Path = $fontdir$, Extension = .ttf]
+
+%% Greek in running text uses the main font (full polytonic coverage),
+%% so authors may simply type Greek anywhere. \gk{} adds slight
+%% letterspacing so Greek reads clearly beside Latin type.
+\usepackage{microtype}
+\newcommand{\gk}[1]{{\addfontfeature{LetterSpace=1.5}#1}}
+\newcommand{\gkd}[1]{{\greekdisplay #1}}
+
+%% ---- colours ----------------------------------------------------
+\usepackage[table,dvipsnames]{xcolor}
+\definecolor{inkblue}{HTML}{1F3A5F}   % Greek, headings
+\definecolor{terra}{HTML}{9C3D2E}     % accents, lesson numbers
+\definecolor{olive}{HTML}{6B7A4F}     % secondary
+\definecolor{parch}{HTML}{FAF6EF}     % box fill
+\definecolor{parchdeep}{HTML}{F2EADC} % box fill, stronger
+\definecolor{rule}{HTML}{C8BBA6}
+\definecolor{greyink}{HTML}{4A4A4A}
+
+%% ---- structural packages ---------------------------------------
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{needspace}
+\usepackage{calc}
+\usepackage[skip=6pt]{caption}
+\usepackage[most]{tcolorbox}
+\usepackage{multicol}
+\usepackage{fancyvrb}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\providecommand{\real}[1]{#1}
+\providecommand{\pandocbounded}[1]{#1}
+\setlength{\emergencystretch}{3em}
+\setlength{\parskip}{0pt}
+\setlength{\parindent}{1.2em}
+\setlist{itemsep=2pt, parsep=0pt, topsep=4pt}
+
+%% ---- running heads ----------------------------------------------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{rule}\leaders\hrule height \headrulewidth\hfill}}
+\fancyhead[LE]{\footnotesize\scshape\color{greyink}\leftmark}
+\fancyhead[RO]{\footnotesize\scshape\color{greyink}\rightmark}
+\fancyfoot[LE,RO]{\footnotesize\color{greyink}\thepage}
+\fancypagestyle{plain}{\fancyhf{}\renewcommand{\headrulewidth}{0pt}%
+  \fancyfoot[LE,RO]{\footnotesize\color{greyink}\thepage}}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+
+%% ---- chapter (= lesson) openers ---------------------------------
+\titleformat{\chapter}[display]
+  {\normalfont\LARGE\bfseries\color{inkblue}}
+  {\mbox{}\hfill{\color{terra}\fontsize{54}{54}\selectfont\thechapter}}
+  {4pt}
+  {\vspace{-6pt}\raggedright}
+  [\vspace{4pt}{\color{rule}\titlerule[1pt]}]
+\titlespacing*{\chapter}{0pt}{-24pt}{28pt}
+
+\titleformat{\section}{\normalfont\large\bfseries\color{inkblue}}{\thesection}{0.6em}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries\color{terra}}{\thesubsection}{0.6em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\itshape\color{greyink}}{}{0em}{}
+\titlespacing*{\section}{0pt}{16pt}{6pt}
+\titlespacing*{\subsection}{0pt}{12pt}{4pt}
+
+%% part pages
+\newcommand{\partgoal}{}
+\newcommand{\coursepart}[2]{\renewcommand{\partgoal}{#2}\part{#1}}
+\titleformat{\part}[display]
+  {\normalfont\centering\color{inkblue}}
+  {\Large\scshape Part \thepart}
+  {18pt}
+  {\Huge\bfseries}
+  [{\normalsize\normalfont\itshape\color{greyink}%
+    \begin{minipage}{0.72\textwidth}\centering
+      {\color{rule}\rule{0.45\textwidth}{0.8pt}}\\ \vspace{14pt}\partgoal
+    \end{minipage}}]
+
+%% ---- the pedagogical boxes --------------------------------------
+\newtcolorbox{storybox}[1][]{
+  enhanced, breakable, colback=parch, colframe=terra,
+  boxrule=0pt, leftrule=2.5pt, arc=0pt, outer arc=0pt,
+  left=10pt, right=10pt, top=8pt, bottom=8pt,
+  fontupper=\itshape,
+  before skip=10pt, after skip=10pt, #1}
+
+\newtcolorbox{notebox}[1][]{
+  enhanced, breakable, colback=white, colframe=rule,
+  boxrule=0.6pt, arc=2pt,
+  left=9pt, right=9pt, top=7pt, bottom=7pt,
+  fontupper=\small,
+  before skip=10pt, after skip=10pt, #1}
+
+\newtcolorbox{grammarbox}[1][]{
+  enhanced, breakable, colback=parchdeep, colframe=parchdeep,
+  boxrule=0pt, arc=2pt,
+  left=10pt, right=10pt, top=8pt, bottom=8pt,
+  before skip=10pt, after skip=10pt, #1}
+
+\newtcolorbox{voicebox}[1][]{
+  enhanced, breakable, colback=white, colframe=inkblue,
+  boxrule=0pt, leftrule=2.5pt, arc=0pt, outer arc=0pt,
+  left=12pt, right=10pt, top=9pt, bottom=9pt,
+  fontupper=\linespread{1.25}\selectfont,
+  before skip=12pt, after skip=12pt, #1}
+
+\newtcolorbox{questionbox}[1][]{
+  enhanced, breakable, colback=white, colframe=olive,
+  boxrule=0pt, arc=0pt, outer arc=0pt,
+  borderline west={2.5pt}{0pt}{olive},
+  left=10pt, right=10pt, top=8pt, bottom=8pt,
+  before skip=10pt, after skip=10pt, #1}
+
+%% section markers used inside lessons
+\newcommand{\lessonrubric}[2]{%
+  \needspace{3\baselineskip}%
+  \par\vspace{12pt}%
+  {\noindent\footnotesize\scshape\color{terra}#1\hfill\color{greyink}#2\par}%
+  {\color{rule}\vspace{2pt}\hrule height 0.4pt}%
+  \vspace{6pt}}
+
+%% vocabulary list: two columns, Greek flush left
+\newenvironment{vocablist}
+  {\begingroup
+   \setlist[itemize,1]{leftmargin=0pt, label={}, itemsep=2pt, topsep=0pt,
+                       partopsep=0pt, parsep=0pt, before=\vspace{-2pt}}}
+  {\endgroup}
+
+%% exercises
+\newcounter{exercisecount}[chapter]
+\newcommand{\exercisehead}[1]{%
+  \refstepcounter{exercisecount}%
+  \needspace{2\baselineskip}%
+  \par\vspace{8pt}\noindent
+  {\bfseries\color{inkblue}Exercise \thechapter.\theexercisecount}%
+  \ifx\relax#1\relax\else~— #1\fi\par\vspace{3pt}}
+
+%% a blank to be filled in by the student (drawn, not a font glyph)
+\newcommand{\gap}{\hspace{0.08em}\raisebox{-0.15ex}{\color{terra}%
+  \fbox{\rule{0pt}{1.25ex}\rule{0.95em}{0pt}}}\hspace{0.08em}}
+
+%% cross-reference to the grammar volume
+\newcommand{\gref}[1]{{\small\color{olive}[\,Grammar §#1\,]}}
+
+%% ---- tables -----------------------------------------------------
+\renewcommand{\arraystretch}{1.15}
+\let\oldlongtable\longtable
+\let\endoldlongtable\endlongtable
+\rowcolors{2}{white}{parch!60}
+
+%% ---- links ------------------------------------------------------
+\usepackage[
+  colorlinks=true, linkcolor=inkblue, urlcolor=terra, citecolor=olive,
+  pdftitle={$title$}, pdfauthor={$author$},
+  bookmarksnumbered=true, bookmarksopen=true
+]{hyperref}
+\usepackage{bookmark}
+
+%% ---- section numbering ---------------------------------------------
+%% The grammar volume is built with --number-sections and wants numbered
+%% chapters and sections (17.2). The textbook wants neither: its lesson
+%% numbers come from \thechapter in the chapter title format above, so
+%% secnumdepth 0 leaves them while silencing section numbers.
+$if(numbersections)$
+\setcounter{secnumdepth}{$if(secnumdepth)$$secnumdepth$$else$2$endif$}
+$else$
+\setcounter{secnumdepth}{0}
+$endif$
+
+%% An unnumbered chapter must still set the running head; pandoc emits
+%% \chapter* for these, which does not set the mark on its own.
+\let\origchapterstar\relax
+\makeatletter
+\let\ltx@chapter\chapter
+\renewcommand{\chapter}{\@ifstar{\gc@starchapter}{\ltx@chapter}}
+\newcommand{\gc@starchapter}[1]{\ltx@chapter*{#1}\markboth{#1}{#1}}
+\makeatother
+
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+%% ---- front cover -------------------------------------------------
+\begin{document}
+\frontmatter
+\thispagestyle{empty}
+\begin{titlepage}
+\centering
+\vspace*{0.14\textheight}
+{\color{rule}\rule{0.55\textwidth}{0.8pt}}\\[22pt]
+{\greekdisplay\color{inkblue}\fontsize{34}{40}\selectfont $title$\par}
+\vspace{14pt}
+$if(subtitle)$
+{\color{greyink}\large\itshape $subtitle$\par}
+\vspace{10pt}
+$endif$
+{\color{rule}\rule{0.55\textwidth}{0.8pt}}\\[30pt]
+{\gkd{\color{terra}\fontsize{30}{34}\selectfont ΤΟ ΔΙΔΑΣΚΑΛΕΙΟΝ}\par}
+\vspace{0.22\textheight}
+$if(author)$
+{\large $for(author)$$author$$sep$\\$endfor$\par}
+$endif$
+\vspace{10pt}
+$if(date)$
+{\color{greyink}\small $date$\par}
+$endif$
+\end{titlepage}
+
+$for(include-before)$
+$include-before$
+$endfor$
+
+$if(toc)$
+{\hypersetup{linkcolor=greyink}
+\setcounter{tocdepth}{$toc-depth$}
+\tableofcontents}
+\cleardoublepage
+$endif$
+
+\mainmatter
+$body$
+
+$for(include-after)$
+$include-after$
+$endfor$
+\end{document}
