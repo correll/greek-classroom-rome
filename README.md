@@ -16,7 +16,7 @@ One source tree produces four things:
 | `build/greek-classroom.pdf` | the textbook, student edition |
 | `build/greek-classroom-teacher.pdf` | the same book with answer keys inline |
 | `build/greek-grammar.pdf` | the companion reference grammar |
-| `site/` | a GitHub Pages site with the same content and the PDFs |
+| `site/` | a GitHub Pages site: the chapters as web pages, a flip-book reader, and the PDFs |
 
 ## Quick start
 
@@ -27,6 +27,33 @@ make site      # the website (builds the PDFs first)
 make check     # validate the Greek and the block syntax
 make help      # all targets
 ```
+
+## The site
+
+`make site` produces two ways to read the course, from the same sources.
+
+**The scrolling edition** (`index.html` and one page per chapter) is the
+searchable, linkable, screen-reader-friendly version, and the one that works
+properly on a phone. A button in the header toggles the answer keys.
+
+**The flip-book** (`ebook.html`) renders the real typeset PDF pages with
+PDF.js, two to a spread, with a page turn. The left sidebar lists the three
+volumes; under the selected one it lists that volume's chapters **read from
+the PDF's own bookmarks**, so the contents can never drift from the book.
+
+| | |
+|:--|:--|
+| Turn a page | click the page edges, press ← / →, or swipe |
+| Jump | click a chapter, or drag the slider |
+| Link to a page | the URL carries it: `ebook.html#/grammar/51` |
+| One page at a time | the **Two pages** button; automatic under 760px |
+| Where am I | the footer shows a breadcrumb from the PDF outline |
+
+It remembers your volume and page between visits, and `prefers-reduced-motion`
+turns the animation off.
+
+PDF.js is vendored in `assets/vendor/pdfjs/` under the Apache 2.0 licence, so
+the published site makes no third-party requests at all.
 
 ## Requirements
 
@@ -73,7 +100,10 @@ scripts/
   fetch_fonts.sh      re-downloads the vendored OFL fonts
 assets/
   fonts/              Gentium Book Plus, GFS Didot, and their licences
-  css/site.css        the website's styles
+  css/site.css        the scrolling site's styles
+  css/ebook.css       the flip-book reader's styles
+  js/ebook.js         the flip-book reader
+  vendor/pdfjs/       PDF.js, vendored (Apache 2.0)
 .github/workflows/    CI: validate, build, deploy to Pages
 ```
 

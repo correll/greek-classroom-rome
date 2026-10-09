@@ -11,6 +11,7 @@ script does the chrome.
 Run via `make site`.
 """
 import io
+import json
 import os
 import re
 import shutil
@@ -29,6 +30,16 @@ FILTER = os.path.join(ROOT, "scripts", "filters", "blocks.lua")
 TITLE = "The Greek Classroom of Rome, AD 400"
 SUBTITLE = "A Classical Greek course for grades 7-9"
 REPO = os.environ.get("REPO_URL", "")
+
+
+VOLUMES = [
+    ("textbook", "greek-classroom.pdf",
+     "The Textbook", "Student edition"),
+    ("teacher", "greek-classroom-teacher.pdf",
+     "Teacher's Edition", "With answer keys"),
+    ("grammar", "greek-grammar.pdf",
+     "Reference Grammar", "Companion volume"),
+]
 
 
 def sh(cmd):
@@ -130,12 +141,14 @@ PAGE = u"""<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} · {sitetitle}</title>
 <meta name="description" content="{sitetitle}. {subtitle}.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ctext x='16' y='25' text-anchor='middle' font-size='24' font-family='Georgia,serif' fill='%239C3D2E'%3E%CE%A9%3C/text%3E%3C/svg%3E">
 <link rel="stylesheet" href="style.css">
 </head>
 <body class="{bodyclass}">
 <header class="site"><div class="inner">
   <a class="brand" href="index.html">{sitetitle}</a>
   <div class="tools">
+    <a href="ebook.html" title="Read the typeset pages as a flip-book">Flip-book</a>
     <button id="edition" type="button" title="Show or hide the answer keys">Show answers</button>
     <button id="theme" type="button" title="Switch between light and dark">Theme</button>
   </div>
@@ -187,6 +200,70 @@ PAGE = u"""<!doctype html>
 </html>
 """
 
+
+EBOOK_PAGE = u"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Read \u00b7 {sitetitle}</title>
+<meta name="description" content="Read {sitetitle} as a flip-book: the typeset pages of the textbook, the teacher's edition and the reference grammar.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ctext x='16' y='25' text-anchor='middle' font-size='24' font-family='Georgia,serif' fill='%239C3D2E'%3E%CE%A9%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="ebook.css">
+</head>
+<body class="reader">
+
+<div class="r-brand"><a href="index.html">&larr; {sitetitle}</a></div>
+
+<div class="r-top">
+  <button class="r-btn r-menu" id="menu" type="button" aria-label="Show the contents">&#9776; Contents</button>
+  <div class="r-title" id="booktitle"></div>
+  <div class="r-tools">
+    <button class="r-btn" id="spreadtoggle" type="button" aria-pressed="false">Two pages</button>
+    <button class="r-btn" id="full" type="button">Full screen</button>
+    <button class="r-btn" id="theme" type="button">Theme</button>
+  </div>
+</div>
+
+<nav class="r-side" id="side" aria-label="Volumes and chapters">
+  <h2>Volumes</h2>
+  <div class="r-books" id="books"></div>
+  <h2>Contents</h2>
+  <div class="r-toc" id="toc"></div>
+  <h2>Elsewhere</h2>
+  <p class="r-links">
+    <a href="index.html">The scrolling edition</a><br>
+    <a href="front-05-scope-and-sequence.html">Scope and sequence</a><br>
+    <a href="part1-01-lesson-01.html">Lesson 1 as text</a>
+  </p>
+</nav>
+<div class="r-scrim" id="scrim"></div>
+
+<section class="r-stage">
+  <div class="r-canvasarea" id="canvasarea">
+    <div class="book" id="book">
+      <div class="slot left"  id="slotL"></div>
+      <div class="slot right" id="slotR"></div>
+      <div class="gutter"></div>
+    </div>
+    <button class="nav prev" id="prev" type="button" aria-label="Previous page"><span>&#8249;</span></button>
+    <button class="nav next" id="next" type="button" aria-label="Next page"><span>&#8250;</span></button>
+    <div class="r-msg" id="msg" hidden><div class="inner"></div></div>
+  </div>
+  <div class="r-foot">
+    <span class="count" id="count">&nbsp;</span>
+    <input type="range" id="slider" min="1" max="1" value="1" aria-label="Page">
+    <span class="chap" id="chap"></span>
+  </div>
+</section>
+
+<script>window.GC_BOOKS = {books};</script>
+<script src="vendor/pdfjs/pdf.min.js"></script>
+<script src="ebook.js"></script>
+</body>
+</html>
+"""
 
 def pager(flat, idx):
     prev_ = '<a href="%s.html">&larr; %s</a>' % (flat[idx-1][0], flat[idx-1][1]) if idx > 0 else ""
@@ -242,6 +319,12 @@ comedy; the texts themselves provide the substance.</p>
     <p><a href="part1-01-lesson-01.html">The Unwelcome Tablet &rarr;</a></p>
   </div>
   <div class="card">
+    <h3>Read it as a book</h3>
+    <p>The typeset pages of all three volumes, two to a spread, with pages
+       that turn and every chapter a click away.</p>
+    <p><a href="ebook.html">Open the flip-book &rarr;</a></p>
+  </div>
+  <div class="card">
     <h3>The grammar</h3>
     <p>A reference volume sized to a beginning reader, cross-linked to every
        lesson in both directions.</p>
@@ -282,6 +365,13 @@ def main():
 
     shutil.copy(os.path.join(ROOT, "assets", "css", "site.css"),
                 os.path.join(SITE, "style.css"))
+    shutil.copy(os.path.join(ROOT, "assets", "css", "ebook.css"),
+                os.path.join(SITE, "ebook.css"))
+    shutil.copy(os.path.join(ROOT, "assets", "js", "ebook.js"),
+                os.path.join(SITE, "ebook.js"))
+    vendor_src = os.path.join(ROOT, "assets", "vendor", "pdfjs")
+    if os.path.isdir(vendor_src):
+        shutil.copytree(vendor_src, os.path.join(SITE, "vendor", "pdfjs"))
 
     # fonts: woff2 if we can make it, ttf otherwise
     made_woff = 0
@@ -322,6 +412,15 @@ def main():
                         bodyclass="student-edition",
                         nav=nav_html(groups, slug),
                         body=convert(src), pager=pager(flat, i)))
+
+    # the flip-book reader, over whichever volumes were actually built
+    vols = [{"id": i, "file": f, "title": t, "subtitle": sub}
+            for i, f, t, sub in VOLUMES
+            if os.path.exists(os.path.join(SITE, f))]
+    io.open(os.path.join(SITE, "ebook.html"), "w", encoding="utf-8").write(
+        EBOOK_PAGE.format(sitetitle=TITLE,
+                          books=json.dumps(vols, ensure_ascii=False)))
+    print("  flip-book: %d volume(s)" % len(vols))
 
     io.open(os.path.join(SITE, ".nojekyll"), "w", encoding="utf-8").write("")
     print("  %d pages -> %s" % (len(flat) + 1, os.path.relpath(SITE, ROOT)))

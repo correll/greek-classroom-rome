@@ -1,0 +1,3 @@
+pdf.js 3.11.174 — Mozilla, Apache License 2.0
+https://github.com/mozilla/pdf.js
+Vendored so the published site has no CDN dependency.
