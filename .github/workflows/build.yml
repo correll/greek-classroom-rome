@@ -16,9 +16,13 @@ concurrency:
   group: pages
   cancel-in-progress: true
 
+env:
+  LANG: C.UTF-8
+  LC_ALL: C.UTF-8
+
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
 
@@ -33,9 +37,8 @@ jobs:
             texlive-fonts-recommended \
             lmodern \
             fonts-lmodern \
+            fontconfig \
             poppler-utils
-          pandoc --version | head -1
-          xelatex --version | head -1
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -44,6 +47,31 @@ jobs:
 
       - name: Install Python dependencies
         run: pip install fonttools brotli
+
+      # Printed on every run so that a failure a year from now still has the
+      # context needed to explain itself.
+      - name: Diagnostics
+        run: |
+          echo "::group::Versions"
+          pandoc --version | head -1
+          xelatex --version | head -1
+          python3 --version
+          echo "::endgroup::"
+          echo "::group::LaTeX packages the template needs"
+          for p in geometry fontspec microtype xcolor titlesec fancyhdr \
+                   enumitem booktabs longtable array tabularx graphicx \
+                   needspace calc caption tcolorbox multicol fancyvrb \
+                   hyperref bookmark colortbl pgf; do
+            printf '%-12s %s\n' "$p" "$(kpsewhich $p.sty || echo MISSING)"
+          done
+          echo "::endgroup::"
+          echo "::group::Fonts"
+          for f in lmsans10-regular lmmono10-regular lmmonolt10-bold; do
+            printf '%-22s %s\n' "$f" "$(kpsewhich $f.otf || echo MISSING)"
+          done
+          ls -1 assets/fonts/*.ttf
+          fc-list 2>/dev/null | grep -ci "latin modern" || echo "fontconfig: no Latin Modern"
+          echo "::endgroup::"
 
       - name: Validate Greek and block syntax
         run: make check
@@ -69,6 +97,30 @@ jobs:
             printf '%-40s %s\n' "$f" "$(pdfinfo "$f" | awk '/^Pages/{print $2" pages"}')"
           done
 
+      # The PDFs are built in two stages precisely so that these survive.
+      - name: Show the LaTeX log
+        if: failure()
+        run: |
+          for log in build/tex/*.log; do
+            [ -f "$log" ] || continue
+            echo "::group::$log — errors"
+            grep -nE '^(\./)?[^ ]*:[0-9]+: |^! ' "$log" | head -40 || echo "  no error lines"
+            echo "::endgroup::"
+            echo "::group::$log — last 120 lines"
+            tail -120 "$log"
+            echo "::endgroup::"
+          done
+
+      - name: Upload the LaTeX logs
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: latex-logs
+          path: |
+            build/tex/*.log
+            build/tex/*.tex
+          if-no-files-found: ignore
+
       - name: Upload the PDFs as artefacts
         uses: actions/upload-artifact@v4
         with:
@@ -85,7 +137,7 @@ jobs:
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

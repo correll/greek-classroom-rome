@@ -23,12 +23,36 @@ BOOK_SRC    := book/metadata.yaml \
 
 GRAM_SRC    := grammar/metadata.yaml $(sort $(wildcard grammar/*.md))
 
-PDFOPTS  := --from=$(FROM) $(FILTER) \
+# PDFs are built in two stages - pandoc to .tex, then XeLaTeX - rather than
+# letting pandoc drive the engine in a temporary directory. It costs nothing
+# and it means the LaTeX log survives a failure, which is the difference
+# between a diagnosable CI run and a guess.
+TEXOPTS  := --from=$(FROM) $(FILTER) \
             --template=templates/book.latex \
-            --pdf-engine=$(ENGINE) \
             --top-level-division=chapter \
             --toc --toc-depth=1 \
             --variable=fontdir:"$(FONTDIR)"
+
+STUDENT_FLAGS := --metadata=edition:student
+TEACHER_FLAGS := --metadata=edition:teacher \
+                 --metadata=subtitle="Teacher's Edition · with answer keys"
+GRAMMAR_FLAGS := --toc-depth=2 --number-sections --metadata=edition:student
+
+TEXDIR   := $(BUILD)/tex
+XELATEX  := $(ENGINE) -interaction=nonstopmode -file-line-error -halt-on-error
+
+# $(1) extra pandoc flags, $(2) job name, $(3) source list
+define build_pdf
+@mkdir -p $(TEXDIR)
+$(PANDOC) $(TEXOPTS) $(1) $(3) -o $(TEXDIR)/$(2).tex
+cd $(TEXDIR) && $(XELATEX) $(2).tex >/dev/null 2>&1 || \
+  { echo; echo "XeLaTeX failed - $(TEXDIR)/$(2).log:"; \
+    sed -n "/^.*:[0-9]*: /,$$$$p" $(2).log | head -40; exit 1; }
+@cd $(TEXDIR) && $(XELATEX) $(2).tex >/dev/null 2>&1
+@cd $(TEXDIR) && $(XELATEX) $(2).tex >/dev/null 2>&1
+@cp $(TEXDIR)/$(2).pdf $@
+@echo "  -> $@"
+endef
 
 .PHONY: all pdf teacher grammar site check glossary clean distclean fonts help
 
@@ -49,20 +73,15 @@ $(BUILD):
 
 pdf: $(BUILD)/greek-classroom.pdf
 $(BUILD)/greek-classroom.pdf: $(BOOK_SRC) templates/book.latex scripts/filters/blocks.lua | $(BUILD)
-	$(PANDOC) $(PDFOPTS) --metadata=edition:student $(BOOK_SRC) -o $@
-	@echo "  -> $@"
+	$(call build_pdf,$(STUDENT_FLAGS),greek-classroom,$(BOOK_SRC))
 
 teacher: $(BUILD)/greek-classroom-teacher.pdf
 $(BUILD)/greek-classroom-teacher.pdf: $(BOOK_SRC) templates/book.latex scripts/filters/blocks.lua | $(BUILD)
-	$(PANDOC) $(PDFOPTS) --metadata=edition:teacher \
-	  --metadata=subtitle:"Teacher's Edition · with answer keys" \
-	  $(BOOK_SRC) -o $@
-	@echo "  -> $@"
+	$(call build_pdf,$(TEACHER_FLAGS),greek-classroom-teacher,$(BOOK_SRC))
 
 grammar: $(BUILD)/greek-grammar.pdf
 $(BUILD)/greek-grammar.pdf: $(GRAM_SRC) templates/book.latex scripts/filters/blocks.lua | $(BUILD)
-	$(PANDOC) $(PDFOPTS) --toc-depth=2 --number-sections --metadata=edition:student $(GRAM_SRC) -o $@
-	@echo "  -> $@"
+	$(call build_pdf,$(GRAMMAR_FLAGS),greek-grammar,$(GRAM_SRC))
 
 site: pdf teacher grammar
 	python3 scripts/build_site.py

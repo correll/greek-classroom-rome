@@ -16,7 +16,6 @@
 
 %% ---- fonts ------------------------------------------------------
 \usepackage{fontspec}
-\usepackage{xunicode}
 \defaultfontfeatures{Ligatures=TeX}
 
 \setmainfont{GentiumBookPlus}[
@@ -28,10 +27,21 @@
   BoldItalicFont  = *-BoldItalic,
   Numbers         = OldStyle
 ]
-% Latin Modern ships with every TeX Live install, so the build does not
-% depend on any font beyond the two vendored in assets/fonts/.
-\setsansfont{Latin Modern Sans}[Scale=0.92]
-\setmonofont{Latin Modern Mono}[Scale=0.88]
+% Latin Modern ships with every TeX Live install. Loaded by filename so the
+% lookup goes through kpathsea rather than fontconfig, which a minimal CI
+% image may not have populated.
+\setsansfont{lmsans10-regular}[
+  Extension      = .otf,
+  BoldFont       = lmsans10-bold,
+  ItalicFont     = lmsans10-oblique,
+  BoldItalicFont = lmsans10-boldoblique,
+  Scale          = 0.92]
+\setmonofont{lmmono10-regular}[
+  Extension      = .otf,
+  BoldFont       = lmmonolt10-bold,
+  ItalicFont     = lmmono10-italic,
+  BoldItalicFont = lmmonolt10-boldoblique,
+  Scale          = 0.88]
 
 %% Greek display face (title pages, lesson numerals, epigraphs)
 \newfontfamily\greekdisplay{GFSDidot-Regular}[
