@@ -113,11 +113,13 @@ you can always check, and are therefore always obliged to.
 :::
 
 ::: vocab
-Review. No new words today.
+Review, with one new word:
 
-The cumulative list at the back of this book now holds everything from
-Lessons 1 to 11, and this is the moment to read it straight through rather
-than looking things up in it. There is also an English-to-Greek list, which
+- **τὸ μέτρον** — measure, standard
+
+The cumulative list at the back of this book holds every word in the
+course with the lesson it belongs to, and this is the moment to read the
+entries marked 1 to 11 straight through rather than looking things up. There is also an English-to-Greek list, which
 is the one you want when you are composing.
 
 ::: note
@@ -217,28 +219,31 @@ of every word before accepting any answer.
 :::
 :::
 
-::: {.voice time="10 min" source="Protagoras, quoted by Plato, *Theaetetus* 152a"}
-Here is a famous sentence, twice. The first version was written for you.
+::: {.voice time="10 min" source="Protagoras, fr. 1 (as quoted by Sextus Empiricus); referred to by Plato, *Theaetetus* 152a"}
+Here is a famous sentence, twice. The first version was written for you —
+it is **adapted**, and you are told so.
 
 **ὁ ἄνθρωπός ἐστι τὸ μέτρον τῶν ἔργων.**
 
 *The man is the measure of the works.*
 
-Every form in it is one you have had since Lesson 9. Translate it, defend
-it, and then look at what it cost.
+Every form in it is one you have had since Lesson 9, and the one new word
+is in today's list. Translate it, defend it, and then look at what it cost.
 
 Now the real one:
 
-**πάντων χρημάτων μέτρον ἐστὶν ἄνθρωπος.**
+**πάντων χρημάτων μέτρον ἐστὶν ἄνθρωπος …**
 
 - **πάντων χρημάτων** — of all things *(genitive plural)*
 - **μέτρον** — measure *(no article)*
 - **ἐστίν** — is
 - **ἄνθρωπος** — man *(no article)*
 
-*Man is the measure of all things.*
+*Man is the measure of all things.* (The sentence goes on — *of things that
+are, that they are; of things that are not, that they are not* — and Plato,
+reporting it, turns it into indirect speech: **μέτρον ἄνθρωπον εἶναι**.)
 
-Four differences, and every one of them matters.
+Five differences, and every one of them matters.
 
 **The genitive has moved to the front.** **πάντων χρημάτων** is the first
 thing you meet, and in Greek the first thing is the emphasised thing. The
@@ -246,14 +251,19 @@ sentence is not about man; it is about *everything*, and man turns out to be
 the yardstick for it. The adapted version buried that at the end, in the
 English order, and lost the emphasis entirely.
 
-**The articles are gone.** **ἄνθρωπος**, not **ὁ ἄνθρωπος** — not *the man*,
-not any particular man, but man as such. The adaptation put an article in
-because you had been taught articles, and in doing so it narrowed a claim
-about humanity into a remark about somebody.
+**The articles are gone.** **ἄνθρωπος**, not **ὁ ἄνθρωπος**. Greek would
+normally say *man as such* with the article; without it the word can mean
+*a man*, *each man*, or *man*, and readers have argued ever since about
+which Protagoras meant. The adaptation's article quietly settled that
+argument for you.
 
-**μέτρον has no article either**, which by this lesson's rule makes it a
-predicate: *man is a measure*, or *man is measure*. The adapted version's
-**τὸ μέτρον** says *the* measure, which is a stronger and different claim.
+**μέτρον has no article either.** With neither noun marked, nothing but
+order and sense tells you which is the subject; the sentence says *man is
+measure*, or *a measure*, not *the measure*. The adapted version's **τὸ
+μέτρον** says *the* measure, which is a stronger and different claim.
+
+**And *all* has vanished.** **πάντων** has no counterpart in the adapted
+sentence. *The works* is a bounded set; *all things* is not.
 
 **The vocabulary was changed to suit you.** **τῶν ἔργων** is a word you
 know. **χρημάτων** is not, and it does not mean *works*: it means things,

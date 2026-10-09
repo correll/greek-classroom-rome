@@ -72,7 +72,7 @@ No new grammar. This is what you have.
 | **The noun** | read five cases and know what each does; decline the first and second declensions; recognise the third | 1–9 |
 | **The article** | use it to find the subject; see what is definite; read attributive against predicate position; notice when it is *absent* | 2, 3, 7, 10, 18 |
 | **The adjective** | make it agree; put it inside or outside the article group and know the difference | 10 |
-| **The verb** | read the present, imperfect and aorist and say what the *aspect* is doing; recognise the future; use the infinitive in its two jobs; read the participle in a chain; give a command in either aspect | 5, 11, 13, 14, 16, 22, 26 |
+| **The verb** | read the present, imperfect and aorist and say what the *aspect* is doing; recognise the future; use the infinitive in its two jobs; read the participle in a chain; give a command in either aspect | 5, 11, 13, 14, 16, 21, 22, 26 |
 | **The sentence** | read word order as emphasis, not role; follow **μέν … δέ**, **γάρ**, **οὖν**; report speech with the infinitive or with **ὅτι**; build and read a relative clause; ask a question and tell it from a statement by its accent | 4, 16, 17, 25 |
 | **The Greeks** | tell Homeric from Attic from Septuagint from Koine, and say what gave each away | 15, 20, 23, 24 |
 | **The method** | put four questions to a sentence and five to a passage; ask what would have to be true for you to be wrong; know where the grammar stops and the page begins | 18, 24, 27, 29 |
@@ -112,7 +112,7 @@ teaching, and it works on everything.
 **A year ago, Latin was the thing you knew and Greek was the thing you
 did not.** Now you have two languages, and each one shows you the other.
 You know that Latin has no article because Greek does. You know that
-Latin's one past tense is a choice because Greek has two. You know that
+Latin's perfect is doing two jobs because Greek gives each its own tense. You know that
 *caritas* was a word for *expensive* because **ἀγάπη** never was.
 
 That is what a second ancient language is for. Not to replace the first.
@@ -246,7 +246,7 @@ Greek cannot do it.
 
 ::: teacheronly
 **Verify before teaching.** 1 John 1:5 in the written examination is quoted
-from memory of the standard text; check it against the edition in use.
+from the standard text (see *Sources*); check it against the edition in use.
 
 **On running the Great Reading.** Invite an audience. The point of the
 exercise is that the pupils explain Greek to people who do not have it, and

@@ -1,14 +1,14 @@
 # The Trial of a Translation
 
 ::: {.story time="5 min"}
-Theodoros put six wax tablets face down on the table and said that there
+Theodoros put eight wax tablets face down on the table and said that there
 would be a trial.
 
 "Sabina's courtroom," said Felix.
 
-"Sabina's courtroom. Six defendants, one charge." He turned the first tablet
-over. "Each of you has translated the same six Greek words. I am going to
-read all six translations aloud, and then you are going to decide which of
+"Sabina's courtroom. Eight defendants, one charge." He turned the first tablet
+over. "Each of you has translated the same five Greek words. I am going to
+read all eight translations aloud, and then you are going to decide which of
 them can be defended from the Greek."
 
 "Which is best?" said Marcus.
@@ -310,7 +310,7 @@ about God. The Greek says it is about the Word. Marcus has reproduced the
 order and reversed the grammar, and the reason he could do it without
 noticing is that English assigns roles by position and Greek does not.
 
-That is Lesson 4, four months later, with something at stake.
+That is Lesson 4, three months later, with something at stake.
 
 **Why is θεός in front, then?** Because Greek puts a word first for emphasis,
 and the article is doing the work of marking the subject, so the writer is
@@ -348,8 +348,8 @@ an argument about this sentence and a feeling about it. That is a smaller
 thing than certainty, and it is worth more.
 
 ::: teacheronly
-**Verify before teaching.** The Greek is John 1:1c and is quoted here from
-memory of the standard text; check it, with the punctuation, against the
+**Verify before teaching.** The Greek is John 1:1c and follows the standard
+text (see *Sources*); check it, with the punctuation, against the
 edition in use.
 
 **On the doctrinal question.** This passage is live, and the lesson is
@@ -389,7 +389,7 @@ are how you show them the other three.
    teacher?
 2. Latin cannot make the distinction this sentence turns on. Does that mean
    a Latin reader understands the sentence less well, or only differently?
-3. The grammar narrowed six translations to four and then stopped. Is a
+3. The grammar narrowed eight translations to four and then stopped. Is a
    method that cannot finish the job still worth having?
 :::
 
@@ -398,7 +398,7 @@ Afterwards Felix wanted to know who had won.
 
 "Nobody won."
 
-"There were six of us and a trial and you said there was a charge."
+"There were eight of us and a trial and you said there was a charge."
 
 "There was a charge," said Theodoros. "The charge was defending a reading you
 could not support. Four of you were acquitted. One of you wrote in Latin,

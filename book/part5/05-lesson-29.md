@@ -177,13 +177,13 @@ seven steps on it, aloud, in turn.
    light*.
 5. **ἀκολουθῶν**, **περιπατήσῃ**, and perhaps **κόσμου** and **σκοτίᾳ** if
    Lesson 27 has faded. Everything else is owned: **ἐγώ, εἰμι, τὸ φῶς, τοῦ,
-   ὁ, ἐμοί, οὐ, μή, ἐν, τῇ, ἀλλά, ἕξει, τῆς ζωῆς**. Thirteen of eighteen
-   words.
+   ὁ, ἐμοί, οὐ, μή, ἐν, τῇ, ἀλλά, ἕξει, τῆς ζωῆς**. Seventeen of
+   twenty-one words — nineteen, if Lesson 27 has held.
 6. *I am the light of the world; the one who follows me will never walk in
    the darkness, but will have the light of life.*
 
 The point to make at the end is the count in step five. A sentence they had
-never seen was two-thirds theirs before they opened a lexicon. That is what
+never seen was four-fifths theirs before they opened a lexicon. That is what
 twenty-eight lessons have bought.
 :::
 
@@ -218,7 +218,7 @@ them revise the list before they spend it.
    question, Lesson 25. **οἴδαμεν** is the Koine *we know*; Attic has
    **ἴσμεν** and either is acceptable if given.
 4. **ἀναγιγνώσκετε τὴν γραφήν.** — present imperative plural: the reading
-   is an activity. **ἀναγνῶτε**, the aorist, would be *read it through*,
+   is an activity. **ἀνάγνωτε**, the aorist, would be *read it through*,
    once; either is defensible and the choice is worth a sentence.
 :::
 :::
@@ -239,7 +239,7 @@ you read one of them without.
 | Matthew | The Beatitudes | 21 | Koine | the blessing formula; **ὅτι** as *because* |
 | Luke | The Samaritan | 22 | Koine | participles carrying a story |
 | Luke | The kingdom **ἐντὸς ὑμῶν** | 27 | Koine | a dilemma the grammar cannot settle |
-| John | 1:1–5 | 6, 13, 14, 27 | Koine | the article; the imperfect; a verb with two meanings |
+| John | 1:1, 1:14, 1:5 | 6, 13, 14, 27 | Koine | the article; the imperfect; a verb with two meanings |
 | John | 8:12 | 29 | Koine | reading unseen, by the method |
 | Apion | A letter home | 28 | Koine | the formulas; a real person's Greek |
 
@@ -259,8 +259,8 @@ it says; what one feature of its grammar is doing; and what, having read
 it in Greek, you now know that you did not.
 
 ::: teacheronly
-**Verify before teaching.** John 8:12 in the exercise is quoted from memory
-of the standard text; check it against the edition in use.
+**Verify before teaching.** John 8:12 in the exercise follows the standard
+text (see *Sources*); check it against the edition in use.
 
 **On the list.** It is a list of passages already in the book, by design.
 The Great Reading is not a test of range but of independence: can a pupil
@@ -283,8 +283,8 @@ right response is Theodoros's: notice, say nothing, wait.
 ::: {.question time="5 min"}
 1. You were allowed three questions. Which three did you choose, and what
    does that say about where your Greek is weakest?
-2. A sentence you had never seen was two-thirds yours before you opened the
-   lexicon. What does that number say about what learning a language
+2. A sentence you had never seen was four-fifths yours before you opened
+   the lexicon. What does that number say about what learning a language
    actually is?
 3. Theodoros answers three questions and no more. Is a limit on help a
    kindness or a cruelty? Would unlimited help have taught you more?
@@ -296,6 +296,14 @@ Felix asked, as his second question, whether Apion had ever got home.
 "We do not know," said Theodoros. "The letter is all there is. He joined
 the fleet, he wrote to his father, somebody kept the letter. Whether he saw
 Egypt again, nobody can tell you."
+
+::: teacheronly
+A second letter from the same man does in fact survive — BGU II 632, to his
+sister Sabina, written years later under his Roman name Antonius Maximus,
+with a wife and children. It shows he lived and stayed in the service; it
+does not say he went home. Theodoros, who could not have had either
+papyrus, is allowed his answer.
+:::
 
 Felix considered this.
 

@@ -62,7 +62,8 @@ watching him. It is not the same."
 Theodosius turned round. "What is the difference?"
 
 "When Homer admires somebody he says so. He says *swift-footed*. He says
-*godlike*. He never once says *good*. He says **πολύτροπος**, and he says it
+*godlike*. He never stops to tell us a man is good or bad; he gives him an
+epithet and lets us watch. He says **πολύτροπος**, and he says it
 in the first line, before we have seen anything, and then he spends twenty-four
 books showing us what the word costs."
 
@@ -76,10 +77,11 @@ year, and I am not going to tell you whether she is right."
 "No. You are twelve, and thirteen, and fourteen, and the question of whether
 cleverness is a virtue is one that grown men have ruined their lives getting
 wrong. You will not settle it this afternoon and neither will I." He picked
-the scroll back up. "What you *will* do this afternoon is learn the form of
-the verb that the whole episode turns on. Odysseus does not lie by saying a
-false thing. He lies by saying a true thing in a shape that will be
-misheard. To do that in Greek, you need the infinitive."
+the scroll back up. "What you *will* do this afternoon is learn the form
+you need in order to report what Odysseus said without repeating his trick:
+the infinitive. He does not lie by saying a false thing. He lies by saying a
+true thing in a shape that will be misheard, and to say *he said that* in
+Greek you need the infinitive."
 :::
 
 ::: {.newgreek time="10 min"}
@@ -104,8 +106,8 @@ The **infinitive** is the form that does not do this.
 action, with nobody attached to it.
 
 English does the same thing with *to*: *to say*, *to write*, *to be*. Latin
-does it with **-re**: *dīcere*, *scrībere*, *esse*. Every one of these is the
-verb with the person taken off.
+does it with **-re**: *dīcere*, *scrībere* (and, irregularly, *esse*). Every
+one of these is the verb with the person taken off.
 
 ## Two jobs, and they are not the same job
 
@@ -218,8 +220,8 @@ be able to build.
 
 ::: note
 **The infinitive of ψεύδομαι is ψεύδεσθαι**, and the three verbs above
-end in **-ομαι**, not **-ω**. You have met one before:
-**ἐγένετο** in Lesson 14. There is a whole second set of endings behind
+end in **-ομαι**, not **-ω**. You have met two before:
+**ἔρχομαι** and **ἐγένετο** in Lesson 14. There is a whole second set of endings behind
 them, and it is not your business yet. Learn the two forms printed above for
 each verb and use them; the family they belong to is unpacked later.
 
@@ -230,7 +232,9 @@ other half of it: *nostalgia* is **νόστος** + **ἄλγος**, the ache fo
 homecoming.
 
 **ὁ δόλος** and **ἡ σοφία** are the two words the class has just spent five
-minutes arguing about, and Homer uses both of Odysseus.
+minutes arguing about. Homer uses the first of Odysseus; the second is
+Attic — Homer's own word for his cleverness is **μῆτις**, which you meet
+below.
 :::
 :::
 
@@ -239,7 +243,8 @@ Theodoros gave them the sentences on a tablet and said that three of them
 were about the *Odyssey* and one of them was about Felix.
 
 ::: {.exercise title="Translate"}
-1. **ὁ Ὀδυσσεὺς βούλεται εἰς τὸν οἶκον ἐλθεῖν.**
+1. **ὁ Ὀδυσσεὺς βούλεται εἰς τὸν οἶκον ἐλθεῖν.** *(**ἐλθεῖν** = aorist
+   infinitive of **ἦλθον**, to come)*
 2. **οὐ δυνάμεθα τὴν ἀλήθειαν γιγνώσκειν.** *(**δυνάμεθα** = we are able)*
 3. **ὁ κριτὴς λέγει τὸν μάρτυρα ψεύδεσθαι.** *(**τὸν μάρτυρα** = accusative
    of **ὁ μάρτυς**)*
@@ -253,7 +258,7 @@ were about the *Odyssey* and one of them was about Felix.
    **δυνάμεθα**; job one again.
 3. *The judge says that the witness is lying.* — job two. **τὸν μάρτυρα** is
    accusative and **ψεύδεσθαι** is an infinitive, and together they mean
-   *that the witness is lying*. Sabina's courtroom from Lesson 4, four
+   *that the witness is lying*. Sabina's courtroom from Lesson 4, twelve
    lessons of grammar later.
 4. *The trick was not wisdom.* — no infinitive at all. **ἦν** is the
    imperfect from Lesson 13. This is the sentence about Felix.
@@ -273,9 +278,10 @@ Here are two sentences. They differ by one ending.
 
 ::: answers
 1. *He says the man is writing* / *He says the man wrote.*
-2. **-ειν** against **-σαι** — the present infinitive against the aorist
-   infinitive, with the **σ** of the aorist stem. Strictly it is three
-   letters, and a pupil who says so is right and should be told so.
+2. **-φειν** against **-ψαι**: the present ending **-ειν** against the
+   aorist **-αι**, with the aorist **σ** hidden inside the **ψ** (**φ** +
+   **σ**, as in Lesson 14). A pupil who says the stem changed as well as the
+   ending is right and should be told so.
 3. No. The saying is present in both: he is speaking now. What moved is the
    time of the *writing*, and the only thing that moved it was the
    infinitive. This is the point of the exercise — in job two the infinitive
@@ -382,14 +388,14 @@ for Odysseus's cleverness — **μῆτις** — right beside the name **μή �
 deliberate and ancient and almost certainly older than Homer.
 
 Greek will do this to you for the rest of your life. Nothing is accidental
-in a poem that was memorised for four hundred years before anyone wrote it
+in a poem that lived in memory for generations before anyone wrote it
 down.
 :::
 
 ::: teacheronly
-**Verify before teaching.** These two lines are quoted here from memory of
-the standard text. Check them against the edition in use before putting them
-on the board, with particular attention to **ἐμοί γ᾽** and to the breathing
+**Verify before teaching.** These two lines follow the standard text (see
+*Sources*). Check them against the edition in use before putting them on
+the board, with particular attention to **ἐμοί γ᾽** and to the breathing
 on **ἑταῖροι**. The Lesson 15 note applies: every Attic sentence composed for
 this course is safe, and every Homeric quotation is a quotation and deserves
 the same check the course asks of its pupils.

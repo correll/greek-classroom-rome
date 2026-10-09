@@ -262,9 +262,10 @@ about it, is that **τὰ καλά** has the article and **χαλεπά** does n
 
 Greek readers saw that instantly. You will too, by about Lesson 10.
 
-Plato has Socrates quote this as a saying that was already old, the way we
-quote a proverb. It is an answer to someone who is complaining that an
-argument is taking too long.
+Plato has Glaucon quote this to Socrates as a saying that was already old,
+the way we quote a proverb. Socrates has just said that the question they
+have reached is a trivial one; Glaucon answers that it is not trivial at
+all — fine things are hard.
 :::
 
 ::: {.question time="5 min"}

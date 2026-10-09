@@ -112,7 +112,8 @@ practice.
 **By means of.** With no preposition at all, the dative can say what
 something was done *with*:
 
-> **γράφω τοῖς γράμμασιν.** — I write with letters.
+> **γράφω τοῖς γράμμασιν.** — I write with letters. *(**γράμμασιν** is the
+> third-declension dative plural of **τὰ γράμματα**; take it whole.)*
 
 **In, and with.** Two prepositions take the dative and only the dative:
 
@@ -164,7 +165,8 @@ Felix was permitted to rewrite his message, on the condition that he read
 the corrected version aloud as well.
 
 ::: {.exercise title="Which case, and why?"}
-For each underlined phrase, give the case and say what job it is doing.
+For every noun phrase other than the subject, give the case and say what
+job it is doing.
 
 1. **πέμπω τὴν ἐπιστολὴν τῷ κριτῇ.**
 2. **ὁ διδάσκαλος δίδωσι τὰ δῶρα τοῖς ἀνθρώποις.**
@@ -179,8 +181,9 @@ For each underlined phrase, give the case and say what job it is doing.
    recipients.
 3. **ἐν τῇ οἰκίᾳ** dative, after **ἐν**; the place.
 4. **τοῦ υἱοῦ** genitive, whose book it is; **ἐν τῇ οἰκίᾳ** dative, where
-   it is. All four cases appear in this sentence; ask the class to find the
-   nominative.
+   it is. Three of the four cases appear in this sentence; ask the class
+   to find the nominative, and then to say which case is missing and why
+   (**ἐστιν** takes no object).
 :::
 
 ::: {.exercise title="Translate"}
@@ -248,7 +251,7 @@ teacher*.
 :::
 
 ::: {.voice time="10 min" source="Luke 2:14"}
-A line you may know in English, and which is built almost entirely out of
+A line you may know in English, and whose structure is carried by three
 datives.
 
 **δόξα ἐν ὑψίστοις θεῷ καὶ ἐπὶ γῆς εἰρήνη ἐν ἀνθρώποις εὐδοκίας.**

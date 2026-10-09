@@ -36,6 +36,7 @@ FENCE_ANY = re.compile(r"^:::+")
 ENTRY = re.compile(r"\*\*(?P<lemma>[^*]+?)\*\*\s*(?:[—–-]\s*)?"
                    r"(?P<gloss>[^" + MIDDOT + r"\n]*)")
 LESSON_FILE = re.compile(r"lesson-(\d{2})\.md$")
+MULTI = re.compile(r"^\*\*(?P<lemma>[^*]+?)\*\*(?P<alt>[^—–]*?\*\*[^—–]*?)\s*[—–]\s*(?P<gloss>.*)$")
 
 
 def fold(s):
@@ -187,6 +188,17 @@ def main():
                 if not s or s.startswith(">") or s.startswith("#"):
                     continue
                 s = re.sub(r"^[-*]\s+", "", s)
+                # a headword with alternative forms before the dash --
+                # "**ἐκ**, **ἐξ** — out of" or "**οὐ** (**οὐκ**, **οὐχ**) — not" --
+                # is one entry, not several
+                mm = MULTI.match(s)
+                if mm and MIDDOT not in s:
+                    head = re.sub(r"\*\*", "", mm.group("alt")).strip()
+                    lemma = (mm.group("lemma").strip() + " " + head).replace(" ,", ",")
+                    gloss = mm.group("gloss").strip(" .;")
+                    if lemma not in entries and gloss:
+                        entries[lemma] = (gloss, lesson)
+                    continue
                 for m in ENTRY.finditer(s):
                     lemma = m.group("lemma").strip()
                     gloss = m.group("gloss").strip(" .;")
@@ -202,9 +214,10 @@ def main():
     out = [
         "# Cumulative Vocabulary {.unnumbered}",
         "",
-        "Every word introduced in the course, with the lesson that introduces",
-        "it. Nouns are given with the article, verbs in the first person",
-        "singular present, adjectives in the masculine nominative singular.",
+        "Every word given in a lesson's vocabulary box, with the lesson that",
+        "introduces it. Nouns are given with the article, verbs in the first",
+        "person singular present (except where a single form is what was",
+        "taught), adjectives in the masculine nominative singular.",
         "",
         "This list is generated from the `vocab` blocks in the lesson files by",
         "`scripts/build_glossary.py`. Do not edit it by hand: run",

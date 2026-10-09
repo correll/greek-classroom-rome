@@ -43,7 +43,7 @@ was the load-bearing wall. You said that in Lesson seven. I wrote it down."
 
 "Four hundred years in the future," said Theodoros. "Homer is older than the
 article. He is older than Attic. He is older than Athens being anywhere in
-particular." He put the scroll down. "You have spent twelve lessons
+particular." He put the scroll down. "You have spent fourteen lessons
 learning one dialect of this language, extremely well, and this afternoon
 you are going to find out that it is a dialect, which is a thing nobody can
 be told. It has to happen to you."
@@ -79,8 +79,8 @@ sing*, is a contraction. Homer has **ἀείδω**, with both vowels still
 sounding, and the imperative **ἄειδε**. Attic squeezed; Homer had not yet.
 
 **Three. Endings that Attic simplified survive.** Genitives in **-οιο** and
-**-εω**, datives in **-οισι** and **-ῃσι**, where Attic has **-ου**, **-ου**
-and **-οις**. They are longer, and in verse that is often exactly why they
+**-εω**, datives in **-οισι** and **-ῃσι**, where Attic has **-ου**, **-ου**,
+**-οις** and **-αις**. They are longer, and in verse that is often exactly why they
 were kept.
 
 **Four. Word order is far freer, because the metre is in charge.** Homer is
@@ -92,7 +92,7 @@ the rhythm wants it. You cannot read Homer by expecting Attic prose order.
 Attic in its grammar; it is harder because it is *different*, and you cannot
 see a difference without a standard to see it against.
 
-You now have the standard. That is what the last twelve lessons were for.
+You now have the standard. That is what the last fourteen lessons were for.
 :::
 
 ## The third declension, at last
@@ -107,8 +107,9 @@ been told to wait for since Lesson 4. Here it is, on **ὁ ἀνήρ**, *man*.
 | **genitive** | **τοῦ ἀνδρός** | **τῶν ἀνδρῶν** |
 | **dative** | **τῷ ἀνδρί** | **τοῖς ἀνδράσι(ν)** |
 
-The endings are the thing to learn, because they are the same for every
-masculine and feminine noun of this declension: **-ς** or nothing, **-α**,
+The endings are the thing to learn, because they are the same for most
+masculine and feminine nouns of this declension (the ones whose stem ends
+in a consonant): **-ς** or nothing, **-α**,
 **-ος**, **-ι**; then **-ες**, **-ας**, **-ων**, **-σι(ν)**. Neuters, as
 always, have nominative and accusative alike, and **-α** in the plural
 (**τὸ ὄνομα**, **τὰ ὀνόματα**).
@@ -127,8 +128,9 @@ along; now the noun can too.
 
 ## Formulas
 
-Homer is built out of repeated phrases — **πολύτροπος Ὀδυσσεύς**,
-*swift-footed Achilles*, *the wine-dark sea* — and these are not laziness.
+Homer is built out of repeated phrases — **πολύμητις Ὀδυσσεύς**, *Odysseus
+of many wiles*; *swift-footed Achilles*; *the wine-dark sea* — and these are
+not laziness.
 They are the technique of a poet composing in performance, with a fixed
 rhythm to fill, who needs a phrase of exactly the right shape to hand.
 
@@ -149,7 +151,7 @@ who expected you to notice.
 
 ::: vocab
 - **ὁ ἀνήρ** — man *(as against a woman; third declension)*
-- **ἡ ναῦς** — ship
+- **ἡ ναῦς** — ship *(irregular; recognise it)*
 - **ὁ οἶκος** — house, home; **οἶκόνδε** — homeward
 - **πολύτροπος** — of many turns; much-travelled; resourceful
 - **ἄειδε** — sing! *(imperative; Attic would contract this)*
@@ -281,7 +283,7 @@ then ask somebody else to supply it — the poet does not claim to be the one
 who knows.
 
 **Now count the articles.** There are none. Not one, in either line. The
-word you have built twelve lessons on is simply not there, and the lines are
+word you have built fourteen lessons on is simply not there, and the lines are
 not ambiguous, because **ἄνδρα** and **μῆνιν** are accusative and say so
 with their endings.
 
@@ -294,10 +296,9 @@ That is the right relationship to have with Homer at this stage. Read, with
 help. Do not imitate.
 
 ::: teacheronly
-**Verify before teaching.** Both lines are quoted here from memory of the
-standard text and should be checked against the edition you are using — the
-accentuation of **Πηληϊάδεω Ἀχιλῆος** in particular varies between editions
-in ways that will confuse a class if the board and the book disagree.
+**Verify before teaching.** Both lines follow the standard text (see
+*Sources*) and should still be checked against the edition you are using,
+so that the board and the book do not disagree in front of a class.
 
 The same applies to the Cyclops passage in Lesson 16. Every Attic sentence
 in this course has been composed for it and is safe; the Homeric lines are
@@ -306,12 +307,12 @@ quotations and deserve the check the course asks of its pupils.
 :::
 
 ::: {.question time="5 min"}
-1. Homer asks a goddess to tell the story. Virgil, six hundred years later,
+1. Homer asks a goddess to tell the story. Virgil, seven hundred years later,
    writes *I sing*. What changed?
 2. The *Iliad* begins with wrath and the *Odyssey* with a man. Does a poem's
    first word commit it to anything?
 3. You have learned a dialect and have just been shown that it is one. Does
-   that make the last twelve lessons worth less, or more?
+   that make the last fourteen lessons worth less, or more?
 :::
 
 ::: {.story time="—"}

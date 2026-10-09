@@ -80,8 +80,9 @@ Some lines do the same thing with a form you have not had yet:
 *I mourn*, and **πενθοῦντες** is a **participle** — a verb turned into an
 adjective — and the article turns the adjective into a noun. *The ones
 mourning.* Participles are the subject of the next lesson. For now, treat
-**οἱ** + a word ending in **-οντες** or **-οῦντες** as *the people who are
-doing that*, and move on.
+**οἱ** + a word ending in **-οντες**, **-οῦντες** or **-ῶντες** (and, once,
+**-μένοι**) as *the people who are doing, or have had done to them, that*,
+and move on.
 
 ## The dative of respect
 
@@ -108,8 +109,8 @@ not asked to produce them.
 
 ::: latinbridge
 **The Latin is not wrong. It is gentler.** *Beati pauperes spiritu* is a
-faithful rendering by a translator who had no Latin word for **πτωχός** and
-chose the nearest. Every line has a choice like that in it. *Mites* for
+rendering by a translator who had a Latin word for the beggar — *mendicus*,
+which he uses of Lazarus — and chose not to use it here. Every line has a choice like that in it. *Mites* for
 **πραεῖς**; *misericordes* for **ἐλεήμονες**; *mundo corde* for **καθαροὶ τῇ
 καρδίᾳ** — the dative of respect carried straight across into the Latin
 ablative, which is the Latin that does that job.
@@ -127,13 +128,16 @@ a translator's choices in it, and now you can see them.
 - **ἡ γῆ** — earth, land
 - **καθαρός** — clean, pure
 - **ἡ καρδία** — heart
+- **αὐτός, αὐτή, αὐτό** — he, she, it; *(in the nominative)* emphatic: *they
+  themselves*
 - **τὸ πνεῦμα** — breath; wind; spirit *(neuter; dative **τῷ πνεύματι**)*
 - **ὁ οὐρανός** — heaven, sky *(Lesson 2; the Gospel uses the plural,
   **οἱ οὐρανοί**)*
 
 ::: note
-**μακάριος** is older than any religion in this room. In Homer **οἱ
-μάκαρες**, *the blessed ones*, are the gods — the beings whom nothing can
+**μακάριος** comes from a word older than any religion in this room. In
+Homer **οἱ μάκαρες** (from **μάκαρ**, the root of our word), *the blessed
+ones*, are the gods — the beings whom nothing can
 touch. The word is also used of the dead, who are past harm. It does not
 mean *lucky*; luck can turn. It means *in a state that trouble cannot
 reach*. That is what is being said of the beggar and the mourner, and it is
@@ -247,7 +251,8 @@ Words beyond the course list, glossed in order: **πενθέω** I mourn ·
 **ἕνεκεν** for the sake of (with the genitive).
 
 **Now look at the shape.** Eight lines; every one is *blessed — the group —
-because — they — will*. The first and last end with the same words, which
+because — they*, and six of them end *they will*; the first and last end
+*theirs is*, the same words, which
 closes the whole thing like a bracket. This is built to be remembered by
 people who could not read, and it was, and you are the proof.
 
@@ -260,8 +265,8 @@ hunger for. The word has not changed. What people wanted from it has.
 to notice an article's absence. This is what it is for.
 
 ::: teacheronly
-**Verify before teaching.** The text is quoted from memory of the standard
-Greek New Testament; check each verse against the edition in use, especially
+**Verify before teaching.** The text follows the standard Greek New
+Testament (see *Sources*); check each verse against the edition in use, especially
 the readings at 5:4–5, where some editions reverse the order of the two
 lines, and the form **κληρονομήσουσιν**.
 

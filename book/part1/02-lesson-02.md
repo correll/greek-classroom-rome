@@ -7,7 +7,8 @@ Felix arrived with a grievance.
 them yesterday. They are not there now."
 
 Theodoros examined the tablet. Somebody — the evidence suggested a thumb —
-had smudged the wax across two words, leaving gaps.
+had smudged the wax across two words, leaving gaps. By the time the class
+had gathered round, Theodoros had added three more words of his own.
 
 "They have not escaped," he said. "They have been murdered. Who sat next to
 you?"
@@ -82,8 +83,9 @@ worth the half-second.
 
 ## Where the voice goes
 
-Every Greek word of more than one syllable carries an accent, and the
-accent is part of the spelling — not an optional decoration.
+Almost every Greek word carries an accent — the exceptions are a few little
+words such as the article **ὁ**, **ἡ** and the negative **οὐ** — and the
+accent is part of the spelling, not an optional decoration.
 
 - **´** acute — the voice rises: **λόγος**
 - **῀** circumflex — the voice rises and falls within one long syllable:
@@ -189,24 +191,26 @@ been left off. Supply it, and say how you knew.
 **οἶκος** smooth · **ἡμι-** rough (compare Latin *semi-*).
 
 Two of these you could work out from rules alone (**ὑπέρ**, **ῥήτωρ**);
-two from a Latin cousin (**ὑπέρ** again, **ἡμι-**); and two you simply
-have to know. That ratio is about typical.
+two from a Latin cousin (**ὑπέρ** again, **ἡμι-**); and three (**ἄνθρωπος**,
+**ὁδός**, **οἶκος**) you simply have to know. That ratio is about typical.
 :::
 
 ::: {.exercise title="Diphthong or not?"}
 In each word, say how many *syllables* there are. Remember that a diphthong
 counts as one vowel.
 
-**οὐρανός** · **παιδεία** · **εὖ** · **ἀληθεία** · **οἰκία** · **θεοί**
+**οὐρανός** · **παιδεία** · **εὖ** · **ἀλήθεια** · **οἰκία** · **θεοί**
 :::
 
 ::: answers
-**οὐ-ρα-νός** 3 · **παι-δεί-α** 3 · **εὖ** 1 · **ἀ-λη-θεί-α** 4 ·
+**οὐ-ρα-νός** 3 · **παι-δεί-α** 3 · **εὖ** 1 · **ἀ-λή-θει-α** 4 ·
 **οἰ-κί-α** 3 · **θε-οί** 2.
 
-The trap is **-εία** and **-ία**: the **ι** there is not forming a
-diphthong with the **α** that follows, because **ια** is not on the list.
-Only the seven pairs in the table are diphthongs.
+The trap is **-εια**, **-εία** and **-ία**: the **ι** there is not forming
+a diphthong with the **α** that follows, because **ια** is not on the list.
+The seven pairs in the table (with the rarer **ηυ**, and the long
+diphthongs with a written-under iota that you meet in Lesson 6) are the
+only diphthongs there are.
 :::
 
 ::: {.exercise title="Marcus objects"}

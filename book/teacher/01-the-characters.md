@@ -97,7 +97,7 @@ He reads last in Lesson 30, having prepared properly for the first time.
 
 ### Julia Valeria — the precise one
 
-*Girl, 13, Marcus's older sister.*
+*Girl, 14, Marcus's older sister.*
 
 **For:** accuracy, and its cost. She notices endings and patterns before
 anyone else and will not commit until certain.
@@ -118,9 +118,9 @@ volunteering around this age.
 is usually first to notice that a textbook rule does not explain every
 sentence.
 
-**Shows it by:** giving everyone Greek nicknames, including the teacher, and
-labelling the household cat with a noun on the grounds that it counts as
-vocabulary practice.
+**Shows it by:** labelling a classmate **ὁ ἄνθρωπος** in Lesson 3, and the
+household cat likewise, on the grounds that it counts as vocabulary
+practice.
 
 **Arc:** his ear turns out to be a real talent. He becomes the pupil most
 interested in comparing everyday Koine with literary Attic, and Part IV
@@ -237,6 +237,7 @@ Use this when planning, and when deciding how much of a scene to act out.
 | 8 | the class | the tablet dispute; the genitive decides it |
 | 9 | Felix | his misdirected message to Theodoros |
 | 10 | Sabina | the increasingly unflattering adjectives |
+| 7 | Julia, Marcus, Livia | the article is not decoration; Livia reverses the proverb |
 | 11 | Marcus, Livia | Livia points out he has already answered four |
 | 13 | Quintus | a story is not a list of events |
 | 14 | Marcus | one past tense is not enough |
@@ -254,5 +255,4 @@ Use this when planning, and when deciding how much of a scene to act out.
 | 27 | Julia, Livia | the lexicon against the page; Livia asks for the verse before |
 | 28 | Aelia, Felix | letters home; Felix writes to the cat |
 | 29 | the class | three questions each; Marcus prepares and says nothing |
-| 30 | Marcus | reads the sentence he got wrong, and gets it right |
-| 30 | Marcus | reads last, prepared |
+| 30 | Marcus | reads last, prepared: the sentence he got wrong, got right |

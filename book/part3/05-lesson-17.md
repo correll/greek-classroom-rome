@@ -1,7 +1,7 @@
 # What Makes a Just Person?
 
 ::: {.story time="5 min"}
-Quintus had been asking for Plato since Lesson 5.
+Quintus had been asking for Plato since the first week.
 
 He had asked in the way that children ask for things they have decided are
 owed to them: at intervals, with increasing legal precision, and always just
@@ -18,10 +18,10 @@ not stupid, and I would rather not spend the afternoon on it."
 Quintus sat down with the expression of somebody who has been handed a sword
 and warned about the handle.
 
-"You will know every word," said Theodoros. "That is the first thing. There
-is no vocabulary in this sentence you have not had. **ὁ** you have had.
-**βίος** is new and I will give it to you. **ἄνθρωπος** you have had since
-the first week."
+"You will know nearly every word," said Theodoros. "That is the first
+thing. There are three words in this sentence you have not had, and I will
+give you all three. **ὁ** you have had. **βίος** is one of the three.
+**ἄνθρωπος** you have had since the first week."
 
 "Then where is the difficulty?"
 
@@ -53,7 +53,7 @@ Julia had been reading it from the back of the room. "It starts with
 "I have given you half of an argument," Theodoros agreed, "and I did it on
 purpose, and the half I have withheld is the half every translation into
 Latin also withholds, which is why educated men have been quoting this
-sentence wrongly for four hundred years." He put the chalk down. "Philosophy
+sentence wrongly for four hundred years." He put the charcoal down. "Philosophy
 in Greek is not difficult because the words are long. It is difficult because
 the words that carry the argument are two or three letters each, and nobody thinks
 they matter, and they are the only things that do."
@@ -171,8 +171,9 @@ Greek expecting that freedom you will skate over the **γάρ** and the **οὖ�
 as though they were noise, and you will lose the argument while translating
 every word of it correctly.
 
-And Latin has nothing for **μέν**. There is no Latin word to look up. You
-have to hear it.
+And Latin has only *quidem* for **μέν**, which does a fraction of the work.
+There is no word to look up that will hand you the sense. You have to hear
+it.
 :::
 :::
 
@@ -181,14 +182,15 @@ have to hear it.
 - **ἄδικος** — unjust
 - **ἡ δικαιοσύνη** — justice
 - **ὁ βίος** — life, a life as it is lived
+- **ὁ παῖς** — child, boy *(third declension; genitive **παιδός**)*
 - **μέν … δέ** — on the one hand … on the other *(both postpositive)*
 - **γάρ** — for, because *(postpositive)*
 - **οὖν** — therefore, so *(postpositive)*
 - **ὅς, ἥ, ὅ** — who, which
 
 ::: note
-**ἄδικος** is **δίκαιος** with the **ἀ-** of Lesson 4 stuck on the front:
-*not-just*. The same prefix you met in **ἀλήθεια**.
+**ἄδικος** is **δίκη**, *justice, right*, with the **ἀ-** of Lesson 4 stuck
+on the front: *not-just*. The same root gives **δίκαιος**. The same prefix you met in **ἀλήθεια**.
 
 **ὁ βίος is not ἡ ζωή.** You met **ζωή** in Lesson 5: life as against death,
 the bare fact of being alive. A plant has **ζωή**.
@@ -230,7 +232,7 @@ at the connector.
    Lesson 16, completing **δύναται**.
 4. *The book which I have is good.* — **ὅ** is neuter because **βιβλίον** is
    neuter, and accusative because it is the object of **ἔχω**. Both facts
-   come from the same two letters.
+   come from the same single letter.
 :::
 
 ::: {.exercise title="What tells you that?"}
@@ -334,13 +336,14 @@ sentence sits on a word in the dative at the very end.
 
 ::: teacheronly
 **Verify before teaching.** Check the line against your text of the
-*Apology*; the wording here is given from memory of the standard text and the
-punctuation of the surrounding passage varies between editions.
+*Apology*; the wording here follows the standard text (see *Sources*), and
+the punctuation of the surrounding passage varies between editions.
 
 **On what precedes it.** Socrates has just said that the greatest good for a
 human being is to spend each day discussing virtue and examining himself and
-others — and that his jury will believe this even less than what he has
-already told them. The **δέ** picks up that sentence. You do not need to
+others. The **δέ** picks up that sentence. He then adds — after the famous
+words, not before them — that his jury will believe this even less than
+what he has already told them. You do not need to
 teach the context in Greek; it is enough that the class knows the sentence is
 an answer, because the grammar has already told them so.
 
@@ -370,15 +373,15 @@ say?"
 
 "It says that the greatest good for a man is to spend every day talking about
 goodness and examining himself and other people." Theodoros was rolling the
-scroll. "And then it says that the jury will find that even harder to believe
-than everything else he has told them."
+scroll. "And after the famous part it says that the jury will find all of
+that even harder to believe than everything else he has told them."
 
 "So he knew."
 
 "He knew."
 
-"He knew they would not believe him, and he said it anyway, and then he said
-the famous part, and then they killed him."
+"He said the famous part, and then he said he knew they would not believe
+it, and then they killed him."
 
 "That is the order of events."
 

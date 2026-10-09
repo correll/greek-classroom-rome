@@ -85,9 +85,9 @@ And the nouns:
 | **gen. plur.** | **τῶν λόγων** | **τῶν ψυχῶν** | **τῶν οἰκιῶν** | **τῶν δώρων** |
 
 Note **τοῦ δώρου**. The nominative is **τὸ δῶρον**, with a circumflex; the
-genitive has an acute. That is the accent rule from last lesson doing its
-work: a circumflex cannot sit on the penultimate syllable when the last
-syllable is long, and **-ου** is long. The word has not changed its mind
+genitive has an acute. That is a second rule of the same family as last
+lesson's: a circumflex can stand on the penultimate syllable only when the
+last syllable is short, and **-ου** is long. The word has not changed its mind
 about anything. It is obeying the rule about weight.
 
 ::: note
@@ -104,7 +104,8 @@ worth memorising deliberately.
 ## Three prepositions that demand it
 
 Some prepositions insist on a particular case. Three common ones take the
-genitive, and all three have to do with *coming away from* something:
+genitive. Two of them, **ἐκ** and **ἀπό**, have to do with *coming away
+from* something; the third, **περί**, means *about*:
 
 - **ἐκ** (**ἐξ** before a vowel) — out of
 - **ἀπό** — from, away from
@@ -165,7 +166,9 @@ Translate, and say which word is in the genitive and what tells you.
 :::
 
 ::: answers
-1. *The house of the judge.* **τοῦ κριτοῦ** — **τοῦ** and **-οῦ**.
+1. *The house of the judge.* **τοῦ κριτοῦ** — **τοῦ** and **-οῦ**. (**ὁ
+   κριτής** is a masculine noun of the first declension; its genitive
+   borrows **-ου** from the second. Give the form; do not ask for it.)
 2. *The letters of the men.* **τῶν ἀνθρώπων** — **τῶν** and **-ων**.
 3. *The son of the teacher.* **τοῦ διδασκάλου**.
 4. *The days of time.* **τοῦ χρόνου**.
@@ -214,8 +217,8 @@ Translate.
    by their own language.
 
 The commonest error here is leaving the article off the genitive: **τὸ
-βιβλίον διδασκάλου**. It is not meaningless — it says *a book of a teacher*
-— but it is not what was asked for.
+βιβλίον διδασκάλου**. It is not meaningless — it says *the book of a
+teacher* — but it is not what was asked for.
 :::
 
 ::: {.exercise title="One ending"}
@@ -233,11 +236,12 @@ teacher had given him the tablet.
 1. **ὁ διδάσκαλος** — nominative, and it would have been a strange thing to
    scratch on a tablet.
 2. **ὁ υἱὸς τοῦ διδασκάλου**, or **τοῦ διδασκάλου ὁ υἱός**.
-3. Two: **-ος** against **-ου**. The point is not that Felix was careless.
-   It is that in Greek the difference between *the teacher* and *of the
-   teacher* is carried entirely by the last two letters of the word, so the
-   last two letters are not a detail you check afterwards. They are the
-   sentence.
+3. One: **-ος** against **-ου** differ only in their final letter, **ς**
+   against **υ** (the article, **ὁ** against **τοῦ**, adds two more). The
+   point is not that Felix was careless. It is that in Greek the difference
+   between *the teacher* and *of the teacher* can be carried entirely by
+   the last letter of the word, so the last letter is not a detail you
+   check afterwards. It is the sentence.
 :::
 :::
 
@@ -257,10 +261,13 @@ line of the New Testament.
 
 *A record of the descent of Jesus Christ, son of David, son of Abraham.*
 
-There is one nominative, at the front, and then the sentence simply chains
-genitives: a record **of** the descent **of** Jesus **of** David **of**
-Abraham. Each genitive hangs on the word before it. English needs the word
-*of* four times to do what Greek does with four endings.
+There is one nominative, at the front, and then the sentence is all
+genitives: a record **of** the descent **of** Jesus Christ, [who is] son
+**of** David, [who is] son **of** Abraham. The two **υἱοῦ** stand in the
+genitive because they are in apposition to **Ἰησοῦ Χριστοῦ** and agree
+with it in case; **Δαυίδ** and **Ἀβραάμ** then hang on each **υἱοῦ**.
+English needs the word *of* four times to do what Greek does with four
+endings.
 
 ::: note
 **Δαυίδ** and **Ἀβραάμ** do not change at all. They are Hebrew names, taken
@@ -283,8 +290,9 @@ uses the same ending to settle who someone is.
 1. Greek marks possession with an ending; English uses an apostrophe or the
    word *of*. Which is clearer? Which is shorter? Are those the same
    question?
-2. The genealogy runs backwards — son, then father, then father's father.
-   Why might you build a line that way rather than forwards?
+2. The title runs backwards — son, then ancestor, then remoter ancestor —
+   though the genealogy that follows it (Matthew 1:2–16) runs forwards.
+   Why might you build a title that way?
 3. **ἡ θυγάτηρ** appears in your vocabulary but not in the genealogy. Open
    the question of why, and see how far the class gets before the bell.
 :::

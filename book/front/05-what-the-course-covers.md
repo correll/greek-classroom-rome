@@ -13,7 +13,7 @@ even as the Greek gets harder. The timings assume a 45-minute period.
 | 1 | **The Story** | 5 min | A short scene in the classroom. |
 | 2 | **The New Greek** | 10 min | A few new words and **one** main grammatical idea. |
 | 3 | **The Investigation** | 15 min | You decode, translate, compare, or compose — and explain your reasoning. |
-| 4 | **The Ancient Voice** | 10 min | A passage by a real author. At first two words. By the end, whole passages. |
+| 4 | **The Ancient Voice** | 10 min | A passage by a real author. At first two words. By the end, whole passages — and, in the last lessons, the pupils' own choices from the book. |
 | 5 | **The Question** | 5 min | A short reflection. What does this mean? Why these words? Is the idea still live? |
 
 The third movement is the one that matters. Producing an English sentence is
@@ -21,11 +21,11 @@ not the exercise; being able to say **what in the Greek makes it that
 sentence** is the exercise.
 
 ::: note
-**Mystery sentences.** Every so often you will be given a sentence that
+**Mystery sentences.** The best test in this course is a sentence that
 contains nothing new — no unfamiliar word, no unfamiliar ending — but that
-you have certainly never seen before. These cannot be answered from memory,
-only from understanding. They are the best test in the course, and the most
-honest one.
+you have certainly never seen before. Many of the exercise sentences are
+built that way on purpose, and Lesson 29 is nothing else. These cannot be
+answered from memory, only from understanding.
 :::
 
 ## The five parts

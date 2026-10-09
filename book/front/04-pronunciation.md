@@ -112,20 +112,22 @@ exaggerated and is correct.
 | **ει** | [eː] | long close *e*; German *See* |
 | **ευ** | [eu] | *eh* + *oo*, run together |
 | **οι** | [oi] | *boil* |
-| **ου** | [uː] | *soup* |
+| **ου** | [oː] → [uː] | *soap*, becoming *soup* |
 | **υι** | [yi] | French *u* + *ee* |
 | **ηυ** | [ɛːu] | long *ai* + *oo* |
 
 ::: note
 **ει and ου are the odd ones.** By the fifth century these were no longer <!--nocheck-->
 true diphthongs in Attic but long single vowels — **ει** a close long
-*e*, **ου** a long *oo*. They are spelled as digraphs for historical
+*e*, **ου** a close long *o* that became a long *oo* during the fourth
+century. They are spelled as digraphs for historical
 reasons. Erasmian pronounces **ει** as *ay* in *day*, which is close
 enough that confusion is rare.
 :::
 
 **Iota subscript.** When a long **ᾱ η ω** was followed by an **ι**, the
-iota stopped being pronounced in Attic and came to be written underneath:
+iota ceased to be pronounced in the Hellenistic period and, in Byzantine
+manuscripts, came to be written underneath:
 **ᾳ ῃ ῳ**. Under a capital it is written beside instead, and called *iota
 adscript*: **ᾼ**. Do not pronounce it. Do not ignore it either — it is
 often the only thing distinguishing a dative from a nominative.
@@ -157,7 +159,7 @@ Greek weakened to *h* and then, in writing, to a small hook.
 
 Greek accents mark **pitch**, not stress. The accented syllable was sung
 slightly higher, not hit harder — about a musical fifth higher, according
-to the first-century writer Dionysius of Halicarnassus.
+to Dionysius of Halicarnassus, writing in the first century BC.
 
 - **Acute** **´** — the voice rises on that syllable: **λόγος**.
 - **Circumflex** **῀** — the voice rises and falls within one long
@@ -178,7 +180,7 @@ you sing it or stress it, put it in the right place.
 
 Accents were not written in the classical period at all — they were
 invented by Alexandrian scholars around 200 BC to help non-native readers.
-Theodoros's battered Homer would have had none. Yours does, and you should
+Theodoros's battered Homer would have had few, if any. Yours does, and you should
 be grateful.
 :::
 

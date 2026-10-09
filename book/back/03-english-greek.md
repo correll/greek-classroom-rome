@@ -34,6 +34,7 @@ than editing it by hand.
 | anger | **ἡ μῆνις** | 15 |
 | answer | **ἀποκρίνομαι** | 25 |
 | anything written | **ἡ γραφή** | 3 |
+| as | **ὥσπερ** | 20 |
 | ask | **ἐρωτάω** | 25 |
 | at once | **εὐθύς** | 14 |
 | at that time | **τότε** | 13 |
@@ -57,8 +58,9 @@ than editing it by hand.
 | bless | **εὐλογέω** | 20 |
 | blessed | **μακάριος** | 21 |
 | book | **τὸ βιβλίον** | 3 |
+| boy | **ὁ παῖς** | 17 |
 | breath | **τὸ πνεῦμα** | 21 |
-| bring | **φέρω** | 11 |
+| bring | **φέρω**, **ἄγω** | 11, 20 |
 | brother | **ὁ ἀδελφός** | 28 |
 | but | **ἀλλά** | 4 |
 
@@ -71,12 +73,13 @@ than editing it by hand.
 | can | **δύναμαι** | 16 |
 | carry | **φέρω** | 11 |
 | certain | **τις, τι** | 25 |
-| child | **τὸ παιδίον** | 23 |
+| child | **ὁ παῖς**, **τὸ παιδίον** | 17, 23 |
 | clean | **καθαρός** | 21 |
 | come to know | **γιγνώσκω** | 5 |
 | command | **κελεύω** | 26 |
 | compassion | **τὸ ἔλεος** | 20 |
 | concerning | **περί** | 8 |
+| consent | **ἐθέλω** | 11 |
 | cunning | **ὁ δόλος** | 16 |
 
 ## D
@@ -97,6 +100,7 @@ than editing it by hand.
 | | | |
 |:--|:--|:--:|
 | earth | **ἡ γῆ** | 21 |
+| emphatic: they themselves | **αὐτός, αὐτή, αὐτό** | 21 |
 | eternity | **ὁ αἰών** | 20 |
 | even | **καί** | 2 |
 | ever | **ἀεί** | 13 |
@@ -142,6 +146,7 @@ than editing it by hand.
 | happened | **ἐγένετο** | 14 |
 | have | **ἔχω** | 5 |
 | having seen | **ἰδών** | 22 |
+| he | **αὐτός, αὐτή, αὐτό** | 21 |
 | hear | **ἀκούω** | 11 |
 | heart | **ἡ καρδία** | 21 |
 | heaven | **ὁ οὐρανός** | 2 |
@@ -166,7 +171,9 @@ than editing it by hand.
 | in the midst of | **ἐντός** | 27 |
 | in the presence of | **πρός** | 6 |
 | inside | **ἐντός** | 27 |
+| into | **εἰς** | 14 |
 | is necessary | **δεῖ** | 26 |
+| it | **αὐτός, αὐτή, αὐτό** | 21 |
 
 ## J
 
@@ -175,6 +182,7 @@ than editing it by hand.
 | journey home | **ὁ νόστος** | 16 |
 | judge | **ὁ κριτής** | 4 |
 | just | **δίκαιος** | 17 |
+| just like | **ὥσπερ** | 20 |
 | justice | **ἡ δικαιοσύνη** | 17 |
 
 ## K
@@ -192,6 +200,7 @@ than editing it by hand.
 |:--|:--|:--:|
 | land | **ἡ γῆ** | 21 |
 | large | **μέγας** | 10 |
+| lead | **ἄγω** | 20 |
 | learn | **μανθάνω** | 11 |
 | letter | **ἡ ἐπιστολή** | 9 |
 | letters | **τὰ γράμματα** | 7 |
@@ -216,6 +225,7 @@ than editing it by hand.
 | man | **ὁ ἀνήρ** | 15 |
 | many | **πολλοί** | 7 |
 | master | **ὁ κύριος** | 19 |
+| measure | **τὸ μέτρον** | 12 |
 | mercy | **τὸ ἔλεος** | 20 |
 | message | **ἡ ἐπιστολή** | 9 |
 | mother | **ἡ μήτηρ** | 28 |
@@ -228,7 +238,7 @@ than editing it by hand.
 | name | **τὸ ὄνομα** | 8 |
 | neighbour | **ὁ πλησίον** | 22 |
 | noble | **καλός** | 10 |
-| not | **οὐ**, **μή** | 2, 26 |
+| not | **οὐ (οὐκ, οὐχ)**, **μή** | 2, 26 |
 | now | **νῦν** | 11 |
 
 ## O
@@ -247,6 +257,7 @@ than editing it by hand.
 | order | **κελεύω**, **ὁ κόσμος** | 26, 27 |
 | origin | **ἡ ἀρχή** | 6 |
 | ornament | **ὁ κόσμος** | 27 |
+| out of | **ἐκ, ἐξ** | 8 |
 | overtake | **καταλαμβάνω** | 27 |
 
 ## P
@@ -287,6 +298,7 @@ than editing it by hand.
 | seize | **καταλαμβάνω** | 27 |
 | self | **ἡ ψυχή** | 1 |
 | send | **πέμπω** | 9 |
+| she | **αὐτός, αὐτή, αὐτό** | 21 |
 | shepherd | **ὁ ποιμήν**, **ποιμαίνω** | 20, 20 |
 | ship | **ἡ ναῦς** | 15 |
 | show mercy | **ἐλεέω** | 22 |
@@ -307,6 +319,7 @@ than editing it by hand.
 | speaks | **λέγει** | 4 |
 | speech | **ὁ λόγος** | 1 |
 | spirit | **τὸ πνεῦμα** | 21 |
+| standard | **τὸ μέτρον** | 12 |
 
 ## T
 
@@ -324,6 +337,7 @@ than editing it by hand.
 | then | **τότε** | 13 |
 | therefore | **οὖν** | 17 |
 | time | **ὁ χρόνος** | 7 |
+| to | **εἰς** | 14 |
 | together with | **σύν** | 9 |
 | towards | **πρός** | 6 |
 | trick | **ὁ δόλος** | 16 |
@@ -355,7 +369,7 @@ than editing it by hand.
 | wind | **τὸ πνεῦμα** | 21 |
 | wisdom | **ἡ σοφία** | 16 |
 | wise | **σοφός** | 10 |
-| wish | **ἐθέλω**, **βούλομαι**, **εὔχομαι** | 11, 16, 28 |
+| wish | **βούλομαι**, **εὔχομαι** | 16, 28 |
 | with | **πρός** | 6 |
 | witness | **ὁ μάρτυς** | 4 |
 | word | **ὁ λόγος** | 1 |
@@ -363,12 +377,11 @@ than editing it by hand.
 | world | **ὁ κόσμος** | 27 |
 | wrath | **ἡ μῆνις** | 15 |
 | write | **γράφω** | 5 |
-| write to you | **γράφω σοι** | 28 |
 | writing | **ἡ γραφή**, **τὰ γράμματα** | 3, 7 |
 | wrote | **ἔγραψα** | 14 |
 
-## Ἐ
+## Y
 
 | | | |
 |:--|:--|:--:|
-| ἐξ — out of | **ἐκ** | 8 |
+| you | **σύ** | 11 |

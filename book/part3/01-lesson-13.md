@@ -78,7 +78,8 @@ there; it has been absorbed.
 | 3 plur. | **λέγουσι(ν)** | **ἔλεγον** |
 
 ::: note
-**The first and third person singular look identical: ἔλεγον.** This is not
+**The first person singular and the third person plural look identical:
+ἔλεγον.** This is not
 a misprint and it is not fixable. Greek lived with it quite happily, because
 in a real sentence the subject is almost never in doubt.
 
@@ -112,9 +113,10 @@ Latin marks it with **-ba-** in the middle of the word. Greek marks it with
 an augment at the front and new endings at the back. Same idea, opposite
 ends of the word.
 
-What Latin does **not** have is the distinction you meet next lesson. Keep
-Marcus's objection in mind: he is about to be right about Latin and wrong
-about Greek.
+What Latin does **not** do is carry that distinction beyond the indicative
+— which is the part of next lesson Marcus is not expecting. Keep his
+objection in mind: he is about to be right about Latin and wrong about
+Greek.
 :::
 :::
 

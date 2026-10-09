@@ -126,7 +126,7 @@ helpful.
 - **ἐντός** — inside; in the midst of *(with the genitive)*
 - **ἰδού** — behold, look *(an interjection, from **εἶδον**)*
 - **τὸ φῶς** — light *(genitive **φωτός**)*
-- **ἡ σκοτία** — darkness *(Koine; Attic **τὸ σκότος**)*
+- **ἡ σκοτία** — darkness *(Koine; Attic usually **ὁ σκότος**)*
 - **ὁ κόσμος** — order; ornament; the world *(three corners of one field)*
 - **ἡ δόξα** — opinion; reputation; glory *(the same word, moving)*
 - **καταλαμβάνω** — I seize, overtake; grasp, understand *(aorist
@@ -270,8 +270,8 @@ a decision, and the decision is yours, and you owe the reader an account of
 it.
 
 ::: teacheronly
-**Verify before teaching.** The passage is quoted from memory of the
-standard Greek New Testament; check verse 20 in particular, where the
+**Verify before teaching.** The passage follows the standard Greek New
+Testament (see *Sources*); check verse 21 in particular, where the
 punctuation after **ἐροῦσιν** and the form **ἤ** vary between editions.
 
 **On adjudicating.** The lesson gives Livia the stronger argument *on this

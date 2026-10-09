@@ -6,8 +6,8 @@
 "Should it."
 
 "It is a past. The thing happened. It is behind us. What more is there to
-say about it?" He was enjoying himself. "Latin has two and that is already
-one too many. Greek will no doubt have four."
+say about it?" He was enjoying himself. "Latin has three and that is already
+two too many. Greek will no doubt have four."
 
 "Greek has rather more than four," said Theodoros, "but today you get one,
 and I will trade you for it." He wrote on the board:
@@ -42,7 +42,7 @@ dicere.*"
 Greek, and nothing in the difference has anything whatever to do with the
 past." Theodoros sat down. "That is what you are getting today. Not another
 past tense. A second question Greek asks about every verb, which Latin asks
-only sometimes and English hardly asks at all."
+only sometimes and English asks in a different place."
 :::
 
 ::: {.newgreek time="10 min"}
@@ -139,6 +139,7 @@ irritation.
 - **ἐγένετο** — it happened, it became, it came to be
 - **εὐθύς** — at once, immediately
 - **τέλος** — finally, in the end
+- **εἰς** — into, to *(with the accusative)*
 
 ::: note
 **ἐγένετο** is a third person singular aorist of a verb whose endings you
@@ -216,7 +217,7 @@ Say whether each is imperfect or aorist, and what told you.
 2. **ἔγραφον τὴν ἐπιστολήν.**
 3. **εἶπε τὸν λόγον.**
 4. **εὐθὺς ἦλθον.**
-5. **τέλος εἶπε ὁ διδάσκαλος τὴν ἀλήθειαν.**
+5. **τέλος εἶπεν ὁ διδάσκαλος τὴν ἀλήθειαν.**
 
 1 and 2 are the examination, and a pupil who produces the same Greek for
 both has not understood the lesson however well they know the endings. Watch
@@ -306,6 +307,7 @@ of his own.
 
 The heading read: **things Latin cannot do**.
 
-It had one entry that afternoon. By the end of Part V it had eleven, and he
-had stopped writing it in a tone of complaint some time around the fourth.
+It had one entry that afternoon. By the end of Part V it had grown to a
+column, and he had stopped writing it in a tone of complaint some time
+around the fourth.
 :::

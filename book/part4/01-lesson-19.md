@@ -41,12 +41,20 @@ the house*, and the people who chose the word meant you to."
 
 Theodosius was quiet for a while.
 
+::: teacheronly
+**On κύριος for the Name.** The earliest surviving Septuagint manuscripts
+write the divine name in Hebrew letters or as **ΙΑΩ**; that **κύριος** was
+the translators' own choice, rather than the reading convention that later
+replaced it in Christian copies, is the traditional view and is disputed.
+Theodoros gives the traditional view, as a teacher in AD 400 would.
+:::
+
 "I thought I knew that word," he said eventually.
 
 "You knew the Latin. You knew what it had come to mean. You are now going to
 learn what it meant before that, and then what it meant in between, and by
 the end of this part of the course you will know it the way the man who
-wrote it down knew it." Theodoros picked up the chalk again. "This is going
+wrote it down knew it." Theodoros picked up the charcoal again. "This is going
 to happen to you about six times in the next six lessons, and the first time
 is the worst."
 :::
@@ -83,8 +91,8 @@ That is not a failure of your Greek. It is what translation is.
 
 The range also shifts with time. A word in Homer, the same word in Plato,
 and the same word in the Gospel of John may sit in three different places,
-because four hundred years passed between each and people were using it the
-whole while.
+because three or four centuries passed between each and people were using
+it the whole while.
 
 Three of this lesson's words show it clearly.
 
@@ -121,8 +129,9 @@ not the Greek's.
 *Caritas* is the clearest case. It is the ordinary Latin for *dearness* —
 including high prices; *annonae caritas* is the cost of corn. The
 translators used it for **ἀγάπη** because the obvious word, *amor*, carried
-associations they did not want. So the Latin you know for *love* began as a word
-for *expensive*. The Greek never did.
+associations they did not want. So the Latin you know for *love* is a word
+that also meant *dearness* in the sense of high prices, and Cicero used it
+for both. The Greek never did.
 
 Knowing the Latin is a help. Trusting it is a mistake. Hold each word up
 against the Greek and look for where they fail to overlap.
@@ -148,8 +157,8 @@ asked of you yet.
 :::
 
 ::: {.investigation time="15 min"}
-Theodoros said that two of these sentences were from the Gospels and the
-rest were his, and that they should be able to tell which by the end.
+Theodoros said that one sentence in each exercise was from Scripture and
+the rest were his, and that they should be able to tell which by the end.
 
 ::: {.exercise title="Translate"}
 1. **ὁ θεὸς ἀγάπη ἐστίν.** *(1 John 4:8)*
@@ -218,7 +227,7 @@ The exercise has no wrong answers and several bad ones. Mark the *reason*.
 :::
 
 ::: {.voice time="10 min" source="Plato's idiom; Psalm 32:6 (LXX); John 1:1"}
-One word, three centuries apart, three times.
+One word, centuries apart, three times.
 
 **In Athens.** **λόγος** is what a citizen gives when he is called to
 account — **λόγον διδόναι**, *to give an account*, is what you do before a
@@ -257,8 +266,8 @@ mostly. To learn that the old ones were larger than you thought.
 
 ::: teacheronly
 **Verify before teaching.** The Psalm is 32:6 in the Septuagint's numbering
-(33:6 in the Hebrew and in most English Bibles) and is quoted from memory of
-the standard text; check it against the edition in use. The Plato material is
+(33:6 in the Hebrew and in most English Bibles) and follows the standard
+text (see *Sources*); check it against the edition in use. The Plato material is
 idiom, not quotation, and is presented as such; do not let it be written on
 the board as a sentence "from Plato."
 

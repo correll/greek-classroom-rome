@@ -68,6 +68,8 @@ before:
 | **dat. sing.** | **ἀγαθῷ** | **ἀγαθῇ** | **ἀγαθῷ** |
 | **nom. plur.** | **ἀγαθοί** | **ἀγαθαί** | **ἀγαθά** |
 | **acc. plur.** | **ἀγαθούς** | **ἀγαθάς** | **ἀγαθά** |
+| **gen. plur.** | **ἀγαθῶν** | **ἀγαθῶν** | **ἀγαθῶν** |
+| **dat. plur.** | **ἀγαθοῖς** | **ἀγαθαῖς** | **ἀγαθοῖς** |
 
 The masculine is **ὁ λόγος**. The feminine is **ἡ ψυχή**. The neuter is
 **τὸ δῶρον**. There is nothing new in this table at all — it is three nouns
@@ -124,9 +126,11 @@ it gets its name.
 Latin cannot do this, and the reason is Lesson 3: Latin has no article, so
 it has no inside and outside of an article group to put the adjective in.
 
-*Bonus homo* and *homo bonus* both mean *the good man*, and if a Latin
-writer wants *the man is good* they must supply *est*. Greek gets the same
-sentence for nothing, by moving one word.
+*Bonus homo* and *homo bonus* both mean *the good man*, and a Latin writer
+who wants *the man is good* normally supplies *est* — or leaves the reader
+to guess from context, since Latin can drop the verb too but has no article
+to show that it has done so. Greek gets the same sentence for nothing, by
+moving one word.
 
 This is the clearest case in the course of the article earning its keep.
 :::
@@ -248,8 +252,9 @@ Sabina wrote **ὁ κακὸς υἱός** about Felix.
 3. The second is the accusation: it asserts. The first merely names him,
    the way *the bad son* names a character in a story. Sabina chose the
    weaker of the two, whether or not she knew it.
-4. *Sabina is wise* asserts: the adjective stands outside the article.
-   *The wise Sabina* describes: it stands inside. He would have preferred
+4. **σοφὴ ἡ Σαβῖνα** — *Sabina is wise* — asserts: the adjective stands
+   outside the article. **ἡ σοφὴ Σαβῖνα** — *the wise Sabina* — describes:
+   it stands inside. He would have preferred
    the first, because it is a judgement he is willing to defend, and the
    second is a title he is not willing to award in front of Marcus.
 :::
@@ -280,15 +285,16 @@ So the three words after **εἰμι** are a single thing being claimed:
 *the-good-shepherd*. That is what the speaker says he is. One small word
 holds it together.
 
-This is the third **ἐγώ εἰμι** you have met — Aelia's, then the way and the
-truth and the life in Lesson 5, and now this. The pronoun is doing in all of them what it
-did for Aelia: putting the weight on the speaker.
+This is the latest of several **ἐγώ εἰμι** sentences you have met —
+Aelia's, and the way and the truth and the life, in Lesson 5; and now this.
+The pronoun is doing in all of them what it did for Aelia: putting the
+weight on the speaker.
 
 ::: note
 Koine, and from John again. The course's own sentences are Attic throughout,
-and Part III brings Homer and Plato; these three gospel sentences were chosen
-because you could read them in your first term, not because the New
-Testament is the centre of the course.
+and Part III brings Homer and Plato; the gospel sentences so far — six of
+them — were chosen because you could read them in your first term, not
+because the New Testament is the centre of the course.
 :::
 :::
 
@@ -307,7 +313,7 @@ Testament is the centre of the course.
 The list was returned to Sabina at the end of term, folded, with one
 addition in Theodoros's hand at the bottom.
 
-> **ἡ σοφὴ Σαβίνα.**
+> **ἡ σοφὴ Σαβῖνα.**
 
 Inside the article group. A description, not a judgement — and therefore,
 as she pointed out to him immediately, not something he had actually

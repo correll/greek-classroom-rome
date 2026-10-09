@@ -32,8 +32,9 @@ stools with wax tablets on their knees. They have reed pens, papyrus for more
 important work, and a battered copy of Homer that their teacher guards as if
 it were a relic.
 
-There is no blackboard, no textbook in every student's hands, and no
-dictionary. They learn by recitation, copying, memorisation, translation,
+There is no blackboard as we know it — Theodoros writes with charcoal on a
+whitened wooden board — and no textbook in every student's hands. They
+learn by recitation, copying, memorisation, translation,
 questions, and short compositions — which is to say, by very nearly the
 methods still used today, minus the paper.
 
@@ -58,5 +59,6 @@ Work out which is which.
 
 The characters speak Latin among themselves. The narrative and the classroom
 explanations are given in English, for you. Their target language — and
-yours — is Classical Attic Greek, with Koine passages from the Septuagint and
-New Testament arriving in Part IV.
+yours — is Classical Attic Greek, with short Koine sentences from the New
+Testament from Lesson 4 on, and the Septuagint and the Gospels studied in
+their own right in Part IV.

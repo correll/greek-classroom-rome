@@ -75,8 +75,8 @@ rule of life. An aorist imperative asks for a *deed* — once, now, complete.
 - **εἰπέ μοι** — aorist. *Tell me.* One answer, now.
 
 You have met this difference in the indicative (Lesson 14), the infinitive
-(Lesson 16) and the participle (Lesson 22). The imperative is the fourth and
-last place it lives, and it is the place where it matters most in daily
+(Lesson 16) and the participle (Lesson 22). The imperative is the fourth
+and, for this course, the last place it lives, and it is the place where it matters most in daily
 speech, because most of what people say to each other is commands.
 
 ## Saying *don't*
@@ -122,8 +122,8 @@ Greek keeps these apart with its verbs, not its moods.
   — which is to say, *I obey*. In Greek, to obey is to have been
   convinced.
 
-That last one is worth a moment. The language does not have a word for
-obedience that is not also a word for being persuaded. A Greek who obeys
+That last one is worth a moment. The ordinary classical word for obeying
+is simply the middle of the word for persuading. A Greek who **πείθεται**
 has, by the grammar, agreed.
 
 ::: latinbridge
@@ -233,7 +233,7 @@ Here is Marcus's conclusion with its reason.
 :::
 :::
 
-::: {.voice time="10 min" source="Carved at Delphi; quoted by Plato, *Charmides* 164e and *Protagoras* 343b"}
+::: {.voice time="10 min" source="Carved at Delphi; quoted by Plato, *Charmides* 164d–165a and *Protagoras* 343b"}
 The two sentences you began with, for the third and last time. You copied
 them in Lessons 1 and 2 before you could read a letter. You can now explain
 every mark in them.
@@ -249,8 +249,8 @@ every mark in them.
 Aorist. Not *be always getting to know yourself* — which a present
 imperative would say — but *come to know yourself*: arrive, once, at the
 knowledge. The form implies that the thing can be done and that it has not
-been done yet. Those are both claims, and the Greeks carved them over the
-door of their holiest place.
+been done yet. Those are both claims, and the Greeks carved them in the
+forecourt of their holiest temple.
 
 **μηδὲν ἄγαν**
 
@@ -283,8 +283,10 @@ takes the argument apart. The lesson fails if he is made ridiculous; it
 works if he is made right about the Greek and wrong about the world, in
 that order, and knows which is which by the end.
 
-**On πείθομαι.** The note that Greek has no word for obedience that is not
-also a word for having been persuaded is accurate and worth a minute. It is
+**On πείθομαι.** The observation that the ordinary word for obeying is the
+middle of the word for persuading is worth a minute. (Koine has
+**ὑπακούω** as well, which has nothing to do with persuasion; the point is
+about **πείθομαι**, not about the whole language.) It is
 also the answer to a question a thoughtful pupil may ask about why
 **κελεύω** and **πείθω** are different verbs at all.
 :::

@@ -61,7 +61,8 @@ different people for different ends. Here is where they part.
 | | Attic | Koine |
 |:--|:--|:--|
 | **Reported speech** | accusative + infinitive: **λέγει τὸν ἄνθρωπον ἀγαθὸν εἶναι** | **ὅτι** + ordinary verb: **λέγει ὅτι ὁ ἄνθρωπος ἀγαθός ἐστιν** |
-| **Purpose and wish** | infinitive; a mood called the optative | **ἵνα** + a verb; the optative nearly gone |
+| **Purpose** | **ἵνα**, **ὅπως** + subjunctive (a mood called the optative after a past tense) | **ἵνα** + a verb; the optative nearly gone |
+| **Wish, command** | infinitive: **βούλομαι** + infinitive | **θέλω ἵνα** + a verb, or an infinitive |
 | **Sentence shape** | long, subordinate, held together by **μέν … δέ, γάρ, οὖν** | short, coordinated, strung on **καί** and **δέ**; **μέν** rare |
 | **Pronouns** | dropped — the ending carries them | often written: **ἐγώ**, **σύ**, **ὑμεῖς** |
 | **The dative** | in full use | receding; **ἐν** and **εἰς** doing its work |
@@ -81,8 +82,8 @@ losing ground to **ὅτι** + an ordinary verb, which is how English does it
 too. A Koine writer can do both. Attic writers strongly preferred the
 infinitive.
 
-**Two. ἵνα spreads.** In Attic **ἵνα** means *in order that* and nothing
-else. In Koine it spreads to cover *that* after verbs of wanting, asking,
+**Two. ἵνα spreads.** In Attic prose **ἵνα** means *in order that* and
+almost nothing else. In Koine it spreads to cover *that* after verbs of wanting, asking,
 commanding — **θέλω ἵνα**, *I want that*, where Attic would have **βούλομαι**
 plus an infinitive. You will meet it constantly in the Gospels. Recognise
 it; the verb form after it is one you have not learned.
@@ -105,8 +106,9 @@ another. Koine was a language of everyone.
 ::: latinbridge
 **Latin had the same two registers and you already know both.** Cicero's
 periods and the Vulgate's *et … et … et* are the Latin of the senate and the
-Latin of the street, and Jerome chose the street on purpose, for the same
-reason the Gospel writers did: so that the people the book was for could
+Latin of the street. The Old Latin translators chose the street on
+purpose, and Jerome, revising them, kept it, for the same reason the
+Gospel writers did: so that the people the book was for could
 read it.
 
 So you are not learning a new distinction. You are learning that Greek has
@@ -230,9 +232,9 @@ somebody who has just read the sentence before it.
 
 *You will know the truth, and the truth will set you free.*
 
-Koine: two short clauses joined by **καί**; a pronoun written out
-(**ὑμᾶς**) where Attic might have left it; the key word repeated rather
-than replaced by a relative; verbs in the future, plain and concrete. It is
+Koine: two short clauses joined by **καί** where Attic might have
+subordinated one to the other; the key word repeated rather than replaced
+by a relative; verbs in the future, plain and concrete. It is
 a sentence that expects to be heard once, by a crowd, and remembered.
 
 **Now set them side by side.** Both are about truth and a life. Both are
@@ -252,8 +254,8 @@ promise: you will, and it will. Each variety is doing what it was shaped to
 do, by the people who shaped it.
 
 ::: teacheronly
-**Verify before teaching.** Both quotations are given from memory of the
-standard texts and should be checked against the editions in use. John 8:32
+**Verify before teaching.** Both quotations follow the standard texts (see
+*Sources*) and should be checked against the editions in use. John 8:32
 is stable across editions; confirm the accent on **ἐλευθερώσει**.
 
 **On the comparison.** The temptation to harmonise Socrates and John is

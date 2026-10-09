@@ -5,8 +5,7 @@
 you have. I will mark it as I would mark a letter from a grown man, and I
 will mark it on whether it would have been understood."
 
-Aelia wrote to a cousin in Antioch, which she had been planning to do since
-Part IV, and filled two tablets with the correct formulas and a great many
+Aelia wrote to a cousin in Antioch, and filled two tablets with the correct formulas and a great many
 questions about the harbour.
 
 Quintus wrote to Socrates, on the grounds that the exercise had not
@@ -17,7 +16,7 @@ Felix wrote to the cat.
 **Φῆλιξ τῷ αἰλούρῳ χαίρειν.** *Felix to the cat, greetings.* **πρὸ μὲν
 πάντων εὔχομαί σε ὑγιαίνειν.** *Before all else I pray that you are well.*
 **σὺ εἶ ὁ κύριος τοῦ οἴκου.** *You are the master of the house.* **ἐγὼ
-δὲ οὐ.** *I, however, am not.* **ἔρρωσο.** *Farewell.*
+δὲ οὔ.** *I, however, am not.* **ἔρρωσο.** *Farewell.*
 
 Theodoros read it twice and marked it in silence, and then read it aloud
 to the class, and then said that it was correct in every particular, that
@@ -79,8 +78,9 @@ times as there are people to greet. **ἀσπάζομαι τὸν ἀδελφό�
 Lesson 16's family.
 
 **The close.** One word: **ἔρρωσο** — *be strong*, *farewell*. (To more than
-one person, **ἔρρωσθε**.) It is an imperative from Lesson 26, and the verb
-it comes from, **ῥώννυμι**, you need not learn: the one form is the one
+one person, **ἔρρωσθε**.) It is an imperative — a perfect one, a form you
+need not learn — and the verb it comes from, **ῥώννυμι**, you need not
+learn either: the one form is the one
 everybody used.
 
 ## Writing within your range
@@ -118,7 +118,6 @@ read.
 - **ἡ ἀδελφή** — sister
 - **ὁ πατήρ** — father *(genitive **πατρός**; Lesson 16's Homer had it)*
 - **ἡ μήτηρ** — mother *(genitive **μητρός**)*
-- **γράφω σοι** — I write to you *(dative of the person written to)*
 
 ::: note
 **ὑγιαίνω** gives English *hygiene*. **ἀσπάζομαι** is the verb behind every
@@ -126,8 +125,10 @@ greeting at the end of every letter in the New Testament — *greet
 so-and-so* — and it means, originally, to draw someone to yourself; it is
 the word for an embrace.
 
-Three of the ten entries are **-ομαι** verbs. By now you can use them in
-the forms given without needing the rest of the family.
+Two of the entries are **-ομαι** verbs, and **ἔρρωσο** is a middle form
+too. By now you can use them in the forms given without needing the rest
+of the family. **γράφω** takes the dative of the person written to:
+**γράφω σοι**, *I write to you*.
 :::
 :::
 
@@ -234,7 +235,7 @@ because when I was in danger at sea he saved me at once.*
 father, once of a god, and the same word for both. **ἀδελφή**, **θυγάτηρ**,
 **ἀδελφός**: a family, in the cases you learned in Lesson 8. **ὅτι** meaning
 *because*. **θάλασσα** in the Koine spelling. **εὐθέως**. A sailor from
-Egypt, writing in about AD 150, used almost nothing you have not had.
+Egypt, writing in the second century AD, used almost nothing you have not had.
 
 **And notice what the letter does with the formulas.** It fills them. The
 health wish is not an empty phrase; he has just nearly drowned, and *I pray
@@ -243,7 +244,8 @@ every Greek letter had turns out to hold a real event, when a real person
 writes in it.
 
 The original is full of spellings no grammar would allow — he writes
-**ἐρωμένον** for **ἐρρωμένον** and gets the god's name slightly wrong — and
+**ἐρωμένον** for **ἐρρωμένον**, **Μησήνους** for Misenum, **χέραν** for
+**χεῖρα** — and
 the letter has been read and understood by every scholar who has handled it
 since it came out of the sand. Aim for Apion.
 
@@ -265,7 +267,7 @@ reason is given in the scene: the task was correct Greek, and his is
 correct. If a class feels the mark is unfair, that is a good argument to
 have, and the honest answer is that a longer correct letter and a shorter
 correct letter have both done what was asked. Do not raise Aelia's mark;
-if anything, point out that Felix's **ἐγὼ δὲ οὐ** is a **μέν**-less **δέ**
+if anything, point out that Felix's **ἐγὼ δὲ οὔ** is a **μέν**-less **δέ**
 used with real wit.
 
 **On Quintus's letter to Socrates.** Allow it. The instruction did not say

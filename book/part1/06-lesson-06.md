@@ -4,7 +4,7 @@
 Theodoros was at the board before anyone sat down, and he did not say good
 morning.
 
-He wrote seventeen words, put the chalk down, and sat.
+He wrote seventeen words, put the charcoal down, and sat.
 
 > **Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.**
 
@@ -16,7 +16,8 @@ He wrote seventeen words, put the chalk down, and sat.
 
 "I have looked at it enough. There are words there we have never seen. That
 one, and that one, and whatever that is." He pointed at three of them,
-correctly. "You have given us a sentence we do not have the words for.
+correctly, and missed a fourth. "You have given us a sentence we do not
+have the words for.
 That is not a test, it is a trick."
 
 "Is it the whole sentence you cannot read," said Theodoros, "or four words
@@ -87,7 +88,8 @@ something and you cannot immediately say how it knows.
 
 ## Saying no
 
-One small word, with one small complication.
+One small word you met in Lesson 2, now with its rule in full, and one
+small complication.
 
 **οὐ** — *not*. It goes in front of the word it denies, and usually in front
 of the verb.
@@ -139,12 +141,11 @@ since Lesson 3.
 :::
 
 ::: vocab
-- **οὐ** (**οὐκ**, **οὐχ**) — not
-- **ὁ θεός** — god; God
 - **ἡ ἀρχή** — beginning; origin; rule, power
 - **πρός** — towards, with, in the presence of *(with the accusative)*
 
-Otherwise this lesson is review. Every other word in it has been met before,
+Otherwise this lesson is review: the negative and the word for God come
+back from Lesson 2 for a closer look. Every other word in it has been met before,
 and the cumulative list at the back of this book is now worth reading
 straight through.
 
@@ -279,7 +280,7 @@ Here it is, with the four words you were missing.
   phrase whole for now)*
 - **ἦν** — was *(the past of **εἰμί**; its endings come in Part III)*
 - **ὁ λόγος** — the word, the account, the reasoning *(Lesson 1)*
-- **καί** — and *(Lesson 4)*
+- **καί** — and *(Lesson 2)*
 - **πρός** — with, towards, in the presence of
 - **τὸν θεόν** — God *(accusative, after **πρός**)*
 - **θεός** — God *(nominative, and without the article)*

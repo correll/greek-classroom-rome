@@ -31,21 +31,21 @@ Greek is learnable.*
 
 | | Lesson | Language | Story and text |
 |:--|:--|:--|:--|
-| 1 | The Unwelcome Tablet | Alphabet; letter names vs. sounds; writing direction | Marcus objects that they already know letters, without looking at the page. Felix suggests Greek letters are Latin ones that went wrong on a long journey. Theodoros writes **ΑΘΗΝΑ** and asks what they already recognise. |
+| 1 | The Unwelcome Tablet | Alphabet; letter names vs. sounds; **σ** and **ς** | Marcus objects that they already know letters, without looking at the page. Felix suggests Greek letters are Latin ones that went wrong on a long journey. Theodoros writes **ΑΘΗΝΑ** and asks what they already recognise. |
 | 2 | The Case of the Missing Letters | Alphabet review; diphthongs; breathing marks | Felix claims two letters have escaped from his tablet. The class reconstructs words from clues. |
 | 3 | Names and Nouns | Grammatical gender; nominative and accusative; the article | The pupils label objects around the room. Word endings turn out to carry information. |
 | 4 | Who Did What? | Subject and object; flexible word order | Sabina stages a courtroom in which the class must determine who performed an action. |
-| 5 | The Verb Appears | Present indicative active; **εἰμί** | The pupils introduce and describe one another in short Greek sentences. |
+| 5 | The Verb Appears | Present indicative active; **εἰμί** | The pupils introduce themselves in one Greek sentence each. |
 | 6 | The First Real Sentence | Article, noun, and verb combined | The class decodes a short sentence and realises it can read Greek without knowing every word. |
 
-Authentic text begins at Lesson 4 rather than Lesson 6. The three passages
-of Part I are Koine, taken from the opening and later chapters of
-John, and they are chosen because they are short, famous, and built almost
+Authentic text begins at Lesson 1, with the Delphic maxims and a proverb
+quoted by Plato; authentic Koine begins at Lesson 4. The three Koine
+passages of Part I are taken from the opening and later chapters of John, and they are chosen because they are short, famous, and built almost
 entirely from words the pupils already hold: **τί ἐστιν ἀλήθεια;** (4),
-**ἐγώ εἰμι ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή** (5), and **ἐν ἀρχῇ ἦν ὁ λόγος**
+**ἐγώ εἰμι ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή** (5), and the whole of John 1:1
 (6). Each is labelled as Koine where it appears. The pedagogical argument
-for meeting real Greek this early is that a pupil who can read seventeen
-authentic words in week six has evidence that the course works; a pupil who
+for meeting real Greek this early is that a pupil who can read twenty-nine
+authentic words by the end of Lesson 6 has evidence that the course works; a pupil who
 has only ever read composed sentences has the teacher's word for it.
 
 Composed sentences remain in the exercises throughout, and are always marked
@@ -60,12 +60,13 @@ and the present tense.*
 |:--|:--|:--|:--|
 | 7 | The Article's Many Disguises | **ὁ ἡ τό** in full; the article as a signpost | Julia catches Marcus assigning the wrong article. Greek articles turn out to be more than decoration. |
 | 8 | The Genitive Mystery | Genitive; possession and relation | Someone has claimed another pupil's tablet. The class must work out whose it is from the Greek alone. |
-| 9 | The Dative and the Recipient | Dative; indirect object; dative of means | Felix writes a message for Theodoros but accidentally makes the recipient the subject. |
+| 9 | The Dative and the Recipient | Dative; indirect object; dative of means | Felix writes a message for Theodoros but accidentally makes the recipient the object. |
 | 10 | Adjectives Must Agree | Gender, number, case agreement; attributive vs. predicate position | Sabina insists on giving everyone increasingly ridiculous adjectives. |
 | 11 | One Verb, Several Clues | Present active conjugation; person and number | Theodoros removes the subjects from a set of sentences. The verb endings have to do the work. |
 | 12 | The First Reading Challenge | Consolidation | An adapted sentence of Protagoras, then the authentic one. Teams explain every ending. |
 
-Protagoras's one surviving sentence is the right first classical text: it
+Protagoras's most famous surviving sentence is the right first classical
+text: it
 is short, its claim is discussable without a literary introduction, and
 adapting it honestly — and then showing the real thing — teaches the
 difference between composed and quoted Greek, which the course insists on
@@ -80,9 +81,9 @@ the language creates meaning.*
 |:--|:--|:--|:--|
 | 13 | The Past Comes Alive | Imperfect indicative active; the augment | Quintus argues that a story is not the same as a list of events. Greek agrees with him. |
 | 14 | The Aorist Arrives | Aorist indicative active; aspect vs. tense | Marcus claims one past tense ought to be enough. Theodoros demonstrates why it is not. |
-| 15 | The Words of Homer | Epic dialect; formulaic language; uncontracted forms | A scaffolded passage from the *Odyssey*. Homeric Greek is not Attic, and the class is told so plainly. |
+| 15 | The Words of Homer | Epic dialect; the third declension; formulaic language | The first lines of the *Odyssey* and the *Iliad*. Homeric Greek is not Attic, and the class is told so plainly. |
 | 16 | Odysseus and the Problem of Cleverness | Infinitives; indirect statement | An episode from the *Odyssey* raises questions about intelligence, courage, and deception. |
-| 17 | What Makes a Just Person? | Connectors; **μέν … δέ**; pronouns | A short Platonic passage distinguishes winning an argument from making a sound one. |
+| 17 | What Makes a Just Person? | Connectors; **μέν … δέ**; pronouns | Plato, *Apology* 38a: a seven-word sentence whose meaning rides on **δέ**, a missing verb and a dative without an article. |
 | 18 | The Trial of a Translation | Review: case, aspect, the article, connectors | Each pupil defends a translation. The judges must separate evidence from eloquence. |
 
 Homer arrives with scaffolding and with the dialect difference stated, not
@@ -97,7 +98,7 @@ Attic.*
 |:--|:--|:--|:--|
 | 19 | The Familiar Words Return | Shared vocabulary; semantic range | Theodosius recognises a word from a passage he knows in Latin. Familiar-looking words carry different shades. |
 | 20 | The Greek of the Septuagint | Translation Greek; Hebrew word order showing through | A short Psalm. Why the Greek sometimes sounds unlike Greek. |
-| 21 | The Sermon on the Mount | Imperatives; simple clauses; **μακάριος** | Matthew 5:3–10. Short, memorable clauses; what translation preserves and what it cannot. |
+| 21 | The Sermon on the Mount | Verbless predication; **ὅτι** as *because*; the dative of respect; **μακάριος** | Matthew 5:3–10. Short, memorable clauses; what translation preserves and what it cannot. |
 | 22 | The Good Samaritan | Participles in narrative; aorist chains | Luke 10:30–37. Tracking who acts and who receives the action. |
 | 23 | Attic and Koine Face to Face | Vocabulary, style, and grammar compared directly | A classical sentence beside a New Testament one. Languages change; authors write for different readers. |
 | 24 | Two Worlds, One Language Family | Consolidation; close reading | Each pupil presents one classical and one biblical passage, explains the grammar, and discusses the meaning. |
@@ -145,15 +146,17 @@ exactly the point the sentences get interesting.
 **Mystery sentences.** Include, perhaps once a fortnight, a sentence that
 combines familiar forms in an unfamiliar way — nothing new in it, but
 nothing memorised either. These reward understanding over recall and they
-are the best single diagnostic in the course. Several are provided in the
-teacher's edition.
+are the best single diagnostic in the course. The Translate exercises are
+written that way wherever the vocabulary allows, and Lesson 29 is built on
+nothing else; the easiest way to make more is to recombine the words of
+the last two vocab boxes.
 :::
 
 ## A note on the characters as models
 
 The eight pupils model different kinds of success: Julia excels at forms,
 Sabina at narrative, Felix at vocabulary, Quintus at reflection, Livia at
-reasoning. None is good at all four at the start, and each improves at
+reasoning. None is good at everything at the start, and each improves at
 something they began badly.
 
 Make this point to the class **around Lesson 18**, once they have watched it

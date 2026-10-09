@@ -270,15 +270,15 @@ an error of emphasis, and it is worth naming as such every time.
 ::: {.voice time="10 min" source="John 14:6"}
 Aelia's sentence was not original.
 
-About three hundred years before that afternoon, somebody else said very
-nearly the same words, and meant them.
+About three hundred years before that afternoon, somebody had written down
+very nearly the same words, and meant them.
 
 **ἐγώ εἰμι ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή.**
 
 - **ἐγώ** — I
 - **εἰμι** — am
 - **ἡ ὁδός** — the way, the road *(Lesson 2)*
-- **καί** — and *(Lesson 4)*
+- **καί** — and *(Lesson 2)*
 - **ἡ ἀλήθεια** — the truth *(Lesson 4)*
 - **ἡ ζωή** — the life
 

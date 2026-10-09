@@ -106,9 +106,9 @@ two different ways depending on what it means:
 ::: note
 **The Greek in this book is not the Greek on Theodoros's board.**
 
-In AD 400 all Greek was written in capitals, run together without spaces
-between words, and with no accents or breathing marks at all. The board
-would have read:
+In AD 400 Greek books were written in capitals, run together without
+spaces between words, and almost always without accents or breathing
+marks. The board would have read:
 
 **ΑΘΗΝΑ** — and a line of Homer would have read **ΜΗΝΙΝΑΕΙΔΕΘΕΑ**.
 
@@ -118,9 +118,9 @@ words are all later inventions — some from Alexandrian scholars around
 Theodoros. Modern printed editions use them because they make reading
 enormously easier. This book uses them for the same reason.
 
-But remember what has been added. Every accent you see is a scholar's
-judgement about how a word was said, made centuries after the last person
-said it.
+But remember what has been added. Every accent you see is a mark devised
+by Alexandrian scholars while the pitch accent was still spoken, handed
+down by grammarians, and written out in full only centuries later.
 :::
 :::
 
@@ -163,8 +163,10 @@ Look at **ΑΘΗΝΑ** without being told what it says.
 3. **Θ** has no Latin equivalent in shape. (Latin acquired *Y* and *Z*
    from Greek later, but never took theta.)
 4. You would read *a-h-na* or *ath-na*. You would be wrong because Greek
-   **Η** is a long *e* — the shape was borrowed into Latin for a sound
-   Greek had stopped using. The word is *a-thē-na*.
+   **Η** is a long *e*. The Romans borrowed the shape from an early Greek
+   alphabet in which it still stood for *h*; Attic later re-used the letter
+   for long *e* and wrote its *h*-sound another way (the rough breathing,
+   Lesson 2). The word is *a-thē-na*.
 :::
 
 ::: {.exercise title="Sound them out"}
@@ -193,8 +195,9 @@ Then cover the names and write them from memory.
 
 ::: answers
 Check against the table above. The most commonly mis-ordered pair is
-**ξ** and **ο** — **ξῖ** comes before **ὂ μικρόν**, not after, because
-Greek has no letter between them where Latin has *n*–*o*–*p*.
+**ξ** and **ο** — **ξῖ** comes before **ὂ μικρόν**, not after. Greek slips
+a letter in between **ν** and **ο** where Latin has none, and pupils used to
+Latin expect the *x*-sound to come near the end of the alphabet.
 :::
 :::
 
@@ -260,8 +263,9 @@ Felix asked immediately whether the same principle applied to homework.
 ::: latinbridge
 Marcus's joke has a serious point behind it, and the Romans made it
 constantly. **ΒΙΡΓΙΛΙΟΣ** really is how a Greek writer would have spelled
-*Vergilius* — Greek had no *v*, so it used **β**, and it added **-ος**
-because a Greek noun needs a Greek ending to be declined at all.
+*Vergilius* in Theodoros's day — by AD 400 **β** was pronounced *v*
+(earlier Greeks had written **Οὐεργίλιος**) — and it added **-ος** because
+a Greek noun needs a Greek ending to be declined at all.
 
 That last part is the real lesson. A word enters a language properly only
 when the language can bend it. Marcus gave Virgil a Greek ending without

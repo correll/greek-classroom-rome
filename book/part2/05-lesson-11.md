@@ -1,7 +1,7 @@
 # One Verb, Several Clues
 
 ::: {.story time="5 min"}
-Theodoros handed out a sheet with eight sentences on it. Every one of them
+Theodoros handed out a sheet with five sentences on it. Every one of them
 was missing its subject.
 
 > **... φέρομεν τὰ βιβλία.**
@@ -133,7 +133,8 @@ you to notice.
 - **φέρω** — I carry, bear, bring
 - **μανθάνω** — I learn, understand
 - **διδάσκω** — I teach
-- **ἐθέλω** — I wish, I am willing
+- **ἐθέλω** — I am willing, I consent
+- **σύ** — you *(one person; emphatic, like **ἐγώ**)*
 - **νῦν** — now
 
 ::: note
@@ -240,7 +241,9 @@ Marcus asked why anyone writes **ἐγώ** if the ending already says it.
 ::: {.voice time="10 min" source="Matthew 5:44"}
 A sentence in which the pronoun is doing exactly what Marcus asked about.
 
-**ἐγὼ δὲ λέγω ὑμῖν, ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν.**
+**ἐγὼ δὲ λέγω ὑμῖν· ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν …**
+
+*(The verse goes on: and pray for those who persecute you.)*
 
 - **ἐγώ** — I *(emphatic, and the point of the sentence)*
 - **δέ** — but, and *(a connecting word; it never comes first)*

@@ -26,9 +26,11 @@ thing."
 
 "And the Samaritan?"
 
-"He does eight things in a row. He comes up, he binds, he pours, he lifts,
-he leads, he looks after, he pays, he promises. Eight verbs. The bandits get
-four between them; the priest and the Levite two each." She looked up. "It is not a story about
+"He does thing after thing. He comes, he sees, he pities, he goes up, he
+binds, he pours, he lifts, he leads, he looks after, he takes out money, he
+gives it, he speaks, he promises. Thirteen verbs, if you count the
+participles, and I did. The bandits get four between them; the priest and
+the Levite three each." She looked up. "It is not a story about
 *who* the neighbour is. It is a story about who *does* things. You can see
 it in the grammar before you can see it in the sense."
 
@@ -106,9 +108,9 @@ bandits*. Article plus participle equals *the person who*.
 ::: latinbridge
 **Latin has participles and uses them less.** Latin's present participle
 (*videns*) and perfect participle (*visus*) exist, and the ablative absolute
-is built on them. But Latin's perfect participle is passive — *visus* is
-*having been seen*, not *having seen* — so Latin cannot do what Greek does
-in **ἰδὼν ἀντιπαρῆλθεν**. Jerome writes *et viso illo praeterivit* — *and
+is built on them. But Latin's perfect participle is passive (except in the
+deponents) — *visus* is *having been seen*, not *having seen* — so Latin
+can rarely do what Greek does in **ἰδὼν ἀντιπαρῆλθεν**. Jerome writes *et viso illo praeterivit* — *and
 that man having been seen, he passed by* — because that is the shape Latin
 has.
 
@@ -244,7 +246,11 @@ things on the way; the grammar makes them one act of going away.
 *By chance a certain priest was going down on that road, and having seen
 him, passed by on the other side.*
 
-*(A Levite does the same, in the same words. Then:)*
+**ὁμοίως δὲ καὶ Λευίτης γενόμενος κατὰ τὸν τόπον ἐλθὼν καὶ ἰδὼν
+ἀντιπαρῆλθεν.**
+
+*Likewise a Levite too, coming to the place and seeing, passed by on the
+other side.* — one verb, three participles. Then:
 
 **Σαμαρίτης δέ τις ὁδεύων ἦλθεν κατ᾽ αὐτὸν καὶ ἰδὼν ἐσπλαγχνίσθη, καὶ
 προσελθὼν κατέδησεν τὰ τραύματα αὐτοῦ ἐπιχέων ἔλαιον καὶ οἶνον, ἐπιβιβάσας
@@ -280,8 +286,9 @@ Five participles. Five main verbs. One man.
 
 - **τίς τούτων τῶν τριῶν** — which of these three *(**τίς** with the
   accent: a question)*
-- **πλησίον … γεγονέναι** — to have become neighbour *(an infinitive, and
-  the construction of Lesson 16)*
+- **πλησίον … γεγονέναι** — to have become neighbour *(an infinitive after
+  **δοκεῖ**, seems; not quite the accusative-and-infinitive of Lesson 16,
+  since **τίς** stays nominative)*
 - **δοκεῖ σοι** — seems to you
 - **τοῦ ἐμπεσόντος** — of the one who fell among *(article + aorist
   participle, genitive)*
@@ -301,8 +308,9 @@ him to name people by what they do, the grammar does not say. It only gives
 you the participle, and lets you decide.
 
 ::: teacheronly
-**Verify before teaching.** The text is quoted from memory of the standard
-Greek New Testament, with verses 32 and 35 summarised rather than quoted.
+**Verify before teaching.** The text follows the standard Greek New
+Testament (see *Sources*), with verse 35 summarised rather than quoted;
+verse 32 is printed without the bracketed **γενόμενος** of some editions.
 Check the passage against the edition in use; **Σαμαρίτης** is also spelt
 **Σαμαρείτης** in some editions, and the word order in verse 34 varies.
 
@@ -321,15 +329,16 @@ reading, and the text does not settle it. Say so if a pupil asks.
 1. The parable answers a question the lawyer did not ask — *who acted as a
    neighbour?* — and refuses the one he did — *who is my neighbour?* Does
    that count as an answer?
-2. The victim is the object of every verb and the subject of none. What
+2. From the moment the bandits take him, the victim is the object of every
+   verb and the subject of none. What
    would the story be like if he were given one verb of his own?
 3. The lawyer names the Samaritan by what he did, not who he was. Is that a
    generous way to name someone, or an evasive one?
 :::
 
 ::: {.story time="—"}
-Marcus said that he had lost the thread at the second priest because the
-sentence had too many verbs in it.
+Marcus said that he had lost the thread at the Levite because the sentence
+had too many verbs in it.
 
 "It has one verb," said Sabina. "**ἀντιπαρῆλθεν.** The rest are
 participles. If you had been reading the endings you would have known which

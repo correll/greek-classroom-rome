@@ -107,7 +107,8 @@ For the nouns you know, the rule is small:
 Two things to notice.
 
 **The ending changes from -ος to -ε.** That is the whole pattern for this
-very common group of nouns.
+very common group of nouns (with one exception you already own: **θεός**
+keeps its **-ος** when called on, **ὦ θεός**).
 
 **The article disappears, and ὦ takes its place.** You do not say *the man!*
 when you call to someone, in Greek any more than in English. **ὦ** is not
@@ -265,10 +266,10 @@ What he meant needs either a join or two clauses:
 > **ὁ κριτὴς λέγει καὶ ὁ μάρτυς λέγει.**
 
 Students may also offer **ὁ κριτὴς καὶ ὁ μάρτυς λέγει**, which is the
-natural thing to try. It is close, and the verb is the problem: two
-subjects need a plural verb, which arrives in Lesson 5. Tell them they have
-found the next lesson, and that finding it one lesson early is the right
-kind of mistake.
+natural thing to try. It is in fact acceptable Greek — a verb may agree
+with the nearer of two subjects — though Greek more often uses a plural
+verb here, which arrives in Lesson 5. Tell them they have found the next
+lesson, and that finding it one lesson early is the right kind of mistake.
 :::
 
 ::: {.exercise title="Into Greek"}

@@ -1,8 +1,9 @@
 # Cumulative Vocabulary {.unnumbered}
 
-Every word introduced in the course, with the lesson that introduces
-it. Nouns are given with the article, verbs in the first person
-singular present, adjectives in the masculine nominative singular.
+Every word given in a lesson's vocabulary box, with the lesson that
+introduces it. Nouns are given with the article, verbs in the first
+person singular present (except where a single form is what was
+taught), adjectives in the masculine nominative singular.
 
 This list is generated from the `vocab` blocks in the lesson files by
 `scripts/build_glossary.py`. Do not edit it by hand: run
@@ -14,6 +15,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 |:--|:--|:--:|
 | **ἀγαθός** | good | 10 |
 | **ἡ ἀγάπη** | love *(Koine)* | 19 |
+| **ἄγω** | I lead, bring *(you saw it inside **παιδαγωγός** in Lesson 3)* | 20 |
 | **ἡ ἀδελφή** | sister | 28 |
 | **ὁ ἀδελφός** | brother | 28 |
 | **ἄδικος** | unjust | 17 |
@@ -31,6 +33,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ἆρα** | *(marks a question; untranslated)* | 25 |
 | **ἡ ἀρχή** | beginning; origin; rule, power | 6 |
 | **ἀσπάζομαι** | I greet | 28 |
+| **αὐτός, αὐτή, αὐτό** | he, she, it; *(in the nominative)* emphatic: *they themselves* | 21 |
 
 ## Β
 
@@ -53,7 +56,6 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **τὰ γράμματα** | letters; writing; literature | 7 |
 | **ἡ γραφή** | writing; a drawing; anything written | 3 |
 | **γράφω** | I write | 5 |
-| **γράφω σοι** | I write to you *(dative of the person written to)* | 28 |
 
 ## Δ
 
@@ -78,13 +80,14 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ἐγένετο** | it happened, it became, it came to be | 14 |
 | **ἔγραψα** | I wrote *(aorist of **γράφω**)* | 14 |
 | **ἐγώ** | I | 5 |
-| **ἐθέλω** | I wish, I am willing | 11 |
+| **ἐθέλω** | I am willing, I consent | 11 |
 | **εἰμί** | I am | 5 |
 | **εἶπον** | I said *(aorist of **λέγω**)* | 14 |
-| **ἐκ** | , **ἐξ** — out of *(with the genitive)* | 8 |
+| **εἰς** | into, to *(with the accusative)* | 14 |
+| **ἐκ, ἐξ** | out of *(with the genitive)* | 8 |
 | **ἔλεγον** | I was saying *(imperfect of **λέγω**)* | 13 |
 | **ἐλεέω** | I show mercy *(the verb of **τὸ ἔλεος**, Lesson 20)* | 22 |
-| **τὸ ἔλεος** | mercy, compassion *(neuter)* | 20 |
+| **τὸ ἔλεος** | mercy, compassion *(neuter, Koine; Attic has **ὁ ἔλεος**, masculine)* | 20 |
 | **ἐν** | in, among *(with the dative)* | 9 |
 | **ἐντός** | inside; in the midst of *(with the genitive)* | 27 |
 | **ἡ ἐπιστολή** | letter, message | 9 |
@@ -165,6 +168,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ὁ μάρτυς** | witness | 4 |
 | **μέγας** | great, large | 10 |
 | **μέν … δέ** | on the one hand … on the other *(both postpositive)* | 17 |
+| **τὸ μέτρον** | measure, standard | 12 |
 | **μή** | not *(with commands, wishes and prohibitions)* | 26 |
 | **ἡ μῆνις** | wrath, anger *(of a god or a hero; not ordinary temper)* | 15 |
 | **ἡ μήτηρ** | mother *(genitive **μητρός**)* | 28 |
@@ -175,7 +179,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 
 | | | |
 |:--|:--|:--:|
-| **ἡ ναῦς** | ship | 15 |
+| **ἡ ναῦς** | ship *(irregular; recognise it)* | 15 |
 | **ὁ νόστος** | homecoming, the journey home | 16 |
 | **νῦν** | now | 11 |
 
@@ -189,7 +193,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ὁ οἶκος** | house, household | 2 |
 | **τὸ ὄνομα** | name | 8 |
 | **ὅς, ἥ, ὅ** | who, which | 17 |
-| **οὐ** | (**οὐκ**, **οὐχ**) — not | 2 |
+| **οὐ (οὐκ, οὐχ)** | not | 2 |
 | **οὖν** | therefore, so *(postpositive)* | 17 |
 | **ὁ οὐρανός** | sky, heaven | 2 |
 
@@ -199,6 +203,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 |:--|:--|:--:|
 | **ὁ παιδαγωγός** | the household slave who walked a child to school | 3 |
 | **τὸ παιδίον** | child, little child *(a diminutive of **παῖς**)* | 23 |
+| **ὁ παῖς** | child, boy *(third declension; genitive **παιδός**)* | 17 |
 | **πάλιν** | again, back | 13 |
 | **παρέρχομαι** | I pass by *(aorist **παρῆλθον**; the passage has **ἀντιπαρῆλθεν**, "passed by on the other side")* | 22 |
 | **ὁ πατήρ** | father *(genitive **πατρός**; Lesson 16's Homer had it)* | 28 |
@@ -224,10 +229,11 @@ This list is generated from the `vocab` blocks in the lesson files by
 
 | | | |
 |:--|:--|:--:|
-| **ἡ σκοτία** | darkness *(Koine; Attic **τὸ σκότος**)* | 27 |
+| **ἡ σκοτία** | darkness *(Koine; Attic usually **ὁ σκότος**)* | 27 |
 | **ἡ σοφία** | wisdom; skill | 16 |
 | **σοφός** | wise, skilled | 10 |
 | **σπλαγχνίζομαι** | I am moved with compassion *(Koine; from **τὰ σπλάγχνα**, the inward parts — the place pity is felt)* | 22 |
+| **σύ** | you *(one person; emphatic, like **ἐγώ**)* | 11 |
 | **σύν** | together with *(with the dative)* | 9 |
 
 ## Τ
@@ -276,3 +282,4 @@ This list is generated from the `vocab` blocks in the lesson files by
 | | | |
 |:--|:--|:--:|
 | **ὦ** | O (used before a name or noun when addressing someone) | 4 |
+| **ὥσπερ** | just like, as | 20 |

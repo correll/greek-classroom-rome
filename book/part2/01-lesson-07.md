@@ -50,7 +50,7 @@ The words are identical. Not one letter has changed. What moved?"
 ::: {.newgreek time="10 min"}
 ## The whole article, at last
 
-You have been using three forms of the article. There are more, and they
+You have been using five or six forms of the article. There are more, and they
 are the most useful words in the language. Here is everything you need for
 the next six lessons:
 
@@ -70,10 +70,12 @@ Three observations worth having now.
 **τά** in the plural, both cases. You met this in Lesson 3 and it remains
 true forever.
 
-**The plural forms do not begin with τ.** **ὁ, ἡ** and **οἱ, αἱ** are the
-odd ones out: the nominatives have a rough breathing and no **τ**, while
-every accusative has one. If you are ever lost, ask whether the word starts
-with **τ**. If it does, it is not a nominative.
+**The masculine and feminine nominatives do not begin with τ.** **ὁ, ἡ**
+and **οἱ, αἱ** are the odd ones out: they have a rough breathing and no
+**τ**, while every other form has one. If you are ever lost, ask whether a
+masculine or feminine form starts with **τ**. If it does, it is not a
+nominative. (The neuter **τό**, **τά** begin with **τ** in every case —
+that is the neuter rule again.)
 
 **The article agrees with its noun and nothing else.** Not with the thing in
 the world, not with the nearest word, not with what you expected. Gender,
@@ -155,12 +157,15 @@ one has the article, the one with the article is what you are talking
 
 ::: note
 **τὰ γράμματα** is given in the plural because that is how it is normally
-used. Its singular belongs to the third declension, which you meet in Lesson
-15; until then, recognise it and leave it alone.
+used. The word belongs to the third declension (**τὸ γράμμα**,
+**γράμματος**), which you meet in Lesson 15; its plural happens to end in
+**-α** and so goes with **τά**, which is why you can use it now. Until
+Lesson 15, recognise it and leave it alone.
 
 **πολλοί** and **μόνος** are adjectives, and adjectives have endings that
 must agree with their noun. That is Lesson 10. For now take them in the
-forms printed.
+forms printed — and note **μόνον**, the neuter, which is used as an adverb,
+*only*.
 
 **τὰ γράμματα** is the Greek for *literature*, and literally means *the
 letters*. A **γραμματικός** was, to begin with, simply a person who knew
@@ -214,7 +219,8 @@ rather than right.
 2. *The teacher sees the words.*
 3. *The days have only time.* — **μόνον** here is adverbial; accept *only
    the days have time* only if the pupil can defend it from the endings,
-   which they cannot, because **αἱ ἡμέραι** is nominative.
+   which they cannot, because **μόνον** is neuter singular and does not
+   agree with **αἱ ἡμέραι**; *only the days* would need **μόναι**.
 4. *The soul does not speak the deeds, but it knows them.* **τὰ ἔργα** is
    fronted for emphasis and is the object throughout; **ἡ ψυχή** is the
    subject of both verbs although it is stated only once.
@@ -238,7 +244,7 @@ article and the endings yourself.
 4. **ὁ διδάσκαλος γράφει τὰ γράμματα.**
 5. **αἱ ψυχαὶ ἔχουσι τὸν χρόνον.**
 
-Three things to watch for. A singular verb after a plural subject (3, 4, 5)
+Three things to watch for. A singular verb after a plural subject (3, 5)
 — the ending must move too. **τοὺς ἔργα**, which is an article and a noun
 that do not agree in case; and **ὁ ἡμέραι**, which agrees in nothing at all.
 
@@ -262,7 +268,7 @@ other.
 
 A pupil who cannot produce one has usually not understood that the article
 is what makes a word the subject here, rather than its position. Give them
-**σοφὰ τὰ ἔργα** / **τὰ σοφὰ ἔργα** and ask what changed.
+**καλὰ τὰ χαλεπά** / **χαλεπὰ τὰ καλά** and ask what changed.
 :::
 :::
 
@@ -289,13 +295,13 @@ carries the article, so **τὰ καλά** is the thing being talked about.
 **χαλεπά** does not, so **χαλεπά** is what is being said about it.
 
 Reverse the article and you reverse the proverb, which is exactly what
-Theodoros did to Marcus this morning:
+Theodoros did to Marcus this afternoon:
 
 **τὰ χαλεπὰ καλά** — *hard things are fine.*
 
-Plato has Socrates quote the first version as a saying already old, to
-someone complaining that an argument is taking too long. He does not
-explain it. He did not need to: every reader he had could see the article
+Plato has Glaucon quote the first version to Socrates as a saying already
+current, when Socrates has just called their inquiry a trivial one — and
+Glaucon suspects it is anything but. Plato does not explain it. He did not need to: every reader he had could see the article
 doing its work, in the same half-second you now can.
 :::
 

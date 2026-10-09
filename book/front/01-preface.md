@@ -43,10 +43,10 @@ not unusual. Augustine, writing within a few years of the autumn described
 here, remembered hating his Greek lessons as a boy, and never did come to
 read the language comfortably.
 
-So the complaint is about two thousand years old. Every generation since has
+So the complaint is about sixteen hundred years old. Every generation since has
 produced somebody clever to make it, and the language has outlasted all of
 them. That is not an argument by itself — subjects can survive for poor
-reasons. But something that has been called useless for twenty centuries and
+reasons. But something that has been called useless for sixteen centuries and
 taught anyway deserves a second look before you set it aside.
 
 What has changed is the case for it, and the change is in your favour. Two
@@ -126,7 +126,7 @@ command with one flag changed, so they cannot drift apart.
 
 ## Where this will take you
 
-By the end of Volume I you will be able to read a short authentic passage
+By the end of this book you will be able to read a short authentic passage
 with help. *What the Course Covers* sets out the thirty lessons and the shape
 of each one; read it when you want to know where you are.
 
@@ -139,17 +139,18 @@ to be easy.
 
 The Greek at the centre of this course is Classical Attic prose. Homer's epic
 dialect, and the Koine of the Septuagint and the New Testament, are related
-but distinct kinds of Greek, and every passage in this book says which kind
-it is.
+but distinct kinds of Greek, and every passage in this book from Lesson 4
+on says which kind it is. (The three short sayings before that are older
+than the division.)
 
-You meet Koine first, in Part I, and before you have met much Attic. That is
-deliberate. The three short sentences there are among the most famous in the
+You meet Koine early, in Part I — after two Delphic maxims and a proverb,
+but before you have met much Attic. That is deliberate. The three short sentences there are among the most famous in the
 language, they are made almost entirely of words you will already know, and
 reading a sentence of the New Testament in your fourth lesson is worth more
 than another fortnight of sentences written to be easy. They are labelled as Koine every time.
 
-This matters, for the same reason as everything above. If you meet **εἶπεν**
-in Luke and **εἶπε** in Plato and someone tells you they are "the same
+This matters, for the same reason as everything above. If you meet **εἶπαν**
+in Luke and **εἶπον** in Plato and someone tells you they are "the same
 Greek", you have been told something false — in a course whose whole point is
 not accepting claims because they sound reasonable. So this book says plainly
 that Greek changed over eight hundred years, that Homer was already archaic

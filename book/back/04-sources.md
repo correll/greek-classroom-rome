@@ -2,8 +2,9 @@
 
 ## Where the Greek comes from
 
-Every passage attributed to an ancient author in this book is quoted from a
-public-domain critical edition and cited by author, work, and location.
+Every passage attributed to an ancient author in this book follows the
+standard critical text, is cited by author, work, and location, and can be
+checked against the public-domain editions listed below.
 Sentences composed by the author of this course for teaching purposes are
 marked as such, in the body of the lesson, every time.
 
@@ -16,17 +17,18 @@ something false about the language.
 
 | Author | Edition |
 |:--|:--|
-| Homer | Allen, *Homeri Opera* (Oxford Classical Texts), public domain |
+| Homer | Monro & Allen (*Iliad*), Allen (*Odyssey*), *Homeri Opera* (Oxford Classical Texts), public domain |
 | Plato | Burnet, *Platonis Opera* (Oxford Classical Texts), public domain |
-| Septuagint | Rahlfs–Hanhart text; public-domain Swete where required |
-| New Testament | Westcott–Hort (1881), public domain |
+| Protagoras | fr. 1 Diels–Kranz, as quoted by Sextus Empiricus, *Against the Mathematicians* 7.60; cf. Plato, *Theaetetus* 152a |
+| Septuagint | Swete, *The Old Testament in Greek* (public domain), checked against Rahlfs–Hanhart |
+| New Testament | Westcott–Hort (1881), public domain; spellings follow the Nestle–Aland convention (**Δαυίδ**, **Σαμαρίτης**) where the two differ |
 | Papyri | BGU II 423 (Berlin), as printed in public-domain collections |
 
 Where a modern critical edition is still in copyright, a public-domain
 predecessor has been used and the difference noted if it affects the
-reading being taught. Every quoted passage from Lesson 15 onward also
-carries a note in the teacher's edition asking that it be checked against
-the edition in use before it is put on the board; the course asks that of
+reading being taught. Most quoted passages from Lesson 15 onward also
+carry a note in the teacher's edition asking that they be checked against
+the edition in use before they are put on the board; the course asks that of
 its pupils and asks it of itself.
 
 ## Adapted passages
@@ -52,4 +54,5 @@ inhabit is not: late-fourth-century Rome, household schools, wax tablets,
 the *paedagogus*, and the place of Greek in a Latin-speaking Christian
 household are all drawn from the historical record. Where this book has had
 to choose between a plausible detail and a documented one, it has chosen
-the documented one and said so in a note.
+the documented one — with one admitted exception, the papyrus letter of
+Lesson 28 — and said so in a note.

@@ -187,8 +187,9 @@ claims, or claims that do not meet. Give one reason from the Greek.
 :::
 
 ::: answers
-1. **ὁ πολύτροπος ἀνὴρ ἦλθεν εἰς τὸν οἶκον.** — Attic, with the article.
-   Not Homeric; the class cannot yet write Homer and should not try.
+1. **ὁ πολύτροπος ἀνὴρ οἴκαδε ἦλθεν.** — Attic, with the article;
+   **οἴκαδε**, *homeward*, is the Attic for Homer's **οἶκόνδε** (Lesson
+   15). Accept **εἰς τὸν οἶκον**, *into the house*. Not Homeric; the class cannot yet write Homer and should not try.
 2. **μακάριος ὁ λέγων τὴν ἀλήθειαν.** — article + participle, no verb.
 3. **καὶ ἐγένετο, καὶ Κύριος ἐποίμανεν τὸν λαόν.** — accept **ποιμαίνει**;
    **ἐποίμανεν** is the aorist. **ὁ λαός**, *the people*, may need to be
@@ -204,7 +205,7 @@ claims, or claims that do not meet. Give one reason from the Greek.
 There is no single text for this lesson. There are four pairs, and the
 Greek of every one of them is already in this book.
 
-**Julia.** *Odyssey* 1.1 and John 1.1.
+**Julia.** *Odyssey* 1.1 and John 1:1.
 **ἄνδρα μοι ἔννεπε, Μοῦσα, πολύτροπον** — **ἐν ἀρχῇ ἦν ὁ λόγος**.
 Both open by naming the subject of the whole work in the first words:
 **ἄνδρα**, **ὁ λόγος**. Then they diverge. Homer's subject is an accusative
@@ -254,8 +255,9 @@ the pupil who finds a comfortable generality that covers both and stops
 there. The remedy, every time, is to send them back to the Greek: *which
 word in each text is making that claim?*
 
-**Around this lesson**, as the scope-and-sequence notes, is the time to say
-to the class what the teacher's notes say about the characters: that every
+**If it was not said at Lesson 18**, where the scope-and-sequence suggests
+it, this is the time to say to the class what the teacher's notes say about
+the characters: that every
 one of them has got better at something they began badly at. They have
 watched Felix's ear be right, Sabina's impatience with parsing turn into the
 fastest parsing in the room, Julia learn to be heard, Marcus learn to stop.

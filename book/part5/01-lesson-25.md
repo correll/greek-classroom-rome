@@ -14,7 +14,7 @@ Sabina asked **τίς ἐστιν ὁ σοφώτατος τῶν μαθητῶν
 the pupils?* — and was told that the question was grammatical and that the
 answer was Livia, and nobody argued.
 
-Livia, when it came to her, read out **τις ἐστιν ὁ διδάσκαλος.**
+Livia, when it came to her, read out **λέγει τις τὴν ἀλήθειαν.**
 
 Theodoros waited.
 
@@ -22,11 +22,14 @@ Theodoros waited.
 
 "Yes."
 
-"It is not a question. It is a statement. *Someone is the teacher.* True, as
-it happens, but not something I can answer." He went to the board and wrote
-the word twice. "**τίς** with an accent is *who?* **τις** without one is
-*someone*. You have written the second. One stroke of the pen, Livia, and
-you have told me a fact instead of asking me one."
+"It is not a question. It is a statement. *Someone is telling the truth.*
+True, as it happens, but not something I can answer." He went to the board
+and wrote the word twice. "**τίς** with an accent is *who?*, and it stands
+at the front, where a question word belongs. **τις** without one is
+*someone*; it has no accent of its own, it leans on the word before it, and
+so it cannot stand first at all. You have written the second — and it has
+slid into second place to prove it. One stroke of the pen, Livia, and you
+have told me a fact instead of asking me one."
 
 Livia, who did not make mistakes, looked at her tablet for a long time and
 then said, quietly, "I would like to try again," and was allowed to.
@@ -81,11 +84,14 @@ know why it had no accent of its own.
 
 | | |
 |:--|:--|
-| **τίς ἐστιν ὁ διδάσκαλος;** | *Who is the teacher?* |
-| **τις ἐστιν ὁ διδάσκαλος.** | *Someone is the teacher.* |
+| **τίς λέγει τὴν ἀλήθειαν;** | *Who is telling the truth?* |
+| **λέγει τις τὴν ἀλήθειαν.** | *Someone is telling the truth.* |
 
-One accent. A question or a statement. Nothing else in the sentence
-changes.
+One accent. A question or a statement. The only other thing that changes
+is the word's place: without its accent it cannot stand first, so it slips
+in behind the verb. (And a detail for later: before another enclitic, such
+as **ἐστιν**, even *someone* takes an accent — **τίς ἐστιν** can be either
+word, and only the context tells you which.)
 
 ## The other question words
 
@@ -113,7 +119,7 @@ ways.
   σοφός ἐστιν;** — with **μή**, the asker expects *no*.
 
 The Greek question mark is **;** — what English uses for a semicolon. You
-have been reading it since Lesson 4.
+have been reading it since Lesson 2.
 
 ## Indirect questions
 
@@ -216,8 +222,9 @@ meant, on the grounds that the accent was audible and the meaning was not.
 :::
 
 ::: answers
-1. **τίς ἐστιν ὁ διδάσκαλος;** — with the accent. Without it, Livia's
-   sentence.
+1. **τίς ἐστιν ὁ διδάσκαλος;** — with the accent. Without it the word
+   would mean *someone*, and could not stand there at all (Livia's
+   mistake).
 2. **ποῦ ἐστι τὸ βιβλίον;**
 3. **οὐκ οἶδα τίς ἐστιν.** — the question word keeps its accent inside the
    indirect question.
@@ -277,14 +284,15 @@ nearly identical. What they *are* could not be more different, and the only
 thing that tells you is what the asker did next.
 
 ::: teacheronly
-**Verify before teaching.** The *Meno* opening is quoted from memory of the
-standard text and should be checked against the edition in use; the
-breathing on **Ἔχεις** at the head of the dialogue and the punctuation after
-**Σώκρατες** vary. John 18:38 is the text used in Lesson 4 and is stable.
+**Verify before teaching.** The *Meno* opening follows the standard text
+(see *Sources*) and should be checked against the edition in use; the
+punctuation after **Σώκρατες** varies. John 18:38 is the text used in Lesson 4 and is stable.
 
 **On Livia.** Her mistake is the lesson's centre and it is given to her on
 purpose: the pupil who never errs makes the one error that is invisible on
-the page and audible aloud. Let her re-ask. The point is not that she
+the page and audible aloud. (Her sentence is real Greek — enclitic **τις**
+after a paroxytone verb keeps the verb's accent unchanged — which is why
+Theodoros can call it a true statement rather than a mistake in grammar.) Let her re-ask. The point is not that she
 failed but that she heard the difference the moment it was named, which is
 what the whole lesson is trying to make the others do.
 

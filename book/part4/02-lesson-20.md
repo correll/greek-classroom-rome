@@ -13,8 +13,8 @@ the wrong place.
 
 "It says **καί** at the start of every line. It says *the Lord shepherds me*
 when any Greek would say *the Lord is my shepherd*. It says *the shadow of
-death* when it means *a deadly shadow*. It says *unto the age* when it
-means *always*. It — " She looked at her tablet. "It is all grammatical. I
+death* when it means *a deadly shadow*. It says *to length of days* when it
+means *as long as I live*. It — " She looked at her tablet. "It is all grammatical. I
 cannot find a mistake. But Plato would not write one line of it."
 
 "No. He would not."
@@ -34,8 +34,8 @@ of the Hebrew and write Greek that no Athenian would recognise."
 
 "At nearly every line. **καί, καί, καί** — because the Hebrew says *and,
 and, and*. *The Lord shepherds me* — because the Hebrew has a verb there, not
-a noun. *Unto the age* — because the Hebrew idiom for *forever* is a phrase
-about time, and they kept the phrase." He looked round the room. "It is not
+a noun. *To length of days* — because the Hebrew idiom for *all my life*
+is a phrase about time, and they kept the phrase." He looked round the room. "It is not
 bad Greek. It is Greek with another language showing through it, on
 purpose, because the other language mattered more to them than sounding
 well."
@@ -76,8 +76,11 @@ Lesson 14 — opens a narrative the way Hebrew opens one. It means roughly
 **Three. A verb where Greek wants a noun.** *The Lord shepherds me* for
 *the Lord is my shepherd*. Hebrew likes verbs; the translators kept them.
 
-**Four. Genitive for adjective.** *The shadow of death* for *a deadly
-shadow*; *the house of the Lord* for *the Lord's house*. Hebrew builds
+**Four. Genitive for adjective.** *The house of the Lord* for *the Lord's
+house*; *the shadow of death* for *a deadly shadow*. (That second one the
+translators read as two Hebrew words, *shadow* and *death*; the Hebrew may
+be one word meaning *deep darkness*. The Greek has the chain either way.)
+Hebrew builds
 descriptions out of chains of nouns, and the Septuagint builds them out of
 chains of genitives. You know the genitive from Lesson 8; here it is doing
 an adjective's work.
@@ -101,9 +104,10 @@ definite still.
 Here is roughly what an Athenian would have written to say the first line
 of the Psalm. It is composed for this lesson, not quoted:
 
-**ὁ θεὸς ὥσπερ ποιμὴν ἐπιμελεῖται ἐμοῦ.**
+**ὁ θεὸς ὥσπερ ποιμὴν ἐπιμελεῖταί μου.**
 
-*God looks after me like a shepherd.* A simile where the Hebrew has a
+*God looks after me like a shepherd.* (**ὥσπερ**, *just like*;
+**ἐπιμελεῖταί μου**, *looks after me* — the verb takes the genitive.) A simile where the Hebrew has a
 metaphor; a verb of caring where the Hebrew has the verb for herding;
 **ὁ θεός** with the article where the Septuagint has a name. Fluent, clear,
 and the picture is gone.
@@ -118,8 +122,9 @@ Latin Psalms you grew up with have the same *and-and-and* and the same
 chains of genitives.
 
 So when Julia says *this is not good Greek*, the answer is that it is not
-good Latin either, by Cicero's standard, and that nobody who prays in it has
-ever minded.
+good Latin either, by Cicero's standard, and that most of the people who
+pray in it have never minded — though Augustine, who is alive as you read
+this, has written that as a young man he did.
 :::
 :::
 
@@ -129,7 +134,10 @@ ever minded.
 - **ποιμαίνω** — I shepherd, I tend
 - **εὐλογέω** — I bless *(**εὖ** well + **λέγω**: to speak well of)*
 - **ὁ αἰών** — age; eternity *(**εἰς τὸν αἰῶνα** = forever)*
-- **τὸ ἔλεος** — mercy, compassion *(neuter)*
+- **τὸ ἔλεος** — mercy, compassion *(neuter, Koine; Attic has **ὁ ἔλεος**,
+  masculine)*
+- **ἄγω** — I lead, bring *(you saw it inside **παιδαγωγός** in Lesson 3)*
+- **ὥσπερ** — just like, as
 - **ὁ θάνατος** — death
 - **ὁ οἶκος** — house; household, family line *(Lesson 2, now in its
   Hebraic sense)*
@@ -181,7 +189,7 @@ was lost.
 :::
 
 ::: answers
-Something like **ὁ θεὸς ὥσπερ ποιμὴν ἐπιμελεῖται ἐμοῦ**, or with **ποιμαίνει**
+Something like **ὁ θεὸς ὥσπερ ποιμὴν ἐπιμελεῖταί μου**, or with **ποιμαίνει**
 kept: **ὁ θεὸς ποιμαίνει με ὥσπερ πρόβατον**. What was lost: the metaphor
 became a simile — the Psalm says God *is* a shepherd and the Attic says God
 is *like* one — and the name became a description.
@@ -202,10 +210,11 @@ Write these in Septuagint Greek — that is, keep the Hebrew shape.
 
 ::: answers
 1. **Κύριος ποιμαίνει με.** — a verb, no article. Accept **ὁ κύριος ποιμήν
-   ἐστιν** as correct Greek that has missed the instruction.
+   μού ἐστιν** as correct Greek that has missed the instruction.
 2. **τὸ ἔλεος τοῦ κυρίου μέγα ἦν.** — **μέγα** is the neuter of **μέγας**,
    agreeing with **ἔλεος**.
-3. **ὁ ποιμὴν ἄγει τὰ πρόβατα εἰς τὸν οἶκον.** — **ἄγω** from Lesson 3.
+3. **ὁ ποιμὴν ἄγει τὰ πρόβατα εἰς τὸν οἶκον.** — **ἄγω** is in today's
+   list; the class saw it inside **παιδαγωγός** in Lesson 3.
 4. **εἰς τὸν αἰῶνα.** — the idiom whole. A pupil who writes **ἀεί** has
    written Attic, which is correct and is not what was asked.
 :::
@@ -218,8 +227,8 @@ from.
 **Κύριος ποιμαίνει με, καὶ οὐδέν με ὑστερήσει.**
 
 - **Κύριος** — the Lord *(no article: a name)*
-- **ποιμαίνει** — shepherds *(a verb, where every translation since has put
-  a noun)*
+- **ποιμαίνει** — shepherds *(a verb; the Latin kept it, and every English
+  Bible has put a noun)*
 - **με** — me
 - **οὐδέν** — nothing
 - **ὑστερήσει** — will be lacking *(future; recognise it)*
@@ -294,7 +303,7 @@ talked like the Psalm.
 
 "Like the Psalm?"
 
-"*And* this, *and* that, *and* the other. **καὶ, καὶ, καί.** My
+"*And* this, *and* that, *and* the other. **καί, καί, καί.** My
 grandmother does it in Greek and in Syriac both."
 
 Theodoros considered this.
