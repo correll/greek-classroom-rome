@@ -146,7 +146,8 @@ On a diphthong the breathing sits over the *second* vowel: **αἱ**, **οὐ**.
 On a capital it sits before the letter: **Ἀθῆναι**, **Ἑλλάς**.
 
 ::: latinbridge
-You already know this sound change. Greek **ὑπέρ** is Latin *super*; Greek
+If you have met any Latin, you already know this sound change. Greek
+**ὑπέρ** is Latin *super*; Greek
 **ἕξ** is Latin *sex*; Greek **ἅλς** is Latin *sal*. Where Greek has a rough
 breathing, Latin often has an *s*. Both go back to an original *s*- that
 Greek weakened to *h* and then, in writing, to a small hook.

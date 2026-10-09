@@ -20,6 +20,14 @@ The third movement is the one that matters. Producing an English sentence is
 not the exercise; being able to say **what in the Greek makes it that
 sentence** is the exercise.
 
+::: note
+**Mystery sentences.** Every so often you will be given a sentence that
+contains nothing new — no unfamiliar word, no unfamiliar ending — but that
+you have certainly never seen before. These cannot be answered from memory,
+only from understanding. They are the best test in the course, and the most
+honest one.
+:::
+
 ## The five parts
 
 ### Part I · The Strange Language — Lessons 1–6
@@ -57,27 +65,3 @@ Questions, commands, and persuasion; the translator's dilemma, where two
 readings are both grammatically possible and only one is right; a short
 letter composed in Greek; and a passage of your own choosing, prepared alone
 and read aloud at the end.
-
-## How you will be assessed
-
-Four things, and they are not weighted equally.
-
-| Area | Weight | What success looks like |
-|:--|:--:|:--|
-| Vocabulary and forms | 25% | You recognise words and endings quickly and reliably. |
-| Reading and translation | 35% | You can **explain how a sentence works**, not just produce an English equivalent. |
-| Composition and reasoning | 20% | You write simple correct Greek and can justify your choices. |
-| Literature and reflection | 20% | You discuss a text thoughtfully and can tell its meaning apart from your own assumptions. |
-
-The heaviest weight is deliberately on explanation rather than output.
-Someone who translates correctly but cannot say why has not yet learned
-Greek; they have learned to guess well, and the guessing will fail them at
-exactly the point the sentences get interesting.
-
-::: note
-**Mystery sentences.** Every so often you will be given a sentence that
-contains nothing new — no unfamiliar word, no unfamiliar ending — but that
-you have certainly never seen before. These cannot be answered from memory,
-only from understanding. They are the best test in the course, and the most
-honest one.
-:::

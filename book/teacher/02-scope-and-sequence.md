@@ -38,8 +38,18 @@ Greek is learnable.*
 | 5 | The Verb Appears | Present indicative active; **εἰμί** | The pupils introduce and describe one another in short Greek sentences. |
 | 6 | The First Real Sentence | Article, noun, and verb combined | The class decodes a short sentence and realises it can read Greek without knowing every word. |
 
-Texts begin as teacher-composed Attic-style sentences, clearly labelled as
-such, and move to short authentic phrases by Lesson 6.
+Authentic text begins at Lesson 4 rather than Lesson 6. The three passages
+of Part I are Koine, taken from the opening and the closing chapters of
+John, and they are chosen because they are short, famous, and built almost
+entirely from words the pupils already hold: **τί ἐστιν ἀλήθεια;** (4),
+**ἐγώ εἰμι ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή** (5), and **ἐν ἀρχῇ ἦν ὁ λόγος**
+(6). Each is labelled as Koine where it appears. The pedagogical argument
+for meeting real Greek this early is that a pupil who can read eleven
+authentic words in week six has evidence that the course works; a pupil who
+has only ever read composed sentences has the teacher's word for it.
+
+Composed sentences remain in the exercises throughout, and are always marked
+as composed.
 
 ## Part II · The Machinery of Greek (7–12)
 
@@ -71,7 +81,7 @@ the language creates meaning.*
 | 15 | The Words of Homer | Epic dialect; formulaic language; uncontracted forms | A scaffolded passage from the *Odyssey*. Homeric Greek is not Attic, and the class is told so plainly. |
 | 16 | Odysseus and the Problem of Cleverness | Infinitives; indirect statement | An episode from the *Odyssey* raises questions about intelligence, courage, and deception. |
 | 17 | What Makes a Just Person? | Connectors; **μέν … δέ**; pronouns | A short Platonic passage distinguishes winning an argument from making a sound one. |
-| 18 | The Trial of a Translation | Review: case, tense, agreement | Each pupil defends a translation. The judges must separate evidence from eloquence. |
+| 18 | The Trial of a Translation | Review: case, aspect, the article, connectors | Each pupil defends a translation. The judges must separate evidence from eloquence. |
 
 Homer arrives with scaffolding and with the dialect difference stated, not
 smuggled past.
@@ -112,7 +122,10 @@ something.*
 
 # Assessment {.unnumbered}
 
-Four things are worth measuring, and they are not equally weighted.
+Nothing in this course depends on a particular grading scheme, and the
+student edition deliberately names none, so that a school can fit the course
+to the marking it already uses. What follows is one workable suggestion:
+four things worth measuring, weighted unequally.
 
 | Area | Weight | What success looks like |
 |:--|:--:|:--|
@@ -121,9 +134,9 @@ Four things are worth measuring, and they are not equally weighted.
 | Composition and reasoning | 20% | Writes simple correct Greek and justifies the choices made. |
 | Literature and reflection | 20% | Discusses a text thoughtfully and distinguishes its meaning from their own assumptions. |
 
-The heaviest weight is deliberately on explanation rather than output. A
-student who translates correctly but cannot say why has not yet learned
-Greek; they have learned to guess well, and the guessing will fail them at
+Whatever weights are chosen, the argument for putting the heaviest on
+explanation rather than output is this. A student who translates correctly
+but cannot say why has not yet learned Greek; they have learned to guess well, and the guessing will fail them at
 exactly the point the sentences get interesting.
 
 ::: note

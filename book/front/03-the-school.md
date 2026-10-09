@@ -45,15 +45,14 @@ instruction, and the teacher who somehow sees through everything.
 
 You will meet them as they come.
 
-This book deliberately gives you no cast list, no portraits, and no
-biographies. Eight pupils and one teacher share this room with you for thirty
-lessons, and you will learn who they are the way you learn who anyone is — by
-watching what they do when something is difficult, and noticing who was right.
+Eight pupils and one teacher share this room with you for thirty lessons, and
+you will learn who they are the way you learn who anyone is — by watching
+what they do when something is difficult, and noticing who turns out to have
+been right.
 
-One of them habitually produces answers that are clever and wrong. One of
-them is usually right and says so too quietly. One of them will not speak
-until certain. Working out which is which is part of the course, and being
-told in advance would spoil it.
+One of them habitually produces answers that are clever and wrong. One is
+usually right and says so too quietly. One will not speak until certain.
+Work out which is which.
 
 ## A note on language
 

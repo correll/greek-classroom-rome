@@ -1,159 +1,174 @@
 # Preface: What This Course Is Trying to Do {.unnumbered}
 
-This book teaches Classical Attic Greek to students in grades 7–9 who have
-already met Latin grammar. It teaches that Greek through a story.
+This book will teach you Classical Attic Greek, and it will do it through a
+story about eight children in Rome who were made to learn it too.
 
-But the reason for teaching it is not the story, and not really the
-literature either. It is this: **Greek is the most efficient instrument we
-have for teaching a child to reason formally about language.**
+You should know at the start what it is for. The reason is not the story, and
+it is not really the literature either, though both are worth having. It is
+this: **Greek is the best instrument anyone has found for learning to reason
+carefully about language.** That is a large claim. The rest of this preface
+is an attempt to earn it.
 
-## The argument
+## What Greek shows that English hides
 
-English hides its grammar. A competent eleven-year-old speaker of English has
-never had to examine how an English sentence assigns roles, because word
-order does it silently and they absorbed the rules before they could read.
-Ask them why *the dog bit the man* means what it means and they will say
-"because that's what it says."
+English keeps its grammar out of sight. You have been speaking it since
+before you could read, and you work out what a sentence means mostly from
+where the words sit. Ask yourself why *the dog bit the man* means what it
+means and the honest answer is "because that's what it says." The machinery
+is there, but you have never had to look at it, and nothing in English
+obliges you to.
 
-Greek makes the same machinery visible and external. Case endings announce
-what each noun is doing. Verb endings announce person, number, and aspect.
-Agreement binds adjectives to their nouns across any distance. Word order is
-freed up to carry emphasis instead of grammar. The result is a language in
-which a student can **point at the evidence** for a reading.
+Greek hides nothing. Case endings announce what each noun is doing. Verb
+endings announce who is acting, and when. Agreement ties an adjective to its
+noun across any distance you like. Word order is freed up to carry emphasis,
+because it is not needed for grammar. The result is a language in which you
+can **point at the evidence** for your reading.
 
-That is the pedagogical prize, and it is worth being precise about it. A
-student who reads Greek correctly has not had an impression; they have
-constructed an argument from marks on a page, and they can be asked to defend
-it. The course's recurring question — *what in the sentence tells you that?* —
-is not a classroom mannerism. It is the entire transferable skill, and
-everything else here exists to force the question.
+That is the prize, and it is worth being exact about it. When you read a
+Greek sentence correctly you have not had an impression — you have built an
+argument out of marks on a page, and you can be asked to defend it. One
+question will follow you through all thirty lessons: *what in the sentence
+tells you that?* It is not a classroom mannerism. It is the whole
+transferable skill, and everything else in this book exists to make you ask
+it.
 
 ## Why this matters more than it did
 
-Two abilities have become unusually valuable, and both are trained by
-exactly this work.
+The objection is not a new one, and you are in good company if you feel it.
+In the second scene of this book Marcus asks why he should learn another
+alphabet when he already has a perfectly good one, and he asks it in Rome in
+AD 400 — by which time Greek had been the mark of an educated person for
+centuries, and was already having to be defended rather than assumed. He was
+not unusual. Augustine, writing within a few years of the autumn described
+here, remembered hating his Greek lessons as a boy, and never did come to
+read the language comfortably.
 
-**Specifying precisely.** Saying what you actually mean, at the right level
-of detail, is a learnable skill and an uncommon one. Greek teaches it by
-refusing partial credit: one letter separates a dative from a genitive, an
-accent separates *who?* from *someone*. A student discovers quickly that the
-sentence says what they wrote, not what they intended.
+So the complaint is about two thousand years old. Every generation since has
+produced somebody clever to make it, and the language has outlasted all of
+them. That is not an argument by itself — subjects can survive for poor
+reasons. But something that has been called useless for twenty centuries and
+taught anyway deserves a second look before you set it aside.
 
-**Verifying a confident claim.** Students now grow up among systems that
-produce fluent, authoritative-sounding language on demand, and fluency is no
-longer evidence of correctness — if it ever was. The defence is the habit of
-checking an assertion against evidence rather than against how plausible it
-sounds. This is precisely the discipline of construing a Greek sentence, and
-it generalises: to a classmate's confident answer, to a textbook, to a source,
-to a machine's output.
+What has changed is the case for it, and the change is in your favour. Two
+abilities have become unusually valuable in your lifetime, and this work
+trains both.
 
-We make this case to students directly, in *To the Student*, in their own
-terms. It is not a disclaimer bolted onto the front of a classics course; it
-is why the course is worth their time.
+**Saying exactly what you mean.** Precision is a learnable skill and an
+uncommon one. Greek teaches it by refusing you partial credit: one letter
+separates a dative from a genitive, an accent separates *who?* from
+*someone*. You will discover quickly that the sentence says what you wrote
+rather than what you had in mind. This is annoying for about a term and
+useful for the rest of your life.
 
-## Why a story at all
+**Checking a confident claim.** You are growing up among machines that
+produce fluent, authoritative-sounding language on demand, and fluency has
+never been evidence of correctness. The defence is a habit: test an assertion
+against evidence instead of against how plausible it sounds. That habit is
+exactly what construing a Greek sentence drills, and it transfers — to a
+classmate's confident answer, to a textbook, to a source, to whatever a
+machine has just told you. The next chapter, *To the Student*, says more
+about this, because it is the part of the argument that is really yours.
+
+## Why there is a story
 
 A grammar can be learned without a story. It is learned better with one.
 
-Adolescents remember what happened to someone. A paradigm memorised in
-isolation decays within a week; the same paradigm attached to the afternoon a
-pupil mislabelled the household cat survives the summer. The narrative is not
-decoration bolted onto the grammar — it is the mnemonic structure of the
-grammar. Each lesson's mischief is chosen to dramatise exactly the
-distinction that lesson teaches. When the pupils argue over whose tablet is
-whose, they are arguing about the genitive case.
+You remember what happened to someone. A table of endings memorised on its
+own is gone in a week; the same table attached to the afternoon somebody
+mislabelled the household cat will still be there in the summer. So the story
+is not decoration laid over the grammar — it is the shape the grammar hangs
+on. Each lesson's trouble has been chosen to dramatise the exact distinction
+that lesson teaches. When the pupils argue about whose tablet is whose, they
+are arguing about the genitive case.
 
-The story is strictly subordinate. It occupies about five minutes of a
-forty-five minute lesson. Its job is to make the pupils' mistakes,
-discoveries, and victories memorable, and a teacher pressed for time can cut
-it without losing the grammatical sequence.
+It is also kept short, about five minutes of a lesson. You are here for the
+Greek.
 
-::: note
-**The characters are revealed through the lessons, not introduced in
-advance.** The student edition contains no cast list and no biographies.
-Students meet the teacher and the eight pupils the way they would meet
-anyone — by watching them behave. A child handed a label in advance watches
-for the label instead of the behaviour, and has been given the answer to a
-question this book wants them to work out for themselves.
+::: teacheronly
+**On the characters.** The student edition contains no cast list and no
+biographies. Students meet the teacher and the eight pupils the way they
+would meet anyone — by watching them behave. A child handed a label in
+advance watches for the label instead of the behaviour, and has been given
+the answer to a question this book wants them to work out for themselves.
 
 The full character notes, including what each pupil is for and which lesson
-reveals what, are in the teacher's edition.
+reveals what, are in the teacher's edition, together with the thirty-lesson
+scope and sequence. A teacher planning a term should read the latter first.
 :::
 
-## What the course assumes
+## What you need to know already
 
-A student who has studied some Latin — enough to know what a case is, what
-agreement means, and that verbs conjugate. The course uses that knowledge
-deliberately. A box labelled **From Latin** appears whenever a Greek feature
-has a Latin counterpart, and, just as often, whenever it has one that will
-mislead. Greek is not Latin with different letters, and students who assume
-otherwise will be wrong in predictable ways. This book tries to be wrong
-first, out loud, in the characters' mouths, so that the students need not be.
+Enough grammar to know what a case is, what a declension is, what agreement
+means, and that verbs conjugate. Most students meet those ideas in Latin, and
+a year or two of it will make the first half of this course noticeably
+easier.
 
-It does not assume a teacher who reads Greek fluently. Every Greek form
-printed here is glossed, every exercise has an answer key in the teacher's
-edition, and every authentic passage is accompanied by a note on what makes
-it hard.
+Latin is a help rather than a requirement, though. What this book actually
+needs is that you have the vocabulary of grammar, wherever you picked it up;
+if you arrive without it you will need a little more patience in the early
+lessons, not a different book.
 
-## What the course covers
+Where Latin is there to be drawn on, the course draws on it. A box labelled
+**From Latin** appears whenever a Greek feature has a Latin counterpart —
+and, just as often, whenever it has one that will mislead you. Greek is not
+Latin in a different alphabet, and anyone who assumes it is will be wrong in
+predictable ways. This book tries to be wrong first, out loud, in the
+characters' mouths, so that you need not be.
 
-Volume I takes a student from the alphabet to the ability to read a short
-authentic passage with help. Concretely: the Greek alphabet and its spelling
-conventions; the article; the first, second, and third declensions; adjective
-agreement; the present, imperfect, and aorist indicative active of thematic
-verbs; **εἰμί**; the infinitive; a first working acquaintance with
-participles; the commonest pronouns, connectors, and interrogatives; and the
-imperative.
+::: teacheronly
+The course does not assume a teacher who reads Greek fluently. Every Greek
+form printed here is glossed, every exercise is followed in this edition by
+its answer key with notes on the mistakes students usually make and why those
+mistakes are reasonable, and every authentic passage carries a note on what
+makes it hard. Both editions are generated from the same files by the same
+command with one flag changed, so they cannot drift apart.
+:::
 
-That is less than a first-year college course covers in a year. It is about
-right for thirty lessons with twelve- to fourteen-year-olds who are also
-carrying Latin.
+## Where this will take you
+
+By the end of Volume I you will be able to read a short authentic passage
+with help. *What the Course Covers* sets out the thirty lessons and the shape
+of each one; read it when you want to know where you are.
+
+That is less ground than a first-year university course covers. It is about
+right for thirty lessons at your age, carried alongside everything else you
+are doing, and it is enough to reach real Greek rather than sentences written
+to be easy.
 
 ## Attic first, then the others
 
-The core language of this course is Classical Attic prose. Homer's epic
-dialect and the Koine of the Septuagint and New Testament appear later as
-related but distinct forms, clearly labelled as such.
+The Greek at the centre of this course is Classical Attic prose. Homer's epic
+dialect, and the Koine of the Septuagint and the New Testament, are related
+but distinct kinds of Greek, and every passage in this book says which kind
+it is.
 
-This matters, and for the same reason as everything above. A student who
-meets **εἶπεν** in Luke and **εἶπε** in Plato and is told they are "the same
-Greek" has been taught something false, and taught it in a course whose whole
-point is not accepting claims that merely sound reasonable. The course prefers
-to say plainly: Greek changed over eight hundred years, Homer was already
-archaic when Plato wrote, and the evangelists wrote the ordinary Greek of
-their century. Part IV is built around that comparison rather than around
-pretending it does not exist.
+You meet Koine first, in Part I, and before you have met much Attic. That is
+deliberate. The three short sentences there are among the most famous in the
+language, they are made almost entirely of words you will already know, and
+reading real Greek in your sixth lesson is worth more than another fortnight
+of sentences written to be easy. They are labelled as Koine every time.
 
-The same restraint applies to the texts. Homer, Plato, the Septuagint, and
-the New Testament are not interchangeable authorities, and this book does not
-flatten them into one. Their differing purposes produce some of the course's
-best discussions.
+This matters, for the same reason as everything above. If you meet **εἶπεν**
+in Luke and **εἶπε** in Plato and someone tells you they are "the same
+Greek", you have been told something false — in a course whose whole point is
+not accepting claims because they sound reasonable. So this book says plainly
+that Greek changed over eight hundred years, that Homer was already archaic
+when Plato wrote, and that the evangelists wrote the ordinary Greek of their
+own century. Part IV is built around that comparison instead of pretending it
+is not there.
+
+The same restraint applies to the writers. Homer, Plato, the Septuagint and
+the New Testament are not interchangeable authorities, and this book will not
+flatten them into one. Their disagreements produce some of the best
+discussions in the course.
 
 ## A note on invented sentences
 
-Teaching sentences composed by the author are marked as such. Passages
-attributed to an ancient author are quoted, not paraphrased, and are given
-with a reference. A student should never be in doubt about whether a sentence
-was written by Plato or by a textbook writer imitating him — least of all in
-a course about checking claims against their sources.
+Sentences written by the author to teach you something are marked as such.
+Anything attributed to an ancient writer is quoted, not paraphrased, and
+comes with a reference. You should never be in doubt about whether a sentence
+was written by Plato or by a textbook writer imitating Plato — least of all
+in a course about checking claims against their sources.
 
-## The teacher's edition
-
-Two PDFs are built from this source. The student edition omits all answer
-keys and all teaching notes. The teacher's edition is identical except that
-each exercise is followed immediately by its answer key, with notes on the
-mistakes students usually make and why those mistakes are reasonable, and
-that it carries the character and staging material.
-
-Both are generated from the same files by the same command, with one flag
-changed. They cannot drift apart.
-
-## How to use what follows
-
-The next sections are, in order: a short address to the student; the setting;
-the pronunciation this course teaches and why; and what the course covers.
-
-The teacher's edition carries two further chapters before the lessons begin —
-the character notes, and the full thirty-lesson scope and sequence with the
-story of each lesson. A teacher planning a term should read the latter
-first.
+You are about to be asked to take a great deal on trust, and this is the
+first thing you are owed in return.
