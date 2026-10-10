@@ -131,6 +131,15 @@ helpful.
 - **ἡ δόξα** — opinion; reputation; glory *(the same word, moving)*
 - **καταλαμβάνω** — I seize, overtake; grasp, understand *(aorist
   **κατέλαβον**)*
+- **τὸ πλοῖον** — boat, ship *(the ordinary word; **ναῦς** is Homer's)*
+- **ὁ ἄνεμος** — wind
+- **ὁ φόβος** — fear
+- **ὁ ὄχλος** — crowd
+- **καθεύδω** — I sleep *(imperfect **ἐκάθευδον**: the augment goes inside
+  the compound)*
+- **ἐγείρω** — I wake *(someone)*, I raise *(aorist **ἤγειρα**)*
+- **ἐκεῖνος, ἐκείνη, ἐκεῖνο** — that, that one *(stands outside the article
+  group, like **οὗτος**: **ἐκεῖνος ὁ ἀνήρ**, that man)*
 
 ::: note
 **Words whose range is wider in Greek than in English.** You now have most
@@ -146,16 +155,62 @@ a word English has borrowed — *logic*, *psyche*, *archaic*, *charisma*,
 :::
 :::
 
-::: {.investigation time="15 min"}
+::: {.investigation time="20 min"}
 Theodoros said that for every sentence he wanted two translations and a
 reason for preferring one — and that *the dictionary says so* was not a
 reason, since the dictionary said both.
+
+::: {.exercise title="Retrieval"}
+From memory, and quickly. Lessons 23 to 26; nothing from today.
+
+1. **εἰπέ** — what form? From what verb?
+2. Translate **οὐκ οἶδα τίς ἐστιν.**
+3. **θάλαττα** or **θάλασσα** — which is Attic?
+4. **ἀκούεις** — *you are listening*. Make it a command to the same
+   person; then forbid it.
+5. **τίνι ἔδωκε τὸ βιβλίον;** — name the case of **τίνι** and say what it
+   asks for.
+6. **δεῖ σε μανθάνειν.** — what case is **σε**, and why?
+7. **πότε** / **ποτε** — translate each.
+8. **λέγει ὅτι σοφός ἐστιν.** — put it into the Attic construction.
+9. **γνῶθι** — present or aorist? Why does the maxim use that aspect?
+10. **ὁ ποιήσας** — what tense is the participle, and what has the article
+    done to it?
+:::
+
+::: answers
+1. Aorist imperative, second singular, of **λέγω**: *say!* (Lesson 26).
+2. *I do not know who he is* — an indirect question (Lesson 25).
+3. **θάλαττα**; **θάλασσα** is Koine (Lesson 23).
+4. **ἄκουε** (or **ἄκουσον**, for *listen to this now*); **μὴ ἄκουε**. A
+   pupil who writes **οὐκ ἄκουε** has used the wrong negative (Lesson 26).
+5. Dative; a recipient — *to whom?* (Lesson 25).
+6. Accusative: the person who must do the thing goes in the accusative
+   after **δεῖ**, with the infinitive following (Lesson 26).
+7. *When?* / *at some time, once* (Lesson 25).
+8. **λέγει σοφὸς εἶναι** — or, with the subject stated, **λέγει τὸν ἄνδρα
+   σοφὸν εἶναι** (Lessons 16 and 23).
+9. Aorist: *come to know yourself*, once, completely — a thing to be done,
+   not a habit (Lesson 26).
+10. Aorist; the article has made a noun of it, *the one who did* (Lesson
+    22).
+:::
 
 ::: {.exercise title="Two renderings, one reason"}
 1. **ὁ κόσμος αὐτὸν οὐκ ἔγνω.** *(John 1:10; **ἔγνω** = knew, recognised)*
 2. **ἡ δόξα τοῦ ἀνδρὸς μεγάλη ἦν.**
 3. **καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.**
    *(John 1:5; **φαίνει** = shines)*
+4. **ἐν ἀρχῇ ἦν ὁ λόγος.** *(John 1:1)*
+5. **πνεῦμα ὁ θεός.** *(John 4:24, the first three words)*
+6. **χάρις ὑμῖν καὶ εἰρήνη.** *(the greeting that opens most of Paul's
+   letters, e.g. Romans 1:7; **εἰρήνη** = peace)*
+7. **ἡ ψυχὴ τοῦ ἀνθρώπου ἐν τῷ πλοίῳ ἦν.**
+8. **διδάσκαλε, οὐ μέλει σοι;** *(Mark 4:38; **μέλει σοι** = it is a care to
+   you)*
+9. **καὶ ἐγένετο γαλήνη μεγάλη.** *(Mark 4:39; **γαλήνη** = a calm)*
+10. **ὁ ἄνεμος καὶ ἡ θάλασσα ὑπακούει αὐτῷ.** *(Mark 4:41; **ὑπακούω** =
+    **ἀκούω** with a prefix: I listen to, I obey)*
 :::
 
 ::: answers
@@ -174,6 +229,40 @@ reason, since the dictionary said both.
    either with the other acknowledged; give most credit to a pupil who
    finds an English word that holds both, or who says that the Greek may
    mean both and the English cannot.
+4. *In the beginning was the Word* / *… the Reason* / *… the Account.*
+   **λόγος** covers all three (Lesson 19), and **ἀρχή** is *beginning* or
+   *origin* or *rule* (Lesson 6). Every English Bible says *Word*, and every
+   one of them has made a choice. Usage decides: the Gospel goes on to say
+   that the **λόγος** *became flesh*, which a reason does not do.
+5. *God is spirit* / *God is breath* / *God is wind.* **πνεῦμα** covers all
+   three (Lesson 21). The rest of the verse — *those who worship him must
+   worship in spirit and truth* — settles the corner: the word is paired
+   with **ἀλήθεια**, not with weather. No article on **πνεῦμα**: the
+   predicate, as in **θεὸς ἦν ὁ λόγος** (Lesson 18).
+6. *Grace to you and peace* / *favour to you and peace* / *thanks to you
+   and peace.* **χάρις** (Lesson 19) can be any of them; usage decides —
+   this is a letter's greeting, and in Lesson 28 you will see that a Greek
+   letter opened with **χαίρειν**, *rejoice*. Paul has taken the ordinary
+   word for *greetings* and bent it towards *grace*. A pupil who sees that
+   the two words share a root has seen the move.
+7. *The man's soul was in the boat* / *the man's life was in the boat* /
+   *the man himself was in the boat.* Composed, no context, no way to
+   decide; like 2. **ψυχή** has been a region since Lesson 1.
+8. *Teacher, do you not care?* / *Master, is it nothing to you?*
+   **διδάσκαλος** is *teacher*, and the Latin says *magister*, and the
+   people shouting it are not in a classroom. The tone is the dilemma:
+   *do you not care?* is a reproach; *does it not matter to you?* is a
+   plea. The Greek is both, and the context — they think they are drowning
+   — lets either stand.
+9. *And there was a great calm* / *and a great calm came* / *and it became
+   very calm.* **ἐγένετο** (Lesson 14) is *happened*, *became*, *there
+   was*; the dilemma is small here and the choice is one of style. Accept
+   any; ask which keeps the suddenness.
+10. *The wind and the sea obey him* / *… listen to him.* **ὑπακούω** is
+    *listen under* — hear and do. For a wind, *obey* is the only sense that
+    works; *listen* would make the wind a pupil. Context has closed the
+    range. (Note the singular verb with two subjects: Greek agrees with the
+    nearer.)
 :::
 
 ::: {.exercise title="What tells you that?"}
@@ -185,6 +274,19 @@ having been asked; **ὑπό** + genitive = by.)*
 2. What did they ask? *(There is a question word from Lesson 25 in it.)*
 3. Now re-read **ἐντὸς ὑμῶν ἐστιν**. Who is **ὑμῶν**? What does that do to
    Julia's translation?
+4. **ἐντός** takes which case? Which word in the sentence shows it?
+5. **ὑμῶν** is plural. If the Greek had **σοῦ**, *of you (one person)*,
+   which of the two translations would gain?
+6. **ἰδοὺ γάρ** — what does **γάρ** claim about the clause it introduces?
+   What is it the reason for?
+7. **ὧδε** and **ἐκεῖ** — which is *here*? Which of this lesson's new words
+   hides inside the other?
+8. **ἀπεκρίθη αὐτοῖς καὶ εἶπεν** — two verbs of saying for one act of
+   speech. Which Greek does this, and where did you meet the habit before?
+9. **ὁ κόσμος αὐτὸν οὐκ ἔγνω** (from the first exercise). What tells you
+   that **αὐτόν** is not the one who failed to know?
+10. The Latin **intra vos**. What has the Latin translator kept, and what
+    tells you he faced the same choice as Julia and Livia?
 :::
 
 ::: answers
@@ -198,6 +300,30 @@ having been asked; **ὑπό** + genitive = by.)*
    Livia's reading needs none. This is what *context decides* looks like
    in practice: not a feeling about the sentence, but a fact about the
    previous one.
+4. The genitive; **ὑμῶν** is a genitive. (**ἐντός** is in the vocab box
+   with its case; the exercise checks that the case was read, not
+   remembered.)
+5. *Within you.* *In the midst of* needs more than one person to be in the
+   midst of; a singular **σοῦ** would all but force *inside*. The plural is
+   what keeps Livia's reading open, and a pupil who sees that the *number*
+   of a pronoun carries the argument has understood what the grammar can
+   and cannot do.
+6. That it gives the reason for what came before — for *nor will they say
+   "here" or "there"*. The kingdom cannot be pointed at *because* it is
+   already **ἐντὸς ὑμῶν**. The connector binds the dilemma to the
+   sentence before it, which is Livia's whole case.
+7. **ὧδε** is *here*; **ἐκεῖ** is *there*, and **ἐκεῖνος**, *that one*, is
+   built on it — *the one over there*.
+8. Koine, and the Septuagint before it: *he answered and said* is the
+   Hebrew habit showing through (Lesson 20). Attic would write one verb.
+9. Its ending. **αὐτόν** is accusative, the object of **ἔγνω**; the subject
+   is **ὁ κόσμος**, nominative with the article. A pupil who translated
+   *he did not know the world* read the order and not the endings, which
+   is Lesson 3's mistake in a Lesson 27 sentence.
+10. He kept the ambiguity: *intra* is *within* and *among* just as **ἐντός**
+    is. What tells you he had the choice is that Latin *had* other words
+    — *in vobis*, *inter vos* — and he used neither. He saw the fork and
+    declined to take it.
 :::
 
 ::: {.exercise title="Into Greek"}
@@ -205,6 +331,12 @@ having been asked; **ὑπό** + genitive = by.)*
 2. The light shines in the darkness.
 3. The glory of God was great.
 4. I do not know what he means. *(literally, "what he is saying")*
+5. Where is the boat?
+6. The crowd does not know who he is.
+7. The teacher was sleeping in the boat.
+8. Wake the teacher! *(one person, now)*
+9. That man has great fear.
+10. Why do you have fear? *(to several people)*
 :::
 
 ::: answers
@@ -217,6 +349,24 @@ having been asked; **ὑπό** + genitive = by.)*
    corner. Ask them to say so.
 4. **οὐκ οἶδα τί λέγει.** — Lesson 25; and a fair description of a
    translator's condition most of the time.
+5. **ποῦ ἐστι τὸ πλοῖον;**
+6. **ὁ ὄχλος οὐκ οἶδε τίς ἐστιν.** — indirect question; **τίς** keeps its
+   accent. **ὄχλος** is singular and takes a singular verb, though it means
+   many people.
+7. **ὁ διδάσκαλος ἐκάθευδεν ἐν τῷ πλοίῳ.** — imperfect, because the
+   sleeping went on; and the augment sits inside the compound, **ἐ-κάθ-**,
+   not in front of it. A pupil who writes **ἐκαθεύδησεν** has made an
+   aorist and said the sleeping was over.
+8. **ἔγειρον τὸν διδάσκαλον.** — the aorist imperative of **ἐγείρω**,
+   which has no **σ** because the stem ends in **ρ**; accept **ἔγειρε**,
+   the present, from a pupil who has not met that and says why.
+9. **ἐκεῖνος ὁ ἄνθρωπος μέγαν φόβον ἔχει.** — **ἐκεῖνος** outside the
+   article group, like **οὗτος** (Lesson 17). A pupil who writes **ὁ
+   ἐκεῖνος ἄνθρωπος** has put it where an adjective goes, and it does not
+   go there.
+10. **διὰ τί φόβον ἔχετε;** — the Gospel will say **τί δειλοί ἐστε;** in
+    this lesson's Reading, with **τί** alone meaning *why?*; the class's
+    **διὰ τί** is the fuller form of the same thing.
 :::
 :::
 
@@ -286,6 +436,168 @@ the context favours and why, and can say what is lost by choosing it.
 exactly as a careful pupil should. She is not wrong about anything in her
 sentence. Do not let the class treat her as having blundered; she has
 done what Lesson 18 taught and discovered that Lesson 18 was not the end.
+:::
+:::
+
+::: {.reading time="20 min" title="The storm on the lake" source="Mark 4:35–41"}
+A story, told fast, in the shortest Gospel. It ends with a question nobody
+answers, and it has in it three of the dilemmas you argued about this
+afternoon. The first version is **adapted**: it has no passives and no
+subjunctives, and it calls the man in the boat **ὁ διδάσκαλος** throughout,
+because that is what the others call him. The second is the text of
+Nestle–Aland, glossed beside it.
+
+**Adapted.**
+
+ἐν ἐκείνῃ τῇ ἡμέρᾳ ὁ διδάσκαλος εἶπε τοῖς φίλοις αὐτοῦ· "ἔλθετε εἰς τὸ
+πέραν τῆς θαλάσσης." καὶ ἦλθον ἐν τῷ πλοίῳ, ὁ δὲ ὄχλος οὐκ ἦλθε σὺν
+αὐτοῖς. καὶ ἐγένετο ἄνεμος μέγας, καὶ ἡ θάλασσα ἦλθεν εἰς τὸ πλοῖον. ὁ δὲ
+διδάσκαλος ἐκάθευδεν. καὶ ἐγείρουσιν αὐτὸν καὶ λέγουσιν αὐτῷ· "διδάσκαλε,
+ἆρα οὐ βλέπεις; ὁ θάνατος ἐν τῷ πλοίῳ ἐστίν." ὁ δὲ εἶπε τῷ ἀνέμῳ καὶ τῇ
+θαλάσσῃ· "σιώπα." καὶ εὐθὺς οὐκ ἦν ἄνεμος, ἀλλὰ γαλήνη μεγάλη. καὶ εἶπεν
+αὐτοῖς· "διὰ τί φόβον ἔχετε; οὐκ ἔχετε πίστιν;" οἱ δὲ μέγαν φόβον εἶχον
+καὶ ἔλεγον· "τίς ἐστιν οὗτος; καὶ γὰρ ὁ ἄνεμος καὶ ἡ θάλασσα ἀκούει
+αὐτοῦ."
+
+**The original** (Nestle–Aland).
+
+Καὶ λέγει αὐτοῖς ἐν ἐκείνῃ τῇ ἡμέρᾳ ὀψίας γενομένης· διέλθωμεν εἰς τὸ
+πέραν. καὶ ἀφέντες τὸν ὄχλον παραλαμβάνουσιν αὐτὸν ὡς ἦν ἐν τῷ πλοίῳ,
+καὶ ἄλλα πλοῖα ἦν μετ᾽ αὐτοῦ. καὶ γίνεται λαῖλαψ μεγάλη ἀνέμου καὶ τὰ
+κύματα ἐπέβαλλεν εἰς τὸ πλοῖον, ὥστε ἤδη γεμίζεσθαι τὸ πλοῖον. καὶ αὐτὸς
+ἦν ἐν τῇ πρύμνῃ ἐπὶ τὸ προσκεφάλαιον καθεύδων. καὶ ἐγείρουσιν αὐτὸν καὶ
+λέγουσιν αὐτῷ· διδάσκαλε, οὐ μέλει σοι ὅτι ἀπολλύμεθα; καὶ διεγερθεὶς
+ἐπετίμησεν τῷ ἀνέμῳ καὶ εἶπεν τῇ θαλάσσῃ· σιώπα, πεφίμωσο. καὶ ἐκόπασεν
+ὁ ἄνεμος καὶ ἐγένετο γαλήνη μεγάλη. καὶ εἶπεν αὐτοῖς· τί δειλοί ἐστε;
+οὔπω ἔχετε πίστιν; καὶ ἐφοβήθησαν φόβον μέγαν καὶ ἔλεγον πρὸς ἀλλήλους·
+τίς ἄρα οὗτός ἐστιν ὅτι καὶ ὁ ἄνεμος καὶ ἡ θάλασσα ὑπακούει αὐτῷ;
+
+::: gloss
+- **ἐν ἐκείνῃ τῇ ἡμέρᾳ** — on that day *(**ἐκεῖνος** outside the article
+  group)*
+- **ὀψίας γενομένης** — evening having come *(a participle and its noun,
+  both genitive, standing apart from the sentence: gloss it whole)*
+- **διέλθωμεν** — let us cross over *(a form you have not met; gloss it
+  whole)*
+- **εἰς τὸ πέραν** — to the other side
+- **ἀφέντες** — having left *(an aorist participle; gloss it whole)*
+- **παραλαμβάνουσιν** — they take along *(**λαμβάνω** with a prefix)*
+- **ὡς ἦν** — as he was; just as he was
+- **ἄλλα πλοῖα ἦν** — other boats were *(neuter plural, singular verb:
+  Lesson 7)*
+- **μετ᾽ αὐτοῦ** — with him *(**μετά** + genitive)*
+- **γίνεται** — there arises *(Koine spelling of **γίγνεται**)*
+- **λαῖλαψ μεγάλη ἀνέμου** — a great storm of wind
+- **τὰ κύματα ἐπέβαλλεν** — the waves were breaking in *(imperfect;
+  neuter plural subject again)*
+- **ὥστε** — so that
+- **ἤδη** — already
+- **γεμίζεσθαι** — to be filling *(a passive infinitive; gloss it whole)*
+- **αὐτός** — he himself *(Lesson 21)*
+- **ἐν τῇ πρύμνῃ** — in the stern
+- **ἐπὶ τὸ προσκεφάλαιον** — on the cushion
+- **καθεύδων** — sleeping *(present participle)*
+- **διδάσκαλε** — teacher! *(vocative)*
+- **οὐ μέλει σοι** — is it no care to you? do you not care? *(**μέλει** is
+  impersonal, like **δεῖ**, with the dative)*
+- **ἀπολλύμεθα** — we are perishing *(gloss it whole)*
+- **διεγερθείς** — having been roused *(a passive participle; gloss it
+  whole; the verb is **ἐγείρω** with a prefix)*
+- **ἐπετίμησεν** — he rebuked *(+ dative)*
+- **σιώπα** — be silent! *(present imperative)*
+- **πεφίμωσο** — be muzzled! *(an imperative of a tense you have not met:
+  stay muzzled)*
+- **ἐκόπασεν** — dropped, died down
+- **ἡ γαλήνη** — a calm
+- **τί** — why? *(the neuter alone, as an adverb)*
+- **δειλοί** — cowardly, frightened
+- **οὔπω** — not yet
+- **ἐφοβήθησαν φόβον μέγαν** — they feared a great fear *(the noun repeats
+  the verb: the Hebrew habit of Lesson 20)*
+- **πρὸς ἀλλήλους** — to one another
+- **ἄρα** — then *(no circumflex: not the question marker **ἆρα** but a
+  particle of inference, *who then is this?*)*
+- **ὑπακούει** — obeys *(singular, with two subjects)*
+- *(adapted version only)* **σιώπα** as above; **καὶ γάρ** — for indeed
+:::
+
+::: {.exercise title="Understanding the reading"}
+Read both versions aloud before you answer anything.
+
+1. When does the story happen, and what does the original add about the
+   time that the adapted version leaves out?
+2. Find the sentence in the original that says the man was asleep. What
+   two words tell you where, and what form of the verb is **καθεύδων**?
+3. **διδάσκαλε, οὐ μέλει σοι ὅτι ἀπολλύμεθα;** Give two English
+   translations of **διδάσκαλε** and two of **οὐ μέλει σοι**. Which pair
+   does the situation favour, and why?
+4. The adapted version replaces that question with **ἆρα οὐ βλέπεις; ὁ
+   θάνατος ἐν τῷ πλοίῳ ἐστίν.** What was lost?
+5. **σιώπα, πεφίμωσο.** Both are commands. To whom? What is strange about
+   that, and why does the adapted version keep only one?
+6. **ἐκόπασεν** is aorist; **ἐπέβαλλεν**, earlier, is imperfect. Say what
+   each aspect is doing in the story.
+7. **τί δειλοί ἐστε;** — is **τί** *what?* here? What is it?
+8. **οὔπω ἔχετε πίστιν;** The adapted version has **οὐκ ἔχετε πίστιν;**
+   What does **οὔπω** add, and what does it imply about the future?
+9. **τίς ἄρα οὗτός ἐστιν;** There are two words here that look like Lesson
+   25's question words. Which is one, and which is not? What tells you?
+10. Translate the last sentence of the original. Then: the story ends on a
+    question. Is it answered anywhere in the passage? What would a
+    translator who wrote *Who is this man, then?* have decided about it?
+:::
+
+::: answers
+1. *On that day* — and the original adds **ὀψίας γενομένης**, *evening
+   having come*: a genitive participle with its noun, standing outside the
+   sentence to give the time. The adaptation drops it because the form is
+   not yet the class's; the loss is the dusk, and the dusk is part of the
+   fear.
+2. **καὶ αὐτὸς ἦν ἐν τῇ πρύμνῃ ἐπὶ τὸ προσκεφάλαιον καθεύδων.** In the
+   stern, on the cushion. **καθεύδων** is the present participle, *sleeping*
+   — hanging from **ἦν**: *he was … sleeping*, the sleeping going on while
+   the waves broke in.
+3. *Teacher* / *Master*; *do you not care?* / *does it not matter to you?*
+   The situation — they are shouting it while bailing — favours *Master,
+   do you not care?*: the vocative is an appeal to authority, not an
+   address to a lecturer, and the question is a reproach. But *Teacher* is
+   what the word means, and a translator who keeps it has kept something
+   Mark may have wanted: that the man they wake is, to them, the one who
+   explains things.
+4. The reproach. *Do you not see?* is a question about perception; *do you
+   not care?* is a question about love, and it is the second that the
+   disciples ask. The adaptation also loses **ἀπολλύμεθα**, *we are
+   perishing*, which is a verb of action, and puts a noun, **ὁ θάνατος**,
+   in its place — a thing sitting in the boat rather than a thing
+   happening to them.
+5. To the wind and the sea. Commands are given to people, and these are
+   given to weather; the grammar treats the storm as something that can
+   be told to stop — which is the point. **πεφίμωσο** is an imperative of a
+   tense the class has not met and would have to be glossed whole; the
+   adaptation keeps **σιώπα**, which is the ordinary present imperative,
+   and loses the second, stranger word — *be muzzled, and stay muzzled*.
+6. **ἐπέβαλλεν**: the waves *were breaking* in, again and again, a
+   process. **ἐκόπασεν**: the wind *dropped* — once, complete, at a stroke.
+   The imperfect builds the danger up and the aorist ends it; the aspects
+   are the shape of the story.
+7. No — *why?* The neuter **τί** on its own serves as an adverb, where
+   Attic would more often say **διὰ τί**. A pupil who translates *what
+   cowards you are* has made it an exclamation, which is also possible;
+   the Greek is open and the translator must choose.
+8. *Not yet*. It implies that faith is expected, and coming, and has not
+   arrived — the question is a rebuke with a future in it. **οὐκ** alone
+   would be flat: *you have no faith*. One word, and the rebuke becomes
+   patient.
+9. **τίς** is the question word, with its acute and at the head. **ἄρα**
+   is not **ἆρα**: it has an acute, not a circumflex, and it is not at the
+   front. It is a particle of inference — *then*, *so*: *who, then, is
+   this?* The accent is the whole difference, as in Lesson 25.
+10. *Who then is this, that even the wind and the sea obey him?* It is not
+    answered; the story stops on it. A translator who adds *man* has
+    decided something the Greek leaves open — **οὗτος** is *this one*, and
+    the question is precisely whether *man* is the right word. That is a
+    translator's dilemma in a single pronoun, and the honest thing is to
+    say so in a note.
 :::
 :::
 

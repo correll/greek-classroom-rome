@@ -155,6 +155,12 @@ the endings and the freedom that comes with them.
 - **λέγει** — he, she, or it says, speaks, tells
 - **ὦ** — O (used before a name or noun when addressing someone)
 - **ἀλλά** — but
+- **ἡ δίκη** — justice; a trial, a case
+- **ὁ νόμος** — law; custom
+- **ἡ γνώμη** — opinion, judgement; a verdict
+- **ὁ δῆμος** — the people
+- **ἡ χώρα** — country, land
+- **ἡ τιμή** — honour; price
 
 ::: note
 **ὁ μάρτυς** is given here as a subject only. Its accusative belongs to a
@@ -166,12 +172,48 @@ root meaning *escape notice*, *be hidden* — so *the unhidden thing*, *what
 has not got past you*. Greek did not have a word meaning *truth* and then
 explain it. It had a word meaning *not hidden*, and that became the word
 for truth. Keep this in your pocket for the rest of the course.
+
+The six words from **δίκη** down belong to Sabina's court. **ἡ δίκη** is
+justice and also the trial you attend to get it; **ἡ γνώμη** is what the
+judge thinks and also what the judge decides; **ἡ τιμή** is honour and
+also the price of a thing. Each pair tells you something about how the
+Greeks thought the two halves belonged together.
 :::
 :::
 
-::: {.investigation time="15 min"}
+::: {.investigation time="20 min"}
 Sabina reconvened the court, on the condition that Theodoros be allowed to
 set the questions.
+
+::: {.exercise title="Retrieval"}
+From the first three lessons, and from memory.
+
+1. Sound out **ξένος**.
+2. Supply the breathing: **_ιππος** — *horse*. <!--nocheck-->
+3. What case is **τὴν οἰκίαν**, and what two things tell you?
+4. What gender is **ἡ ὁδός**, and what told you?
+5. Give the Greek for *book*, with its article.
+6. Translate **ὁ θεὸς βλέπει τὸν ἄνθρωπον.**
+7. Turn that sentence round so that the man sees God — changing endings,
+   not positions.
+8. When does **οὐ** become **οὐκ**?
+9. How many syllables are there in **οἰκία**?
+10. Is **τὸ δῶρον** nominative or accusative?
+:::
+
+::: answers
+1. *Xenos* — **ξ** is one letter, two sounds.
+2. **ἵππος** — rough. (Compare the English *hippo-*.)
+3. Accusative; **τήν** and **-αν**.
+4. Feminine; the article **ἡ**, and nothing else.
+5. **τὸ βιβλίον**.
+6. *God sees the man.*
+7. **τὸν θεὸν βλέπει ὁ ἄνθρωπος.** Two articles and two endings change; a
+   pupil who swapped the words has answered in English.
+8. Before a word beginning with a smooth breathing — **οὐκ ἔχει**.
+9. Three: **οἰ-κί-α**. The **ια** is not a diphthong.
+10. Either. It is neuter, and only the rest of the sentence can say.
+:::
 
 ::: {.exercise title="Who did what?"}
 For each sentence, say who is doing the action and who is receiving it, and
@@ -182,6 +224,11 @@ name the one piece of evidence that told you. Then translate.
 3. **ὁ κριτὴς ἔχει τὸ βιβλίον.**
 4. **τὴν ἀλήθειαν λέγει ὁ διδάσκαλος.**
 5. **τὸ δῶρον ἔχει ὁ φίλος.**
+6. **ὁ μάρτυς βλέπει τὴν δίκην.**
+7. **τὸν νόμον ἔχει ὁ δῆμος.**
+8. **ὁ κριτὴς λέγει τὴν γνώμην.**
+9. **τὴν χώραν βλέπει ὁ ξένος.**
+10. **τὴν τιμὴν ἔχει ὁ κριτής, ἀλλὰ τὴν ἀλήθειαν ἔχει ὁ μάρτυς.**
 
 *(Composed for this lesson. These are not quotations.)*
 :::
@@ -198,6 +245,20 @@ name the one piece of evidence that told you. Then translate.
 4. Subject **ὁ διδάσκαλος**; object **τὴν ἀλήθειαν**. *The teacher tells
    the truth* — with the weight thrown hard onto the truth.
 5. Subject **ὁ φίλος**; object **τὸ δῶρον**. *The friend has the gift.*
+6. Subject **ὁ μάρτυς**; object **τὴν δίκην** (**τήν**, **-ην**). *The
+   witness sees the trial.*
+7. Subject **ὁ δῆμος**, at the end; object **τὸν νόμον**. *The people have
+   the law* — with the weight on the law.
+8. Subject **ὁ κριτής**; object **τὴν γνώμην**. *The judge gives his
+   opinion* — or *delivers the verdict*; accept either.
+9. Subject **ὁ ξένος**; object **τὴν χώραν**. *The stranger sees the
+   country.* A pupil who made the country the subject has not looked at
+   **τήν**.
+10. Two clauses. In the first, subject **ὁ κριτής**, object **τὴν τιμήν**;
+    in the second, subject **ὁ μάρτυς**, object **τὴν ἀλήθειαν**. *The
+    judge has the honour, but the witness has the truth.* Both subjects
+    stand last in their clause, and both objects first: the sentence is
+    weighted towards what each man has, not who he is.
 
 A student who answered 2 differently from 1 read the order and ignored the
 endings. This is the single commonest mistake in the first term, it is
@@ -206,11 +267,19 @@ verdict.
 :::
 
 ::: {.exercise title="Address the court"}
-Put each noun into the vocative, as if speaking to the person.
+Put each noun into the vocative, as if speaking to the person — or the
+animal.
 
 1. **ὁ φίλος**
 2. **ὁ διδάσκαλος**
 3. **ὁ ἄνθρωπος**
+4. **ὁ ξένος**
+5. **ὁ δοῦλος**
+6. **ὁ παιδαγωγός**
+7. **ὁ θεός**
+8. **ὁ ἑταῖρος**
+9. **ὁ Μᾶρκος**
+10. **ὁ αἴλουρος**
 
 Then say what changed, in both the noun and the little word in front of it.
 :::
@@ -219,11 +288,20 @@ Then say what changed, in both the noun and the little word in front of it.
 1. **ὦ φίλε**
 2. **ὦ διδάσκαλε**
 3. **ὦ ἄνθρωπε**
+4. **ὦ ξένε**
+5. **ὦ δοῦλε**
+6. **ὦ παιδαγωγέ** — the accent stays on the last syllable, where it was.
+7. **ὦ θεός** — the exception the lesson named. A pupil who wrote **ὦ
+   θεέ** has applied the rule where they were told not to; the form is not
+   wrong in later Greek, but it is not what an Attic writer would say.
+8. **ὦ ἑταῖρε** — the circumflex stays put.
+9. **ὦ Μᾶρκε** — a name in **-ος** behaves like any other noun in **-ος**.
+10. **ὦ αἴλουρε** — Felix has tried this. The cat did not answer.
 
 In each, the ending went from **-ος** to **-ε**, and the article **ὁ**
-dropped away and was replaced by **ὦ**. The point worth drawing out: the
-vocative is not a politeness. It is a grammatical statement that this
-person is being spoken to rather than spoken about.
+dropped away and was replaced by **ὦ**. The accent did not move. The point
+worth drawing out: the vocative is not a politeness. It is a grammatical
+statement that this person is being spoken to rather than spoken about.
 :::
 
 ::: {.exercise title="Join them up"}
@@ -232,6 +310,15 @@ better sense, and say why you chose it.
 
 1. **ὁ μάρτυς βλέπει.** / **ὁ μάρτυς λέγει.**
 2. **ὁ κριτὴς γράφει.** / **ὁ φίλος βλέπει.**
+3. **ὁ δοῦλος βλέπει τὴν θύραν.** / **ὁ δοῦλος ἔχει τὴν δέλτον.**
+4. **ὁ κριτὴς λέγει τὴν γνώμην.** / **ὁ δῆμος οὐ βλέπει τὴν ἀλήθειαν.**
+5. **ὁ ξένος βλέπει τὴν χώραν.** / **ὁ ξένος οὐ βλέπει τὴν ὁδόν.**
+6. **ὁ μάρτυς λέγει.** / **ὁ κριτὴς γράφει.**
+7. **ὁ αἴλουρος βλέπει τὸν ἵππον.** / **ὁ ἵππος οὐ βλέπει τὸν αἴλουρον.**
+8. **ὁ δῆμος ἔχει τὸν νόμον.** / **ὁ δῆμος ἔχει τὴν δίκην.**
+9. **ὁ διδάσκαλος λέγει τὴν ἀλήθειαν.** / **ὁ δοῦλος οὐ βλέπει τὸν
+   διδάσκαλον.**
+10. **ὁ κριτὴς βλέπει.** / **ὁ κριτὴς λέγει.** / **ὁ κριτὴς γράφει.**
 :::
 
 ::: answers
@@ -242,6 +329,31 @@ better sense, and say why you chose it.
    doing two different things, set against each other: **ἀλλά** is the
    better choice. **καί** is not *wrong* here; it is merely duller, and
    saying which is duller is a real grammatical judgement.
+3. **ὁ δοῦλος βλέπει τὴν θύραν καὶ ἔχει τὴν δέλτον.** — One subject, two
+   actions, no contrast: **καί**.
+4. **ὁ κριτὴς λέγει τὴν γνώμην, ἀλλὰ ὁ δῆμος οὐ βλέπει τὴν ἀλήθειαν.** —
+   The verdict against the truth: **ἀλλά**.
+5. **ὁ ξένος βλέπει τὴν χώραν, ἀλλὰ τὴν ὁδὸν οὐ βλέπει.** — The same
+   subject, but the second half denies what the first affirmed, and
+   **ἀλλά** marks the turn; **ἀλλά** is about contrast, not about a change
+   of subject. Putting **τὴν ὁδόν** before **οὐ** also keeps **ἀλλά** and
+   **οὐ** from standing side by side, which Greek dislikes, and throws the
+   weight where the sense wants it.
+6. Either. **καί** if the two are a sequence — the witness speaks and the
+   judge writes it down; **ἀλλά** if they are being set against each
+   other. Both are defensible; the pupil must say which they meant.
+7. **ὁ αἴλουρος βλέπει τὸν ἵππον, ἀλλὰ ὁ ἵππος οὐ βλέπει τὸν αἴλουρον.**
+   — **ἀλλά**; the second half reverses the first.
+8. **ὁ δῆμος ἔχει τὸν νόμον καὶ τὴν δίκην.** — **καί** joins the two
+   objects; neither the subject nor the verb needs repeating.
+9. **ὁ διδάσκαλος λέγει τὴν ἀλήθειαν, ἀλλὰ ὁ δοῦλος οὐ βλέπει τὸν
+   διδάσκαλον.** — **ἀλλά**: the truth is being told and nobody is
+   looking. **καί** would merely list the two facts.
+10. **ὁ κριτὴς βλέπει καὶ λέγει καὶ γράφει.** — Greek is quite happy to
+    say **καί** twice where English would drop the first *and*. A pupil
+    who wrote a comma and one **καί** has written English punctuation in
+    Greek letters; it is not wrong, but the doubled **καί** is more
+    Greek.
 :::
 
 ::: {.exercise title="Marcus tries it on"}
@@ -252,24 +364,58 @@ Marcus writes:
 He says it means *the judge and the witness speak*, and that since the
 order does not matter he has done nothing wrong.
 
-Say what is wrong with it, using the rule from this lesson, and then write
-two correct sentences that say what he meant.
+1. Say what is wrong with it, using the rule from this lesson.
+2. Write two correct sentences that say what he meant.
+
+Marcus, undeterred, tries again. For each of the following, say whether it
+is Greek, and if it is, what it means.
+
+3. **ὁ κριτὴς λέγει ὁ μάρτυς.**
+4. **ὁ κριτὴς λέγει καὶ γράφει.**
+5. **λέγει καὶ βλέπει.**
+6. **ὁ κριτής, ἀλλὰ ὁ μάρτυς λέγει.**
+7. **ὁ κριτὴς λέγει τὴν ἀλήθειαν καὶ τὴν δίκην.**
+8. **ὁ κριτὴς καὶ ὁ μάρτυς βλέπει τὸν δοῦλον.**
+9. **ὦ φίλε λέγει.**
+10. **ὁ δῆμος λέγει, ὁ κριτὴς γράφει.**
 :::
 
 ::: answers
-There are two nominative subjects and one **-ει** verb, which can have only
-one. Nothing in the sentence says how the two nouns are related, because he
-has left out the word that would say it.
+1. There are two nominative subjects and one **-ει** verb, which can have
+   only one. Nothing in the sentence says how the two nouns are related,
+   because he has left out the word that would say it.
+2. What he meant needs either a join or two clauses:
 
-What he meant needs either a join or two clauses:
+   > **ὁ κριτὴς λέγει καὶ ὁ μάρτυς λέγει.**
 
-> **ὁ κριτὴς λέγει καὶ ὁ μάρτυς λέγει.**
-
-Students may also offer **ὁ κριτὴς καὶ ὁ μάρτυς λέγει**, which is the
-natural thing to try. It is in fact acceptable Greek — a verb may agree
-with the nearer of two subjects — though Greek more often uses a plural
-verb here, which arrives in Lesson 5. Tell them they have found the next
-lesson, and that finding it one lesson early is the right kind of mistake.
+   Students may also offer **ὁ κριτὴς καὶ ὁ μάρτυς λέγει**, which is the
+   natural thing to try. It is in fact acceptable Greek — a verb may agree
+   with the nearer of two subjects — though Greek more often uses a plural
+   verb here, which arrives in Lesson 5. Tell them they have found the
+   next lesson, and that finding it one lesson early is the right kind of
+   mistake.
+3. Not Greek — the same fault with the verb moved into the middle. Two
+   nominatives, one **-ει**. Moving the words changed nothing, which is
+   the lesson.
+4. Greek: *The judge speaks and writes.* One subject, two verbs, joined by
+   **καί**.
+5. Greek: *He speaks and sees* — or *she*. It is complete, because the
+   **-ει** supplies a subject; but you cannot tell who, and a sentence like
+   this needs the one before it.
+6. Not Greek. The first half has no verb; **ἀλλά** joins clauses, and *the
+   judge* is not a clause. Marcus has asked a comma to do a verb's work.
+7. Greek: *The judge tells the truth and justice.* Two objects, one verb.
+   Whether it is good sense is a separate question, and a fair one.
+8. Acceptable, as in 2: the verb agrees with the nearer subject. Greek
+   would more often use a plural verb, which arrives next lesson.
+9. Not what he thinks. **ὦ φίλε** is a vocative: someone being spoken
+   *to*, which cannot be the subject of anything. As it stands it means
+   *Friend! — he is speaking*, with the speaker unnamed. A pupil who
+   translates it *the friend speaks* has forgotten what **ὦ** does.
+10. Greek, but bare. Each clause is complete; what is missing is the word
+    that says how they relate — **καί** or **ἀλλά**. Greek writers do
+    sometimes leave it out, for speed; a beginner should put it in, and
+    should be able to say which.
 :::
 
 ::: {.exercise title="Into Greek"}
@@ -281,6 +427,11 @@ give you the words; you must supply the endings.
 3. Friend! *(addressing him)*
 4. The teacher has the book, but the friend sees the house.
 5. *It is the truth* the witness tells. *(put the weight on the truth)*
+6. The people have the law.
+7. Teacher! The slave sees the road.
+8. The stranger sees the country, but does not see the house.
+9. The judge speaks and the witness speaks.
+10. *It is the cat* the judge sees.
 :::
 
 ::: answers
@@ -289,12 +440,24 @@ give you the words; you must supply the endings.
 3. **ὦ φίλε.**
 4. **ὁ διδάσκαλος ἔχει τὸ βιβλίον, ἀλλὰ ὁ φίλος βλέπει τὴν οἰκίαν.**
 5. **τὴν ἀλήθειαν λέγει ὁ μάρτυς.**
+6. **ὁ δῆμος ἔχει τὸν νόμον.**
+7. **ὦ διδάσκαλε, ὁ δοῦλος βλέπει τὴν ὁδόν.** — Check that the vocative
+   has **-ε** and no article, and that the slave, who is being talked
+   about, keeps his **ὁ**.
+8. **ὁ ξένος βλέπει τὴν χώραν, ἀλλὰ τὴν οἰκίαν οὐ βλέπει.** — Accept
+   **ἀλλὰ οὐ βλέπει τὴν οἰκίαν**; a Greek writer would run those two words
+   together, which you have not been shown how to do, and moving **τὴν
+   οἰκίαν** forward avoids the question and puts the weight on the house.
+9. **ὁ κριτὴς λέγει καὶ ὁ μάρτυς λέγει.** — Marcus's sentence, done
+   properly.
+10. **τὸν αἴλουρον βλέπει ὁ κριτής.** — The same test as 5, and the same
+    wrong answer that is also correct Greek.
 
-Only 5 has a wrong answer that is also correct Greek. A pupil who writes
-**ὁ μάρτυς λέγει τὴν ἀλήθειαν** has produced a faultless sentence that does
-not do what was asked: the English said *it is the truth*, and that weight
-has to be carried by putting **τὴν ἀλήθειαν** first. Mark it as a miss and
-explain why — this is the lesson.
+Only 5 and 10 have a wrong answer that is also correct Greek. A pupil who
+writes **ὁ μάρτυς λέγει τὴν ἀλήθειαν** for 5 has produced a faultless
+sentence that does not do what was asked: the English said *it is the
+truth*, and that weight has to be carried by putting **τὴν ἀλήθειαν**
+first. Mark it as a miss and explain why — this is the lesson.
 
 Composition is where the endings stop being a puzzle to solve and start
 being a decision to make. Expect the first attempts to be slow.
@@ -339,6 +502,92 @@ moves on.
 Sabina's court spent an afternoon deciding who had done what, and could do
 it because the endings told her. This court is asked a question the endings
 cannot settle at all.
+:::
+
+::: {.reading time="20 min" title="Theodoros's second tablet" source="composed"}
+The next morning there was a second tablet. It was about the trial, and
+Sabina read it first, which she afterwards said was a mistake.
+
+ἡ Σαβῖνα βλέπει τὸν Φήλικα. ὁ Φῆλιξ οὐ βλέπει τὴν Σαβῖναν· τὴν θύραν
+βλέπει. ὁ Μᾶρκος οὐ βλέπει τὴν Σαβῖναν· τὴν ὁδὸν βλέπει.
+
+λέγει ἡ Σαβῖνα· «ὦ μάρτυς, ὁ Μᾶρκος ἔχει τὸν λύχνον.» λέγει ὁ Φῆλιξ· «ὦ
+κριτά, τὸν λύχνον ἔχει ὁ Μᾶρκος.» ἀλλὰ ὁ Μᾶρκος λέγει· «ὦ κριτά, ὁ
+μάρτυς οὐ λέγει τὴν ἀλήθειαν. ὁ αἴλουρος ἔχει τὸν λύχνον.»
+
+ὁ κριτὴς οὐ βλέπει τὸν λύχνον· τὸν αἴλουρον βλέπει. ὁ αἴλουρος ἔχει τὸν
+λύχνον, ἀλλὰ ὁ κριτὴς οὐ λέγει τὴν γνώμην.
+
+::: gloss
+- **ἡ Σαβῖνα, ὁ Φῆλιξ, ὁ Μᾶρκος** — Sabina, Felix, Marcus
+- **τὸν Φήλικα** — Felix *(accusative; the ending belongs to a family you
+  meet in Lesson 15)*
+- **βλέπει, ἔχει** — sees, has *(Lesson 3)*
+- **ὁ λύχνος** — the lamp
+- **ὦ μάρτυς** — witness! *(the vocative of this noun is the same as its
+  nominative)*
+- **ὦ κριτά** — judge! *(the vocative of **κριτής**; nouns in **-ης** take
+  **-α** when called to)*
+- **« »** — quotation marks, a modern editor's, like the accents
+:::
+
+::: {.exercise title="Understanding the reading"}
+Read the whole tablet aloud before you answer anything.
+
+1. Who sees Felix? Which word tells you she is doing the seeing, and which
+   that he is the one seen?
+2. Felix does not see Sabina. What does he see instead?
+3. What is Marcus looking at, and where in its clause does the word for
+   it stand?
+4. Two people are addressed in this tablet. How do you know they are
+   being spoken *to* and not spoken *about*?
+5. Who is the judge and who is the witness? The tablet never says so in so
+   many words. What tells you?
+6. Sabina says **ὁ Μᾶρκος ἔχει τὸν λύχνον**; Felix says **τὸν λύχνον ἔχει
+   ὁ Μᾶρκος**. Is it the same claim? What has Felix's order done?
+7. **ὁ μάρτυς οὐ λέγει τὴν ἀλήθειαν.** Translate, and say what case **τὴν
+   ἀλήθειαν** is.
+8. Who, according to the tablet, has the lamp? List everyone the tablet
+   *says* has it, and then say who actually does.
+9. Find every vocative. Then find both uses of **ἀλλά**, and say what is
+   being set against what in each.
+10. The tablet calls Sabina **ὁ κριτής**, not **ἡ κριτής**. Why? What did
+    Lesson 3 say about gender that explains it?
+:::
+
+::: answers
+1. Sabina. **ἡ Σαβῖνα** is nominative, with **ἡ**; **τὸν Φήλικα** is
+   accusative, with **τόν**. The ending on Felix is new, which is why it
+   is glossed; the article alone is enough to settle it.
+2. The door — **τὴν θύραν**, placed first in its clause.
+3. The road, **τὴν ὁδόν**; it stands first, before the verb, and the
+   subject is understood from the clause before.
+4. **ὦ** stands in front of them and the article has gone: **ὦ μάρτυς**,
+   **ὦ κριτά** (twice).
+5. Sabina is the judge and Felix the witness. Sabina calls Felix **ὦ
+   μάρτυς**; Felix and Marcus both call Sabina **ὦ κριτά**. The roles are
+   given by who addresses whom, never stated. A pupil who answers "because
+   of the story" has remembered, not read — Aelia's mistake from Lesson 1.
+6. The same claim. Felix has thrown the weight onto the lamp — *it is the
+   lamp that Marcus has* — as if answering *what did he have?* rather
+   than *who had it?* Accept any answer that sees the order carrying
+   emphasis and not grammar.
+7. *The witness is not telling the truth.* Accusative: **τήν** and **-αν**.
+8. Marcus is said to have it twice, by Sabina and by Felix; the cat is
+   said to have it once, by Marcus. The narrator settles it: **ὁ αἴλουρος
+   ἔχει τὸν λύχνον**. Marcus, for once, was right. (In the lesson's story
+   the lamp was on the shelf and nothing had been taken; Theodoros has
+   altered the evidence. The tablets are slightly unfair to everybody, and
+   Sabina had noticed.)
+9. Vocatives: **ὦ μάρτυς**, **ὦ κριτά**, **ὦ κριτά**. **ἀλλά** first sets
+   Marcus's reply against Felix's testimony; then it sets the cat having
+   the lamp against the judge declining to say so.
+10. Because **κριτής** is a masculine noun, and gender is a fact about the
+    word and not about the person — a label, not a claim. The office is a
+    masculine word; Sabina holds it anyway. A pupil who proposes **ἡ
+    κριτής** has the right instinct and the wrong grammar: Attic did not
+    do it.
+:::
 :::
 
 ::: {.question time="5 min"}

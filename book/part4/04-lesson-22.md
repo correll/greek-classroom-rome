@@ -130,6 +130,13 @@ and it is the thing that lets Greek narrative move the way it does.
 - **ἐλεέω** — I show mercy *(the verb of **τὸ ἔλεος**, Lesson 20)*
 - **ποιέω** — I make, I do *(aorist **ἐποίησα**; participle **ποιήσας**)*
 - **ἰδών** — having seen *(aorist participle of **ὁράω**)*
+- **ἔρχομαι** — I come, I go *(3rd singular **ἔρχεται**; aorist **ἦλθον**,
+  Lesson 14; participle **ἐλθών**)*
+- **ὁ νόμος** — law; custom
+- **ἐκεῖνος, ἐκείνη, ἐκεῖνο** — that; that one *(declined like **αὐτός**)*
+- **ὅλος** — whole, entire *(**ἐξ ὅλης τῆς καρδίας**, from the whole heart)*
+- **δύο** — two
+- **ὁ οἶνος** — wine
 
 ::: note
 **σπλαγχνίζομαι** is the Gospels' word for the pity that grips you
@@ -144,15 +151,65 @@ story is an answer to what it means.
 :::
 :::
 
-::: {.investigation time="15 min"}
+::: {.investigation time="20 min"}
 Theodoros had them mark every participle in the passage with a stroke
-above it and every main verb with a stroke below, and then count.
+above it and every main verb with a stroke below, and then count. Before
+that, the ten from memory.
+
+::: {.exercise title="Retrieval"}
+From Lessons 18 to 21. Answer from memory.
+
+1. **καὶ θεὸς ἦν ὁ λόγος.** Which word is the subject, and what tells you?
+2. **ἀγάπη** went into Latin as *caritas*. What else did *caritas* mean?
+3. **εἰς τὸν αἰῶνα** — literally, and then in English.
+4. **Κύριος** without the article means what? With the article?
+5. **μακάριοι οἱ καθαροὶ τῇ καρδίᾳ.** Translate; name the case of **τῇ
+   καρδίᾳ** and its job.
+6. **ὅτι** has two meanings. Which one follows a blessing, and which
+   follows **λέγει**?
+7. **ἀπέστειλε** and **ἔπεμπε** — which is aorist and which imperfect?
+   Translate both.
+8. **ὅτι αὐτοὶ παρακληθήσονται.** Why is **αὐτοί** there, when the ending
+   already says *they*?
+9. Give the accusative of **ἡ πίστις** and the genitive of **ὁ ποιμήν**.
+10. **ὁ θεὸς ὥσπερ ποιμὴν ἐπιμελεῖταί μου.** Say it the Septuagint's way,
+    in three words.
+:::
+
+::: answers
+1. **ὁ λόγος**; it has the article and **θεός** does not. Both are
+   nominative, so nothing else can decide.
+2. *Dearness* — including high prices; *annonae caritas* is the cost of
+   corn. The point of remembering it is that the Latin word was borrowed
+   for the Greek, not born for it.
+3. *Into the age*; *forever*.
+4. A name — God, as the Septuagint names him; with the article, *the
+   master*, the man in charge of a household.
+5. *Blessed are the pure in heart.* Dative of respect: pure *as to* the
+   heart. *To the heart* is the Lesson 9 dative misapplied.
+6. *Because* after a blessing; *that* after **λέγει**.
+7. **ἀπέστειλε** aorist (*he sent out*, once); **ἔπεμπε** imperfect (*he
+   was sending*, *he kept sending*).
+8. Emphasis: *they* and no one else. The verb would be complete without
+   it, which is exactly why its presence means something.
+9. **τὴν πίστιν**; **τοῦ ποιμένος**.
+10. **Κύριος ποιμαίνει με.** — the simile becomes a metaphor, the
+    description becomes a name, the verb of caring becomes the verb of
+    herding.
+:::
 
 ::: {.exercise title="Translate"}
 1. **ὁ ἱερεὺς ἰδὼν τὸν ἄνθρωπον παρῆλθεν.**
 2. **ὁ Σαμαρίτης ἐλθὼν ἐποίησε τὸ ἔλεος.**
 3. **ὁ λέγων τὴν ἀλήθειαν φίλος ἐστίν.**
 4. **ἄνθρωπός τις ἦλθεν εἰς τὸν οἶκον.**
+5. **ὁ λῃστὴς ἰδὼν τὸν ἱερέα ἀπῆλθεν.**
+6. **ὁ Σαμαρίτης ἐλθὼν εἰς τὸν οἶκον ἤνεγκε τῷ ἀνδρὶ οἶνον.**
+7. **ὁ ἱερεὺς καὶ ὁ Λευίτης τὸν νόμον ἐγίγνωσκον, ἀλλὰ τὸ ἔλεος οὐκ
+   ἐποίησαν.**
+8. **ἐν ἐκείνῃ τῇ ἡμέρᾳ δύο ἄνθρωποι ἦλθον εἰς τὴν ὁδόν.**
+9. **ὁ ποιήσας τὸ ἔλεος πλησίον ἐστὶ τοῦ ἀνθρώπου.**
+10. **οἱ λῃσταὶ εἰπόντες κακὰ ἀπῆλθον, ὁ δὲ ἀνὴρ ἔμενεν ἐν τῇ ὁδῷ.**
 :::
 
 ::: answers
@@ -167,6 +224,28 @@ above it and every main verb with a stroke below, and then count.
    indefinite, *a certain*, *some*; with an accent, **τίς**, it would be
    *who?*. The difference is the subject of Lesson 25, and this is the first
    sight of it: the passage opens **ἄνθρωπός τις**, *a certain man*.
+5. *The bandit, having seen the priest, went off.* — **ἀπῆλθεν** is
+   **ἦλθεν** with **ἀπό** on the front, *went away*; the Voice has the
+   plural. The participle agrees with the bandit; **ἰδόντα** would have
+   the priest doing the seeing.
+6. *The Samaritan, having come into the house, brought the man wine.* —
+   **ἤνεγκε** is Lesson 14's aorist of **φέρω**; **τῷ ἀνδρί** dative, the
+   recipient. *Carried wine to the man* is fine.
+7. *The priest and the Levite knew the law, but did not do the mercy* —
+   that is, *showed no mercy*. Imperfect **ἐγίγνωσκον** (a standing
+   knowledge) against aorist **ἐποίησαν** (one act, not done). The
+   contrast of tenses is the sentence.
+8. *On that day two men came into the road.* — **ἐκείνῃ** agreeing with
+   **ἡμέρᾳ**, the article between them; **δύο** does not change its
+   ending. *Those day* is the error of a pupil who has read **ἐκείνῃ** as
+   plural.
+9. *The one who did the mercy is neighbour to the man.* — article plus
+   aorist participle as a noun; **πλησίον** with the genitive, *near to*.
+10. *The bandits, having said evil things, went off; but the man stayed in
+    the road.* — **εἰπόντες** is the plural of **εἰπών**, the ending
+    **-οντες** from Lesson 21's rule of thumb; it agrees with **λῃσταί**.
+    **ἔμενεν** imperfect: he stayed and went on staying. Watch for *the
+    man was remaining*, which is correct and not English.
 :::
 
 ::: {.exercise title="Who did what?"}
@@ -176,6 +255,31 @@ above it and every main verb with a stroke below, and then count.
 2. Find the participles. For each, say whether it is present or aorist, and
    what that tells you about when it happens relative to its main verb.
 3. Who is **αὐτόν**, and how do you know he is not the one travelling?
+
+**καὶ ἰδὼν αὐτὸν ἀντιπαρῆλθεν.**
+
+4. What is the main verb? Who is its subject — and where in the passage
+   do you find him?
+5. Who is **αὐτόν** this time? Is it the same man as in the first
+   sentence?
+
+**καὶ προσελθὼν κατέδησεν τὰ τραύματα αὐτοῦ ἐπιχέων ἔλαιον καὶ οἶνον.**
+
+6. One participle is aorist and one is present. Which is which, and what
+   is the order of events?
+7. **αὐτοῦ** — whose wounds? What case is it, and what is the case doing?
+
+**ὁ ποιήσας τὸ ἔλεος μετ᾽ αὐτοῦ.**
+
+8. Where is the main verb? If there is none, what kind of sentence is
+   this, and what has the article done to **ποιήσας**?
+
+**οἳ καὶ ἐκδύσαντες αὐτὸν καὶ πληγὰς ἐπιθέντες ἀπῆλθον.**
+
+9. The two participles end in **-ντες** and the verb in **-ον**. Why are
+   all three plural, and who are they about?
+10. Go back to the first sentence. If **ὁδεύων** were **ὁδεύοντα**, who
+    would be travelling?
 :::
 
 ::: answers

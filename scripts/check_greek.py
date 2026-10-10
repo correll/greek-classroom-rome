@@ -113,7 +113,12 @@ def check_greek(path, text):
         if NOCHECK in line:
             continue
 
-        for w in GREEK_WORD.findall(line):
+        for m in GREEK_WORD.finditer(line):
+            w = m.group(0)
+            # a stem or morpheme written with a trailing hyphen (ἐσ-, -θησ-)
+            # legitimately ends in medial sigma
+            if line[m.end():m.end()+1] == "-":
+                continue
             if FINAL_SIGMA in w[:-1]:
                 errors.append("%s:%d: final sigma inside a word: %s"
                               % (rel(path), i, w))

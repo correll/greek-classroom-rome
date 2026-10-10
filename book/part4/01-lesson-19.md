@@ -148,23 +148,98 @@ against the Greek and look for where they fail to overlap.
   also **πιστεύω εἰς** + accusative)*
 - **ὁ λόγος** — word; account; argument; reason *(Lesson 1, now with its
   full range)*
+- **ἀγαπάω** — I love *(the verb of **ἀγάπη**; a contract verb — take these
+  forms whole: **ἀγαπᾷ** he loves, **ἀγαπῶμεν** we love; aorist
+  **ἠγάπησα**)*
+- **ἡμεῖς** — we *(genitive **ἡμῶν**, dative **ἡμῖν**, accusative **ἡμᾶς**;
+  emphatic, like **ἐγώ**)*
+- **πᾶς, πᾶσα, πᾶν** — all, every; *(with the article)* the whole *(genitive
+  **παντός**; neuter plural **πάντα**, all things)*
+- **οὐδείς** — no one; *(neuter **οὐδέν**)* nothing
+- **μένω** — I remain, I stay *(aorist **ἔμεινα**)*
+- **ἀποστέλλω** — I send out, I send away *(aorist **ἀπέστειλα**; the word
+  behind *apostle*)*
+- **ἡ ἁμαρτία** — a missing of the mark; a fault; sin *(the New Testament's
+  word)*
 
 ::: note
 **ἡ χάρις** and **ἡ πίστις** are third-declension nouns. You can recognise
 their genitives from the gloss; producing the rest of the paradigm is not
 asked of you yet.
+
+**ἀγαπάω** ends in **-άω**, and verbs of that shape fold the **α** into the
+ending — which is why *he loves* is **ἀγαπᾷ** and not **ἀγαπάει**. The folding
+has rules, and they are Lesson 34's. Until then, use the forms printed
+above as whole words, the way you used **βλέπει** in Lesson 3.
 :::
 :::
 
-::: {.investigation time="15 min"}
+::: {.investigation time="20 min"}
 Theodoros said that one sentence in each exercise was from Scripture and
 the rest were his, and that they should be able to tell which by the end.
+But first, as always now, ten things from the last four lessons, from
+memory.
+
+::: {.exercise title="Retrieval"}
+Answer from memory. Do not look anything up; the point is to find out what
+is still there.
+
+1. **ἔλεγε** and **εἶπε** — name the tense of each, and translate both.
+2. Give the accusative singular of **ὁ ἀνήρ**, and then the genitive.
+3. **λέγει ὅτι ὁ παῖς σοφός ἐστιν.** Say the same thing the Attic way, with
+   an accusative and an infinitive.
+4. **καὶ θεὸς ἦν ὁ λόγος.** Which word is the subject, and what single thing
+   tells you?
+5. What does **γάρ** do to the clause it stands in, and where in the clause
+   must it stand?
+6. **ἄνδρα μοι ἔννεπε, Μοῦσα.** Homeric or Attic? Name one feature that
+   tells you.
+7. **ὁ βίος** and **ἡ ζωή** both mean *life*. Which one can be examined, and
+   why?
+8. **ἦλθον** — imperfect or aorist? How do you know?
+9. Translate **ὁ ἄνθρωπος ὃς ψεύδεται ἄδικός ἐστιν**, and say what case
+   **ὅς** is in and why.
+10. **ἐγένετο** — what does it mean, and is it imperfect or aorist? Name the
+    sentence of John in which you met it.
+:::
+
+::: answers
+1. **ἔλεγε** imperfect, *he was saying*; **εἶπε** aorist, *he said*. A pupil
+   who makes both *he said* has dropped the aspect, which was the whole of
+   Lesson 14.
+2. **τὸν ἄνδρα**, **τοῦ ἀνδρός**. The likely error is **τὸν ἀνήρον** — a
+   second-declension ending on a third-declension noun.
+3. **λέγει τὸν παῖδα σοφὸν εἶναι.** — **σοφόν** must follow **παῖδα** into
+   the accusative; **σοφός** left in the nominative is the commonest slip.
+4. **ὁ λόγος**; the article. Both nouns are nominative, so only the article
+   can decide (Lesson 18).
+5. It gives the reason for what came before — *for*, *because* — and it
+   stands second in its clause, never first.
+6. Homeric: no article on **ἄνδρα**; **ἔννεπε**, a form Attic does not use;
+   a goddess addressed by name. Any one will do.
+7. **ὁ βίος** — a life as it is lived, with a shape. **ζωή** is the bare
+   fact of being alive, and a plant has it.
+8. Aorist. The stem is not the stem of the present (**ἔρχομαι**); an
+   imperfect keeps the present stem (Lesson 14).
+9. *The man who lies is unjust.* **ὅς** is nominative because it is the
+   subject of **ψεύδεται** — not because **ὁ ἄνθρωπος** is nominative. A
+   relative takes its case from its own clause.
+10. *It happened*, *it came to be*; aorist. **καὶ ὁ λόγος σὰρξ ἐγένετο**
+    (Lesson 14).
+:::
 
 ::: {.exercise title="Translate"}
 1. **ὁ θεὸς ἀγάπη ἐστίν.** *(1 John 4:8)*
 2. **πιστεύω τῷ διδασκάλῳ· λέγει γὰρ τὴν ἀλήθειαν.**
 3. **ὁ κύριος τοῦ οἴκου ἀγαθὸς ἀνὴρ ἦν.**
 4. **ἡ χάρις τοῦ θεοῦ δῶρόν ἐστιν.**
+5. **ὁ κύριος ἀπέστειλε τὸν υἱὸν πρὸς τοὺς ἀνθρώπους.**
+6. **ἡ πίστις τοῦ ἀνδρὸς μεγάλη ἦν· ἐπίστευε γὰρ τῷ θεῷ ἀεί.**
+7. **οὐδεὶς βλέπει τὸν θεόν, ἀλλὰ πᾶς ἄνθρωπος βλέπει τὰ ἔργα τοῦ θεοῦ.**
+8. **ἡμεῖς μὲν ἀγαπῶμεν τὸν διδάσκαλον, ὁ δὲ διδάσκαλος ἀγαπᾷ τὴν
+   ἀλήθειαν.**
+9. **ὁ φίλος ἔμενεν ἐν τῇ οἰκίᾳ πάσας τὰς ἡμέρας.**
+10. **ὁ θεὸς ἀγάπη ἐστίν· ἀγαπῶμεν οὖν τὸν θεόν.**
 :::
 
 ::: answers
@@ -181,6 +256,25 @@ the rest were his, and that they should be able to tell which by the end.
    have heard anything religious in the sentence.
 4. *The grace of God is a gift.* — accept *the favour of God*; the two
    English words mark the two ends of the word's range.
+5. *The master sent his son to the people.* — or *the Lord sent the Son*;
+   the Greek is the same, and the class should be made to say which they
+   have chosen and why. The article alone carries *his*.
+6. *The man's faith was great; for he always trusted God.* — **ἐπίστευε**
+   is imperfect (augment, present stem): a trust that went on. A pupil who
+   writes *he trusted* once has read it as an aorist.
+7. *No one sees God, but every man sees the works of God.* — **οὐδείς**
+   nominative; **πᾶς** with no article, *every*. Composed; it leans on
+   1 John 4:12, which the Reading has.
+8. *We love the teacher, but the teacher loves the truth.* — **μέν … δέ**;
+   **ἡμεῖς** written out for the contrast. Watch for *we are loving*, which
+   is not wrong but misses that **ἀγαπῶμεν** is a plain present.
+9. *The friend stayed in the house all the days* — that is, *every day*.
+   **πάσας** is the accusative plural feminine of **πᾶς**, agreeing with
+   **ἡμέρας**; the accusative says *how long*.
+10. *God is love; therefore we love God.* — **οὖν** second in its clause.
+    Here is a thing to say now and remember later: the same letters
+    **ἀγαπῶμεν** can also mean *let us love*, and in the Reading they do.
+    Only the context tells you. Scripture: 1.
 :::
 
 ::: {.exercise title="Which corner of the field?"}
@@ -191,6 +285,14 @@ would choose for it and why that one.
 2. **ἐν ἀρχῇ ἦν ὁ λόγος.**
 3. **οὐ δύναμαι τὸν λόγον τοῦ Σωκράτους μανθάνειν.** *(**τοῦ Σωκράτους** =
    of Socrates)*
+4. **ὁ μάρτυς λόγον δίδωσι τῷ κριτῇ.**
+5. **ὁ ἀνὴρ ἔργον, οὐ λόγον, ἐθέλει.**
+6. **ὁ λόγος τοῦ κυρίου ἦλθε πρὸς τὸν ἄνδρα.**
+7. **ὁ Σωκράτης λόγον ἔχει περὶ τῆς δικαιοσύνης.** *(**ὁ Σωκράτης** =
+   Socrates)*
+8. **οὐκ ἔχω λόγον· οὐ γὰρ γιγνώσκω.**
+9. **ὁ παῖς τοὺς λόγους τοῦ διδασκάλου ἐμάνθανεν.**
+10. **ὁ λόγος τοῦ θεοῦ ἀεὶ μένει.**
 :::
 
 ::: answers
@@ -203,6 +305,27 @@ would choose for it and why that one.
 3. *I cannot understand Socrates's argument.* — **λόγος** as a line of
    reasoning. A pupil who writes *word* here should be asked what it would
    mean to be unable to learn one word.
+4. *The witness gives an account to the judge.* — **λόγον διδόναι**, the
+   law-court idiom from The Ancient Voice. *Gives a word* is the error of
+   somebody who has not read the Voice yet.
+5. *The man wants action, not talk* — **ἔργον** against **λόγον**, the
+   contrast Greek writers never tire of. *Word* is acceptable; *talk* or
+   *words* is better, because the sentence is dismissive.
+6. *The word of the Lord came to the man.* — a message from God; this is
+   the Septuagint's formula for a prophet receiving one (composed here,
+   on that pattern). Not *argument*, not *reason*.
+7. *Socrates has an argument about justice* — a line of reasoning, as in 3.
+   Accept *a theory*, *an account*.
+8. *I have no explanation; for I do not know* — or *I have nothing to say*.
+   Two corners are open here, *reason* and *speech*, and the class should
+   be made to see that the Greek does not choose between them.
+9. *The boy was learning the teacher's words* — or *sayings*, *lessons*.
+   Imperfect: he kept at it. *Arguments* is possible and over-solemn for
+   a boy.
+10. *The word of God remains forever.* — composed, on the pattern of
+    Isaiah 40:8 (which has a different noun). Here **λόγος** is the Psalm's
+    word, the thing God says; a pupil who writes *reason* has reached for
+    Athens in a sentence that is not there.
 
 The exercise has no wrong answers and several bad ones. Mark the *reason*.
 :::
@@ -212,6 +335,13 @@ The exercise has no wrong answers and several bad ones. Mark the *reason*.
 2. I trust the teacher.
 3. The master of the house was a good man.
 4. We know that faith is a gift.
+5. The Lord sent his son to the people.
+6. No one sees God.
+7. We love the teacher, but the teacher loves the truth.
+8. The grace of the Lord remains with us.
+9. Every man has a soul.
+10. The judge said that the witness was lying. *(**τὸν μάρτυρα** is the
+    accusative of **ὁ μάρτυς**.)*
 :::
 
 ::: answers
@@ -223,6 +353,26 @@ The exercise has no wrong answers and several bad ones. Mark the *reason*.
 4. **γιγνώσκομεν τὴν πίστιν δῶρον εἶναι.** — accusative and infinitive from
    Lesson 16; **τὴν πίστιν** is the accusative of **ἡ πίστις**, and they
    can be given it.
+5. **ὁ κύριος ἀπέστειλε τὸν υἱὸν πρὸς τοὺς ἀνθρώπους.** — the article does
+   the work of *his*; Greek has a word for it (**αὐτοῦ**, Lesson 21) and
+   does not need it here. **πρός** with the accusative. Watch for the
+   imperfect **ἀπέστελλε**, which would make the sending go on.
+6. **οὐδεὶς βλέπει τὸν θεόν.** — **οὐδείς** is already negative; a pupil
+   who adds **οὐ** has written *no one does not see*, which in Greek is
+   not even a double negative but a cancellation.
+7. **ἡμεῖς μὲν ἀγαπῶμεν τὸν διδάσκαλον, ὁ δὲ διδάσκαλος ἀγαπᾷ τὴν
+   ἀλήθειαν.** — **ἀγαπᾷ** from the list; **ἀγαπάει** is the predictable
+   error, and it is the right instinct applied to the wrong verb.
+8. **ἡ χάρις τοῦ κυρίου μένει σὺν ἡμῖν.** — **σύν** with the dative. (The
+   New Testament would say **μεθ᾽ ἡμῶν**, with a preposition you meet next
+   lesson; **σύν** is correct and a little more Attic.)
+9. **πᾶς ἄνθρωπος ψυχὴν ἔχει.** — no article on either noun: *every man*,
+   *a soul*. **πᾶς ὁ ἄνθρωπος** would mean *the whole man*.
+10. Attic: **ὁ κριτὴς εἶπε τὸν μάρτυρα ψεύδεσθαι.** Koine: **ὁ κριτὴς
+    εἶπεν ὅτι ὁ μάρτυς ψεύδεται.** — both are right; ask each pupil which
+    they wrote and whether they knew they were choosing. In the Koine
+    version the present **ψεύδεται** stands, as English *was lying* does
+    not: Greek keeps the tense the speaker used.
 :::
 :::
 
@@ -276,6 +426,146 @@ followed by a real gain, in that order. Do not hurry the loss. A pupil who
 discovers that a sacred word was once an ordinary one is entitled to a moment
 of vertigo, and the recovery — that the ordinariness was chosen — is worth
 more if it comes after.
+:::
+:::
+
+::: {.reading time="20 min" title="Love is from God" source="1 John 4:7–12 (NA28), with an adapted tier"}
+Theodoros set the passage twice: first in the Greek the class could read
+without help, then as John wrote it. "Read the first until it is easy," he
+said. "Then read the second and tell me every place where I changed
+something — and then tell me why John did not write it my way."
+
+**Adapted** *(composed for this lesson from 1 John 4:7–12, in the words and
+forms you have)*
+
+ὦ φίλοι, ἀγαπῶμεν τοὺς φίλους, ὅτι ἡ ἀγάπη ἐκ τοῦ θεοῦ ἐστιν· καὶ πᾶς
+ἄνθρωπος ὃς ἀγαπᾷ ἐκ τοῦ θεοῦ ἐστιν καὶ γιγνώσκει τὸν θεόν. ὁ δὲ
+ἄνθρωπος ὃς οὐκ ἀγαπᾷ οὐ γιγνώσκει τὸν θεόν, ὅτι ὁ θεὸς ἀγάπη ἐστίν.
+
+ἐν τούτῳ βλέπομεν τὴν ἀγάπην τοῦ θεοῦ, ὅτι ὁ θεὸς ἀπέστειλε τὸν υἱὸν εἰς
+τοὺς ἀνθρώπους, καὶ ζωὴν ἔχομεν ἐν τῷ υἱῷ. ἡμεῖς οὐκ ἠγαπήσαμεν τὸν
+θεόν· ὁ δὲ θεὸς ἠγάπησεν ἡμᾶς καὶ ἀπέστειλε τὸν υἱὸν περὶ τῶν ἁμαρτιῶν
+ἡμῶν.
+
+ὦ φίλοι, ὁ θεὸς οὕτως ἠγάπησεν ἡμᾶς· ἡμεῖς οὖν ἀγαπῶμεν τοὺς φίλους.
+οὐδεὶς ἄνθρωπος βλέπει τὸν θεόν· ἀλλ᾽ ὁ θεὸς μένει ἐν ἡμῖν, ὅτι ἀγαπῶμεν.
+
+**The original** *(1 John 4:7–12, NA28)*
+
+Ἀγαπητοί, ἀγαπῶμεν ἀλλήλους, ὅτι ἡ ἀγάπη ἐκ τοῦ θεοῦ ἐστιν, καὶ πᾶς ὁ
+ἀγαπῶν ἐκ τοῦ θεοῦ γεγέννηται καὶ γινώσκει τὸν θεόν. ὁ μὴ ἀγαπῶν οὐκ ἔγνω
+τὸν θεόν, ὅτι ὁ θεὸς ἀγάπη ἐστίν.
+
+ἐν τούτῳ ἐφανερώθη ἡ ἀγάπη τοῦ θεοῦ ἐν ἡμῖν, ὅτι τὸν υἱὸν αὐτοῦ τὸν
+μονογενῆ ἀπέσταλκεν ὁ θεὸς εἰς τὸν κόσμον ἵνα ζήσωμεν δι᾽ αὐτοῦ. ἐν τούτῳ
+ἐστὶν ἡ ἀγάπη, οὐχ ὅτι ἡμεῖς ἠγαπήκαμεν τὸν θεὸν ἀλλ᾽ ὅτι αὐτὸς ἠγάπησεν
+ἡμᾶς καὶ ἀπέστειλεν τὸν υἱὸν αὐτοῦ ἱλασμὸν περὶ τῶν ἁμαρτιῶν ἡμῶν.
+
+Ἀγαπητοί, εἰ οὕτως ὁ θεὸς ἠγάπησεν ἡμᾶς, καὶ ἡμεῖς ὀφείλομεν ἀλλήλους
+ἀγαπᾶν. θεὸν οὐδεὶς πώποτε τεθέαται. ἐὰν ἀγαπῶμεν ἀλλήλους, ὁ θεὸς ἐν
+ἡμῖν μένει καὶ ἡ ἀγάπη αὐτοῦ ἐν ἡμῖν τετελειωμένη ἐστίν.
+
+::: gloss
+- **ὅτι** — because *(here; in Lesson 16 it meant "that")*
+- **ἐν τούτῳ** — in this, by this *(dative of **τοῦτο**, Lesson 17)*
+- **οὕτως** — thus, in this way, so
+- **ἀλλ᾽** — **ἀλλά**, its last vowel dropped before a vowel
+- **Ἀγαπητοί** — beloved *(vocative plural; the letter's address)*
+- **ἀγαπῶμεν** — let us love *(the same letters as "we love"; only the
+  sense decides)*
+- **ἀλλήλους** — one another
+- **πᾶς ὁ ἀγαπῶν** — everyone who loves *(article + participle; Lesson 22)*
+- **γεγέννηται** — has been born, is begotten *(a perfect passive; take it
+  whole)*
+- **γινώσκει** — the New Testament's spelling of **γιγνώσκει**; the second
+  **γ** has gone
+- **ὁ μὴ ἀγαπῶν** — the one who does not love *(**μή** is the *not* of
+  Lesson 26, used with participles)*
+- **ἔγνω** — knew, came to know *(an irregular aorist of **γιγνώσκω**)*
+- **ἐφανερώθη** — was made plain, was shown *(aorist passive)*
+- **ἐν ἡμῖν** — among us
+- **αὐτοῦ** — his *(genitive of **αὐτός**, Lesson 21)*
+- **τὸν μονογενῆ** — the only, the only-begotten *(an adjective agreeing
+  with **υἱόν**)*
+- **ἀπέσταλκεν** — has sent *(perfect of **ἀποστέλλω**)*
+- **τὸν κόσμον** — the world
+- **ἵνα ζήσωμεν** — so that we might live *(**ἵνα**, Lesson 23, with a
+  form you will meet in Lesson 35)*
+- **δι᾽ αὐτοῦ** — through him
+- **ἠγαπήκαμεν** — have loved *(perfect)*
+- **αὐτός** — he *(emphatic: he, not we)*
+- **ἱλασμόν** — an offering that makes peace, an atonement *(in apposition
+  to **τὸν υἱόν**: he sent his son as an atonement)*
+- **εἰ** — if
+- **ὀφείλομεν** — we owe, we ought
+- **ἀγαπᾶν** — to love *(infinitive of **ἀγαπάω**)*
+- **πώποτε** — ever, at any time
+- **τεθέαται** — has seen, has beheld *(perfect; the verb gives English
+  *theatre*)*
+- **ἐάν** — if *(with a form you have not met; take **ἐὰν ἀγαπῶμεν** as
+  *if we love*)*
+- **τετελειωμένη ἐστίν** — is made complete, has reached its end *(the
+  **τέλος** of Lesson 14 is inside it)*
+:::
+
+::: {.exercise title="Understanding the reading"}
+Read the adapted text aloud twice before you touch the original.
+
+1. In the adapted text, who is loving whom in the first sentence? What
+   person and number is **ἀγαπῶμεν**, and who is its subject?
+2. The adapted text says **πᾶς ἄνθρωπος ὃς ἀγαπᾷ**. What does the original
+   have in its place, and how many words did John save?
+3. **ὁ θεὸς ἀγάπη ἐστίν.** Which word is the subject? Why can the sentence
+   not mean *love is God*?
+4. Find the two aorists of **ἀγαπάω** in the second paragraph of the
+   adapted text. Who is the subject of each, and what is the contrast the
+   paragraph is built on?
+5. Where the adapted text has **ἠγαπήσαμεν**, the original has
+   **ἠγαπήκαμεν**. The gloss calls it a perfect. What does *we have loved*
+   say that *we loved* does not?
+6. **περὶ τῶν ἁμαρτιῶν ἡμῶν.** Give the case of each of the three words
+   and say what **περί** is doing.
+7. Translate **θεὸν οὐδεὶς πώποτε τεθέαται.** Why is **θεόν** first, and
+   what case is it in despite being first?
+8. In the last sentence of the original, which verb has **ὁ θεός** as its
+   subject? What case is **ἡμῖν**, and what puts it there?
+9. Count every word in the original that is built on **ἀγαπ-** — noun,
+   verb, adjective, participle. How many are there in six verses?
+10. The adapted text put **τοὺς φίλους** where the original has
+    **ἀλλήλους**. What does the original say that the adaptation cannot?
+:::
+
+::: answers
+1. *We* love *our friends*; first person plural; the writer and his readers
+   together. (A pupil who answers *God* has not read the ending.)
+2. **πᾶς ὁ ἀγαπῶν** — article plus participle for *everyone who loves*;
+   two words for four. The participle is Lesson 22's, and they have just
+   read one without being taught it.
+3. **ὁ θεός**: it has the article, **ἀγάπη** does not. Lesson 18's rule;
+   both nouns are nominative, so nothing else can decide.
+4. **ἠγαπήσαμεν** (we — and we did *not*) and **ἠγάπησεν** (God did). The
+   contrast is *not we, but he*; **ἡμεῖς** is written out for exactly
+   that reason, and **δέ** marks the turn.
+5. A state that stands, not an act that is over: *have loved* claims a
+   standing relationship. John denies the standing relationship on our
+   side and asserts the single act on God's — and the tenses carry the
+   whole argument.
+6. **περί** + genitive (Lesson 8): **τῶν** genitive plural, **ἁμαρτιῶν**
+   genitive plural, **ἡμῶν** genitive of **ἡμεῖς**. *Concerning our sins*
+   — the offering is *about* them.
+7. *No one has ever seen God.* **θεόν** is accusative — the object of
+   **τεθέαται** — and it is first for emphasis: *God*, of all things, no
+   one has seen. A pupil who makes God the subject has read the order and
+   not the ending, which is the Lesson 4 error in its Lesson 19 clothes.
+8. **μένει**. **ἡμῖν** is dative because **ἐν** takes the dative (Lesson 9).
+   The second clause has **ἡ ἀγάπη** as subject, not God.
+9. Fifteen: **Ἀγαπητοί** twice, **ἀγαπῶμεν** twice, **ἀγάπη** five times,
+   **ἀγαπῶν** twice, **ἠγαπήκαμεν**, **ἠγάπησεν** twice, **ἀγαπᾶν**. Let
+   them count and disagree; a count of twelve or thirteen usually means
+   the two participles or the infinitive were missed.
+10. **ἀλλήλους** is *one another*: the love goes both ways and nobody is
+    only its object. *Our friends* can be loved without loving back. The
+    adaptation lost reciprocity, and John built the passage on it.
 :::
 :::
 

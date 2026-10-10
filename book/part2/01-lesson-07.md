@@ -154,6 +154,13 @@ one has the article, the one with the article is what you are talking
 - **τὸ ἔργον** — work, deed, task
 - **πολλοί** — many
 - **μόνος** — only, alone
+- **ὁ μαθητής** — pupil, learner *(a masculine noun of the first declension, like **ὁ κριτής**: **οἱ μαθηταί**, **τοὺς μαθητάς**)*
+- **ἡ δέλτος** — writing tablet *(feminine, like **ἡ ὁδός**: **αἱ δέλτοι**, **τὰς δέλτους**)*
+- **ὁ δοῦλος** — slave
+- **τὸ ζῷον** — animal, living thing
+- **μένω** — I stay, remain, wait
+- **ἔτι** — still, yet
+- **οὕτως** — thus, so, in this way
 
 ::: note
 **τὰ γράμματα** is given in the plural because that is how it is normally
@@ -174,9 +181,46 @@ by routes that are worth looking up when you have ten minutes.
 :::
 :::
 
-::: {.investigation time="15 min"}
+::: {.investigation time="20 min"}
 Julia produced her list. It had fourteen entries on it and Marcus asked to
 see it only once.
+
+::: {.exercise title="Retrieval"}
+Ten quick questions from Lessons 3 to 6. Answer from memory, without
+looking anything up; the point is to find out what is already there.
+
+1. What case is **τὸν ἵππον**, and what two things tell you?
+2. Translate **ὁ κριτής**.
+3. Put **ὁ φίλος** into the vocative.
+4. Give the person and number of **γράφομεν**, and translate it.
+5. Which form of *not* goes in front of **ἔχω**: **οὐ**, **οὐκ**, or **οὐχ**?
+6. Turn **ὁ ἄνθρωπος βλέπει τὸν φίλον** round, so that the friend sees the
+   man.
+7. In **θεὸς ἦν ὁ λόγος**, which noun is the subject, and what tells you?
+8. Translate **ἡ ζωή**.
+9. What is **εἶ**?
+10. Write *I know the road* in Greek.
+:::
+
+::: answers
+1. Accusative; **τόν** and **-ον**.
+2. *The judge.*
+3. **ὦ φίλε** — the ending goes to **-ε** and the article goes away.
+4. First person plural, *we write*. A pupil who says *you write* has read
+   **-ομεν** as **-ετε**.
+5. **οὐκ** — **ἔχω** has a smooth breathing. **οὐχ** is for the rough
+   breathing only.
+6. **ὁ φίλος βλέπει τὸν ἄνθρωπον.** Both endings and both articles must
+   change; a pupil who swaps the words and leaves the endings alone has
+   written the same sentence in a different order.
+7. **ὁ λόγος**, because it has the article and **θεός** does not. A pupil
+   who answers **θεός** "because it comes first" has forgotten Lesson 6.
+8. *Life.*
+9. The second person singular of **εἰμί**: *you are*. Irregular; it has to
+   be remembered, not worked out.
+10. **γιγνώσκω τὴν ὁδόν.** — accusative, and no pronoun, since the ending
+    is the pronoun.
+:::
 
 ::: {.exercise title="Name all three"}
 For each, give the gender, number, and case. Where a form could be more than
@@ -188,6 +232,10 @@ one thing, say so and say why.
 4. **τὴν οἰκίαν**
 5. **οἱ ἄνθρωποι**
 6. **τὰς ψυχάς**
+7. **τὴν ἡμέραν**
+8. **οἱ χρόνοι**
+9. **τὰ γράμματα**
+10. **τοὺς διδασκάλους**
 :::
 
 ::: answers
@@ -199,8 +247,16 @@ one thing, say so and say why.
 5. Masculine, plural, nominative. Note the accent has stayed on the
    antepenult, because **-οι** is short.
 6. Feminine, plural, accusative.
+7. Feminine, singular, accusative. Note **-αν**, not **-ην**: **ἡμέρα** is
+   of the **οἰκία** kind.
+8. Masculine, plural, nominative.
+9. Neuter, plural — nominative *or* accusative, for the same reason as 3. A
+   pupil who gives one without the other has been lucky twice.
+10. Masculine, plural, accusative. The accent has walked forward, from
+    **διδάσκαλος** to **διδασκάλους**, because **-ους** is long; this is the
+    **ἄνθρωπος** rule and nothing else.
 
-3 is the one to dwell on. A pupil who answers "neuter plural accusative"
+3 and 9 are the ones to dwell on. A pupil who answers "neuter plural accusative"
 without qualification has forgotten the rule from Lesson 3 and been lucky
 rather than right.
 :::
@@ -210,6 +266,12 @@ rather than right.
 2. **ὁ διδάσκαλος βλέπει τοὺς λόγους.**
 3. **αἱ ἡμέραι μόνον τὸν χρόνον ἔχουσιν.**
 4. **τὰ ἔργα οὐ λέγει ἡ ψυχή, ἀλλὰ γιγνώσκει.**
+5. **οἱ φίλοι ἔχουσι τὰ δῶρα.**
+6. **τοὺς ἵππους βλέπουσιν οἱ ἄνθρωποι.**
+7. **οἱ ἄνθρωποι πολλοί, ἀλλὰ ὁ κριτὴς μόνος.**
+8. **ἐγὼ γράφω τὰ γράμματα, ἀλλὰ οἱ φίλοι τὰ ἔργα ἔχουσιν.**
+9. **αἱ ψυχαὶ γιγνώσκουσι τὸν θεόν.**
+10. **τὰ ἔργα μόνον βλέπει ὁ κριτής, οὐ τοὺς λόγους.**
 
 *(Composed for this lesson. These are not quotations.)*
 :::
@@ -224,6 +286,19 @@ rather than right.
 4. *The soul does not speak the deeds, but it knows them.* **τὰ ἔργα** is
    fronted for emphasis and is the object throughout; **ἡ ψυχή** is the
    subject of both verbs although it is stated only once.
+5. *The friends have the gifts.*
+6. *The men see the horses.* — The accusative stands first; a pupil who
+   writes *the horses see the men* has read the order and not **τούς**.
+7. *The men are many, but the judge is alone.* — Two claims and no verb,
+   exactly as in **χαλεπὰ τὰ καλά**: the word with the article is the
+   subject each time.
+8. *I write the letters, but the friends have the deeds.* — **ἐγώ** is
+   there for contrast with **οἱ φίλοι**; a translation should make the *I*
+   audible.
+9. *The souls know God.*
+10. *The judge sees only the deeds, not the words.* — **μόνον** is the
+    adverb again, and **τὰ ἔργα** is fronted. A pupil who makes the deeds
+    the subject has not found **ὁ κριτής**.
 :::
 
 ::: {.exercise title="Into Greek"}
@@ -235,6 +310,11 @@ article and the endings yourself.
 3. The men see the house.
 4. The teacher writes the letters.
 5. The souls have time.
+6. The horses.  *(object)*
+7. The friends know the truth.
+8. The judges see the roads.
+9. We see the days.
+10. The gods have the sky.
 :::
 
 ::: answers
@@ -243,6 +323,15 @@ article and the endings yourself.
 3. **οἱ ἄνθρωποι βλέπουσι τὴν οἰκίαν.**
 4. **ὁ διδάσκαλος γράφει τὰ γράμματα.**
 5. **αἱ ψυχαὶ ἔχουσι τὸν χρόνον.**
+6. **τοὺς ἵππους**
+7. **οἱ φίλοι γιγνώσκουσι τὴν ἀλήθειαν.**
+8. **οἱ κριταὶ βλέπουσι τὰς ὁδούς.** — **κριτής** is masculine but takes
+   the first-declension plural **-αι**; the article **οἱ** carries the
+   gender. And **ὁδός** is feminine but takes **-ους**; the article **τάς**
+   carries the gender. Both nouns are telling the same lesson from opposite
+   sides.
+9. **βλέπομεν τὰς ἡμέρας.** — no pronoun.
+10. **οἱ θεοὶ ἔχουσι τὸν οὐρανόν.**
 
 Three things to watch for. A singular verb after a plural subject (3, 5)
 — the ending must move too. **τοὺς ἔργα**, which is an article and a noun
@@ -256,15 +345,44 @@ A pupil who writes **τὰ ἔργα** for 2 and cannot say why it is not **το
 Marcus claimed the article was decoration, and produced **χαλεπὰ τὰ καλά**
 and **τὰ χαλεπὰ καλά** as evidence that he was wrong.
 
-Write one sentence of your own in which moving the article — and changing
-nothing else — changes which noun is the subject. Then translate both
-versions.
+Here are eight more of the same kind, built from nouns you know. Translate
+each, and say which word the article has made the subject. Then make your
+own.
+
+1. **ἔργα οἱ λόγοι.**
+2. **λόγοι τὰ ἔργα.**
+3. **δῶρα τὰ γράμματα.**
+4. **γράμματα τὰ δῶρα.**
+5. **χαλεπὰ τὰ ἔργα.**
+6. **ἔργα τὰ χαλεπά.**
+7. **ἵπποι τὰ δῶρα.**
+8. **δῶρα οἱ ἵπποι.**
+9. Write one sentence of your own in which moving the article — and
+   changing nothing else — changes which noun is the subject.
+10. Translate both versions of your sentence, and say which word's article
+    moved.
 :::
 
 ::: answers
-Answers will vary. The pattern to look for is two neuter plurals, or a noun
-and an adjective, with the article attached first to one and then to the
-other.
+1. *The words are deeds.* Subject **οἱ λόγοι**.
+2. *The deeds are words.* Subject **τὰ ἔργα**. The same two nouns as 1,
+   and the opposite claim; a pupil who translates 1 and 2 the same way has
+   proved Marcus right and should be asked to look again.
+3. *The letters are gifts.* Subject **τὰ γράμματα**.
+4. *The gifts are letters.* Subject **τὰ δῶρα**.
+5. *Deeds are hard.* Subject **τὰ ἔργα**; **χαλεπά** is the proverb's word.
+6. *Hard things are deeds.* Subject **τὰ χαλεπά** — an adjective made into
+   a noun by giving it the article, exactly as in **τὰ καλά**.
+7. *The gifts are horses.* Subject **τὰ δῶρα**.
+8. *The horses are gifts.* Subject **οἱ ἵπποι**. In 7 and 8 the two nouns
+   are different genders, so the articles are different words and the
+   point is easier to see than with two neuters; that is why 1–6 are
+   harder.
+9. Answers will vary. The pattern to look for is two neuter plurals, or a
+   noun and an adjective, with the article attached first to one and then
+   to the other.
+10. Check that the pupil can name the article that moved, not merely feel
+    that the sentence changed.
 
 A pupil who cannot produce one has usually not understood that the article
 is what makes a word the subject here, rather than its position. Give them
@@ -303,6 +421,89 @@ Plato has Glaucon quote the first version to Socrates as a saying already
 current, when Socrates has just called their inquiry a trivial one — and
 Glaucon suspects it is anything but. Plato does not explain it. He did not need to: every reader he had could see the article
 doing its work, in the same half-second you now can.
+:::
+
+::: {.reading time="20 min" title="Theodoros's fifth tablet" source="composed"}
+The fifth tablet was about the plural, and about Marcus, and it went round
+the room on a day that had already been long.
+
+οἱ μαθηταὶ φέρουσι τὰς δέλτους πρὸς τὸ διδασκαλεῖον. ὁ παιδαγωγὸς οὐ
+φέρει τὰς δέλτους, ἀλλὰ τὰ βιβλία. οἱ δοῦλοι φέρουσι τὴν τράπεζαν. ὁ
+αἴλουρος οὐ φέρει τὰ βιβλία· ζῷόν ἐστιν.
+
+μακραὶ αἱ ἡμέραι. οἱ μαθηταὶ γράφουσι τὰ γράμματα, καὶ ἔτι γράφουσιν,
+καὶ ὁ χρόνος μένει. ὁ Μᾶρκος λέγει· μακρὸς ὁ χρόνος, ὦ διδάσκαλε. ὁ
+διδάσκαλος λέγει· οὐχ ὁ χρόνος μακρός, ὦ Μᾶρκε, ἀλλὰ οἱ λόγοι.
+
+πολλοὺς λόγους λέγουσιν οἱ μαθηταί, ἀλλὰ τὰ ἔργα οὐ πολλά. οἱ λόγοι οὐκ
+ἔργα, καὶ τὰ ἔργα οὐ λόγοι ἐστίν. οὕτως λέγει ὁ διδάσκαλος. οἱ μαθηταὶ
+γιγνώσκουσι τοὺς λόγους, ἀλλὰ ὁ διδάσκαλος βλέπει τὰ ἔργα. ὁ αἴλουρος οὐ
+λέγει λόγους· μόνον τὰ ἔργα ἔχει.
+
+::: gloss
+- **ὁ αἴλουρος** — the cat
+- **τὸ διδασκαλεῖον** — the schoolroom
+- **ἡ τράπεζα** — the table
+- **φέρουσι, φέρει** — carry, carries *(you meet the verb in Lesson 11)*
+- **μακραί, μακρός** — long *(an adjective; it changes its ending with its
+  noun, as **πολλοί** does — Lesson 10)*
+- **πολλά** — many *(the neuter plural of **πολλοί**)*
+- **ὁ Μᾶρκος** — Marcus; **ὦ Μᾶρκε** is the vocative
+- **ζῷόν ἐστιν, λόγοι ἐστίν** — *is an animal*, *are words*. **ἐστίν**
+  leans on the word before it and can lend it an accent or borrow one;
+  take the accents as printed. A neuter plural subject (**τὰ ἔργα**) takes
+  a singular verb in Greek; translate *are* and do not correct it.
+:::
+
+::: {.exercise title="Understanding the reading"}
+Read the whole tablet aloud before you answer anything.
+
+1. Who carries the tablets, and who does not? Which two verb endings tell
+   you which is plural and which singular?
+2. What does the paedagogus carry instead, and which small word introduces
+   it?
+3. Why does the cat not carry the books? Translate the two-word answer
+   the tablet gives.
+4. List every nominative plural in the first paragraph, with its article.
+5. What does Marcus say is long? What does the teacher say is long? Which
+   two words in the teacher's reply make the correction?
+6. **μακραὶ αἱ ἡμέραι** has no verb. How do you know it is a whole
+   sentence and not a phrase? *(Think of the proverb.)*
+7. Why **οὐχ ὁ χρόνος** and not **οὐ** or **οὐκ**?
+8. In **τὰ ἔργα οὐ λόγοι ἐστίν** the subject is plural and the verb is
+   singular. What is going on?
+9. Translate the last two sentences.
+10. One line of the tablet is aimed at Marcus and one at the whole class.
+    Which are they, and who comes out of the story best?
+:::
+
+::: answers
+1. The pupils, **οἱ μαθηταὶ φέρουσι**; the paedagogus does not, **οὐ
+   φέρει**. The verb is glossed, but the endings are not: **-ουσι** is
+   plural and **-ει** singular (Lesson 5).
+2. The books, **τὰ βιβλία**, after **ἀλλά**, with the verb understood from
+   the first half.
+3. **ζῷόν ἐστιν** — *it is an animal*. The second accent on **ζῷόν** has
+   come from **ἐστιν**; the gloss says to take it as printed.
+4. **οἱ μαθηταί**, **οἱ δοῦλοι**. (**ὁ παιδαγωγός** and **ὁ αἴλουρος** are
+   singular.) A pupil who adds **τὰς δέλτους** has not looked at the
+   article: **τάς** begins with **τ**, so it is not a nominative.
+5. Marcus: the time, **ὁ χρόνος**. The teacher: the words, **οἱ λόγοι**.
+   **οὐχ** denies the first and **ἀλλά** supplies the second.
+6. **αἱ ἡμέραι** has the article and **μακραί** does not — the shape of
+   **χαλεπὰ τὰ καλά**. The word with the article is the subject; the bare
+   word is what is said about it; and that is a sentence.
+7. Because the next word, **ὁ**, begins with a rough breathing (Lesson 6).
+8. A neuter plural subject takes a singular verb. The gloss says so; the
+   class is expected to recognise it, not produce it, and above all not to
+   "correct" it to **εἰσίν**.
+9. *The pupils know the words, but the teacher looks at the deeds. The cat
+   does not speak words; it only has deeds.*
+10. **οὐχ ὁ χρόνος μακρός … ἀλλὰ οἱ λόγοι** is aimed at Marcus; **πολλοὺς
+    λόγους … τὰ ἔργα οὐ πολλά** at everyone. The cat comes out best, as
+    usual: no words and all the deeds. Accept any answer the pupil can
+    point to in the Greek.
+:::
 :::
 
 ::: {.question time="5 min"}

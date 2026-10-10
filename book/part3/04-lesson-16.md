@@ -217,6 +217,13 @@ be able to build.
 - **ὁ νόστος** — homecoming, the journey home
 - **ὁ δόλος** — trick, guile, cunning
 - **ἡ σοφία** — wisdom; skill
+- **ὁ οἶνος** — wine
+- **ὁ ξένος** — stranger; guest; host *(the same word for both sides of
+  hospitality)*
+- **πίνω** — I drink *(aorist **ἔπιον**; infinitives **πίνειν**, **πιεῖν**)*
+- **ἔδωκα** — I gave *(aorist of **δίδωμι**; 3rd singular **ἔδωκε(ν)**)*
+- **οὕτως** — thus, so, in this way *(**οὕτω** before a consonant)*
+- **πρῶτος, πρώτη, πρῶτον** — first; **πρῶτον** — at first, first of all
 
 ::: note
 **The infinitive of ψεύδομαι is ψεύδεσθαι**, and the three verbs above
@@ -238,9 +245,42 @@ below.
 :::
 :::
 
-::: {.investigation time="15 min"}
-Theodoros gave them the sentences on a tablet and said that three of them
-were about the *Odyssey* and one of them was about Felix.
+::: {.investigation time="20 min"}
+Theodoros gave them the sentences on a tablet and said that most of them
+were about the *Odyssey* and one of them was about Felix. Before that, as
+always now, ten questions from memory.
+
+::: {.exercise title="Retrieval"}
+From memory, and quickly. Nothing here is from this lesson; the imperfects
+and aorists are mixed on purpose.
+
+1. **ἔπαθον** — tense; what told you?
+2. **ἐκάθευδες** — tense and person.
+3. **τοῦ ἀνδρός** — case and number, and the nominative.
+4. Translate **ὁ ἑταῖρος**.
+5. **εἶδε** — translate.
+6. Which is Homeric, **ἀείδω** or **ᾄδω**?
+7. Turn into the aorist: **γράφει τὴν ἐπιστολήν.**
+8. **ἦσαν** — translate.
+9. **πάντες** — case, number and gender.
+10. Translate **τὸ μέτρον**.
+:::
+
+::: answers
+1. Aorist — the stem **παθ-** is not the present **πασχ-**. First singular
+   or third plural. (Lesson 15.)
+2. Imperfect, 2nd singular — *you were sleeping*. Present stem. (Lesson 13.)
+3. Genitive singular of **ὁ ἀνήρ**. (Lesson 15.) A pupil who says
+   *accusative* has gone by the **-ς**; the article says genitive.
+4. *Companion.* (Lesson 15.)
+5. *He saw.* Aorist. (Lesson 15.) Watch for *he sees*, which is **βλέπει**.
+6. **ἀείδω** — the uncontracted one. (Lesson 15.)
+7. **ἔγραψε τὴν ἐπιστολήν.** Augment and **-ψ-**. (Lesson 14.) **ἔγραφε** is
+   the imperfect and is the predictable error.
+8. *They were.* (Lesson 13.)
+9. Nominative plural masculine. (Lesson 15.)
+10. *Measure, standard.* (Lesson 12.)
+:::
 
 ::: {.exercise title="Translate"}
 1. **ὁ Ὀδυσσεὺς βούλεται εἰς τὸν οἶκον ἐλθεῖν.** *(**ἐλθεῖν** = aorist
@@ -249,6 +289,16 @@ were about the *Odyssey* and one of them was about Felix.
 3. **ὁ κριτὴς λέγει τὸν μάρτυρα ψεύδεσθαι.** *(**τὸν μάρτυρα** = accusative
    of **ὁ μάρτυς**)*
 4. **ὁ δόλος οὐκ ἦν σοφία.**
+5. **ὁ Κύκλωψ ἔπιε τὸν οἶνον καὶ οὐκέτι ἐγίγνωσκε τὸν δόλον.** *(**ὁ
+   Κύκλωψ** = the Cyclops)*
+6. **ὁ ξένος βούλεται τὸ δῶρον λαβεῖν.** *(**λαβεῖν** = aorist infinitive
+   of **ἔλαβον**)*
+7. **λέγει τὸν ἄνδρα πολλὰ παθεῖν.** *(**παθεῖν** = aorist infinitive of
+   **ἔπαθον**)*
+8. **οὕτως εἶπεν ὁ ἀνήρ, καὶ πρῶτον ἔδωκε τὸν οἶνον.**
+9. **οὐ δύναται ὁ ἑταῖρος εἰς τὸν οἶκον ἐλθεῖν· ὁ νόστος κακός ἐστιν.**
+10. **γιγνώσκομεν τὸν Κύκλωπα οὐ σοφὸν εἶναι.** *(**τὸν Κύκλωπα** =
+    accusative)*
 :::
 
 ::: answers
@@ -262,6 +312,26 @@ were about the *Odyssey* and one of them was about Felix.
    lessons of grammar later.
 4. *The trick was not wisdom.* — no infinitive at all. **ἦν** is the
    imperfect from Lesson 13. This is the sentence about Felix.
+5. *The Cyclops drank the wine and no longer recognised the trick.* —
+   aorist for the drinking, imperfect for the state of not seeing. No
+   infinitive; a pupil who hunts for one should be told that not every
+   sentence in this lesson has one, and that noticing the absence is
+   reading.
+6. *The stranger wants to take the gift.* — job one, with an aorist
+   infinitive: *to take it*, once, as a single act. Accept *to get*.
+7. *He says that the man suffered many things.* — job two, and the aorist
+   infinitive sets the suffering in the past. A pupil who writes *is
+   suffering* has read the infinitive as if it were **πάσχειν**.
+8. *So the man spoke, and first he gave the wine.* — two aorists in
+   sequence; **πρῶτον** is the adverb.
+9. *The companion is not able to come home; the homecoming is bad.* —
+   **ἐλθεῖν** completes **δύναται**. **κακός** outside the article group is
+   a predicate, Lesson 10.
+10. *We know that the Cyclops is not wise.* — job two; **σοφόν** is
+    accusative to agree with **τὸν Κύκλωπα**, which is the move that gets
+    missed. Note that the **οὐ** goes with **σοφόν**, not with
+    **γιγνώσκομεν**: *we know that he is not*, not *we do not know that he
+    is*.
 :::
 
 ::: {.exercise title="What tells you that?"}
@@ -274,6 +344,21 @@ Here are two sentences. They differ by one ending.
 2. Say exactly which letters carry the difference.
 3. The main verb **λέγει** is present in both. Does the saying happen at a
    different time in the two sentences? If not, what *is* different?
+4. Now **βούλεται πίνειν** and **βούλεται πιεῖν**. Translate both. Which job
+   is this, and does the difference between them lie in time?
+5. **λέγει τοὺς ἑταίρους ἐσθίειν** / **λέγει τοὺς ἑταίρους φαγεῖν**
+   *(**φαγεῖν** = aorist infinitive of **ἐσθίω**)*. Translate both, and
+   say which job.
+6. In **λέγει τὸν ἄνθρωπον γράψαι**, what case is **τὸν ἄνθρωπον**, and
+   what case would it be if the man were speaking for himself?
+7. **γράφειν** and **γράφει** differ by one letter. What does the **ν** do?
+8. **ἔγραψε** and **γράψαι** both contain the aorist **-ψ-**. Only one has
+   an augment. Why?
+9. **ὁ Κύκλωψ λέγει Οὖτιν ψεύδεσθαι.** Translate, and say what case
+   **Οὖτιν** is in and why.
+10. Write *he says that the companions ran* in Greek *(**δραμεῖν** = aorist
+    infinitive of **ἔδραμον**)*. Then change one word to make it *he says
+    that the companions are running*.
 :::
 
 ::: answers
@@ -286,12 +371,36 @@ Here are two sentences. They differ by one ending.
    time of the *writing*, and the only thing that moved it was the
    infinitive. This is the point of the exercise — in job two the infinitive
    is doing a job the main verb cannot do.
+4. *He wants to be drinking* — to drink, to go on drinking — against *he
+   wants to have a drink*, one act. Job one. No: the difference is aspect
+   only; both wantings look to the future, and neither infinitive says so.
+5. *He says that the companions are eating* / *he says that the companions
+   ate.* Job two, and here the aorist infinitive **does** carry time, as in
+   question 1. The pair is there to be set beside 4: same two endings, two
+   different jobs, and only in one of them does time come into it.
+6. Accusative. If the man were speaking for himself it would be the
+   nominative — **ὁ ἄνθρωπος ἔγραψε** — because he would be the subject of
+   a finite verb and not of an infinitive.
+7. It makes the form an infinitive rather than a third person singular:
+   *to write* rather than *he writes*. One letter, and the word stops
+   having a person.
+8. Because the augment marks *past time*, and the infinitive has no time to
+   mark. **ἔγραψε** is a past event; **γράψαι** is an action looked at
+   whole, whenever. A pupil who writes **ἐγράψαι** has not understood what
+   the augment is for, and this is the moment to tell them.
+9. *The Cyclops says that Nobody is lying.* **Οὖτιν** is accusative because
+   it is the subject of the infinitive **ψεύδεσθαι** — job two. And it is
+   true: Nobody *is* lying, in both senses, which the Cyclops will discover
+   is not the same thing twice.
+10. **λέγει τοὺς ἑταίρους δραμεῖν** → **λέγει τοὺς ἑταίρους τρέχειν**. Only
+    the infinitive changes; the accusative stays. A pupil who changed
+    **τοὺς ἑταίρους** has changed the wrong word.
 
-A pupil who answers "the second one is finished and the first one is not" has
-given the job-one answer to a job-two sentence. Do not simply mark it wrong:
-ask them what **λέγει τὸν ἄνθρωπον γράψαι** would mean if the aorist only
-meant *completed*, and let them discover that it would mean nothing in
-particular.
+A pupil who answers "the second one is finished and the first one is not" at
+question 1 has given the job-one answer to a job-two sentence. Do not simply
+mark it wrong: ask them what **λέγει τὸν ἄνθρωπον γράψαι** would mean if
+the aorist only meant *completed*, and let them discover that it would mean
+nothing in particular.
 :::
 
 ::: {.exercise title="Rebuild the direct words"}
@@ -302,16 +411,44 @@ into a finite verb.
 1. **λέγει τὸν θεὸν ἀγαθὸν εἶναι.**
 2. **λέγομεν τὸν διδάσκαλον γράφειν.**
 3. **ὁ Ὀδυσσεὺς λέγει τὸν δόλον σοφίαν εἶναι.**
+4. **λέγει τὸν ξένον οἶνον ἔχειν.**
+5. **γιγνώσκομεν τοὺς ἑταίρους κακοὺς εἶναι.**
+6. **ὁ Κύκλωψ λέγει τὸ ὄνομα Οὖτιν εἶναι.**
+7. **λέγεις τὴν σοφίαν δῶρον τοῦ θεοῦ εἶναι.**
+8. **ὁ μάρτυς λέγει τὸν κριτὴν ψεύδεσθαι.**
+9. **λέγουσι τὸν ἄνδρα εἰς τὴν πόλιν ἐλθεῖν.**
+10. **ἡ Ἰουλία λέγει τὸν Μᾶρκον ἀεὶ λέγειν.**
 :::
 
 ::: answers
 1. **ὁ θεὸς ἀγαθός ἐστιν.** — *God is good.*
 2. **ὁ διδάσκαλος γράφει.** — *The teacher is writing.*
 3. **ὁ δόλος σοφία ἐστίν.** — *Guile is wisdom.*
+4. **ὁ ξένος οἶνον ἔχει.** — *The stranger has wine.* **οἶνον** stays
+   accusative: it was the object all along, not the subject.
+5. **οἱ ἑταῖροι κακοί εἰσιν.** — *The companions are bad.* Plural all the
+   way through, including the verb.
+6. **τὸ ὄνομα Οὖτίς ἐστιν.** — *The name is Nobody.* **Οὖτις** goes back
+   to the nominative with the subject; it is what the Cyclops was told, and
+   the accent moves because **ἐστιν** leans on it.
+7. **ἡ σοφία δῶρον τοῦ θεοῦ ἐστιν.** — *Wisdom is a gift of God.*
+   **δῶρον** looks the same, as in the Into Greek exercise below, and
+   **τοῦ θεοῦ** does not change at all: it was never part of the
+   construction.
+8. **ὁ κριτὴς ψεύδεται.** — *The judge is lying.* The witness's words;
+   Sabina's courtroom, with the roles reversed from sentence 3 of the
+   Translate exercise.
+9. **ὁ ἀνὴρ εἰς τὴν πόλιν ἦλθεν.** — *The man came into the city.* The
+   aorist infinitive goes back to an aorist indicative, with its augment
+   restored. A pupil who writes **ἔρχεται** has turned an aorist into a
+   present.
+10. **ὁ Μᾶρκος ἀεὶ λέγει.** — *Marcus is always talking.* Julia's actual
+    words.
 
-Watch for pupils who leave **ἀγαθόν** and **σοφίαν** in the accusative. The
-word agreed with the subject, the subject has gone back to the nominative,
-and so must it. This is the step that gets missed, every year, by everybody.
+Watch for pupils who leave **ἀγαθόν**, **σοφίαν** and **κακούς** in the
+accusative. The word agreed with the subject, the subject has gone back to
+the nominative, and so must it. This is the step that gets missed, every
+year, by everybody.
 :::
 
 ::: {.exercise title="Into Greek"}
@@ -319,6 +456,13 @@ and so must it. This is the step that gets missed, every year, by everybody.
 2. Odysseus is able to lie.
 3. The teacher says that the son is good.
 4. We know that wisdom is a gift.
+5. The stranger wants to drink the wine.
+6. First I gave the gift; then I said the name.
+7. We are not able to lie.
+8. The judge says that the stranger is not lying.
+9. He wants to come home.
+10. So the Cyclops drank, and the trick was wisdom. *(the Cyclops: **ὁ
+    Κύκλωψ**)*
 :::
 
 ::: answers
@@ -331,9 +475,27 @@ and so must it. This is the step that gets missed, every year, by everybody.
    wrong and nobody learns anything from it. Ask them which case it is in
    and why, and make them justify it from **τὴν σοφίαν** rather than from
    the word itself.
+5. **ὁ ξένος βούλεται πίνειν τὸν οἶνον.** — accept **πιεῖν**, and ask what
+   changed: with the aorist he wants one drink; with the present he wants
+   to be drinking. Either is good Greek.
+6. **πρῶτον ἔδωκα τὸ δῶρον· ἔπειτα εἶπον τὸ ὄνομα.** — two aorists, in
+   order.
+7. **οὐ δυνάμεθα ψεύδεσθαι.** — **δυνάμεθα** is the form given in the
+   Translate exercise; a pupil who did not notice it there will reach for
+   **δύναται** and produce *he*.
+8. **ὁ κριτὴς λέγει τὸν ξένον οὐ ψεύδεσθαι.** — the **οὐ** belongs with
+   the infinitive.
+9. **βούλεται εἰς τὸν οἶκον ἐλθεῖν.** — accept **ἔρχεσθαι** only from a
+   pupil who can say why it is different; most cannot yet, and **ἐλθεῖν**
+   is the form the lesson gave.
+10. **οὕτως ἔπιεν ὁ Κύκλωψ, καὶ ὁ δόλος σοφία ἦν.** — accept **ἦν σοφία**.
+    Felix's sentence from the Translate exercise, turned the other way up,
+    which is Quintus's position in the argument.
 
-Numbers 3 and 4 are job two; 1 and 2 are job one. A class that can sort
-their own four sentences into the two jobs has understood the lesson.
+Numbers 3, 4 and 8 are job two; 1, 2, 5, 7 and 9 are job one; 6 and 10
+have no infinitive at all. A class that can sort their own ten sentences
+into the two jobs, and spot the two that belong to neither, has understood
+the lesson.
 :::
 :::
 
