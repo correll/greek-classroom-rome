@@ -78,6 +78,7 @@
 \usepackage[skip=6pt]{caption}
 \usepackage[most]{tcolorbox}
 \usepackage{multicol}
+\usepackage{paracol}
 \usepackage{fancyvrb}
 
 \providecommand{\tightlist}{%
@@ -172,6 +173,17 @@
   left=10pt, right=10pt, top=8pt, bottom=8pt,
   fontupper=\small,
   before skip=10pt, after skip=10pt, #1}
+
+%% the reading: Greek on the left, running glosses on the right
+\newenvironment{readingcols}
+  {\par\vspace{4pt}\columnratio{0.60}\setlength{\columnsep}{16pt}%
+   \begin{paracol}{2}\linespread{1.3}\selectfont\raggedright\setlength{\parskip}{5pt}}
+  {\end{paracol}\par\vspace{4pt}}
+\newenvironment{readinggloss}
+  {\switchcolumn\footnotesize\linespread{1.08}\selectfont\raggedright
+   \setlist[itemize,1]{leftmargin=0pt, label={}, itemsep=1pt, topsep=0pt,
+                       partopsep=0pt, parsep=0pt}}
+  {}
 
 %% section markers used inside lessons
 \newcommand{\lessonrubric}[2]{%

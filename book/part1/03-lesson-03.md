@@ -268,6 +268,75 @@ have reached is a trivial one; Glaucon answers that it is not trivial at
 all — fine things are hard.
 :::
 
+::: {.reading time="20 min" title="Theodoros's first tablet" source="composed"}
+At the end of the first week Theodoros wrote a story on a tablet and
+passed it round. It was about them. Every word in it was on the wall.
+
+ὁ αἴλουρος βλέπει τὸν ἵππον. ὁ ἵππος οὐ βλέπει τὸν αἴλουρον.
+
+ὁ Φῆλιξ βλέπει τὸν αἴλουρον καὶ τὸν ἵππον. ὁ διδάσκαλος οὐ βλέπει τὸν
+ἵππον· βλέπει τὸ βιβλίον.
+
+ὁ Μᾶρκος βλέπει τὸν διδάσκαλον. ὁ διδάσκαλος βλέπει τὸν Μᾶρκον. ὁ
+Μᾶρκος οὐ βλέπει τὸ βιβλίον.
+
+ἡ Ἰουλία ἔχει τὸ βιβλίον καὶ τὴν γραφήν. ὁ παιδαγωγὸς ἔχει τὸν ἵππον.
+ὁ αἴλουρος ἔχει τὴν τράπεζαν. ὁ θεὸς ἔχει τὸν οὐρανόν.
+
+::: gloss
+- **ὁ αἴλουρος** — the cat
+- **βλέπει** — sees, is looking at *(you meet the verb in Lesson 5)*
+- **ἔχει** — has, holds
+- **ὁ Φῆλιξ, ὁ Μᾶρκος, ἡ Ἰουλία** — Felix, Marcus, Julia
+- **ἡ τράπεζα** — the table
+- **·** — the raised point; a Greek semicolon or colon
+:::
+
+::: {.exercise title="Understanding the reading"}
+Read the whole tablet aloud before you answer anything.
+
+1. Who sees the horse? Which two words tell you?
+2. Who does *not* see the cat? What one word tells you?
+3. In the second paragraph, the teacher is looking at something. What?
+4. Find every word in the accusative. There are twelve. List them with
+   their articles.
+5. Find every word in the nominative. How many are there?
+6. *The teacher sees Marcus* and *Marcus sees the teacher* are both here.
+   Which words change between them, and which do not?
+7. What does Julia have that the paedagogus does not?
+8. Translate the last paragraph.
+9. One sentence in the tablet is a joke. Which, and what makes it one?
+10. Write one more sentence for the tablet, using only words that are in
+    it, in which the cat is the object.
+:::
+
+::: answers
+1. The cat; **ὁ αἴλουρος** (nominative, with **ὁ**) and **βλέπει**.
+2. The horse; **οὐ**.
+3. The book, **τὸ βιβλίον**. (Accept *the scroll*.)
+4. τὸν ἵππον, τὸν αἴλουρον, τὸν αἴλουρον, τὸν ἵππον, τὸν ἵππον, τὸ
+   βιβλίον, τὸν διδάσκαλον, τὸν Μᾶρκον, τὸ βιβλίον, τὸ βιβλίον, τὴν γραφήν,
+   τὸν ἵππον, τὴν τράπεζαν, τὸν οὐρανόν — fourteen, in fact; the question
+   says twelve so that the pupil who counts carefully gets to correct the
+   book. A pupil who says twelve has probably missed the two neuters
+   (**τὸ βιβλίον** twice), because **τό** looks the same in both cases;
+   that is the point to draw out.
+5. Eleven: ὁ αἴλουρος, ὁ ἵππος, ὁ Φῆλιξ, ὁ διδάσκαλος, ὁ Μᾶρκος, ὁ
+   διδάσκαλος, ὁ Μᾶρκος, ἡ Ἰουλία, ὁ παιδαγωγός, ὁ αἴλουρος, ὁ θεός.
+   (The subject of **βλέπει τὸ βιβλίον** is understood; do not count it.)
+6. **ὁ** ↔ **τόν**, **-ος** ↔ **-ον** on both nouns; **βλέπει** does not
+   change. Word order also stays the same — which is the lesson.
+7. The book and the writing; he has the horse.
+8. *Julia has the book and the writing. The paedagogus has the horse. The
+   cat has the table. God has the sky.*
+9. *The cat has the table* — a cat does not own a table; but it is also
+   true, in the way everyone who has a cat knows. Accept *God has the sky*
+   as the serious sentence that follows the joke.
+10. Anything correct; e.g. **ὁ θεὸς βλέπει τὸν αἴλουρον.** Check the
+    article and the ending both changed.
+:::
+:::
+
 ::: {.question time="5 min"}
 1. *Fine things are hard.* Is this a complaint, a consolation, or a
    warning? Could it be all three in different mouths?

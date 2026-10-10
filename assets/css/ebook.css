@@ -244,3 +244,11 @@ body.single .gutter, .book.cover .gutter { display: none; }
 @media (prefers-reduced-motion: reduce) {
   .leaf, .r-side, .book { transition: none !important; }
 }
+
+/* The Reading: Greek beside its running vocabulary */
+.reading .readingcols { display: flex; gap: 1.2rem; align-items: flex-start; }
+.reading .greek { flex: 3; line-height: 1.7; }
+.reading .gloss { flex: 2; font-size: 0.85em; line-height: 1.35; }
+.reading .gloss ul { list-style: none; padding-left: 0; margin: 0; }
+.reading .gloss li { margin: 0 0 0.15em 0; }
+@media (max-width: 640px) { .reading .readingcols { flex-direction: column; } }
