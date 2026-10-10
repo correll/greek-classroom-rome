@@ -210,7 +210,67 @@ function Span(el)
   return nil
 end
 
+-- Tables. Pandoc writes every table as a longtable, and a longtable inside
+-- a breakable tcolorbox cannot be split: the box breaks the page in front
+-- of it and leaves the rest of the page empty. Every paradigm and gloss
+-- table in the lessons fits on a page, so they are written as plain
+-- tabulars instead; only the long lists at the back keep longtable.
+local function cell_tex(cell)
+  local s = pandoc.write(pandoc.Pandoc(cell.contents), "latex")
+  return (s:gsub("^%s+", ""):gsub("%s+$", ""):gsub("\n\n", " "):gsub("\n", " "))
+end
+
+local function rows_tex(rows, ncols)
+  local out = {}
+  for _, row in ipairs(rows) do
+    local cells = {}
+    for i = 1, ncols do
+      local c = row.cells[i]
+      cells[#cells+1] = c and cell_tex(c) or ""
+    end
+    out[#out+1] = table.concat(cells, " & ") .. " \\\\"
+  end
+  return out
+end
+
+function Table(el)
+  if not FORMAT:match("latex") then return nil end
+  local nrows = 0
+  for _, body in ipairs(el.bodies) do nrows = nrows + #body.body end
+  if nrows > 30 then return nil end           -- a real list: leave longtable
+  local ncols = #el.colspecs
+  local spec = {}
+  for i, cs in ipairs(el.colspecs) do
+    local align, width = cs[1], cs[2]
+    local a = (align == "AlignRight") and "r" or (align == "AlignCenter") and "c" or "l"
+    if type(width) == "number" and width > 0 then
+      local w = width * 0.96
+      spec[#spec+1] = ">{\\raggedright\\arraybackslash}p{" .. string.format("%.3f", w) .. "\\linewidth}"
+    else
+      spec[#spec+1] = a
+    end
+  end
+  local lines = { "\\par\\medskip\\noindent\\begin{tabular}{@{}" .. table.concat(spec) .. "@{}}", "\\toprule" }
+  local head = el.head and el.head.rows or {}
+  local headhas = false
+  for _, r in ipairs(head) do
+    for _, c in ipairs(r.cells) do
+      if #c.contents > 0 and pandoc.utils.stringify(c.contents) ~= "" then headhas = true end
+    end
+  end
+  if headhas then
+    for _, l in ipairs(rows_tex(head, ncols)) do lines[#lines+1] = l end
+    lines[#lines+1] = "\\midrule"
+  end
+  for _, body in ipairs(el.bodies) do
+    for _, l in ipairs(rows_tex(body.body, ncols)) do lines[#lines+1] = l end
+  end
+  lines[#lines+1] = "\\bottomrule"
+  lines[#lines+1] = "\\end{tabular}\\par\\medskip"
+  return latex(table.concat(lines, "\n"))
+end
+
 return {
   { Meta = Meta },
-  { Div = Div, Span = Span },
+  { Div = Div, Span = Span, Table = Table },
 }
