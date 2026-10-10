@@ -1,6 +1,6 @@
 # What Will Be
 
-::: {.story time="5 min"}
+::: story
 "One sentence each," said Theodoros, "about the end of the year. In Greek.
 What you will have done by then. You may be ambitious; you may not be
 vague."
@@ -91,7 +91,7 @@ future tense is for. It is the only tense whose sentences can be marked
 twice."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The future: the σ without the augment
 
 The **future** says that something will happen. Its mark is the **σ** you
@@ -294,7 +294,7 @@ of the verse.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Marcus's six sentences were on the tablet on the shelf. These were on the
 one Theodoros handed out, and the first exercise, he said, was about
 things that had already happened.
@@ -487,7 +487,7 @@ middle future that English gives no warning of.
 :::
 :::
 
-::: {.voice time="10 min" source="Matthew 6:34"}
+::: {.voice source="Matthew 6:34"}
 The last sentence of the passage you will read in the second period. One
 future in it, and it is not given to you.
 
@@ -548,7 +548,7 @@ Keep the promise the gloss makes: Lesson 35 pays it.
 :::
 :::
 
-::: {.reading time="20 min" title="The birds and the lilies" source="Matthew 6:25–34 (adapted selection, then NA28)"}
+::: {.reading title="The birds and the lilies" source="Matthew 6:25–34 (adapted selection, then NA28)"}
 **First, adapted.** A selection — about half the passage — in Attic forms
 you have, present and future, with the verbs of worrying and seeking taken
 whole where they contract. The futures are the point; find them first.
@@ -730,7 +730,7 @@ Read both tiers aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. A promise is a sentence in the future tense. Does writing it down make
    it truer, or only checkable — and is checkable worth anything on its
    own?
@@ -742,7 +742,7 @@ Read both tiers aloud before you answer anything.
    only differently worded?
 :::
 
-::: {.story time="—"}
+::: story
 Marcus stayed behind.
 
 "The tablet on the shelf. When you read it in July — if I have done the

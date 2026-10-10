@@ -1,6 +1,6 @@
 # The Familiar Words Return
 
-::: {.story time="5 min"}
+::: story
 Theodoros wrote two words on the board and asked what they meant.
 
 **ὁ κύριος**
@@ -59,7 +59,7 @@ to happen to you about six times in the next six lessons, and the first time
 is the worst."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Welcome to Part IV
 
 The Greek in this part of the book is mostly **Koine** — the "common" Greek
@@ -174,7 +174,7 @@ above as whole words, the way you used **βλέπει** in Lesson 3.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros said that one sentence in each exercise was from Scripture and
 the rest were his, and that they should be able to tell which by the end.
 But first, as always now, ten things from the last four lessons, from
@@ -378,7 +378,7 @@ The exercise has no wrong answers and several bad ones. Mark the *reason*.
 :::
 :::
 
-::: {.voice time="10 min" source="Plato's idiom; Psalm 32:6 (LXX); John 1:1"}
+::: {.voice source="Plato's idiom; Psalm 32:6 (LXX); John 1:1"}
 One word, centuries apart, three times.
 
 **In Athens.** **λόγος** is what a citizen gives when he is called to
@@ -431,7 +431,7 @@ more if it comes after.
 :::
 :::
 
-::: {.reading time="20 min" title="Love is from God" source="1 John 4:7–12 (NA28), with an adapted tier"}
+::: {.reading title="Love is from God" source="1 John 4:7–12 (NA28), with an adapted tier"}
 Theodoros set the passage twice: first in the Greek the class could read
 without help, then as John wrote it. "Read the first until it is easy," he
 said. "Then read the second and tell me every place where I changed
@@ -572,7 +572,7 @@ Read the adapted text aloud twice before you touch the original.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Theodosius knew what the word meant in Latin and was wrong about the
    Greek. Is it harder to learn a word you have never met, or one you think
    you already know?
@@ -582,7 +582,7 @@ Read the adapted text aloud twice before you touch the original.
    *the* right one — or only a defensible one?
 :::
 
-::: {.story time="—"}
+::: story
 Felix wanted to know whether the household cat, which he had labelled with a
 noun in the first week, was the **κύριος** of anything.
 

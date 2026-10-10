@@ -1,6 +1,6 @@
 # The Good Samaritan
 
-::: {.story time="5 min"}
+::: story
 Theodoros read the story through once, in Greek, at speaking pace, and then
 asked who had done what.
 
@@ -42,7 +42,7 @@ twenty-one lessons being told that parsing is plot and not believing it.
 Today it is going to be impossible not to."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The participle
 
 A **participle** is a verb wearing an adjective's clothes. It has a verb's
@@ -151,7 +151,7 @@ story is an answer to what it means.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros had them mark every participle in the passage with a stroke
 above it and every main verb with a stroke below, and then count. Before
 that, the ten from memory.
@@ -374,7 +374,7 @@ From Lessons 18 to 21. Answer from memory.
 :::
 :::
 
-::: {.voice time="10 min" source="Luke 10:30–37, abridged"}
+::: {.voice source="Luke 10:30–37, abridged"}
 The story, with two verses left out to keep it to a page. The participles
 are marked in the glosses.
 
@@ -489,7 +489,7 @@ reading, and the text does not settle it. Say so if a pupil asks.
 :::
 :::
 
-::: {.reading time="20 min" title="Who is my neighbour?" source="Luke 10:25–37 (NA28), whole, with an adapted tier"}
+::: {.reading title="Who is my neighbour?" source="Luke 10:25–37 (NA28), whole, with an adapted tier"}
 The Ancient Voice gave you the story. Here is the whole episode — the
 lawyer's question that starts it, the commandment he recites, the story,
 and the question that answers his. First in the Greek you have, then as
@@ -694,7 +694,7 @@ participle, as you did in The Investigation.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. The parable answers a question the lawyer did not ask — *who acted as a
    neighbour?* — and refuses the one he did — *who is my neighbour?* Does
    that count as an answer?
@@ -705,7 +705,7 @@ participle, as you did in The Investigation.
    generous way to name someone, or an evasive one?
 :::
 
-::: {.story time="—"}
+::: story
 Marcus said that he had lost the thread at the Levite because the sentence
 had too many verbs in it.
 

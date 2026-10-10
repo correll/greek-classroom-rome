@@ -1,6 +1,6 @@
 # The Trial of a Translation
 
-::: {.story time="5 min"}
+::: story
 Theodoros put eight wax tablets face down on the table and said that there
 would be a trial.
 
@@ -75,7 +75,7 @@ performance. It is a claim about evidence. Let us see whose evidence
 survives."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## No new grammar
 
 There is none in this lesson. Everything you need you already have, and that
@@ -202,7 +202,7 @@ This is the whole of Lesson 19, arriving early.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros made each of them say what their translation rested on before they
 were allowed to say what it was. First, as always, ten from memory — the
 jury's qualifying examination.
@@ -469,7 +469,7 @@ Take your own answer to number 3 above — **γιγνώσκομεν τὸν λό
 :::
 :::
 
-::: {.voice time="10 min" source="John 1:1c"}
+::: {.voice source="John 1:1c"}
 Five words. You have had all five since Part I.
 
 **καὶ θεὸς ἦν ὁ λόγος.**
@@ -579,7 +579,7 @@ are how you show them the other three.
 :::
 :::
 
-::: {.reading time="20 min" title="The five words in their place" source="John 1:1–5 (NA28), with an adapted version"}
+::: {.reading title="The five words in their place" source="John 1:1–5 (NA28), with an adapted version"}
 The trial was about five words. Here are the five verses they sit in —
 twice. The first version was written for you, in Attic, with the words and
 forms you have; it is **adapted**, and labelled so; its last paragraph is
@@ -737,7 +737,7 @@ Read the adapted version aloud, then John, slowly. Then answer.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Marcus's translation was wrong and convincing. Julia's was right and
    unconvincing. Which failure is worse in a reader? Which is worse in a
    teacher?
@@ -747,7 +747,7 @@ Read the adapted version aloud, then John, slowly. Then answer.
    method that cannot finish the job still worth having?
 :::
 
-::: {.story time="—"}
+::: story
 Afterwards Felix wanted to know who had won.
 
 "Nobody won."

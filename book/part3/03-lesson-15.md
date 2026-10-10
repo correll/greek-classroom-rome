@@ -1,6 +1,6 @@
 # The Words of Homer
 
-::: {.story time="5 min"}
+::: story
 The scroll Theodoros brought out had been repaired three times and smelled
 of the cupboard.
 
@@ -49,7 +49,7 @@ you are going to find out that it is a dialect, which is a thing nobody can
 be told. It has to happen to you."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Greek is not one language
 
 The Greek you have been learning is **Attic** — the speech of Athens in the
@@ -181,7 +181,7 @@ turns.* It can mean widely travelled, and it can mean devious, and the
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros let them hold the scroll, one at a time, and then took it back
 and asked ten questions about the last four weeks before anyone was allowed
 near Homer again.
@@ -419,7 +419,7 @@ article was the load-bearing wall.
 :::
 :::
 
-::: {.voice time="10 min" source="Homer, *Odyssey* 1.1 and *Iliad* 1.1"}
+::: {.voice source="Homer, *Odyssey* 1.1 and *Iliad* 1.1"}
 Two openings. Between them they begin European literature, and they are
 built on the same frame.
 
@@ -471,7 +471,7 @@ quotations and deserve the check the course asks of its pupils.
 :::
 :::
 
-::: {.reading time="20 min" title="The man of many turns" source="Homer, *Odyssey* 1.1–10 (Allen's Oxford text), with an adapted version"}
+::: {.reading title="The man of many turns" source="Homer, *Odyssey* 1.1–10 (Allen's Oxford text), with an adapted version"}
 The Voice gave you the first line. Here are the first ten — twice. The
 first version was written for you, in Attic, with the words you have; it is
 **adapted**, and labelled so. The second is Homer.
@@ -627,7 +627,7 @@ Read the adapted version aloud, then the Homer, slowly. Then answer.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Homer asks a goddess to tell the story. Virgil, seven hundred years later,
    writes *I sing*. What changed?
 2. The *Iliad* begins with wrath and the *Odyssey* with a man. Does a poem's
@@ -636,7 +636,7 @@ Read the adapted version aloud, then the Homer, slowly. Then answer.
    that make the last fourteen lessons worth less, or more?
 :::
 
-::: {.story time="—"}
+::: story
 Sabina asked whether she could learn Homeric Greek instead.
 
 Theodoros said she could learn it afterwards, in about two years, and that

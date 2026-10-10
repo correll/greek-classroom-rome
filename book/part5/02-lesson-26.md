@@ -1,6 +1,6 @@
 # Commands, Advice, and Persuasion
 
-::: {.story time="5 min"}
+::: story
 Marcus had asked for ten minutes and been given five, and he used them.
 
 The argument, delivered standing and in Greek, ran roughly as follows.
@@ -40,7 +40,7 @@ It was, the class agreed afterwards, the best five minutes Marcus had ever
 had, and he had lost.
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The imperative
 
 You have been reading commands since the first week — **γνῶθι**, **ἄειδε**,
@@ -166,7 +166,7 @@ completely, and the maxim does not say it is easy.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros had them sort Marcus's sentences into *commands*, *reasons* and
 *conclusions* before they were allowed to say whether any of them were
 true.
@@ -370,7 +370,7 @@ each: grammar first, then argument.
 :::
 :::
 
-::: {.voice time="10 min" source="Carved at Delphi; quoted by Plato, *Charmides* 164d–165a and *Protagoras* 343b"}
+::: {.voice source="Carved at Delphi; quoted by Plato, *Charmides* 164d–165a and *Protagoras* 343b"}
 The two sentences you began with, for the third and last time. You copied
 them in Lessons 1 and 2 before you could read a letter. You can now explain
 every mark in them.
@@ -429,7 +429,7 @@ also the answer to a question a thoughtful pupil may ask about why
 :::
 :::
 
-::: {.reading time="20 min" title="Ask, seek, knock" source="Matthew 7:7–12"}
+::: {.reading title="Ask, seek, knock" source="Matthew 7:7–12"}
 Six verses from the Sermon on the Mount, which you entered in Lesson 21.
 They are built almost entirely out of commands, and the commands are
 present imperatives — a way to live, not an errand. The first version is
@@ -575,7 +575,7 @@ Read both versions aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. A command, a piece of advice, and a persuasive argument can all produce
    the same action. Which does Greek make easiest to say? Which does it make
    hardest?
@@ -585,7 +585,7 @@ Read both versions aloud before you answer anything.
    rather be good at? Which is harder to fix?
 :::
 
-::: {.story time="—"}
+::: story
 Marcus asked, at the end, whether he had at least been right that learning
 takes place in the soul.
 

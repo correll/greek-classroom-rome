@@ -5,10 +5,6 @@ introduces it. Nouns are given with the article, verbs in the first
 person singular present (except where a single form is what was
 taught), adjectives in the masculine nominative singular.
 
-This list is generated from the `vocab` blocks in the lesson files by
-`scripts/build_glossary.py`. Do not edit it by hand: run
-`make glossary` after drafting a lesson and it will be rebuilt.
-
 ## Α
 
 | | | |
@@ -34,7 +30,6 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ἡ ἀλήθεια** | truth | 4 |
 | **ἀλλά** | but | 4 |
 | **ἄλλος** | other, another *(neuter **ἄλλο**, not **ἄλλον**)* | 10 |
-| **ἄλλος, ἄλλη, ἄλλο** | other, another; **οἱ ἄλλοι** — the others *(Lesson 10)* | 13 |
 | **ἡ ἁμαρτία** | a missing of the mark; a fault; sin *(the New Testament's word)* | 19 |
 | **ἀμήν** | truly *(Hebrew; the Gospels' way of beginning a solemn statement)* | 35 |
 | **ἄν** | *(a particle: with the subjunctive, opens a general or future clause; with a past indicative, marks "would" or "would have")* | 35 |
@@ -42,7 +37,6 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ἀναγιγνώσκω** | I read *(literally *I know again*: **ἀνα-** + **γιγνώσκω**)* | 6 |
 | **ὁ ἄνεμος** | wind | 27 |
 | **ὁ ἀνήρ** | man *(as against a woman; third declension)* | 15 |
-| **ὁ ἀνήρ, ἀνδρός** | man *(Lesson 15)* | 18 |
 | **ὁ ἄνθρωπος** | human being, person | 1 |
 | **ἀνοίγω** | I open *(future passive **ἀνοιγήσομαι**, I will be opened)* | 36 |
 | **ἄνωθεν** | from above; again *(both at once, in John)* | 35 |
@@ -310,8 +304,6 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **οὐ (οὐκ, οὐχ)** | not | 2 |
 | **οὐδέ** | and not, nor; not even | 6 |
 | **οὐδείς** | no one; *(neuter **οὐδέν**)* nothing | 19 |
-| **οὐδείς, οὐδεμία, οὐδέν** | no one, nothing *(**μηδείς** with the **μή** family)* *(Lesson 19)* | 35 |
-| **οὐδείς, οὐδέν** | no one, nothing *(the **οὐ** word; **οὐδείς, οὐδεμία, οὐδέν**, genitive **οὐδενός** — **οὐδὲ εἷς**, not even one)* *(Lesson 19)* | 25 |
 | **οὐκέτι** | no longer | 14 |
 | **οὖν** | therefore, so *(postpositive)* | 17 |
 | **ὁ οὐρανός** | sky, heaven | 2 |
@@ -362,7 +354,6 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ὁ προφήτης** | prophet; one who speaks for a god | 21 |
 | **πρῶτον** | first, first of all | 32 |
 | **πρῶτος** | first | 10 |
-| **πρῶτος, πρώτη, πρῶτον** | first; **πρῶτον** — at first, first of all *(Lesson 10)* | 16 |
 | **ὁ πτωχός** | beggar; destitute *(not merely poor)* | 21 |
 | **πῶς** | how? | 25 |
 

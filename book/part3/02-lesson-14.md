@@ -1,6 +1,6 @@
 # The Aorist Arrives
 
-::: {.story time="5 min"}
+::: story
 "One past," said Marcus, "ought to be enough for anyone."
 
 "Should it."
@@ -45,7 +45,7 @@ past tense. A second question Greek asks about every verb, which Latin asks
 only sometimes and English asks in a different place."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The aorist: an action as a single whole
 
 The **aorist** is the tense Greek uses for an action looked at as **one
@@ -171,7 +171,7 @@ Lesson 15. English *teleology* is built on it: the study of what things are
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Marcus asked to keep the two sentences. He was given them, after the usual
 ten questions on the last four lessons.
 
@@ -389,7 +389,7 @@ Marcus offered to give up his position if he could translate **ἐθέλω
 :::
 :::
 
-::: {.voice time="10 min" source="John 1:1 and 1:14"}
+::: {.voice source="John 1:1 and 1:14"}
 The same author, the same subject, the same chapter — and two different
 tenses, thirteen verses apart.
 
@@ -432,7 +432,7 @@ then asked about the infinitives again, which it cannot.
 :::
 :::
 
-::: {.reading time="20 min" title="What happened next" source="composed"}
+::: {.reading title="What happened next" source="composed"}
 The tablet picks up where last week's left off. Everything that was going on
 is still going on — and then things start to happen. Watch which verbs have
 **-σα-** or a changed stem, and which do not.
@@ -527,7 +527,7 @@ Read it aloud first. Then go through it a second time marking every verb
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. **ἦν** has no beginning in it and **ἐγένετο** does. If a language forces
    you to choose, is it making you more precise or making the choice for
    you?
@@ -537,7 +537,7 @@ Read it aloud first. Then go through it a second time marking every verb
    what it refuses to tell you?
 :::
 
-::: {.story time="—"}
+::: story
 Marcus wrote both sentences out, at the back of his tablet, under a heading
 of his own.
 

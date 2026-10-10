@@ -1,6 +1,6 @@
 # What Makes a Just Person?
 
-::: {.story time="5 min"}
+::: story
 Quintus had been asking for Plato since the first week.
 
 He had asked in the way that children ask for things they have decided are
@@ -59,7 +59,7 @@ the words that carry the argument are two or three letters each, and nobody thin
 they matter, and they are the only things that do."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The words that hold an argument together
 
 Greek prose is *chained*. In a page of Plato, almost every sentence after the
@@ -212,7 +212,7 @@ it first and more tidily.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros made them read each sentence aloud before translating it, and stop
 at the connector. Before the sentences, as always now, ten questions from
 memory.
@@ -444,7 +444,7 @@ accurately and understand none of him.
 :::
 :::
 
-::: {.voice time="10 min" source="Plato, *Apology* 38a"}
+::: {.voice source="Plato, *Apology* 38a"}
 Socrates is on trial for his life. He has been convicted. He is explaining
 why he will not accept exile and silence in place of death.
 
@@ -508,7 +508,7 @@ saving for it.
 :::
 :::
 
-::: {.reading time="20 min" title="The half Theodoros withheld" source="Plato, *Apology* 37e–38a (Burnet's Oxford text), with an adapted version"}
+::: {.reading title="The half Theodoros withheld" source="Plato, *Apology* 37e–38a (Burnet's Oxford text), with an adapted version"}
 The Voice gave you seven words. Here is the sentence they sit in, and the
 one that follows it — twice. The first version was written for you, in
 Attic, with the words and forms you have; it is **adapted**, and labelled
@@ -682,7 +682,7 @@ Read the adapted version aloud, then the Plato, slowly. Then answer.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Quintus could translate every word and did not know what the sentence
    meant. Is that a failure of his Greek, or has he just discovered what
    reading is?
@@ -693,7 +693,7 @@ Read the adapted version aloud, then the Plato, slowly. Then answer.
    He does not say it is a bad life. Is that a different claim?
 :::
 
-::: {.story time="—"}
+::: story
 Afterwards Quintus stayed behind, which he never did.
 
 "The sentence before it," he said. "The one you did not give us. What does it

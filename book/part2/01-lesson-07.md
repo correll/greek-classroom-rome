@@ -1,6 +1,6 @@
 # The Article's Many Disguises
 
-::: {.story time="5 min"}
+::: story
 "**ἡ λόγος**," said Marcus.
 
 "**ὁ** λόγος," said Julia, without looking up.
@@ -47,7 +47,7 @@ The words are identical. Not one letter has changed. What moved?"
 "The decoration," said Theodoros, "is the load-bearing wall."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The whole article, at last
 
 You have been using five or six forms of the article. There are more, and they
@@ -181,7 +181,7 @@ by routes that are worth looking up when you have ten minutes.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Julia produced her list. It had fourteen entries on it and Marcus asked to
 see it only once.
 
@@ -390,7 +390,7 @@ is what makes a word the subject here, rather than its position. Give them
 :::
 :::
 
-::: {.voice time="10 min" source="A proverb, quoted by Plato, *Republic* 435c"}
+::: {.voice source="A proverb, quoted by Plato, *Republic* 435c"}
 You met this in Lesson 3, when you could translate it and not explain it.
 
 **χαλεπὰ τὰ καλά**
@@ -423,7 +423,7 @@ Glaucon suspects it is anything but. Plato does not explain it. He did not need 
 doing its work, in the same half-second you now can.
 :::
 
-::: {.reading time="20 min" title="Theodoros's fifth tablet" source="composed"}
+::: {.reading title="Theodoros's fifth tablet" source="composed"}
 The fifth tablet was about the plural, and about Marcus, and it went round
 the room on a day that had already been long.
 
@@ -507,7 +507,7 @@ Read the whole tablet aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Latin manages without an article for a thousand years of literature.
    What is Greek buying with it, and is the price worth paying?
 2. *Fine things are hard* and *hard things are fine* are both proverbs
@@ -517,7 +517,7 @@ Read the whole tablet aloud before you answer anything.
    a rule you only need occasionally still a rule worth learning?
 :::
 
-::: {.story time="—"}
+::: story
 Julia's list ended that afternoon at fourteen.
 
 Marcus asked her, some weeks later and with elaborate casualness, whether

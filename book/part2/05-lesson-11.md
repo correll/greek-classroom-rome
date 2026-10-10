@@ -1,6 +1,6 @@
 # One Verb, Several Clues
 
-::: {.story time="5 min"}
+::: story
 Theodoros handed out a sheet with five sentences on it. Every one of them
 was missing its subject.
 
@@ -44,7 +44,7 @@ Theodoros sat down, which the class had learned to recognise.
 this term."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The six endings, drilled
 
 You met these in Lesson 5. Here they are again, because everything in Part
@@ -165,7 +165,7 @@ and you may treat **-ως** as English *-ly* until told otherwise.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros gave out the rest of the sheet.
 
 ::: {.exercise title="Retrieval"}
@@ -379,7 +379,7 @@ Marcus asked why anyone writes **ἐγώ** if the ending already says it.
 :::
 :::
 
-::: {.voice time="10 min" source="Matthew 5:44"}
+::: {.voice source="Matthew 5:44"}
 A sentence in which the pronoun is doing exactly what Marcus asked about.
 
 **ἐγὼ δὲ λέγω ὑμῖν· ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν …**
@@ -418,7 +418,7 @@ to be the important one.
 :::
 :::
 
-::: {.reading time="20 min" title="Theodoros's ninth tablet" source="composed"}
+::: {.reading title="Theodoros's ninth tablet" source="composed"}
 The ninth tablet was a second sheet of the same kind, with the class's
 answers written in, and the class did not come out of it well.
 
@@ -519,7 +519,7 @@ the sheet; the rest is the class.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. If the verb ending already tells you the subject, why would a Greek
    writer ever add **ἐγώ** or **σύ**? What are they doing when they do?
 2. Marcus answered four questions correctly while arguing that they could
@@ -529,7 +529,7 @@ the sheet; the rest is the class.
    Does the Greek word help?
 :::
 
-::: {.story time="—"}
+::: story
 Marcus kept the sheet.
 
 Years later, teaching a class of his own in a province he had not expected

@@ -1,6 +1,6 @@
 # The Old Verbs
 
-::: {.story time="5 min"}
+::: story
 Theodoros came in with the box.
 
 Everyone knew the box. It had sat on the shelf beside the Psalms since the
@@ -39,7 +39,7 @@ you need, and you have been using two since Parts I and II without knowing they
 were strange."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The verbs that did not change
 
 Every verb you have learned ends its first person in **-ω**, and puts a
@@ -262,7 +262,7 @@ thought of each.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 The last investigation. Theodoros said that anyone who finished early could
 spend the remainder labelling the box.
 
@@ -421,7 +421,7 @@ One sentence each.
 :::
 :::
 
-::: {.voice time="10 min" source="Matthew 7:7"}
+::: {.voice source="Matthew 7:7"}
 One verse, three clauses, and every lesson of Part VI in it.
 
 **Αἰτεῖτε καὶ δοθήσεται ὑμῖν, ζητεῖτε καὶ εὑρήσετε, κρούετε καὶ
@@ -472,7 +472,7 @@ story, but it works better as a fact.
 :::
 :::
 
-::: {.reading time="20 min" title="Ask, and it will be given" source="Matthew 7:7–11; Plato, *Apology* 29d–e"}
+::: {.reading title="Ask, and it will be given" source="Matthew 7:7–11; Plato, *Apology* 29d–e"}
 The last two readings, side by side: a Gospel and a philosopher, each with
 an old verb at its centre. Read the adapted tier first, marking every
 **-μι** form and every subjunctive; then the originals.
@@ -620,7 +620,7 @@ Read both tiers aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. *Ask, and it will be given.* Socrates asked the Athenians a question for
    thirty years and was given hemlock. Is one of these two sentences wrong,
    or are they about different kinds of asking?
@@ -633,7 +633,7 @@ Read both tiers aloud before you answer anything.
    and ask it.
 :::
 
-::: {.story time="—"}
+::: story
 The tags stayed on Julia's bench until the lesson ended, and she did not
 touch them until everyone else had gone, and then she untied the thread and
 read all three, and put them in her sleeve, and said nothing either.

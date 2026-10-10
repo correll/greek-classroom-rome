@@ -1,6 +1,6 @@
 # The Verb Appears
 
-::: {.story time="5 min"}
+::: story
 "Each of you will say one thing about yourself," said Theodoros. "In Greek.
 Today."
 
@@ -45,7 +45,7 @@ Felix said **ἐγώ εἰμι ἡ ὁδός** at least once a week for the rest
 term, usually when asked where something was.
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The ending tells you who
 
 Until now you have borrowed verbs whole: **βλέπει**, **γράφει**, **ἔχει**,
@@ -172,7 +172,7 @@ will meet it in that connection often.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 The rest of the class gave their sentences. Most of them were short, and
 three of them were wrong in ways worth keeping.
 
@@ -384,7 +384,7 @@ an error of emphasis, and it is worth naming as such every time.
 :::
 :::
 
-::: {.voice time="10 min" source="John 14:6"}
+::: {.voice source="John 14:6"}
 Aelia's sentence was not original.
 
 About three hundred years before that afternoon, somebody had written down
@@ -431,7 +431,7 @@ the point rather than a distraction.
 :::
 :::
 
-::: {.reading time="20 min" title="Theodoros's third tablet" source="composed"}
+::: {.reading title="Theodoros's third tablet" source="composed"}
 The third tablet gave everybody one sentence. Nobody had been consulted
 about theirs.
 
@@ -518,7 +518,7 @@ speakers and a cat.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. The Greek verb already says who is acting. English needs a separate word.
    What does a language gain, and what does it lose, by folding the subject
    into the verb?
@@ -530,7 +530,7 @@ speakers and a cat.
    where another has two?
 :::
 
-::: {.story time="—"}
+::: story
 Weeks later, lost in the Subura with Felix and a basket of fish, Aelia
 stopped at a junction and considered the three streets available to her.
 

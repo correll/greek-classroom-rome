@@ -1,6 +1,6 @@
 # The First Reading Challenge
 
-::: {.story time="5 min"}
+::: story
 "Four teams," said Theodoros. "Each team gets a sentence. You translate it,
 and then you defend it."
 
@@ -46,7 +46,7 @@ and then said a word she had learned from the kitchen.
 better thing."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Everything you have, in one page
 
 No new grammar today. This is the whole of Parts I and II, arranged so that
@@ -148,7 +148,7 @@ blame on the vocabulary.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 The four sentences Theodoros set. Each team translates its sentence and
 then defends every ending in it; the ten points under each sentence are the
 defence, and they are what is marked. Everyone does the Retrieval first.
@@ -376,7 +376,7 @@ of every word before accepting any answer.
 :::
 :::
 
-::: {.voice time="10 min" source="Protagoras, fr. 1 (as quoted by Sextus Empiricus); referred to by Plato, *Theaetetus* 152a"}
+::: {.voice source="Protagoras, fr. 1 (as quoted by Sextus Empiricus); referred to by Plato, *Theaetetus* 152a"}
 Here is a famous sentence, twice. The first version was written for you —
 it is **adapted**, and you are told so.
 
@@ -440,7 +440,7 @@ Now you know what to ask.
 :::
 :::
 
-::: {.reading time="20 min" title="Theodoros's tenth tablet" source="composed"}
+::: {.reading title="Theodoros's tenth tablet" source="composed"}
 The tenth tablet was written the evening after the teams, when the argument
 about Protagoras had followed the class out of the room and down the
 stairs. It closes Part II, and it is the first tablet that takes a side.
@@ -553,7 +553,7 @@ sentence that is almost Protagoras.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. You read an adapted sentence and then the real one. What was lost in the
    adaptation? Was the adaptation dishonest, or necessary, or both?
 2. *Man is the measure of all things* has been read as a liberation and as a
@@ -563,7 +563,7 @@ sentence that is almost Protagoras.
    way?
 :::
 
-::: {.story time="—"}
+::: story
 Sabina's team lost.
 
 They had the translation exactly right and could not account for the dative,

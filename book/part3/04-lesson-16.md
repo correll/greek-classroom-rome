@@ -1,6 +1,6 @@
 # Odysseus and the Problem of Cleverness
 
-::: {.story time="5 min"}
+::: story
 Theodoros had been reading them the Cyclops for three days, a dozen lines at
 a time, and on the fourth day he reached the part where Odysseus gives his
 name.
@@ -84,7 +84,7 @@ true thing in a shape that will be misheard, and to say *he said that* in
 Greek you need the infinitive."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The verb with no person
 
 Every verb form you have met so far has told you who was doing it.
@@ -245,7 +245,7 @@ below.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros gave them the sentences on a tablet and said that most of them
 were about the *Odyssey* and one of them was about Felix. Before that, as
 always now, ten questions from memory.
@@ -500,7 +500,7 @@ the lesson.
 :::
 :::
 
-::: {.voice time="10 min" source="Homer, *Odyssey* 9.366–367"}
+::: {.voice source="Homer, *Odyssey* 9.366–367"}
 This is the sentence the whole episode turns on. Odysseus is in the cave. He
 has given the Cyclops wine. The Cyclops has asked his name.
 
@@ -574,7 +574,7 @@ Er — and never settled it either.
 :::
 :::
 
-::: {.reading time="20 min" title="The naming of Nobody" source="Homer, *Odyssey* 9.360–370 (Allen's Oxford text), with an adapted version"}
+::: {.reading title="The naming of Nobody" source="Homer, *Odyssey* 9.360–370 (Allen's Oxford text), with an adapted version"}
 The Voice gave you the two lines the trick turns on. Here is the whole
 exchange — the wine, the bargain, the name, and the Cyclops's answer —
 twice. The first version was written for you, in Attic, with the words and
@@ -752,7 +752,7 @@ Read the adapted version aloud, then the Homer, slowly. Then answer.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Odysseus says nothing false and deceives completely. Is that lying? Does
    your answer change if you imagine doing it to a friend rather than to a
    man who has eaten your crew?
@@ -762,7 +762,7 @@ Read the adapted version aloud, then the Homer, slowly. Then answer.
    would you have to find in the poem to prove her wrong?
 :::
 
-::: {.story time="—"}
+::: story
 At the end, Theodosius asked whether Odysseus got home.
 
 "He does."

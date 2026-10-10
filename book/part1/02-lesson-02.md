@@ -1,6 +1,6 @@
 # The Case of the Missing Letters
 
-::: {.story time="5 min"}
+::: story
 Felix arrived with a grievance.
 
 "Two letters have escaped," he announced, holding up his tablet. "I wrote
@@ -26,7 +26,7 @@ Marcus looked sceptical. "Any letter could go in a gap."
 "No," said Theodoros. "Watch."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Two vowels, one sound
 
 When certain pairs of vowels stand together, they make a single sound. The
@@ -153,7 +153,7 @@ you will be reconstructing, breathing, and dividing them this lesson.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros did not simply fill in Felix's gaps. He made the class prove
 each one.
 
@@ -384,7 +384,7 @@ have used **η** and a single **υ** instead.
 :::
 :::
 
-::: {.voice time="10 min" source="Carved at Delphi; quoted by Plato, *Protagoras* 343b"}
+::: {.voice source="Carved at Delphi; quoted by Plato, *Protagoras* 343b"}
 In Lesson 1 you read one of the maxims carved at Delphi. Here is the one
 carved beside it.
 
@@ -408,7 +408,7 @@ editor telling you something they believe to be true about a word carved
 some four hundred years before the marks were invented.
 :::
 
-::: {.question time="5 min"}
+::: question
 1. **Know yourself.** **Nothing in excess.** These two sentences stood at
    the entrance to the most famous oracle in the Greek world, where people
    came to ask what would happen to them. What kind of advice is this to
@@ -421,7 +421,7 @@ some four hundred years before the marks were invented.
    as statements?
 :::
 
-::: {.story time="—"}
+::: story
 At the end of the lesson Livia asked, without raising her voice, whether
 the two missing letters had really been missing or whether Theodoros had
 smudged them himself.

@@ -1,6 +1,6 @@
 # The Past Comes Alive
 
-::: {.story time="5 min"}
+::: story
 "A story is not a list," said Quintus.
 
 Nobody had asked him, but he had been building to it for some minutes and
@@ -42,7 +42,7 @@ was a past.
 "Keep that," said Theodoros. "You will want it next week."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## A past with a shape
 
 The **imperfect** is a past tense, and it is not simply *the past*. It
@@ -150,7 +150,7 @@ is in *telephone* and *phonetics*; **ἄλλος** is in *allergy* — a reactio
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros set the class to turning situations into events and back again.
 First, though, he went back over the last four lessons without warning, as
 he had begun to do every week.
@@ -362,7 +362,7 @@ rain was falling, the lamp was going out* is a situation.
 :::
 :::
 
-::: {.voice time="10 min" source="John 1:1"}
+::: {.voice source="John 1:1"}
 You read this in Lesson 6, when **ἦν** was a word somebody had to tell you.
 
 **Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.**
@@ -391,7 +391,7 @@ see the difference.
 :::
 :::
 
-::: {.reading time="20 min" title="What happened yesterday" source="composed"}
+::: {.reading title="What happened yesterday" source="composed"}
 Theodoros's tablet that week was about the day before. It was the first
 time the class had read a story in Greek that was not happening now, and
 every verb in it has an augment.
@@ -487,7 +487,7 @@ augments.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Quintus described two Greek tenses without knowing either. What does that
    suggest about where grammatical categories come from — the language, or
    the thing being described?
@@ -497,7 +497,7 @@ augments.
    teaching* and *he always taught*?
 :::
 
-::: {.story time="—"}
+::: story
 Quintus asked afterwards whether he could have his thought back now that it
 had turned out to be grammar.
 

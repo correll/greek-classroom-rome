@@ -1,6 +1,6 @@
 # Who Did What?
 
-::: {.story time="5 min"}
+::: story
 Sabina had rearranged the furniture before anyone else arrived.
 
 The stools were in two rows facing a bench, and on the bench was
@@ -49,7 +49,7 @@ same. By the fifth she was visibly annoyed.
 the order mean*. Ask *what does the order do*."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The order moved; the meaning did not
 
 You met this at the end of the last lesson, and Marcus got half of it. Here
@@ -181,7 +181,7 @@ Greeks thought the two halves belonged together.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Sabina reconvened the court, on the condition that Theodoros be allowed to
 set the questions.
 
@@ -464,7 +464,7 @@ being a decision to make. Expect the first attempts to be slow.
 :::
 :::
 
-::: {.voice time="10 min" source="John 18:38"}
+::: {.voice source="John 18:38"}
 Here is a sentence somebody else wrote. It is three words long, it was
 written down about three hundred years before Theodoros taught this lesson,
 and you can already account for one of the three.
@@ -504,7 +504,7 @@ it because the endings told her. This court is asked a question the endings
 cannot settle at all.
 :::
 
-::: {.reading time="20 min" title="Theodoros's second tablet" source="composed"}
+::: {.reading title="Theodoros's second tablet" source="composed"}
 The next morning there was a second tablet. It was about the trial, and
 Sabina read it first, which she afterwards said was a mistake.
 
@@ -590,7 +590,7 @@ Read the whole tablet aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. If moving the words does not change who is guilty, what *does* the order
    change? When Sabina puts the accused first, what is she doing to her
    audience?
@@ -600,7 +600,7 @@ Read the whole tablet aloud before you answer anything.
    *means*. Was that a fair distinction, or was he avoiding her question?
 :::
 
-::: {.story time="—"}
+::: story
 The court was adjourned without a verdict, on the grounds that no lamp had
 been taken.
 

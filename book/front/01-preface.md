@@ -120,8 +120,8 @@ The course does not assume a teacher who reads Greek fluently. Every Greek
 form printed here is glossed, every exercise is followed in this edition by
 its answer key with notes on the mistakes students usually make and why those
 mistakes are reasonable, and every authentic passage carries a note on what
-makes it hard. Both editions are generated from the same files by the same
-command with one flag changed, so they cannot drift apart.
+makes it hard. Both editions are printed from the same text, so they cannot
+drift apart.
 :::
 
 ## Where this will take you

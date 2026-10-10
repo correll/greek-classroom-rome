@@ -1,6 +1,6 @@
 # The Grammar of Questions
 
-::: {.story time="5 min"}
+::: story
 "I will answer any question," said Theodoros, "that is correctly formed in
 Greek. Any question at all. You have until the water-clock runs out to write
 one."
@@ -52,7 +52,7 @@ such a thing as a grammatical question that is its own punishment, and you
 have just written one. Sit down."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The question word
 
 **τίς** — *who?*, *which?* — and its neuter **τί** — *what?* — decline like
@@ -173,7 +173,7 @@ family of Lesson 16.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros made them read each sentence aloud *before* deciding what it
 meant, on the grounds that the accent was audible and the meaning was not.
 
@@ -362,7 +362,7 @@ the Greek tells you.
 :::
 :::
 
-::: {.voice time="10 min" source="Plato, *Meno* 70a; John 18:38"}
+::: {.voice source="Plato, *Meno* 70a; John 18:38"}
 Two questions. One opens a dialogue; one ends an interrogation.
 
 **Ἔχεις μοι εἰπεῖν, ὦ Σώκρατες, ἆρα διδακτὸν ἡ ἀρετή;**
@@ -432,7 +432,7 @@ than evasive — the text he quoted gives none either.
 :::
 :::
 
-::: {.reading time="20 min" title="Meno asks, and Socrates does not know" source="Plato, *Meno* 70a–71a"}
+::: {.reading title="Meno asks, and Socrates does not know" source="Plato, *Meno* 70a–71a"}
 The Ancient Voice gave you the first sentence of the *Meno*. Here is the
 whole opening, twice. The first version was written for you, in the Greek
 you have, and it is **adapted**; it keeps the shape of the exchange and
@@ -613,7 +613,7 @@ Read both versions aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Socrates mostly asks questions and rarely answers them. Is that a
    method, an evasion, or a kind of politeness?
 2. Livia changed a question into a statement by leaving off an accent. Can
@@ -622,7 +622,7 @@ Read both versions aloud before you answer anything.
    room. Is a question with no answer a failed question?
 :::
 
-::: {.story time="—"}
+::: story
 Livia's second question, when she was allowed it, was **τίς ἐστιν ὁ
 διδάσκαλος;** with the accent, read aloud so that everyone could hear it.
 

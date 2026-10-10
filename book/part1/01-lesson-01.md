@@ -1,6 +1,6 @@
 # The Unwelcome Tablet
 
-::: {.story time="5 min"}
+::: story
 Marcus arrived late. He did not hurry, because hurrying would have
 suggested that he thought arriving on time mattered.
 
@@ -37,7 +37,7 @@ in large, careful strokes he wrote:
 "Tell me," he said, "what you already know."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Twenty-four letters
 
 The Greek alphabet has twenty-four letters. You know more of them than you
@@ -152,7 +152,7 @@ list.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros did not explain the alphabet. He wrote **ΑΘΗΝΑ** and asked the
 class what they already knew, which is a different kind of lesson.
 
@@ -317,7 +317,7 @@ alphabet.
 :::
 :::
 
-::: {.voice time="10 min" source="Carved at Delphi; quoted by Plato, *Charmides* 164e"}
+::: {.voice source="Carved at Delphi; quoted by Plato, *Charmides* 164e"}
 This is the first real Greek you will read. You will not understand it yet.
 You can still read it, which is a different skill and worth having.
 
@@ -343,7 +343,7 @@ Sound it out, letter by letter: *gnō-thi sau-ton*.
 It means **know yourself**.
 :::
 
-::: {.question time="5 min"}
+::: question
 1. You just read a sentence in a language you do not speak. What exactly
    did you do? Is that *reading*?
 2. The stonecutter left no spaces between the words. Ancient readers
@@ -354,7 +354,7 @@ It means **know yourself**.
    refusal?
 :::
 
-::: {.story time="—"}
+::: story
 At the end of the lesson Theodoros asked each pupil to write one Greek word
 before leaving.
 

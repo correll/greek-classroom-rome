@@ -1,6 +1,6 @@
 # The Greek of the Septuagint
 
-::: {.story time="5 min"}
+::: story
 Julia read the Psalm through twice, and then said what she thought, which
 she had been doing more often since Lesson 18.
 
@@ -52,7 +52,7 @@ because it is the Greek that God has been spoken of in." Theodoros stood.
 or a decision, and you are now going to find the evidence."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Translation Greek
 
 The Septuagint — the Greek Old Testament, made in Alexandria from about 250
@@ -163,7 +163,7 @@ habit of repeating a noun in the genitive to make it bigger.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros said he wanted, for each sentence, both a translation and a note
 on what was *showing through* — after the ten from memory.
 
@@ -361,7 +361,7 @@ Write these in Septuagint Greek — that is, keep the Hebrew shape.
 :::
 :::
 
-::: {.voice time="10 min" source="Psalm 22:1, 4, 6 (LXX)"}
+::: {.voice source="Psalm 22:1, 4, 6 (LXX)"}
 The Psalm every one of you knows in Latin, in the Greek the Latin was made
 from.
 
@@ -429,7 +429,7 @@ nothing about either.
 :::
 :::
 
-::: {.reading time="20 min" title="The Lord shepherds me" source="Psalm 22 (LXX, Rahlfs), whole, with an adapted tier"}
+::: {.reading title="The Lord shepherds me" source="Psalm 22 (LXX, Rahlfs), whole, with an adapted tier"}
 The whole Psalm. Theodoros wrote it out twice: first in Greek that keeps the
 Hebrew shape but uses only what the class had, then as the translators in
 Alexandria left it. "The first one is mine and it is a forgery," he said.
@@ -585,7 +585,7 @@ Read the adapted Psalm aloud, all of it, before you look at the original.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. The translators could have made the Greek sound natural and chose not
    to. What were they protecting? What did they give up?
 2. Julia said *this is not good Greek* and was right. Is *good* the right
@@ -594,7 +594,7 @@ Read the adapted Psalm aloud, all of it, before you look at the original.
    noticed. Why not?
 :::
 
-::: {.story time="—"}
+::: story
 Aelia said that in Antioch, where her mother's family came from, people
 talked like the Psalm.
 

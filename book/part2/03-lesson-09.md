@@ -1,6 +1,6 @@
 # The Dative and the Recipient
 
-::: {.story time="5 min"}
+::: story
 Felix had been composing for some minutes, which was unusual, and smiling
 while he did it, which was worse.
 
@@ -55,7 +55,7 @@ one it goes **to**. Greek has a case for that, and you have not learned it
 until this afternoon, so sit still and be peculiar for ten more minutes."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The one it goes to
 
 The **dative** is the fourth and last case you need. Its central job is the
@@ -167,7 +167,7 @@ verb behind it means simply *to send to*.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Felix was permitted to rewrite his message, on the condition that he read
 the corrected version aloud as well.
 
@@ -388,7 +388,7 @@ teacher*.
 :::
 :::
 
-::: {.voice time="10 min" source="Luke 2:14"}
+::: {.voice source="Luke 2:14"}
 A line you may know in English, and whose structure is carried by three
 datives.
 
@@ -428,7 +428,7 @@ further than the argument usually gets.
 :::
 :::
 
-::: {.reading time="20 min" title="Theodoros's seventh tablet" source="composed"}
+::: {.reading title="Theodoros's seventh tablet" source="composed"}
 The seventh tablet concerned a letter, and Felix read it aloud himself,
 having been given no choice in the matter.
 
@@ -519,7 +519,7 @@ Read the whole tablet aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. The dative covers *to*, *for*, *with*, *by*, and *in*. Is that one case
    doing many jobs, or several cases that happened to collapse into one
    shape?
@@ -530,7 +530,7 @@ Read the whole tablet aloud before you answer anything.
    on with it?
 :::
 
-::: {.story time="—"}
+::: story
 Felix delivered the corrected message at the end of the hour, folded, with
 some ceremony.
 

@@ -1,6 +1,6 @@
 # Two Worlds, One Language Family
 
-::: {.story time="5 min"}
+::: story
 "One rule," said Theodoros. "You may not say that two texts agree when they
 do not."
 
@@ -41,7 +41,7 @@ the end said only: "Nobody broke the rule. I was not sure anybody would
 manage that. Sit down, all of you, and we will see what you have found."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## No new grammar
 
 This is the last lesson of Part IV and it consolidates. You now have, in
@@ -145,7 +145,7 @@ one line whether it means the same thing in both places.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros set the exercises after the presentations, so that they would be
 answered with the presentations still in the room — all but the first ten,
 which he set before anyone stood up, to clear the ground.
@@ -392,7 +392,7 @@ claims, or claims that do not meet. Give one reason from the Greek.
 :::
 :::
 
-::: {.voice time="10 min" source="The pupils' own pairs"}
+::: {.voice source="The pupils' own pairs"}
 There is no single text for this lesson. There are four pairs, and the
 Greek of every one of them is already in this book.
 
@@ -461,7 +461,7 @@ Say it now, briefly, and do not say it again.
 :::
 :::
 
-::: {.reading time="20 min" title="The wind and the sun" source="Aesop, *The North Wind and the Sun* (Perry 46), in the Attic-ising Greek of the late collections (Chambry 73), with an adapted tier"}
+::: {.reading title="The wind and the sun" source="Aesop, *The North Wind and the Sun* (Perry 46), in the Attic-ising Greek of the late collections (Chambry 73), with an adapted tier"}
 A fifth Greek, to end the Part with — and a test of the Five Questions.
 Everyone in the room knows this fable; nobody has read it in Greek.
 Aesop, if he lived, was a slave of the sixth century BC and wrote nothing
@@ -692,7 +692,7 @@ places where it is doing something the adaptation could not.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Homer, Plato, the Psalms and the Gospels are all in this book. They do
    not agree with each other about very much. What is gained by reading
    them together rather than separately?
@@ -702,7 +702,7 @@ places where it is doing something the adaptation could not.
    are one tradition. Can a person do the same thing inside one mind?
 :::
 
-::: {.story time="—"}
+::: story
 Afterwards Quintus asked whether it had been wrong of him to want Socrates
 and John to agree.
 

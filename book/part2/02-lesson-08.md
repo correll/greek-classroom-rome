@@ -1,6 +1,6 @@
 # The Genitive Mystery
 
-::: {.story time="5 min"}
+::: story
 The wax tablet turned up on the third day, in Quintus's satchel, which
 Quintus said proved nothing and Felix said proved everything.
 
@@ -50,7 +50,7 @@ witnesses, one accusation and a search of three satchels could not. Sit
 down and I will show you how it works."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## A third case, and what it is for
 
 You have the **nominative**, for the one doing, and the **accusative**, for
@@ -159,7 +159,7 @@ you a form you cannot yet use has wasted your afternoon.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros returned the tablet to its owner, who was himself, and set the
 class to work.
 
@@ -356,7 +356,7 @@ teacher had given him the tablet.
 :::
 :::
 
-::: {.voice time="10 min" source="Matthew 1:1"}
+::: {.voice source="Matthew 1:1"}
 Here is a sentence that is almost nothing but genitives. It is the first
 line of the New Testament.
 
@@ -397,7 +397,7 @@ Felix's tablet said **ΤΟΥ ΔΙΔΑΣΚΑΛΟΥ** and settled who owned it. Th
 uses the same ending to settle who someone is.
 :::
 
-::: {.reading time="20 min" title="Theodoros's sixth tablet" source="composed"}
+::: {.reading title="Theodoros's sixth tablet" source="composed"}
 The sixth tablet took up the argument about the wax tablet, and settled it
 in a way that satisfied nobody.
 
@@ -491,7 +491,7 @@ Read the whole tablet aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Greek marks possession with an ending; English uses an apostrophe or the
    word *of*. Which is clearer? Which is shorter? Are those the same
    question?
@@ -502,7 +502,7 @@ Read the whole tablet aloud before you answer anything.
    the question of why, and see how far the class gets before the bell.
 :::
 
-::: {.story time="—"}
+::: story
 The tablet went back on Theodoros's shelf, where it had been for eleven
 years before Felix borrowed it without asking.
 

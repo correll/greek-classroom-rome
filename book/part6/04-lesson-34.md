@@ -1,6 +1,6 @@
 # Verbs That Melt
 
-::: {.story time="5 min"}
+::: story
 Theodosius had been reading ahead, which was not forbidden, and had brought
 the result to the lesson, which was.
 
@@ -39,7 +39,7 @@ Those are not decorations. They are the remains of a collision. Learn the
 collision; then we argue; and I tell you now that I shall not settle it."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Verbs that melt
 
 Some verbs have a stem that ends in a vowel — **α**, **ε** or **ο**. In
@@ -215,7 +215,7 @@ feminine **πᾶσα** is first. With **πᾶς** outside the article group,
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros had them unmelt every contract form in the three verses before
 he would let anyone say the word *love*.
 
@@ -377,7 +377,7 @@ One sentence each. Use the contracted form.
 :::
 :::
 
-::: {.voice time="10 min" source="John 21:15"}
+::: {.voice source="John 21:15"}
 The first of the three questions, entire. It is Koine; read it in Attic
 and say what the Koine did instead.
 
@@ -454,7 +454,7 @@ about what it meant.
 :::
 :::
 
-::: {.reading time="20 min" title="Three questions on the shore" source="John 21:15–17"}
+::: {.reading title="Three questions on the shore" source="John 21:15–17"}
 The whole exchange, in two tiers. Read the adapted Attic first and unmelt
 every contract form; then read the original and find what the Koine did
 differently.
@@ -573,7 +573,7 @@ Read both tiers aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Peter says *yes* and changes the verb. If someone asks whether you are
    their friend and you answer *yes, I like you*, have you agreed?
 2. **ἀγαπᾷ** is *he loves* and also *you are loved*. A language that lets
@@ -585,7 +585,7 @@ Read both tiers aloud before you answer anything.
    rather read?
 :::
 
-::: {.story time="—"}
+::: story
 Theodosius asked, at the end, whether — if the two verbs were the same —
 John had wasted a word.
 

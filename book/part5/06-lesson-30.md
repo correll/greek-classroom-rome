@@ -1,6 +1,6 @@
 # The Final Examination
 
-::: {.story time="5 min"}
+::: story
 The courtyard had been swept, which it never was, and there were benches
 in it, which there never were, and on the benches sat parents, an uncle who
 was a deacon, a physician, a minor official, several household servants
@@ -62,7 +62,7 @@ and then he stood up and said, "That concludes the examination," and nothing
 else, and it was the highest mark he gave anyone that year.
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Everything
 
 No new grammar. This is what you have.
@@ -145,7 +145,7 @@ they span the year.
   19)*
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 The written part of the examination. Theodoros set it the day before the
 courtyard, and said that anyone who could do it had nothing to fear from
 an audience. The Retrieval came first, as it has every week; the
@@ -415,7 +415,7 @@ of them in the second term.
 :::
 :::
 
-::: {.voice time="10 min" source="The pupils' readings"}
+::: {.voice source="The pupils' readings"}
 Eight passages, every one of them in this book, read aloud to people who
 could not follow them, by pupils who could.
 
@@ -486,7 +486,7 @@ is still here, and so is the question, and so, now, are they.
 :::
 :::
 
-::: {.reading time="20 min" title="In the beginning" source="John 1:1–14 (adapted, then NA28)"}
+::: {.reading title="In the beginning" source="John 1:1–14 (adapted, then NA28)"}
 The Great Reading closes with the passage the course has been circling since
 Lesson 6: the opening of John, whole, to the verse where the Word becomes
 flesh. You have had its first sentence since Part I, its first five verses
@@ -699,7 +699,7 @@ second term is get washed.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. A year ago you could not read the letters. Today you read aloud, in
    Greek, to a room. What else that you currently believe to be impossible
    is merely unlearned?
@@ -710,7 +710,7 @@ second term is get washed.
    judging?
 :::
 
-::: {.story time="—"}
+::: story
 Afterwards, when the benches had been carried back in and the courtyard was
 a courtyard again, Felix found Theodoros putting the scrolls away.
 

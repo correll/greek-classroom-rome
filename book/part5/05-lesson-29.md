@@ -1,6 +1,6 @@
 # The Great Reading
 
-::: {.story time="5 min"}
+::: story
 "Three questions," said Theodoros. "Each of you. About your own passage,
 which you have chosen, and which you will read to the courtyard next week.
 I will answer three and no more, so decide what you most need to know
@@ -35,7 +35,7 @@ then, when Marcus had gone back to his tablet, watched him for a while.
 "No," said Theodoros. "I wonder what he has chosen."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Reading something you have not seen
 
 Everything in this course so far has been scaffolded: glossed, prepared,
@@ -161,7 +161,7 @@ Four columns. The last one tells you how much of your passage you already
 owned before you started.
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros gave them one sentence none of them had seen and made them do the
 seven steps on it, aloud, in turn.
 
@@ -345,7 +345,7 @@ them revise the list before they spend it.
 :::
 :::
 
-::: {.voice time="10 min" source="The approved list"}
+::: {.voice source="The approved list"}
 There is no single text this week. There is a list, and every passage on it
 is in this book, and you have read every one of them with help. Next week
 you read one of them without.
@@ -402,7 +402,7 @@ right response is Theodoros's: notice, say nothing, wait.
 :::
 :::
 
-::: {.reading time="20 min" title="Crito comes early" source="Plato, *Crito* 43a–b (adapted, then Burnet)"}
+::: {.reading title="Crito comes early" source="Plato, *Crito* 43a–b (adapted, then Burnet)"}
 This one is an **unseen**. Nobody has prepared it for you and nothing in it
 has been on the board. It is the first page of the *Crito*: Socrates is in
 prison, condemned, and wakes before dawn to find his oldest friend sitting
@@ -646,7 +646,7 @@ read it cold.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. You were allowed three questions. Which three did you choose, and what
    does that say about where your Greek is weakest?
 2. A sentence you had never seen was four-fifths yours before you opened
@@ -656,7 +656,7 @@ read it cold.
    kindness or a cruelty? Would unlimited help have taught you more?
 :::
 
-::: {.story time="—"}
+::: story
 Felix asked, as his second question, whether Apion had ever got home.
 
 "We do not know," said Theodoros. "The letter is all there is. He joined

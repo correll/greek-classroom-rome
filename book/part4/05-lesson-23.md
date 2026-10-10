@@ -1,6 +1,6 @@
 # Attic and Koine Face to Face
 
-::: {.story time="5 min"}
+::: story
 Felix had been waiting twenty-two lessons to be right about something, and
 when it came he very nearly missed it.
 
@@ -44,7 +44,7 @@ Felix looked as if he did not know whether he had been praised.
 "You have," said Theodoros. "It will not happen often. Enjoy it."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Two varieties, one language
 
 **Attic** is the Greek of Athens in its great century, polished by Plato and
@@ -151,7 +151,7 @@ a noun.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros gave them sentences and asked them to say, for each, *which Greek
 it was* — and what told them. But first the ten from memory, in which the
 two Greeks were already mixed, as they had been all along.
@@ -400,7 +400,7 @@ Write each sentence in Attic and then in Koine.
 :::
 :::
 
-::: {.voice time="10 min" source="Plato, *Apology* 38a; John 8:32"}
+::: {.voice source="Plato, *Apology* 38a; John 8:32"}
 Two sentences about truth and how to live, nearly five hundred years
 apart, each in its own Greek.
 
@@ -462,7 +462,7 @@ a reminder of his usual habits; the story does that already.
 :::
 :::
 
-::: {.reading time="20 min" title="Two beginnings" source="Xenophon, *Anabasis* 1.1.1–3 (Marchant's Oxford text) and Mark 1:9–11 (NA28), each with an adapted tier"}
+::: {.reading title="Two beginnings" source="Xenophon, *Anabasis* 1.1.1–3 (Marchant's Oxford text) and Mark 1:9–11 (NA28), each with an adapted tier"}
 Two openings, four hundred and fifty years apart. Xenophon begins the story
 of a march with a king's two sons; Mark begins the story of a ministry with
 a man coming up out of a river. Both begin with a going-up — **ἀνέβη**,
@@ -698,7 +698,7 @@ Read each adapted text aloud, then its original. Keep the table open.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Koine is often described as *simpler* than Attic. Simpler for whom? Is a
    language that more people can use a worse language or a better one?
 2. Theodoros speaks Koine and taught Attic. Was that honest? Was it kind?
@@ -706,7 +706,7 @@ Read each adapted text aloud, then its original. Keep the table open.
    Which Greek was the better instrument for what each wanted to say?
 :::
 
-::: {.story time="—"}
+::: story
 At the end, Felix asked whether he could learn the Greek Theodoros spoke at
 home instead of the Greek he taught.
 

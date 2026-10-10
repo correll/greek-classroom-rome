@@ -1,6 +1,6 @@
 # The Voice That Looks Back
 
-::: {.story time="5 min"}
+::: story
 Nobody saw how the cat got into the ink, and the cat was not saying.
 
 What was certain was that it had, and that it had then walked the length
@@ -79,7 +79,7 @@ the paradigms, which is the part nobody else wanted."
 No. It is not."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Three voices
 
 Every verb you have met has had its subject *doing* the action. That is
@@ -286,7 +286,7 @@ passive verb it means *by*, and that is the one to learn today.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros set the three sentences from the board at the head of the tablet
 and said that every exercise on it was one of them in disguise.
 
@@ -485,7 +485,7 @@ form for 1 and 2 and can say why has understood the lesson.
 :::
 :::
 
-::: {.voice time="10 min" source="Mark 1:9"}
+::: {.voice source="Mark 1:9"}
 One verse, and two of this afternoon's three voices in it. You read it in
 Lesson 23 beside Xenophon, for the Greek it was written in. Read it now
 for the endings.
@@ -544,7 +544,7 @@ there will be more.
 :::
 :::
 
-::: {.reading time="20 min" title="The baptism and the desert" source="Mark 1:9–13 (adapted, then NA28)"}
+::: {.reading title="The baptism and the desert" source="Mark 1:9–13 (adapted, then NA28)"}
 **First, adapted.** The forms are the ones you have, Attic where the
 original is Koine, and the baptism is told twice, once in each voice, so
 that you can see both. What is glossed is new or not yet yours.
@@ -664,7 +664,7 @@ Read both tiers aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. The middle says that the subject is inside its own action. English has
    no voice for this. Does English lose something, or does it say the same
    thing another way — and if the latter, why did Greek bother?
@@ -676,7 +676,7 @@ Read both tiers aloud before you answer anything.
    who carries the burden — the writer, the reader, or the cat?
 :::
 
-::: {.story time="—"}
+::: story
 At the end of the afternoon the cat was clean, dry, on the wall, and
 washing itself, and Felix had written three sentences on his tablet
 without being asked.

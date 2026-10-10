@@ -1,6 +1,6 @@
 # What Might Be
 
-::: {.story time="5 min"}
+::: story
 "Two lessons remain," said Theodoros. "This one and one more. I have not
 decided what the last will contain, and since you have opinions about
 everything else you may as well have one about that."
@@ -44,7 +44,7 @@ where it lives, and because the question of what we are to do with the last
 lesson is, as it happens, the question that chapter is about."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## A mood for what is not yet
 
 The **indicative** states what is. The **imperative** orders what is to be
@@ -222,7 +222,7 @@ word and both lose half of it. Lesson 27's dilemma, once more.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros wrote **ποιοῦμεν** and **ποιῶμεν** on the board, one above the
 other, and said that anyone who could not tell him the difference by the end
 of the hour would be asked the first one and answered literally.
@@ -375,7 +375,7 @@ One sentence each.
 :::
 :::
 
-::: {.voice time="10 min" source="John 3:16"}
+::: {.voice source="John 3:16"}
 The verse Theodosius knows best in Latin, and the one that uses most of
 this lesson in a single sentence.
 
@@ -437,7 +437,7 @@ has a grammar, and that the grammar agrees with him.
 :::
 :::
 
-::: {.reading time="20 min" title="A visitor by night" source="John 3:1–8"}
+::: {.reading title="A visitor by night" source="John 3:1–8"}
 Nicodemus comes with a statement and a question in the indicative. He is
 answered, three times, in the subjunctive. Read the adapted Attic first;
 mark every verb and name its mood; then read the original and find what
@@ -587,7 +587,7 @@ Read both tiers aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Nicodemus asks *how* and is told *unless*. Is that an answer? When is a
    condition a better reply than a mechanism?
 2. The indicative reports; the subjunctive opens. A language that has a
@@ -597,7 +597,7 @@ Read both tiers aloud before you answer anything.
    that had no answer. Does this one? Who is supposed to supply it?
 :::
 
-::: {.story time="—"}
+::: story
 Quintus asked again, at the door, what they were to do on Thursday.
 
 "**τί ποιῶμεν;**" he said, and got the vowel right, and knew it.

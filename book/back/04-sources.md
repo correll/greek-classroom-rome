@@ -45,7 +45,7 @@ The Greek in this book is set in **Gentium Book Plus**, designed by Victor
 Gaultney and published by SIL International under the SIL Open Font
 License 1.1. Display Greek on the title pages is set in **GFS Didot**,
 published by the Greek Font Society under the same licence. Both licences
-are reproduced in `assets/fonts/`.
+accompany the font files.
 
 ## The characters
 

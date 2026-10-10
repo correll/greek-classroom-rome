@@ -1,6 +1,6 @@
 # The Translator's Dilemma
 
-::: {.story time="5 min"}
+::: story
 Two tablets, one sentence, and Theodoros said that this time both
 translations were defensible and only one was right.
 
@@ -45,7 +45,7 @@ sufficient. You have the grammar. Today you find out what the grammar
 cannot do."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Where grammar stops
 
 Lesson 18 gave you a method: endings, article, aspect, connectors, and then
@@ -156,7 +156,7 @@ a word English has borrowed — *logic*, *psyche*, *archaic*, *charisma*,
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros said that for every sentence he wanted two translations and a
 reason for preferring one — and that *the dictionary says so* was not a
 reason, since the dictionary said both.
@@ -372,7 +372,7 @@ having been asked; **ὑπό** + genitive = by.)*
 :::
 :::
 
-::: {.voice time="10 min" source="Luke 17:20–21"}
+::: {.voice source="Luke 17:20–21"}
 The sentence, with the verse that decides it.
 
 **ἐπερωτηθεὶς δὲ ὑπὸ τῶν Φαρισαίων πότε ἔρχεται ἡ βασιλεία τοῦ θεοῦ
@@ -441,7 +441,7 @@ done what Lesson 18 taught and discovered that Lesson 18 was not the end.
 :::
 :::
 
-::: {.reading time="20 min" title="The storm on the lake" source="Mark 4:35–41"}
+::: {.reading title="The storm on the lake" source="Mark 4:35–41"}
 A story, told fast, in the shortest Gospel. It ends with a question nobody
 answers, and it has in it three of the dilemmas you argued about this
 afternoon. The first version is **adapted**: it has no passives and no
@@ -603,7 +603,7 @@ Read both versions aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Marcus has spent the year producing translations that were technically
    possible and absurd. He was being annoying on purpose. When a real
    translator does it by accident, how would anyone know?
@@ -614,7 +614,7 @@ Read both versions aloud before you answer anything.
    word the same?
 :::
 
-::: {.story time="—"}
+::: story
 Julia asked, at the end, whether she should have looked at the verse
 before.
 

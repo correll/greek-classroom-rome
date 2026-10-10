@@ -1,6 +1,6 @@
 # Names and Nouns
 
-::: {.story time="5 min"}
+::: story
 Theodoros arrived with a handful of small wooden tags and a pot of ink.
 
 "Label the room," he said. "Every object gets its Greek name. You will find
@@ -25,7 +25,7 @@ Theodoros had learned to pay attention to.
 afternoon's schedule. "Because in Greek, a noun has a sex."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Every noun has a gender
 
 In Greek, every noun is **masculine**, **feminine**, or **neuter**. This is
@@ -157,7 +157,7 @@ feminine despite its **-ος** — the second such word you have met, after
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros collected the tags, shuffled them, and handed them back out.
 
 "Now," he said, "put them back. But I shall say the sentence, and you will
@@ -385,7 +385,7 @@ above it.
 :::
 :::
 
-::: {.voice time="10 min" source="A proverb, quoted by Plato, *Republic* 435c"}
+::: {.voice source="A proverb, quoted by Plato, *Republic* 435c"}
 Two words. One of them you can now fully account for.
 
 **χαλεπὰ τὰ καλά**
@@ -409,7 +409,7 @@ have reached is a trivial one; Glaucon answers that it is not trivial at
 all — fine things are hard.
 :::
 
-::: {.reading time="20 min" title="Theodoros's first tablet" source="composed"}
+::: {.reading title="Theodoros's first tablet" source="composed"}
 At the end of the first week Theodoros wrote a story on a tablet and
 passed it round. It was about them. Every word in it was on the wall.
 
@@ -478,7 +478,7 @@ Read the whole tablet aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. *Fine things are hard.* Is this a complaint, a consolation, or a
    warning? Could it be all three in different mouths?
 2. Greek can say *the fine things* in two words and have it mean something
@@ -490,7 +490,7 @@ Read the whole tablet aloud before you answer anything.
    wrong?
 :::
 
-::: {.story time="—"}
+::: story
 At the end of the lesson, Theodoros found one tag left over on the floor.
 
 It read **ὁ διδάσκαλος**, and someone had attached a second, smaller tag

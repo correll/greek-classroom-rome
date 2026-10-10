@@ -1,6 +1,6 @@
 # A Greek Letter from Rome
 
-::: {.story time="5 min"}
+::: story
 "A letter," said Theodoros, "to anyone you like. In Greek. Using only what
 you have. I will mark it as I would mark a letter from a grown man, and I
 will mark it on whether it would have been understood."
@@ -36,7 +36,7 @@ the same. Anyone who thinks that is unfair may write to me about it. In
 Greek."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The shape of a Greek letter
 
 Greek letters, for a thousand years, began and ended the same way, and the
@@ -137,7 +137,7 @@ of the family. **γράφω** takes the dative of the person written to:
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros set the exercises before the letters were written, so that the
 formulas would be in hand.
 
@@ -331,7 +331,7 @@ it; nothing else.
 :::
 :::
 
-::: {.voice time="10 min" source="A papyrus letter from Roman Egypt (BGU II 423), opening"}
+::: {.voice source="A papyrus letter from Roman Egypt (BGU II 423), opening"}
 A real letter, from a real sailor, to his father. Apion has just joined the
 Roman fleet at Misenum and writes home to a village in Egypt. He is not a
 scholar. He spells by ear. He is understood.
@@ -410,7 +410,7 @@ the recipient had to be alive, and he will enjoy having found the gap.
 :::
 :::
 
-::: {.reading time="20 min" title="Apion's letter, whole" source="BGU II 423 (regularised, then the papyrus's own spellings)"}
+::: {.reading title="Apion's letter, whole" source="BGU II 423 (regularised, then the papyrus's own spellings)"}
 The Ancient Voice gave you the opening, down to the thanksgiving. Here is
 the whole letter, twice. The first version is **regularised**: it is in
 standard spelling, and where Apion uses a form you have not met it uses
@@ -630,7 +630,7 @@ say so if a pupil asks whether this is *all* of it.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. The papyrus letter was written by someone who never expected it to be
    read nineteen hundred years later. Does that change how you should read
    it?
@@ -641,7 +641,7 @@ say so if a pupil asks whether this is *all* of it.
    nobody could parse?
 :::
 
-::: {.story time="—"}
+::: story
 Aelia asked whether her cousin in Antioch would actually be able to read
 the letter.
 

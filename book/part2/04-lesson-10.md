@@ -1,6 +1,6 @@
 # Adjectives Must Agree
 
-::: {.story time="5 min"}
+::: story
 "Everyone gets an adjective," said Sabina. "I have chosen them."
 
 "On what authority?" said Quintus.
@@ -50,7 +50,7 @@ else, you are going to learn the difference, because today it is funny and
 in two weeks it will be in your examination."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## An adjective takes the gender of its noun
 
 An adjective must match its noun in **gender**, **number**, and **case** —
@@ -167,7 +167,7 @@ would not have thought of those as five things.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Sabina's list was confiscated. The exercises are Theodoros's.
 
 ::: {.exercise title="Retrieval"}
@@ -366,7 +366,7 @@ Sabina wrote **ὁ κακὸς υἱός** about Felix.
 :::
 :::
 
-::: {.voice time="10 min" source="John 10:11"}
+::: {.voice source="John 10:11"}
 A sentence that puts the adjective inside the article group, twice over, and
 could not have been written any other way.
 
@@ -404,7 +404,7 @@ because the New Testament is the centre of the course.
 :::
 :::
 
-::: {.reading time="20 min" title="Theodoros's eighth tablet" source="composed"}
+::: {.reading title="Theodoros's eighth tablet" source="composed"}
 The eighth tablet was Sabina's list, as Theodoros chose to remember it, and
 it went round the day after the list was confiscated.
 
@@ -510,7 +510,7 @@ Read the whole tablet aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Greek can say *the man is wise* without any verb at all, just by where
    the adjective stands. What does that tell you about what a sentence
    needs?
@@ -521,7 +521,7 @@ Read the whole tablet aloud before you answer anything.
    failing to make a distinction English has gained?
 :::
 
-::: {.story time="—"}
+::: story
 The list was returned to Sabina at the end of term, folded, with one
 addition in Theodoros's hand at the bottom.
 

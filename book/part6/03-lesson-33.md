@@ -1,6 +1,6 @@
 # What Stands Done
 
-::: {.story time="5 min"}
+::: story
 The written papers came back on a Tuesday, face down, one to a desk,
 which was how Theodoros returned anything he had marked and the reason the
 room was quiet for the first time that week.
@@ -72,7 +72,7 @@ the rest of the paradigm, and Theodosius gets his text back at the end,
 intact, which he is right to want."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The perfect: a state that stands
 
 The **perfect** describes a present state that results from a past action.
@@ -291,7 +291,7 @@ English; the person who did the seeing is in the dative, not after
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros returned the papers to their owners a second time, face up, and
 said that every sentence on this tablet was about the state something was
 now in.
@@ -498,7 +498,7 @@ has not heard Julia's answer; a pupil who writes **τετέλεσται** for 1 
 :::
 :::
 
-::: {.voice time="10 min" source="John 19:30"}
+::: {.voice source="John 19:30"}
 Theodosius's text, on its own, as promised. Three aorists and a participle
 tell what happened. One perfect is spoken.
 
@@ -569,7 +569,7 @@ Latin's double-duty perfect does no harm.
 :::
 :::
 
-::: {.reading time="20 min" title="What was handed on" source="1 Corinthians 15:3–8 (adapted, then NA28)"}
+::: {.reading title="What was handed on" source="1 Corinthians 15:3–8 (adapted, then NA28)"}
 **First, adapted.** Attic forms you have; the connective **ὅτι** kept
 each time, as Paul keeps it; one verb changed where Paul's is a figure
 of speech. Two aorists and a perfect, then four of the same aorist. Find
@@ -698,7 +698,7 @@ Read both tiers aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Is **τετέλεσται** a past or a present? Does the answer change if you
    ask what it *says* rather than when it *happened* — and which question
    does a grammar exist to answer?
@@ -710,7 +710,7 @@ Read both tiers aloud before you answer anything.
    notice, the speakers or the people who learn it afterwards?
 :::
 
-::: {.story time="—"}
+::: story
 Marcus kept his paper. He had kept the tablet from Lesson 14 too, the one
 headed **things Latin cannot do**, and that evening he added a line to it,
 then crossed the line out, then wrote it again lower down under a heading

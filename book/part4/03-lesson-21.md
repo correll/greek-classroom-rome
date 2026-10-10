@@ -1,6 +1,6 @@
 # The Sermon on the Mount
 
-::: {.story time="5 min"}
+::: story
 "You all know this," said Theodoros. "Every one of you. You have known it
 since before you could read."
 
@@ -48,7 +48,7 @@ board. "Eight lines. Every line has a word like that in it. Let us find
 them."
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## The blessing formula
 
 **μακάριοι οἱ πτωχοί.** Two words, no verb.
@@ -154,7 +154,7 @@ range, which is why you did not notice.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros took the first four lines and made them say, for each one, what
 the Latin had changed — once the ten from memory were out of the way.
 
@@ -353,7 +353,7 @@ Now the other lines.
 :::
 :::
 
-::: {.voice time="10 min" source="Matthew 5:3–10"}
+::: {.voice source="Matthew 5:3–10"}
 Eight lines. You know every one in Latin. Read the Greek.
 
 **μακάριοι οἱ πτωχοὶ τῷ πνεύματι, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν.**
@@ -426,7 +426,7 @@ lesson easy.
 :::
 :::
 
-::: {.reading time="20 min" title="On the mountain" source="Matthew 5:1–12 (NA28), with an adapted tier"}
+::: {.reading title="On the mountain" source="Matthew 5:1–12 (NA28), with an adapted tier"}
 The Ancient Voice gave you the eight blessings. Here is the whole passage —
 how the crowd and the mountain and the disciples get there, the eight
 lines, and the ninth, which is longer than the others and turns from *they*
@@ -577,7 +577,7 @@ where it is longer.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. **μακάριος** is often translated *blessed*, which sounds religious, and
    sometimes *fortunate*, which sounds like luck. The Greek word is older
    than both. Which English word loses less?
@@ -587,7 +587,7 @@ where it is longer.
    or weaker without their reasons?
 :::
 
-::: {.story time="—"}
+::: story
 Felix, who had been counting, announced that **μακάριοι** appeared eight
 times and that he could now say it in his sleep.
 

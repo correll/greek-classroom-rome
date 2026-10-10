@@ -1,6 +1,6 @@
 # The First Real Sentence
 
-::: {.story time="5 min"}
+::: story
 Theodoros was at the board before anyone sat down, and he did not say good
 morning.
 
@@ -53,7 +53,7 @@ Marcus looked at the board for a long moment.
 "Who wrote it?" he said.
 :::
 
-::: {.newgreek time="10 min"}
+::: newgreek
 ## Reading a sentence you cannot yet read
 
 This lesson teaches no new machinery. It teaches a method, and the method is
@@ -180,7 +180,7 @@ to say *look towards*, *look at*: **βλέπω πρὸς τὴν θύραν**.
 :::
 :::
 
-::: {.investigation time="20 min"}
+::: investigation
 Theodoros refused to translate the sentence on the board until the class had
 finished with it.
 
@@ -481,7 +481,7 @@ chose the third person; the English says *I*.
 :::
 :::
 
-::: {.voice time="10 min" source="John 1:1"}
+::: {.voice source="John 1:1"}
 Here it is, with the four words you were missing.
 
 **Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.**
@@ -529,7 +529,7 @@ Marcus asked who wrote it. Theodoros told him, and then made him read it
 again.
 :::
 
-::: {.reading time="20 min" title="Theodoros's fourth tablet" source="composed"}
+::: {.reading title="Theodoros's fourth tablet" source="composed"}
 The fourth tablet went round the next morning, when Marcus had stopped
 being pleased with himself. It was about the morning before.
 
@@ -624,7 +624,7 @@ Read the whole tablet aloud before you answer anything.
 :::
 :::
 
-::: {.question time="5 min"}
+::: question
 1. Livia read a sentence containing four words she did not know. What did
    she use instead of the words? Could you do the same with a sentence in a
    language you have never studied?
@@ -638,7 +638,7 @@ Read the whole tablet aloud before you answer anything.
    Was that fair?
 :::
 
-::: {.story time="—"}
+::: story
 At the end of the hour Theodoros rubbed out fifteen of the seventeen words.
 
 He left **ὁ λόγος** on the board, in the corner, and it stayed there until
