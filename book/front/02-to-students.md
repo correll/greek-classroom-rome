@@ -2,20 +2,17 @@
 
 You are about to learn a language that nobody speaks.
 
-That is a strange thing to do, and it is worth being honest about it at the
-start. Nobody will ever ask you for directions in Classical Greek. You will
-not need it to order dinner. If the only point of learning a language were
-to talk to people who are alive, this book would be a waste of your time.
-
-Here is the point instead.
+That is a strange thing to do. Nobody will ever ask you for directions in
+Classical Greek. You will not need it to order dinner. If the only point of
+learning a language were to talk to people who are alive, this book would be
+a waste of your time. Here is the point instead.
 
 ## Greek shows its working
 
 In English, you know what a sentence means mostly by where the words sit.
 *The dog bit the man* and *the man bit the dog* use the same five words; only
 the order tells you who is in trouble. English hides its grammar inside
-habits you absorbed before you could read, and which you have never had to
-examine.
+habits you absorbed before you could read and have never had to examine.
 
 Greek does not hide anything. In Greek, every noun carries a visible mark
 saying what job it is doing in the sentence, and every verb carries a visible
@@ -23,8 +20,7 @@ mark saying who is acting and when. You can move the words almost anywhere
 and the meaning holds, because the meaning is written on the outside of each
 word, where you can point at it.
 
-That has a consequence worth taking seriously. When you read a Greek
-sentence correctly, you can **prove** it. You can say: this word is the
+So when you read a Greek sentence correctly, you can **prove** it. You can say: this word is the
 subject, and here is the letter that tells me so; this action happened once
 rather than repeatedly, and here is the syllable that tells me so. Your
 reading stops being an impression and becomes an argument from evidence.
@@ -47,17 +43,17 @@ seems. That is the same habit as reading Greek: *do not accept a reading
 because it sounds right; find the thing on the page that makes it right.*
 
 The second is that **you get what you ask for, not what you meant**. Saying
-precisely what you want — no looser, no vaguer — turns out to be a learnable
-skill and an uncommon one. Greek teaches it by punishing imprecision
-immediately. One letter is the difference between the man doing something and the
-man having it done to him. An accent in the wrong place turns *who?* into *someone*. There is no
-partial credit from a language; the sentence either says what you meant or
-it says something else, and it will tell you which.
+precisely what you want — no looser, no vaguer — is a learnable skill and an
+uncommon one. Greek teaches it by punishing imprecision at once. One letter
+is the difference between the man doing something and the man having it done
+to him. An accent in the wrong place turns *who?* into *someone*. A language
+gives no partial credit: the sentence says what you meant or it says
+something else, and it will tell you which.
 
 Your teacher in this story, Theodoros, asks one question more than any other:
 **What in the sentence tells you that?** It is the whole course in seven words,
-and it is a question worth being able to ask of anything that is confidently
-telling you something — a classmate, a textbook, a politician, or a machine.
+and you can ask it of anything that confidently tells you something — a
+classmate, a textbook, a politician, or a machine.
 
 ## And then there is what the Greeks wrote
 

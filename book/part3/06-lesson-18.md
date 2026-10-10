@@ -78,8 +78,9 @@ survives."
 ::: newgreek
 ## No new grammar
 
-There is none in this lesson. Everything you need you already have, and that
-is the point: this is the lesson where the parts become a method.
+Julia's case rested on grammar you have had since Lesson 4. Everything you
+need you already have, and that is the point: this is the lesson where the
+parts become a method.
 
 ## Four questions
 
@@ -115,16 +116,13 @@ Ask it of your own translation, out loud, before you defend it:
 
 **What would have to be true in the Greek for my translation to be wrong?**
 
-If you cannot answer that, you do not have a translation. You have a guess
-that has not been tested, and it may well be a good guess, and you still have
-no business defending it in front of anybody.
+If you cannot answer that, what you have is an untested guess — perhaps a
+good one, but not one you have any business defending in front of anybody.
 
 If you *can* answer it, then you know exactly what evidence your reading
 rests on — and you will know at once whether somebody has knocked it over.
 
 ## Defensible and persuasive
-
-These two words are going to do a lot of work for the rest of the course.
 
 A **persuasive** translation makes the hearer agree. It can do this with
 rhythm, with confidence, with a good speaking voice, with being first, with
@@ -150,9 +148,9 @@ and you may be right, and you have not given a reason.
 :::
 
 ::: latinbridge
-**Latin cannot help you here, and the reason is important.**
+**Latin cannot help you here.**
 
-Latin has no article. None. Not definite, not indefinite. A Latin writer
+Latin has no article, definite or indefinite. A Latin writer
 cannot make the distinction that the whole of this lesson turns on, and a
 Latin translator meeting it in Greek has to throw it away or replace it with
 something else.
@@ -510,8 +508,8 @@ That is Lesson 4 again, fourteen lessons on, with something at stake.
 
 **Why is θεός in front, then?** Because Greek puts a word first for emphasis,
 and the article is doing the work of marking the subject, so the writer is
-free to. The fronting is not an accident and it is not nothing. It is simply
-not what assigns the roles.
+free to. The fronting is not an accident, but it is not
+what assigns the roles.
 
 **And Theodosius.** He wrote out the Latin, and the Latin has the same word
 order as the Greek, and Latin has no article at all — so *et Deus erat
@@ -548,12 +546,11 @@ thing than certainty, and it is worth more.
 text (see *Sources*); check it, with the punctuation, against the
 edition in use.
 
-**On the doctrinal question.** This passage is live, and the lesson is
-deliberately built to teach what the grammar does and does not determine and
-to stop there. That is not evasion: the four surviving renderings genuinely
-differ on grounds that are not grammatical, and a course that pretended
-otherwise would be teaching pupils to dress a conviction in evidence, which
-is the exact habit the whole of Part III exists to break.
+**On the doctrinal question.** This passage is live, and the lesson
+teaches what the grammar does and does not determine, and stops there. That
+is not evasion: the four surviving renderings differ on grounds that are not
+grammatical, and pretending otherwise would teach pupils to dress a
+conviction in evidence — the habit Part III exists to break.
 
 If you teach in a confessional setting and wish to say where your tradition
 stands, say it — and say it *after* the grammar, and mark plainly that you
@@ -561,18 +558,16 @@ are now speaking as a believer and not as a grammarian. Pupils can hold both.
 What damages them is the two being run together without a seam.
 
 **Felix's translation deserves a straight answer, not a frown.** His
-reasoning — no article, therefore indefinite — is a reasonable inference from
-what he has been taught, and a pupil who makes it has been paying attention.
-The answer is that Greek regularly omits the article from a predicate noun
-that is nonetheless definite, which is a fact about usage he has not met yet.
-Tell him that, and tell him his inference was sound and his premise
-incomplete.
+reasoning — no article, therefore indefinite — follows from what he has been
+taught; he has been paying attention. Greek regularly omits the article from
+a predicate noun that is nonetheless definite, a fact about usage he has not
+met yet. Tell him so: his inference was sound and his premise incomplete.
 
 **On the arc.** This is the lesson in which to say, if you are going to say
 it, that every pupil in the room has got better at something they began badly
 at — Julia at speaking up, Marcus at stopping, Felix at reading rather than
-guessing. They have now watched it happen for eighteen lessons, which is why
-it can be said here and could not have been said in Lesson 1. A child who
+guessing. They have watched it happen for eighteen lessons, so it can be said
+here as it could not have been in Lesson 1. A child who
 decided in Lesson 4 that they were bad at Greek has usually decided they are
 bad at one of four things, and the four questions at the head of this lesson
 are how you show them the other three.

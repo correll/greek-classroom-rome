@@ -55,11 +55,12 @@ or a decision, and you are now going to find the evidence."
 ::: newgreek
 ## Translation Greek
 
-The Septuagint — the Greek Old Testament, made in Alexandria from about 250
-BC — is translation. Most of it is translation done with great care by
+Julia could find no mistake in the Psalm, and Plato would not have written
+a line of it. The Septuagint — the Greek Old Testament, made in Alexandria
+from about 250 BC — is translation, most of it done with great care by
 people who thought the shape of the original was part of its meaning. The
-result is Greek that is **grammatical and unidiomatic**: every sentence
-obeys the rules, and almost no sentence is what a Greek would have said.
+result is **grammatical and unidiomatic**: every sentence obeys the rules,
+and almost no sentence is what a Greek would have said.
 
 Learn to see the Hebrew through it. Five things show.
 
@@ -87,8 +88,8 @@ an adjective's work.
 
 **Five. Idioms kept whole.** **εἰς τὸν αἰῶνα**, *unto the age*, for
 *forever*. **πάσας τὰς ἡμέρας τῆς ζωῆς μου**, *all the days of my life*,
-for *as long as I live*. The phrase is translated and the idiom is carried
-across intact, so the Greek reader learns to think in Hebrew pictures.
+for *as long as I live*. The idiom comes across intact, and the Greek reader
+learns to think in Hebrew pictures.
 
 ::: note
 **One more, which you have the grammar for.** The Septuagint writes
@@ -101,8 +102,8 @@ definite still.
 
 ## The Attic for comparison
 
-Here is roughly what an Athenian would have written to say the first line
-of the Psalm. It is composed for this lesson, not quoted:
+An Athenian might have put the first line of the Psalm like this
+(composed for this lesson, not quoted):
 
 **ὁ θεὸς ὥσπερ ποιμὴν ἐπιμελεῖταί μου.**
 
@@ -114,7 +115,7 @@ and the picture is gone.
 
 ::: latinbridge
 **You already know translation Greek. You know it in Latin.** The Vulgate
-did to Latin exactly what the Septuagint did to Greek: *Dominus regit me* —
+did to Latin what the Septuagint did to Greek: *Dominus regit me* —
 or, in Jerome's newer version made from the Hebrew, *Dominus pascit me* —
 *the Lord shepherds me*. *In saeculum saeculi.* *Et factum est.* The Latin
 translators kept the shape of the original through the Greek, and the
@@ -267,9 +268,9 @@ From Lessons 16 to 19. Answer from memory.
 :::
 
 ::: {.exercise title="Rewrite as Attic"}
-Each of these is Septuagint Greek. Write what an Athenian would have said
-instead, using the patterns given in the grammar section. Then say, in one
-line, what was lost. New words you may need are given in brackets.
+Each of these is Septuagint Greek. Write what an Athenian would have said,
+using the patterns in the grammar section, and say in one line what was
+lost. New words you may need are in brackets.
 
 1. **Κύριος ποιμαίνει με.**
 2. **καὶ ἐγένετο, καὶ ἦλθεν ὁ ποιμὴν εἰς τὸν οἶκον.**
@@ -320,7 +321,7 @@ goes; ask the class which item it was before you tell them.
 :::
 
 ::: {.exercise title="Into Greek"}
-Write these in Septuagint Greek — that is, keep the Hebrew shape.
+Write these in Septuagint Greek: keep the Hebrew shape.
 
 1. The Lord is my shepherd.
 2. The mercy of the Lord was great.
@@ -420,12 +421,11 @@ memory of the standard text. Check each against the edition in use before it
 goes on the board; the last clause of verse 6 is omitted here and editions
 differ slightly in punctuation.
 
-**On Julia's objection.** Let it stand as a real objection and let the
-answer be real too. The aim is not to make the pupils admire the Septuagint
-but to make them able to say *why* it reads as it does — which means they
-must first be allowed to notice that it reads oddly. A class that is told
-the Psalm is beautiful before it is allowed to find it strange learns
-nothing about either.
+**On Julia's objection.** Let it stand as a real objection, with a real
+answer. The aim is not that the class admire the Septuagint but that they
+can say *why* it reads as it does, and for that they must first find that it
+reads oddly. A class told the Psalm is beautiful before it has found it
+strange learns nothing about either.
 :::
 :::
 

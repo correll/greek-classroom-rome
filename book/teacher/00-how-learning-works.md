@@ -1,10 +1,9 @@
 # How This Book Uses What Is Known About Learning {.unnumbered}
 
 ::: note
-**This chapter appears only in the teacher's edition.** It says what the
-research on learning a language — and on learning anything — has to say
-that bears on this book, how strong that research is, and what the book
-does about it. Read it before the first lesson; most of the book's
+**This chapter appears only in the teacher's edition.** It sets out the
+research on learning a language — and on learning anything — that bears on
+this book, how strong that research is, and what the book does about it. Read it before the first lesson; most of the book's
 design choices are explained here and nowhere else.
 :::
 
@@ -55,9 +54,8 @@ reviewing it is a few weeks; reviewing it the next day helps little.
 lessons back, every form and word comes back after a gap and then again
 later. Lessons 12, 18, 24 and 30 are review lessons, and their vocabulary
 boxes consist of words reintroduced from across their Part. If you move
-faster than a lesson a week, consider adding your own short retrieval
-quiz from further back; if slower, the built-in gaps are already
-generous.
+faster than a lesson a week, add your own short retrieval quiz from further
+back; if slower, the built-in gaps are already generous.
 
 **Interleaving** *(Moderate)*. Practising two easily confused things side by
 side — the imperfect and the aorist, the active and the middle — makes the
@@ -103,8 +101,8 @@ choose between two meanings did best of all.
 *What the book does.* Every Reading prints the Greek in a wide column with
 its English glosses in a narrow column beside it, one line per word. The
 vocabulary box tells the pupil which of those words to learn; the rest are
-glossed so the reading can go on. A useful routine is to read once with the
-gloss column, then a second time with a card over it.
+glossed so the reading can go on. A routine that works: read once with the
+gloss column, then again with a card over it.
 
 ## Reading: how much, how hard, and when the real thing
 
@@ -151,7 +149,7 @@ or the aorist comes first; this one teaches the imperfect first and the
 aorist directly after, and contrasts them at once. Reading-method courses
 introduce the middle voice and contract verbs earlier than this book does;
 the frequency counts are on their side, and if your class meets many
-middles in Part IV you may wish to preview Lesson 31.
+middles in Part IV, preview Lesson 31.
 
 **Ten items** *(Moderate inference)*. A handful of examples shows a pattern;
 it takes repeated retrieval to make one automatic. Every exercise now has

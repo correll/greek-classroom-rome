@@ -44,8 +44,8 @@ manage that. Sit down, all of you, and we will see what you have found."
 ::: newgreek
 ## No new grammar
 
-This is the last lesson of Part IV and it consolidates. You now have, in
-your hands, four kinds of Greek:
+This is the last lesson of Part IV. You now have four kinds of Greek in
+your hands:
 
 | | When | Who wrote it | What it is like |
 |:--|:--|:--|:--|
@@ -77,9 +77,9 @@ features tell you.
 blessing, arguing, telling a story. The Beatitudes pronounce. The *Apology*
 argues. Homer invokes.
 
-**Five. What does it claim?** Only now. Only once you know who is speaking,
-to whom, in what Greek, doing what — only then do you say what the text is
-*saying*, because everything before this changes what the words mean.
+**Five. What does it claim?** Only now, once you know who is speaking, to
+whom, in what Greek, doing what — because each of those changes what the
+words mean.
 
 ## The rule, and why it is a grammar rule
 
@@ -105,9 +105,9 @@ if they belonged to one tradition. They do not. Virgil would not have
 understood a word of the Psalms' purpose, and the Psalmist had never heard
 of Troy.
 
-What Rome has done is build a culture in which both can be held at once by
-one person. That is a real achievement and it is not the same as the two
-texts agreeing. Learn to hold both without pretending they are one.
+What Rome has done is build a culture in which one person can hold both at
+once. That is a real achievement, and it is not the same as the two texts
+agreeing.
 :::
 :::
 
@@ -435,15 +435,14 @@ then said what the text meant — and when the two texts disagreed, said so.
 That is what Part IV was for.
 
 ::: teacheronly
-**On running this lesson.** It works best as a genuine presentation lesson,
-with the pupils' own pairs replacing or supplementing the four given here.
-The four are models of what a good pairing looks like, not a syllabus. Any
-two passages from the book may be paired; the rule is the only constraint.
+**On running this lesson.** It works best as a real presentation lesson,
+with the pupils' own pairs replacing or adding to the four here, which are
+models, not a syllabus. Any two passages from the book may be paired; the
+rule is the only constraint.
 
-**On the rule.** Hold it strictly. The failure mode is not a pupil who
-says two texts disagree when they agree — that almost never happens. It is
-the pupil who finds a comfortable generality that covers both and stops
-there. The remedy, every time, is to send them back to the Greek: *which
+**On the rule.** Hold it strictly. Pupils almost never say two texts
+disagree when they agree; they find a comfortable generality that covers
+both and stop there. The remedy, every time, is to send them back to the Greek: *which
 word in each text is making that claim?*
 
 **Verify before teaching.** The wording of the fable's Greek in the Reading
@@ -452,7 +451,7 @@ word in each text is making that claim?*
 goes on the board.
 
 **If it was not said at Lesson 18**, where the scope-and-sequence suggests
-it, this is the time to say to the class what the teacher's notes say about
+it, this is the time to tell the class what the teacher's notes say about
 the characters: that every
 one of them has got better at something they began badly at. They have
 watched Felix's ear be right, Sabina's impatience with parsing turn into the

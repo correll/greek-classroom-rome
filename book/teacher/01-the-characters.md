@@ -22,15 +22,15 @@ right. They are not personality types for students to identify with. They are
 Three practical consequences.
 
 **Play the error, not the character.** When Marcus produces a translation
-that is grammatically possible and absurd, the class should be asked to
-evaluate the translation, never the boy. The point lands when a student says
+that is grammatically possible and absurd, ask the class to evaluate the
+translation, never the boy. The point lands when a student says
 "that's allowed by the endings but it can't be right in context" — not when
 they say "that's just Marcus."
 
 **Let the quiet ones be right.** Livia and Julia are correct more often than
 anyone, and the book repeatedly has them say so too late or too quietly. If
-your class contains a student like this — it does — that pattern is being
-modelled for their benefit, and it should be allowed to pay off visibly.
+your class has a student like this — it does — the pattern is there for
+their benefit; let it pay off visibly.
 
 **Do not resolve the arguments.** Several lessons end with the class split and
 Theodoros declining to settle it. That is not an oversight.
@@ -106,9 +106,9 @@ anyone else and will not commit until certain.
 nonsense where he will find them.
 
 **Arc:** she learns to take an intellectual risk before she is sure. Her
-difficulty is not competence but the fear of being publicly wrong — which is
-worth naming to a class, since it is the commonest reason able students stop
-volunteering around this age.
+difficulty is not competence but the fear of being publicly wrong. Name it to
+the class: it is the commonest reason able students stop volunteering around
+this age.
 
 ### Felix — the professional troublemaker
 
@@ -137,8 +137,8 @@ parsing.
 **Shows it by:** turning exercises into drama, assigning roles to nouns and
 verbs and making the class act out sentences.
 
-**Arc:** she comes to see that case, tense, and word order are precisely what
-determine who does what to whom — that parsing *is* plot. She is fastest in
+**Arc:** she comes to see that case, tense, and word order determine who does
+what to whom — that parsing *is* plot. She is fastest in
 the room in Lesson 22. She also has a strong sense of justice and will defend
 a ridiculed classmate when it is inconvenient.
 

@@ -45,7 +45,8 @@ Now it is going to be impossible not to."
 ::: newgreek
 ## The participle
 
-A **participle** is a verb wearing an adjective's clothes. It has a verb's
+Most of Sabina's thirteen verbs for the Samaritan are participles. A
+**participle** is a verb wearing an adjective's clothes. It has a verb's
 meaning — *seeing*, *having come*, *having bound* — and an adjective's
 endings, so that it can agree with a noun in case, number and gender.
 
@@ -114,8 +115,8 @@ can rarely do what Greek does in **ἰδὼν ἀντιπαρῆλθεν**. Jero
 that man having been seen, he passed by* — because that is the shape Latin
 has.
 
-Greek's aorist active participle, *having seen*, is the thing Latin lacks,
-and it is the thing that lets Greek narrative move the way it does.
+Greek's aorist active participle is the thing Latin lacks, and it is what
+lets Greek narrative move the way it does.
 :::
 :::
 
@@ -478,11 +479,9 @@ round it (the Reading below keeps them).
 Check the passage against the edition in use; **Σαμαρίτης** is also spelt
 **Σαμαρείτης** in some editions, and the word order in verse 34 varies.
 
-**On Sabina.** This is her lesson, and the point of giving it to her is that
-the pupil who has been impatient with parsing all along turns out to parse
-fastest when the parsing is a story — because for her it always was one.
-Let her account of the passage stand as the model and build the grammar
-underneath it, rather than the other way round.
+**On Sabina.** She has been impatient with parsing all along; here she
+parses fastest, because the parsing is a story, and for her it always was
+one. Let her account stand as the model and build the grammar under it.
 
 **On the lawyer's answer.** The reading offered in the last paragraph is one
 reading, and the text does not settle it. Say so if a pupil asks.

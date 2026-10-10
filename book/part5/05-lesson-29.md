@@ -41,9 +41,9 @@ then, when Marcus had gone back to his tablet, watched him for a while.
 Everything in this course so far has been scaffolded: glossed, prepared,
 set beside something you knew. The passage you read in Lesson 30 will not be.
 You need a *method* — a way of reading an unfamiliar sentence that does not
-depend on hope.
+depend on hope. (The word itself is Greek: a road to follow.)
 
-Here it is. Do it in this order and do not skip steps.
+Do it in this order, and skip nothing.
 
 **One. Read it aloud.** All of it, before you look anything up. You will
 hear things — the shape of the clauses, the **καί**s and **δέ**s, a word
@@ -65,9 +65,8 @@ Draw a line from each to the verb it belongs to. Lesson 22's choreography.
 **ἵνα**. They tell you how the pieces are joined — reason, conclusion,
 contrast, report, purpose.
 
-**Six. Now, and only now, look up what is left.** You will find there is
-less of it than you feared. Most of the sentence has already declared
-itself.
+**Six. Now, and only now, look up what is left.** Most of the sentence has
+already declared itself.
 
 **Seven. Translate. Then ask the fifth question.** *What would have to be
 true in the Greek for this to be wrong?* If you cannot answer, go back to
@@ -75,16 +74,17 @@ step two.
 
 ## Using a lexicon
 
-A lexicon lists words in their *dictionary form*: nouns in the nominative
+Look up **ἦλθεν** and you will not find it; the lexicon lists **ἔρχομαι**.
+Every word is entered in its *dictionary form*: nouns in the nominative
 singular with the article and the genitive ending, verbs in the first person
-singular present. It does not list **ἦλθεν**. It lists **ἔρχομαι**.
+singular present.
 
 So before you can look a word up, you have to undress it.
 
 - **Strip the ending.** **λόγου** → **λόγ-** → **λόγος**. **ἀνθρώποις** →
   **ἄνθρωπ-** → **ἄνθρωπος**.
 - **Strip the augment.** **ἔγραψε** → **γραψ-** → the aorist stem of
-  **γράφω**. **ἦλθεν** → **ἐλθ-** → and here you must simply *know* that
+  **γράφω**. **ἦλθεν** → **ἐλθ-** → and here you must *know* that
   **ἐλθ-** belongs to **ἔρχομαι**, because nothing on the page will tell
   you. The irregular aorists of Lesson 14 are the price of reading.
 - **Strip the participle ending.** **ἰδών** → **ἰδ-** → the aorist stem of
@@ -384,9 +384,9 @@ it in Greek, you now know that you did not.
 **Verify before teaching.** John 8:12 in the exercise follows the standard
 text (see *Sources*); check it against the edition in use.
 
-**On the list.** It is a list of passages already in the book, by design.
-The Great Reading is not a test of range but of independence: can a pupil
-take a text they have met with scaffolding and stand it up without? Any
+**On the list.** Every passage is already in the book, by design: the
+Great Reading tests independence, not range. Can a pupil take a text they
+have met with scaffolding and stand it up without? Any
 passage from the course may be added; passages from outside it should not
 be, at this stage, unless a pupil asks for one and you have checked it.
 

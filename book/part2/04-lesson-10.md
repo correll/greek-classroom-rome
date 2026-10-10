@@ -53,9 +53,9 @@ one day it will be in your examination."
 ::: newgreek
 ## An adjective takes the gender of its noun
 
-An adjective must match its noun in **gender**, **number**, and **case** —
-all three, every time. It is not a fixed word; it is a word with the same
-set of endings you already know.
+Sabina's defence was agreement: masculine, masculine, masculine. An
+adjective must match its noun in **gender**, **number**, and **case** — all
+three, every time — and it does so with endings you already know.
 
 **ἀγαθός** — *good* — has three columns, and you have seen all of them
 before:
@@ -72,8 +72,8 @@ before:
 | **dat. plur.** | **ἀγαθοῖς** | **ἀγαθαῖς** | **ἀγαθοῖς** |
 
 The masculine is **ὁ λόγος**. The feminine is **ἡ ψυχή**. The neuter is
-**τὸ δῶρον**. There is nothing new in this table at all — it is three nouns
-you already know, wearing one meaning.
+**τὸ δῶρον**. Nothing in this table is new: it is three nouns you already
+know, wearing one meaning.
 
 So: **ὁ ἀγαθὸς λόγος**, **ἡ ἀγαθὴ ψυχή**, **τὸ ἀγαθὸν δῶρον**. The
 adjective is not choosing its own ending. The noun is choosing it.
@@ -87,8 +87,9 @@ Lesson 3, and the adjective follows the word.
 
 ## Where it stands changes what it says
 
-This is the lesson. Greek says two quite different things with the same two
-words, and the difference is position.
+Look again at the two lines Theodoros wrote on the board. Greek says two
+quite different things with the same two words, and the difference is
+position.
 
 **Inside the article-noun group** — the adjective describes the noun:
 
@@ -104,7 +105,7 @@ sentence needs no verb at all:
 >
 > **ὁ ἄνθρωπος ἀγαθός** — the man is good
 
-The test is simple and mechanical. **Is the adjective sheltering under an
+The test is mechanical. **Is the adjective sheltering under an
 article?** If yes, it describes. If no, it asserts.
 
 | | |
@@ -131,8 +132,6 @@ who wants *the man is good* normally supplies *est* — or leaves the reader
 to guess from context, since Latin can drop the verb too but has no article
 to show that it has done so. Greek gets the same sentence for nothing, by
 moving one word.
-
-This is the clearest case in the course of the article earning its keep.
 :::
 :::
 
@@ -379,8 +378,8 @@ could not have been written any other way.
 *I am the good shepherd.*
 
 Look at **ὁ ποιμὴν ὁ καλός**. The article appears twice, and the second one
-is not an accident or a flourish: it is there to keep **καλός** *inside* the
-group, so that the phrase describes the shepherd rather than asserting
+is there to keep **καλός** *inside* the group, so that the phrase describes
+the shepherd rather than asserting
 something about him.
 
 Take the second article away and you get **ὁ ποιμὴν καλός** — *the shepherd
@@ -511,8 +510,8 @@ Read the whole tablet aloud before you answer anything.
 :::
 
 ::: question
-1. Greek can say *the man is wise* without any verb at all, just by where
-   the adjective stands. What does that tell you about what a sentence
+1. Greek can say *the man is wise* without any verb at all, by where the
+   adjective stands. What does that tell you about what a sentence
    needs?
 2. Sabina's **ὁ κακὸς υἱός** was grammatically correct and Theodoros said
    so. Was he right to say so?

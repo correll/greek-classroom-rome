@@ -62,14 +62,14 @@ they matter, and they are the only things that do."
 ::: newgreek
 ## The words that hold an argument together
 
-Greek prose is *chained*. In a page of Plato, almost every sentence after the
+Julia read the sentence on the board from its second word and knew it was
+answering something. Greek prose is *chained*. In a page of Plato, almost every sentence after the
 first begins with a small word tying it to the one before — *and*, *but*,
 *for*, *therefore*. A Greek sentence that begins with no connector at all is
 doing something deliberate and unusual, and a reader notices it.
 
-English is not like this. English can set two sentences side by side and
-leave the reader to work out the join. Greek nearly always says what the join
-is.
+English can set two sentences side by side and leave the reader to work out
+the join. Greek nearly always says what the join is.
 
 | Word | What it does | Usually English |
 |:--|:--|:--|
@@ -85,8 +85,6 @@ those three coming, you can follow an argument in Greek before you can
 translate it.
 
 ## They do not come first
-
-Here is the thing that will trip you again and again.
 
 **δέ**, **γάρ**, **οὖν** and **μέν** are **postpositive**: they cannot stand
 first in their clause. They take second place, behind whatever word the
@@ -462,14 +460,12 @@ why he will not accept exile and silence in place of death.
 
 *But the unexamined life is not worth living for a human being.*
 
-**There is no verb.** Not one. Greek does not need **ἐστίν** here, exactly as
+**There is no verb.** Greek does not need **ἐστίν** here, exactly as
 it did not need it in Lesson 3: the article tells you which word is the
 subject, and the rest follows. Seven words, no verb, and the most quoted
 sentence in Greek philosophy.
 
-**Now the second word.**
-
-It is **δέ**. The sentence does not begin; it *continues*. Socrates is
+**Now the second word.** It is **δέ**. The sentence does not begin; it *continues*. Socrates is
 answering something he has just said, and the **δέ** is the hinge. Strip it
 out and you have a slogan — a thing to put on a wall. Leave it in and you
 have the second half of an argument, which is what Socrates was actually
@@ -497,9 +493,9 @@ the punctuation of the surrounding passage varies between editions.
 human being is to spend each day discussing virtue and examining himself and
 others. The **δέ** picks up that sentence. He then adds — after the famous
 words, not before them — that his jury will believe this even less than
-what he has already told them. You do not need to
-teach the context in Greek; it is enough that the class knows the sentence is
-an answer, because the grammar has already told them so.
+what he has already told them. You need not teach
+the context in Greek; it is enough that the class knows the sentence is an
+answer, because the grammar has told them so.
 
 **If a pupil asks whether the standard English is a mistranslation**, the
 honest answer is that it is not wrong about the words and is wrong about the

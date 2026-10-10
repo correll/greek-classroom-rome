@@ -52,11 +52,9 @@ the order mean*. Ask *what does the order do*."
 ::: newgreek
 ## The order moved; the meaning did not
 
-You met this at the end of Lesson 3, and Marcus got half of it. Here
-is the whole of it.
-
-These four sentences are all correct Greek, and all four mean the same
-thing — *the man sees the friend*:
+Sabina's court returned the same verdict every time, for a reason you met
+at the end of Lesson 3, where Marcus got half of it. These four sentences
+are all correct Greek, and all four mean *the man sees the friend*:
 
 > **ὁ ἄνθρωπος βλέπει τὸν φίλον.**
 >
@@ -70,8 +68,7 @@ In every one of them, **ὁ ἄνθρωπος** is nominative and so is the subj
 and **τὸν φίλον** is accusative and so is the object. That is settled by the
 endings before word order gets a vote.
 
-So what is the order for? **Emphasis.** Greek puts first whatever it wants
-you to notice first.
+So what is the order for? Read the English column before you answer.
 
 | Order | Nearest English |
 |:--|:--|
@@ -79,9 +76,11 @@ you to notice first.
 | **τὸν φίλον βλέπει ὁ ἄνθρωπος** | It is the *friend* the man sees. |
 | **βλέπει ὁ ἄνθρωπος τὸν φίλον** | He *does* see him — the man sees the friend. |
 
+**Emphasis.** Greek puts first whatever it wants you to notice first.
 English has to reach for extra words — *it is*, *does* — to do what Greek
-does by moving two words to the front (**τὸν φίλον**), or one (**βλέπει**). This is not a quirk. It is most of
-what makes Greek prose worth reading in Greek.
+does by moving two words to the front (**τὸν φίλον**), or one
+(**βλέπει**). That is most of what makes Greek prose worth reading in
+Greek.
 
 ::: latinbridge
 Latin does this too, and for the same reason: *hominem videt puer* puts the
@@ -104,17 +103,17 @@ For the nouns you know, the rule is small:
 | | **ὁ φίλος** | **ὦ φίλε** |
 | | **ὁ διδάσκαλος** | **ὦ διδάσκαλε** |
 
-Two things to notice.
+Two things.
 
 **The ending changes from -ος to -ε.** That is the whole pattern for this
 very common group of nouns (with one exception you already own: **θεός**
 keeps its **-ος** when called on, **ὦ θεός**).
 
 **The article disappears, and ὦ takes its place.** You do not say *the man!*
-when you call to someone, in Greek any more than in English. **ὦ** is not
-really a word; it is a marker saying *I am addressing you*. Greek uses it
+when you call to someone, in Greek any more than in English. **ὦ** is less
+a word than a marker saying *I am addressing you*. Greek uses it
 constantly and English has nearly lost it — we have only the slightly
-theatrical *O*. Leave it untranslated, or translate it as nothing at all.
+theatrical *O*. Leave it untranslated.
 
 Other kinds of noun form the vocative differently, and the dictionary will
 tell you when you need one. For now, **-ος → -ε** will carry you.
@@ -133,8 +132,8 @@ They join words to words, and whole clauses to whole clauses:
 > **ὁ κριτὴς λέγει, ἀλλὰ ὁ μάρτυς γράφει.** — The judge speaks, but the
 > witness writes.
 
-Notice the second one. Two clauses, each with its own nominative subject
-and its own verb. Each half stands up on its own.
+The second has two clauses, each with its own nominative subject and its
+own verb. Each half stands up on its own.
 
 ::: note
 **One subject, one verb, and they must match.** Every verb you have met —
@@ -419,8 +418,8 @@ is Greek, and if it is, what it means.
 :::
 
 ::: {.exercise title="Into Greek"}
-Write each of these in Greek. The English-to-Greek list at the back will
-give you the words; you must supply the endings.
+Translate into Greek. The English-to-Greek list at the back gives the
+words; you supply the endings.
 
 1. The judge sees the man.
 2. The witness tells the truth.

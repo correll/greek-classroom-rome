@@ -75,9 +75,9 @@ intact, which he is right to want."
 ::: newgreek
 ## The perfect: a state that stands
 
-The **perfect** describes a present state that results from a past action.
-**τετέλεσται** — *it is finished*: the finishing happened, and the thing
-now stands finished, and the tense is about the standing.
+Julia's words are on the board: *a present with the past inside it*.
+**τετέλεσται** — *it is finished*: the finishing happened, the thing now
+stands finished, and the **perfect** is the tense about the standing.
 
 | | | |
 |:--|:--|:--|
@@ -91,9 +91,9 @@ and means it exactly.
 
 ## Reduplication: the mark of the perfect
 
-The perfect announces itself at the *front* of the word, as the augment
-did, but differently. The first consonant of the stem is repeated with an
-**ε** between: **λύω → λέ-λυκα**, **γράφω → γέ-γραφα**, **πιστεύω →
+Look at the front of the word on Marcus's paper. The perfect announces
+itself there, as the augment did, but differently: the stem's first
+consonant is repeated with an **ε** between. **λύω → λέ-λυκα**, **γράφω → γέ-γραφα**, **πιστεύω →
 πε-πίστευκα**. This is **reduplication**, and it is the perfect's badge in
 every mood, not only the indicative — unlike the augment, which belongs to
 the past indicative and nowhere else.
@@ -209,9 +209,9 @@ to have to say. The rest, recognise.
 
 ## Past or present?
 
-Julia's question. The honest answer is that the perfect is about *now* and
-is built on *then*, and that a language with this tense can say in one
-word what English needs a clause for: *it is in the condition of having
+Julia's question. The perfect is about *now* and built on *then*, and a
+language with this tense can say in one word what English needs a clause
+for: *it is in the condition of having
 been done*.
 
 So **τετέλεσται** is not *it was finished* and not quite *it has been
@@ -544,16 +544,15 @@ is offered. Lesson 17's connector, in its Koine use.
 **Verify before teaching.** John 19:30 is quoted from NA28, with its
 bracketed article; check it against the edition in use.
 
-**On the two uses of τετέλεσται.** Julia's use of the word for her
-examination is the kind of thing Theodoros does not allow, and the lesson
-has him not allow it — gently, by separating the grammar from the text and
-giving the text its own place in the lesson. Theodosius's objection is right and
-should be played as right, not as fussiness; Julia's answer to the grammar
+**On the two uses of τετέλεσται.** Theodoros does not allow Julia's use of
+the word for her examination, and refuses it gently: he separates the
+grammar from the text and gives the text its own place. Play Theodosius's
+objection as right, not as fussiness; Julia's answer to the grammar
 question is also right. Keep both. The course has held since Lesson 16
 that scripture is read with reverence and that the grammar is the same
-grammar wherever it stands; this is the lesson where those two rules meet,
-and the way through is the one Theodoros takes: the word's *form* is
-anyone's to study, its *use* on the cross is not anyone's to borrow.
+grammar wherever it stands; here the two rules meet, and Theodoros's way
+through is the one to take: the word's *form* is anyone's to study, its
+*use* on the cross is not anyone's to borrow.
 
 **On Julia.** *A present with the past inside it* is hers, and it is the
 best one-line account of the perfect the course offers; Livia writes it

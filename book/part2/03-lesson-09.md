@@ -58,9 +58,9 @@ yet, so sit still and be peculiar while I teach it."
 ::: newgreek
 ## The one it goes to
 
-The **dative** is the fourth and last case you need. Its central job is the
-one Felix wanted: it marks the person something is given, sent, said, or
-shown **to**.
+Felix needed to say who his letter was going to. That is the job of the
+**dative**, the fourth and last case you need: it marks the person something
+is given, sent, said, or shown **to**.
 
 > **πέμπω τὴν ἐπιστολὴν τῷ διδασκάλῳ.** — I send the letter to the teacher.
 
@@ -70,8 +70,9 @@ Three nouns, three different jobs, and each one says which job it has:
 - **τὴν ἐπιστολήν** — the thing sent *(accusative)*
 - **τῷ διδασκάλῳ** — the one it goes to *(dative)*
 
-English has to use word order and the word *to*. Greek uses an ending, and
-can then put the three nouns in whatever order it likes.
+Try putting the teacher at the front of the sentence. Does anything change
+about who gets the letter? English would need *to* and a fixed position to
+say it. Greek has said it already, in the ending.
 
 ## The forms
 
@@ -85,8 +86,8 @@ can then put the three nouns in whatever order it likes.
 | **dat. sing.** | **τῷ λόγῳ** | **τῇ ψυχῇ** | **τῇ οἰκίᾳ** | **τῷ δώρῳ** |
 | **dat. plur.** | **τοῖς λόγοις** | **ταῖς ψυχαῖς** | **ταῖς οἰκίαις** | **τοῖς δώροις** |
 
-Look at the singular endings and you will see the same small mark under
-every one of them: **-ῳ**, **-ῃ**, **-ᾳ**. That is an **iota subscript** —
+Look at the singular endings: the same small mark sits under every one of
+them: **-ῳ**, **-ῃ**, **-ᾳ**. That is an **iota subscript** —
 an iota written underneath, because it stopped being pronounced long before
 it stopped being written.
 
@@ -94,7 +95,7 @@ It is easy to miss, it is easy to leave out, and leaving it out turns a
 dative into something else. Write it.
 
 ::: note
-**You now have all four cases.** Here is the whole of it, in one line each:
+**You now have all four cases**, one line each:
 
 - **nominative** — the one doing it
 - **accusative** — the one it is done to
@@ -103,8 +104,7 @@ dative into something else. Write it.
 
 Every noun inside a sentence is in one of these four, and tells you which.
 (The vocative, for calling to someone, stands outside the sentence; you had
-it in Lesson 4.) There is nothing more to come. The rest of Part II is
-practice.
+it in Lesson 4.) The rest of Part II is practice.
 :::
 
 ## Two more things the dative does
@@ -134,10 +134,9 @@ Latin splits this work between two cases. *To the teacher* is dative —
 *magistro* — exactly as in Greek. But *with the son* and *by means of
 letters* are **ablative** in Latin, and Greek has no ablative.
 
-So Greek's dative is doing the work of two Latin cases, and when you are
+So Greek's dative does the work of two Latin cases, and when you are
 translating out of Latin you will have to stop and ask which one you are
-looking at. That is not a difficulty to be got around. It is the question
-the Greek is asking you.
+looking at. That is the question the Greek is asking you.
 :::
 :::
 
@@ -168,8 +167,8 @@ verb behind it means simply *to send to*.
 :::
 
 ::: investigation
-Felix was permitted to rewrite his message, on the condition that he read
-the corrected version aloud as well.
+Felix was allowed to rewrite his message, on condition that he read it
+aloud.
 
 ::: {.exercise title="Retrieval"}
 Ten short questions from Lessons 5 to 8. From memory.

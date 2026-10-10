@@ -27,10 +27,11 @@ lesson plan. "Because in Greek, a noun has a sex."
 ::: newgreek
 ## Every noun has a gender
 
-In Greek, every noun is **masculine**, **feminine**, or **neuter**. This is
-a fact about the *word*, not about the thing. A road is not female. The
-Greek word for road happens to be feminine, in the same way that the German
-word for girl happens to be neuter. Call it a label, not a claim.
+Julia found three words for *the* because every Greek noun is
+**masculine**, **feminine**, or **neuter**. This is a fact about the
+*word*, not the thing. A road is not female; the Greek word for road
+happens to be feminine, as the German word for girl happens to be neuter.
+Call it a label, not a claim.
 
 The gender shows up in the little word that goes in front:
 
@@ -48,8 +49,7 @@ never stops telling you things.
 **Latin has no article at all.** *Puella* can mean *a girl*, *the girl*, or
 just *girl*, and the reader works it out.
 
-So the article is not a nuisance Greek has added. It is extra information
-Latin does not give you. Every time you see **ὁ** you have been told the
+So the article gives you information Latin does not. Every time you see **ὁ** you have been told the
 gender of the next noun for free, and — as you are about to see — its job
 in the sentence as well.
 
@@ -60,15 +60,15 @@ for another two lessons.
 ## Endings carry the job
 
 Look at these two sentences. The man stays first, the horse stays last, and
-the verb stays in the middle.
+the verb stays in the middle. Find what changed before you read on.
 
 > **ὁ ἄνθρωπος βλέπει τὸν ἵππον.** — The man sees the horse.
 >
 > **τὸν ἄνθρωπον βλέπει ὁ ἵππος.** — The horse sees the man.
 
-Nothing moved. What changed is the *endings* — **-ος** became **-ον** on the
-man, **-ον** became **-ος** on the horse, and the little word in front of
-each changed with it — and the endings changed who is doing the seeing.
+The *endings* changed — **-ος** became **-ον** on the man, **-ον** became
+**-ος** on the horse, and the little word in front of each changed with
+it — and with them, who is doing the seeing.
 English would have to swap the nouns round to say the second sentence.
 Greek did not have to touch them.
 
@@ -78,14 +78,11 @@ Greek did not have to touch them.
   is called the **accusative** case.
 
 ::: note
-This is the central idea of the whole course, and it is worth stopping on.
+This is the central idea of the whole course.
 
 In English, *the man sees the horse* and *the horse sees the man* differ by
-**word order**. Move the words and you change the meaning.
-
-In Greek, they differ by **word ending**. You could move the words almost
-anywhere and the meaning would hold, because the meaning is carried in the
-endings, not the positions.
+**word order**. In Greek, they differ by **word ending**: you could move
+the words almost anywhere and the meaning would hold.
 
 This is why Theodoros keeps asking *what in the sentence tells you that*.
 In Greek, something always does.
@@ -98,7 +95,7 @@ In Greek, something always does.
 | **nominative** (subject) | **ὁ λόγος** | **ἡ ψυχή** | **τὸ δῶρον** |
 | **accusative** (object) | **τὸν λόγον** | **τὴν ψυχήν** | **τὸ δῶρον** |
 
-Three things to notice.
+Three things.
 
 **One.** The article changes too: **ὁ → τόν**, **ἡ → τήν**. The article and
 its noun always agree. If they disagree, you have made a mistake, and so
@@ -110,9 +107,8 @@ has the person who marks it.
 to choose; the dictionary tells you.
 
 **Three — the important one.** In the neuter, the nominative and accusative
-are **identical**. **τὸ δῶρον** is both. This is not an oversight. It is
-true of every neuter noun in Greek, in every declension, in both numbers,
-forever. When the subject and object are both neuter, the sentence itself
+are **identical**. **τὸ δῶρον** is both, and so is every neuter noun in
+Greek, in every declension, in both numbers, forever. When the subject and object are both neuter, the sentence itself
 must tell you which is which.
 
 ## Three verbs, borrowed early

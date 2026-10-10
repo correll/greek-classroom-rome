@@ -47,8 +47,9 @@ so far."
 ::: newgreek
 ## The six endings, drilled
 
-You met these in Lesson 5. Here they are again, because everything in Part
-III depends on knowing them without stopping to think:
+Marcus supplied four subjects while arguing that nobody could. He was
+reading these endings, which you met in Lesson 5. Everything in Part III
+depends on knowing them without stopping to think:
 
 | | **λύω** *I loose* | **ἀκούω** *I hear* | **φέρω** *I carry* |
 |:--|:--|:--|:--|
@@ -69,8 +70,7 @@ regular. You will meet it in every Greek book you ever open.
 ## Verbs that contract
 
 Some verbs have a stem ending in a vowel, and when that vowel meets the
-ending's vowel the two fuse. These are **contract verbs**, and they look
-alarming and are not.
+ending's vowel the two fuse. These are **contract verbs**.
 
 **ἀγαπάω**, *I love*, has a stem in **-α**, so **ἀγαπά-ω** becomes
 **ἀγαπῶ**:
@@ -90,7 +90,7 @@ out as one long one. The circumflex is the scar.
 
 You are not expected to produce these yet. You are expected to recognise
 that **ἀγαπῶμεν** is a first person plural, because the **-μεν** is still
-visible, and to stop being frightened of the accent.
+visible.
 
 ::: note
 **Dictionaries list contract verbs uncontracted.** You will find **ἀγαπάω**
@@ -100,10 +100,10 @@ dictionary shows you the machinery; the text shows you the result.
 
 ## Marcus's question
 
-So why write **ἐγώ**?
+So why write **ἐγώ**? Ask what the extra word buys.
 
-Because the ending gives you the subject for free, and therefore a writer
-who spends a word on it is spending it on something else: **contrast**.
+The ending gives you the subject for free, so a writer who spends a word
+on it is spending it on something else: **contrast**.
 
 > **λέγω** — I say.
 >
@@ -114,17 +114,16 @@ The pronoun is not information. It is a raised voice. When you meet one, do
 not translate it as *I* and move on — ask who is being argued with, because
 somebody is.
 
-The same is true of **σύ** (*you*), and it will be true of every pronoun you
-meet for the rest of the course.
+The same goes for **σύ** (*you*), and for every pronoun you meet in the
+rest of the course.
 
 ::: latinbridge
 Latin does this too, and your Latin master almost certainly told you that
 *ego* is "unnecessary". That was a simplification.
 
-*Ego dico* is not bad Latin for *dico*; it is *I* say, in contrast to
-somebody else. Cicero uses it exactly where an English speaker would lean on
-the word. Greek merely does it more often, and with more verbs, and expects
-you to notice.
+*Ego dico* is good Latin: it means *I* say, in contrast to somebody else. Cicero uses it exactly where an English speaker would lean on
+the word. Greek does it more often, with more verbs, and expects you to
+notice.
 :::
 :::
 
@@ -405,7 +404,7 @@ was said …* — **ἐγὼ δὲ λέγω ὑμῖν**.
 Marcus asked why anyone would write **ἐγώ**. This is why. Somebody is being
 argued with.
 
-Notice also **ἀγαπᾶτε**, with its circumflex. That is the contract verb from
+Then there is **ἀγαπᾶτε**, with its circumflex: the contract verb from
 this lesson, in a form you cannot make yet. You can see the **-τε** and say
 *second person plural*, which is most of the way there.
 

@@ -53,10 +53,10 @@ down and I will show you how it works."
 ::: newgreek
 ## A third case, and what it is for
 
-You have the **nominative**, for the one doing, and the **accusative**, for
-the one it is done to. The third is the **genitive**, and its central job is
-the one on Felix's tablet: it says that one thing belongs to, comes from, or
-is somehow *of* another.
+Look again at the back of Felix's tablet. You have the **nominative**, for
+the one doing, and the **accusative**, for the one it is done to. Those
+scratched letters are in a third case, the **genitive**, which says that one
+thing belongs to, comes from, or is somehow *of* another.
 
 > **τὸ βιβλίον τοῦ διδασκάλου** — the book of the teacher; the teacher's
 > book
@@ -87,8 +87,7 @@ And the nouns:
 Note **τοῦ δώρου**. The nominative is **τὸ δῶρον**, with a circumflex; the
 genitive has an acute. That is a second rule of the same family as last
 lesson's: a circumflex can stand on the penultimate syllable only when the
-last syllable is short, and **-ου** is long. The word has not changed its mind
-about anything. It is obeying the rule about weight.
+last syllable is short, and **-ου** is long.
 
 ::: note
 **The first declension genitive plural always ends in -ῶν, with a
@@ -96,16 +95,15 @@ circumflex, whatever the accent of the nominative.** **ἡ οἰκία** is
 accented on its second syllable; **τῶν οἰκιῶν** is accented on its last.
 **ἡ ἡμέρα** gives **τῶν ἡμερῶν**.
 
-This is the one place in the first declension where the accent does
-something you cannot predict from the nominative, so it is the one place
-worth memorising deliberately.
+It is the one place in the first declension where the accent does something
+you cannot predict from the nominative, so memorise it deliberately.
 :::
 
 ## Three prepositions that demand it
 
-Some prepositions insist on a particular case. Three common ones take the
-genitive. Two of them, **ἐκ** and **ἀπό**, have to do with *coming away
-from* something; the third, **περί**, means *about*:
+Some prepositions insist on a particular case, and three common ones insist
+on the genitive. Two, **ἐκ** and **ἀπό**, mean *coming away from*
+something; the third, **περί**, means *about*:
 
 - **ἐκ** (**ἐξ** before a vowel) — out of
 - **ἀπό** — from, away from
@@ -118,17 +116,16 @@ from* something; the third, **περί**, means *about*:
 > **περὶ τῶν ἔργων** — about the deeds
 
 **ἐκ** gives English *ex-*: an *exit* is the way out, an *exodus* is a road
-out. **περί** gives *peri-*: a *perimeter* is the measure around.
+out, and the road is a word you already know. **περί** gives *peri-*: a *perimeter* is the measure around.
 
 ::: latinbridge
 Latin's genitive does the same central job — *liber magistri*, the
 teacher's book — and if you have met it, the idea transfers whole.
 
 The warning is about the prepositions. Latin *de*, *ex* and *ab* take the
-**ablative**, a case Greek does not have. Greek handed the ablative's work
-to the genitive and the dative, and has no ablative at all.
-So when a Greek preposition wants the genitive, do not look for an ablative
-ending. There is not one.
+**ablative**. Greek has no ablative; it handed that case's work to the
+genitive and the dative. So when a Greek preposition wants the genitive, do
+not look for an ablative ending.
 :::
 :::
 
@@ -498,8 +495,8 @@ Read the whole tablet aloud before you answer anything.
 2. The title runs backwards — son, then ancestor, then remoter ancestor —
    though the genealogy that follows it (Matthew 1:2–16) runs forwards.
    Why might you build a title that way?
-3. **ἡ θυγάτηρ** appears in your vocabulary but not in the genealogy. Open
-   the question of why, and see how far the class gets.
+3. **ἡ θυγάτηρ** appears in your vocabulary but not in the genealogy. Why
+   might that be? See how far you can get.
 :::
 
 ::: story

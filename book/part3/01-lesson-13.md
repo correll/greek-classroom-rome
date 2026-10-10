@@ -3,8 +3,8 @@
 ::: story
 "A story is not a list," said Quintus.
 
-Nobody had asked him, but he had clearly been building to it and there was
-no stopping it now.
+Nobody had asked him, but he had been building to it, and there was no
+stopping it now.
 
 "If I say: *he came in, he sat down, he spoke, he left* — that is four
 things, one after another. That is a list. But if I say: *the rain was
@@ -45,9 +45,10 @@ was a past.
 ::: newgreek
 ## A past with a shape
 
-The **imperfect** is a past tense, and it is not simply *the past*. It
-describes an action that was **going on**, **kept happening**, or **used to
-happen** — a situation rather than an event.
+Quintus's second set of verbs — *was falling, was going out, was speaking*
+— has a Greek tense of its own, the **imperfect**. It describes an action
+that was **going on**, **kept happening**, or **used to happen** — a
+situation rather than an event.
 
 > **ἔλεγον** — I was saying; I kept saying; I used to say
 
@@ -61,8 +62,8 @@ past tense:
 
 > **λέγω** → **ἔλεγον**  ·  **ἀκούω** → **ἤκουον**  ·  **φέρω** → **ἔφερον**
 
-When the verb already begins with a vowel, the augment cannot simply be
-stuck on the front, so the vowel lengthens instead: **ἀ-** becomes **ἠ-**,
+When the verb already begins with a vowel, the augment cannot be stuck
+on the front, so the vowel lengthens instead: **ἀ-** becomes **ἠ-**,
 **ἐ-** becomes **ἠ-**. Hence **ἀκούω → ἤκουον**. The augment is still
 there; it has been absorbed.
 
@@ -79,13 +80,13 @@ there; it has been absorbed.
 
 ::: note
 **The first person singular and the third person plural look identical:
-ἔλεγον.** This is not
-a misprint and it is not fixable. Greek lived with it quite happily, because
-in a real sentence the subject is almost never in doubt.
+ἔλεγον.** It is not
+a misprint. Greek lived with it, because in a real sentence the subject is
+almost never in doubt.
 
-When it is in doubt, a writer adds **ἐγώ** — which is exactly the use of the
-pronoun you learned in Lesson 11. The emphatic pronoun turns out to have a
-second job: removing an ambiguity the endings cannot.
+When it is in doubt, a writer adds **ἐγώ** — the emphatic pronoun from
+Lesson 11, which turns out to have a second job: removing an ambiguity the
+endings cannot.
 :::
 
 ## εἰμί in the past
@@ -107,7 +108,7 @@ Hold on to that; it matters later in this lesson.
 
 ::: latinbridge
 Latin has an imperfect that does the same job — *dicebam*, *I was saying*,
-*I used to say* — and if you have met it, the sense transfers exactly.
+*I used to say* — and the sense transfers exactly.
 
 Latin marks it with **-ba-** in the middle of the word. Greek marks it with
 an augment at the front and new endings at the back. Same idea, opposite
@@ -376,7 +377,7 @@ imperfect, of **εἰμί**.
 And because the imperfect is the tense of *going on*, the line does not say
 that the Word existed at a moment in the past. It says it **was, and
 continued to be** — through the beginning, and not starting at it. The tense
-is carrying a claim the English *was* cannot quite carry, because English
+carries a claim the English *was* cannot quite carry, because English
 *was* is just as happy reporting a thing that lasted an instant.
 
 This is the first time in this course that a tense, rather than a word, has

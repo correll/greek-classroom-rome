@@ -24,17 +24,16 @@ noun across any distance you like. Word order is freed up to carry emphasis,
 because it is not needed for grammar. The result is a language in which you
 can **point at the evidence** for your reading.
 
-That is the prize, and it is worth being exact about it. When you read a
+That is the prize. When you read a
 Greek sentence correctly you have not had an impression — you have built an
 argument out of marks on a page, and you can be asked to defend it. One
 question will follow you through all thirty-six lessons: *what in the sentence
-tells you that?* It is not a classroom mannerism. It is the whole
-transferable skill, and everything else in this book exists to make you ask
-it.
+tells you that?* It is the whole transferable skill, and everything else in
+this book exists to make you ask it.
 
 ## Why this matters more than it did
 
-The objection is not a new one, and you are in good company if you feel it.
+The objection is old, and you are in good company if you feel it.
 In the first lesson of this book Marcus asks why he should learn another
 alphabet when he already has a perfectly good one, and he asks it in Rome in
 AD 400 — by which time Greek had been the mark of an educated person for
@@ -56,15 +55,15 @@ trains both.
 **Saying exactly what you mean.** Precision is a learnable skill and an
 uncommon one. Greek teaches it by refusing you partial credit: one letter
 separates the one acting from the one acted upon, an accent separates *who?* from
-*someone*. You will discover quickly that the sentence says what you wrote
-rather than what you had in mind. This is annoying for about a term and
+*someone*. You will soon find that the sentence says what you wrote, not
+what you had in mind. This is annoying for about a term and
 useful for the rest of your life.
 
 **Checking a confident claim.** You are growing up among machines that
 produce fluent, authoritative-sounding language on demand, and fluency has
 never been evidence of correctness. The defence is a habit: test an assertion
-against evidence instead of against how plausible it sounds. That habit is
-exactly what construing a Greek sentence drills, and it transfers — to a
+against evidence instead of against how plausible it sounds. Construing a
+Greek sentence drills exactly that habit, and it transfers — to a
 classmate's confident answer, to a textbook, to a source, to whatever a
 machine has just told you. The next chapter, *To the Student*, says more
 about this, because it is the part of the argument that is really yours.
@@ -89,11 +88,11 @@ Greek.
 biographies. Students meet the teacher and the eight pupils the way they
 would meet anyone — by watching them behave. A child handed a label in
 advance watches for the label instead of the behaviour, and has been given
-the answer to a question this book wants them to work out for themselves.
+the answer to a question the book wants them to work out.
 
 The full character notes, including what each pupil is for and which lesson
 reveals what, are in the teacher's edition, together with the thirty-six-lesson
-scope and sequence. A teacher planning a term should read the latter first.
+scope and sequence. If you are planning a term, read the latter first.
 :::
 
 ## What you need to know already
@@ -103,10 +102,9 @@ means, and that verbs conjugate. Most students meet those ideas in Latin, and
 a year or two of it will make the first half of this course noticeably
 easier.
 
-Latin is a help rather than a requirement, though. What this book actually
-needs is that you have the vocabulary of grammar, wherever you picked it up;
-if you arrive without it you will need a little more patience in the early
-lessons, not a different book.
+Latin is a help, not a requirement. What this book needs is the vocabulary
+of grammar, wherever you picked it up; if you arrive without it you will need
+a little more patience in the early lessons, not a different book.
 
 Where Latin is there to be drawn on, the course draws on it. A box labelled
 **From Latin** appears whenever a Greek feature has a Latin counterpart —
@@ -134,8 +132,8 @@ know where you are.
 
 That is most of the grammar of Greek: nearly every part of the verb (the
 optative and a few rarer forms are left for later), all three declensions,
-and the constructions you will meet on almost any page. It is enough to reach real Greek rather than sentences written to be
-easy.
+and the constructions you will meet on almost any page. It is enough to
+reach real Greek.
 
 ## Attic first, then the others
 
@@ -146,12 +144,13 @@ on says which kind it is. (The three short sayings before that are older
 than the division.)
 
 You meet Koine early, in Part I — after two Delphic maxims and a proverb,
-but before you have met much Attic. That is deliberate. The three short sentences there are among the most famous in the
-language, they are made almost entirely of words you will already know, and
-reading a sentence of the New Testament in your fourth lesson is worth more
-than another fortnight of sentences written to be easy. They are labelled as Koine every time.
+but before you have met much Attic. That is deliberate. The three short
+sentences there are among the most famous in the language, they are made
+almost entirely of words you will already know, and reading a sentence of the
+New Testament in your fourth lesson is worth more than another fortnight of
+sentences written to be easy. They are labelled Koine every time.
 
-This matters, for the same reason as everything above. If you meet **εἶπαν**
+This matters for the same reason as everything above. If you meet **εἶπαν**
 in Luke and **εἶπον** in Plato and someone tells you they are "the same
 Greek", you have been told something false — in a course whose whole point is
 not accepting claims because they sound reasonable. So this book says plainly

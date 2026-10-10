@@ -73,6 +73,7 @@ are you saying?*
 
 ## The accent is the whole difference
 
+Livia's sentence and the one she meant to write differ by a single stroke.
 **τίς** with the acute is the question word. It keeps its acute always — it
 never turns to a grave before another word, which no other word in the
 language can say.
@@ -87,8 +88,7 @@ know why it had no accent of its own.
 | **τίς λέγει τὴν ἀλήθειαν;** | *Who is telling the truth?* |
 | **λέγει τις τὴν ἀλήθειαν.** | *Someone is telling the truth.* |
 
-One accent. A question or a statement. The only other thing that changes
-is the word's place: without its accent it cannot stand first, so it slips
+The only other change is the word's place: without its accent it cannot stand first, so it slips
 in behind the verb. (And a detail for later: before another enclitic, such
 as **ἐστιν**, even *someone* takes an accent — **τίς ἐστιν** can be either
 word, and only the context tells you which.)
@@ -129,8 +129,9 @@ Greek keeps the question word, accent and all:
 **οὐκ οἶδα τίς ἐστιν.**
 
 **οἶδα** is *I know* — a different verb from **γιγνώσκω**, meaning to know a
-fact rather than to get to know a thing. Learn it; it is one of the
-commonest words in the language.
+fact rather than to get to know a thing. It shares a root with Latin
+*video* and English *wit*: in Greek, to know a fact is to have seen it.
+Learn it; it is one of the commonest words in the language.
 
 ::: latinbridge
 **Latin has the same trap, and you have been falling into it for years.**
@@ -140,7 +141,7 @@ accent. If you have ever construed *si quis* as *if who?*, you already know
 what Livia felt.
 
 Latin's *num* and *nonne* are **μή** and **ἆρ᾽ οὐ**: *surely not* and
-*surely*. The correspondence is exact.
+*surely*.
 :::
 :::
 
@@ -178,8 +179,7 @@ Theodoros made them read each sentence aloud *before* deciding what it
 meant, on the grounds that the accent was audible and the meaning was not.
 
 ::: {.exercise title="Retrieval"}
-From memory. Nothing here is from this lesson; all of it is from
-Lessons 21 to 24.
+From memory. Everything here is from Lessons 21 to 24.
 
 1. **ἰδών** — what form is it, from what verb, and what does it mean?
 2. Translate **μακάριοι οἱ καθαροὶ τῇ καρδίᾳ.** What is the dative doing?
@@ -263,8 +263,7 @@ Lessons 21 to 24.
 3. **ἐστί** has an accent in the first sentence. Why? *(Think about what
    comes before it.)*
 
-Now more pairs, and single sentences. For each, translate, and say what in
-the Greek tells you.
+For each, translate, and say what in the Greek tells you.
 
 4. **τί λέγει ὁ διδάσκαλος;** — what case is **τί**, and what tells you it
    is not the subject?
@@ -418,17 +417,17 @@ thing that tells you is what the asker did next.
 (see *Sources*) and should be checked against the edition in use; the
 punctuation after **Σώκρατες** varies. John 18:38 is the text used in Lesson 4 and is stable.
 
-**On Livia.** Her mistake is the lesson's centre and it is given to her on
-purpose: the pupil who never errs makes the one error that is invisible on
-the page and audible aloud. (Her sentence is real Greek — enclitic **τις**
-after a paroxytone verb keeps the verb's accent unchanged — which is why
-Theodoros can call it a true statement rather than a mistake in grammar.) Let her re-ask. The point is not that she
-failed but that she heard the difference the moment it was named, which is
-what the whole lesson is trying to make the others do.
+**On Livia.** Her mistake is the lesson's centre, and it is hers on
+purpose: the pupil who never errs makes the one error invisible on the page
+and audible aloud. (Her sentence is real Greek — enclitic **τις** after a
+paroxytone verb keeps the verb's accent unchanged — which is why Theodoros
+can call it a true statement rather than a mistake in grammar.) Let her
+re-ask. What matters is that she heard the difference the moment it was
+named; the lesson is trying to make the others do the same.
 
-**On Marcus.** His question is a good one and he knows it. The silence is
-the honest answer and he should be allowed to see that it was honest rather
-than evasive — the text he quoted gives none either.
+**On Marcus.** His question is a good one and he knows it. Let him see that
+the silence was honest, not evasive: the text he quoted gives no answer
+either.
 :::
 :::
 

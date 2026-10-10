@@ -12,8 +12,7 @@ The characters and their school are fictional. The world around them is not.
 
 ## The world outside the door
 
-The Roman Empire is still powerful, and the children inhabit a changing
-world. Their parents live among senators, officials, merchants, clergy, and
+The Roman Empire is still powerful, but the children's world is changing. Their parents live among senators, officials, merchants, clergy, and
 scholars. The old Roman educational tradition remains prestigious: an
 educated person is expected to know Virgil and Cicero by heart. Their teacher
 insists that the next step is Greek.
@@ -33,21 +32,18 @@ important work, and a battered copy of Homer that their teacher guards as if
 it were a relic.
 
 There is no blackboard as we know it — Theodoros writes with charcoal on a
-whitened wooden board — and no textbook in every student's hands. They
-learn by recitation, copying, memorisation, translation,
-questions, and short compositions — which is to say, by very nearly the
-methods still used today, minus the paper.
+whitened wooden board — and no textbook in every student's hands. They learn
+by recitation, copying, memorisation, translation, questions, and short
+compositions: very nearly the methods still used today, minus the paper.
 
-The experience of the classroom, however, feels surprisingly modern: a bored
+The classroom itself will feel familiar: a bored
 student, an ingenious excuse, a competitive classmate, a misunderstood
 instruction, and the teacher who somehow sees through everything.
 
 ## The people
 
-You will meet them as they come.
-
-Eight pupils and one teacher share this room with you for thirty-six lessons, and
-you will learn who they are the way you learn who anyone is — by watching
+Eight pupils and one teacher share this room with you for thirty-six lessons.
+You will learn who they are the way you learn who anyone is — by watching
 what they do when something is difficult, and noticing who turns out to have
 been right.
 

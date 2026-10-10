@@ -17,8 +17,7 @@ He wrote seventeen words, put the charcoal down, and sat.
 "I have looked at it enough. There are words there we have never seen. That
 one, and that one, and whatever that is." He pointed at three of them,
 correctly, and missed a fourth. "You have given us a sentence we do not
-have the words for.
-That is not a test, it is a trick."
+have the words for. That is not a test, it is a trick."
 
 "Is it the whole sentence you cannot read," said Theodoros, "or four words
 of it?"
@@ -56,7 +55,7 @@ Marcus looked at the board for a long moment.
 ::: newgreek
 ## Reading a sentence you cannot yet read
 
-This lesson teaches no new machinery. It teaches a method, and the method is
+Livia read the board with no new machinery, only a method. The method is
 worth more than any single ending.
 
 **Read to the end before you translate any of it.** Greek routinely puts
@@ -77,13 +76,12 @@ the question she had been asked.
 is "the order of the words" or "it sounded right", you have not finished.
 
 ::: note
-This is the single most transferable habit in the course, and it has very
-little to do with Greek. You are being taught to work out what a difficult
-piece of text *does* say, from evidence on the page, rather than what it
-probably says, from the general shape of it.
+This is the most transferable habit in the course, and it has little to do
+with Greek: working out what a difficult text *does* say, from evidence on
+the page, rather than what it probably says, from its general shape.
 
-Keep this in mind when something fluent and confident is telling you
-something and you cannot immediately say how it knows.
+Remember it when something fluent and confident tells you something and
+you cannot say how it knows.
 :::
 
 ## Saying no
@@ -105,9 +103,8 @@ against a vowel, so it grows a consonant:
 | a smooth breathing | **οὐκ** | **οὐκ ἔχω** — I do not have |
 | a rough breathing | **οὐχ** | **οὐχ ἡ ὁδός** — not the road |
 
-This is the same instinct that gives English *a book* but *an apple*. It
-carries no meaning whatever. Get it right anyway: it is one of the things a
-reader notices.
+This is the instinct that gives English *a book* but *an apple*. It carries
+no meaning. Get it right anyway: a reader notices.
 
 ::: latinbridge
 Latin negates with *non*, which never changes its shape. Greek's three forms
@@ -440,8 +437,8 @@ of the rest.
 :::
 
 ::: {.exercise title="Into Greek"}
-Write each in Greek, choosing the right form of **οὐ** by looking at the
-word that follows it.
+Translate into Greek. Choose the form of **οὐ** by the word that follows
+it.
 
 1. I do not know the road.
 2. He does not have the book.

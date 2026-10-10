@@ -84,8 +84,7 @@ language. **λόγος** covers *word*, *statement*, *account*, *argument*,
 *reason*, *ratio*, *story*, *the principle behind a thing* — and no single
 English word covers that ground. When you translate **λόγος** as *word* you
 are choosing one corner of a large field and hoping it was the right corner.
-
-That is not a failure of your Greek. It is what translation is.
+Every translator does the same.
 
 ## Words move
 
@@ -94,7 +93,7 @@ and the same word in the Gospel of John may sit in three different places,
 because three or four centuries passed between each and people were using
 it the whole while.
 
-Three of this lesson's words show it clearly.
+Three of this lesson's words show it.
 
 **χάρις.** In Attic: *grace* in the sense of charm, loveliness; also a
 *favour* done for somebody; also the *thanks* you owe them for it. (English
@@ -107,8 +106,8 @@ that makes you believe something. In the New Testament: *faith*, which is
 the same thing seen from the inside.
 
 **ἀγάπη.** Almost unknown in classical prose. The verb **ἀγαπάω** is old and
-means *to be content with*, *to treat with affection*; the noun is
-essentially a Septuagint and New Testament word. When you meet it you are
+means *to be content with*, *to treat with affection*; the noun belongs to
+the Septuagint and the New Testament. When you meet it you are
 meeting a word the Greek Bible made.
 
 ::: note
@@ -129,9 +128,8 @@ not the Greek's.
 *Caritas* is the clearest case. It is the ordinary Latin for *dearness* —
 including high prices; *annonae caritas* is the cost of corn. The
 translators used it for **ἀγάπη** because the obvious word, *amor*, carried
-associations they did not want. So the Latin you know for *love* is a word
-that also meant *dearness* in the sense of high prices, and Cicero used it
-for both. The Greek never did.
+associations they did not want. So the Latin you know for *love* also meant
+the price of corn, as English *dear* still does. The Greek never did.
 
 Knowing the Latin is a help. Trusting it is a mistake. Hold each word up
 against the Greek and look for where they fail to overlap.
@@ -181,8 +179,8 @@ But first, as always now, ten things from the last four lessons, from
 memory.
 
 ::: {.exercise title="Retrieval"}
-Answer from memory. Do not look anything up; the point is to find out what
-is still there.
+Answer from memory, without looking anything up: the point is to find out
+what is still there.
 
 1. **ἔλεγε** and **εἶπε** — name the tense of each, and translate both.
 2. Give the accusative singular of **ὁ ἀνήρ**, and then the genitive.
@@ -278,8 +276,8 @@ is still there.
 :::
 
 ::: {.exercise title="Which corner of the field?"}
-**λόγος** appears in each sentence. For each, say which English word you
-would choose for it and why that one.
+For each sentence, choose an English word for **λόγος** and say why that
+one.
 
 1. **ὁ λόγος τοῦ διδασκάλου ἦν σοφός.**
 2. **ἐν ἀρχῇ ἦν ὁ λόγος.**

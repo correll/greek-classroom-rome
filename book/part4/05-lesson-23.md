@@ -47,7 +47,9 @@ Felix looked as if he did not know whether he had been praised.
 ::: newgreek
 ## Two varieties, one language
 
-**Attic** is the Greek of Athens in its great century, polished by Plato and
+Felix heard the difference before he had a name for it: the Greek
+Theodoros teaches, and the Greek he shouts at carters. **Attic** is the
+Greek of Athens in its great century, polished by Plato and
 the orators into the standard every educated Greek afterwards learned to
 write. **Koine** — *common* — is what happened to Greek when Alexander's
 armies carried it from Egypt to India and millions of people whose first
@@ -95,8 +97,9 @@ prepositions are moving in to hold its ground. This is a language in the
 middle of a change you can watch.
 
 ::: note
-**Why the change?** Because Koine was being spoken by people learning it
-as adults. Second-language speakers simplify: they drop forms with no
+**Why the change?** Look down the Koine column and think who was speaking
+it: millions of people learning it as adults. Second-language speakers
+simplify: they drop forms with no
 obvious job (the dual), they prefer one way of saying a thing to three (the
 optative goes), they say the pronoun because the ending is hard to hear in a
 noisy market. Attic was a language of native speakers writing for one
@@ -111,9 +114,9 @@ purpose, and Jerome, revising them, kept it, for the same reason the
 Gospel writers did: so that the people the book was for could
 read it.
 
-So you are not learning a new distinction. You are learning that Greek has
-it too, and learning to hear it — which Felix, who has never once construed
-a Ciceronian period correctly, can apparently do by instinct.
+So the distinction is not new. What is new is hearing it in Greek — which
+Felix, who has never once construed a Ciceronian period correctly, can
+apparently do by instinct.
 :::
 :::
 
@@ -449,16 +452,16 @@ do, by the people who shaped it.
 is stable across editions; confirm the accent on **ἐλευθερώσει**.
 
 **On the comparison.** The temptation to harmonise Socrates and John is
-strong and should be resisted in front of the class, because Lesson 24
-depends on their having seen it resisted. The two sentences are a good pair
-precisely because they *sound* alike and are not. If a pupil insists that
-they agree, ask them to say what Socrates would make of a truth that could
-be known once and for all, and let them discover he would have examined it.
+strong; resist it in front of the class, because Lesson 24 depends on their
+having seen it resisted. The pair works because the sentences *sound* alike
+and are not. If a pupil insists they agree, ask what Socrates would make of
+a truth known once and for all, and let them discover he would have
+examined it.
 
-**On Felix.** His vindication is real and should be given its weight.
-Twenty-two lessons of being the pupil who guesses from sound have ended with
-sound being, for once, exactly the right instrument. Do not undercut it with
-a reminder of his usual habits; the story does that already.
+**On Felix.** Give his vindication its full weight: after twenty-two
+lessons of guessing from sound, sound is for once exactly the right
+instrument. Do not undercut it with a reminder of his habits; the story
+does that already.
 :::
 :::
 

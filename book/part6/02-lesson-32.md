@@ -44,8 +44,7 @@ a deponent in the future only?"
 "It is. So is **γνώσομαι**, so is **ἀκούσομαι**, so is **ὄψομαι**, *I will
 see*. A whole family of common verbs that are active everywhere else and
 go middle to talk about what has not happened yet. You will learn the list
-and you will not be given a reason, because there is not one that
-survives examination. Now line five."
+and you will not be given a reason. Now line five."
 
 Marcus looked at it. "**μένω ἐν τῷ διδασκαλείῳ.**"
 
@@ -78,8 +77,8 @@ you will come is to say you have already started."
 
 "That is the best description of **εἶμι** I have heard, and you may keep
 it." Theodoros picked up the tablet. "Lines one and three are correct.
-**γράψω**: the **σ**, on the stem of **γράφω**, fused to **ψ** exactly as
-in the aorist — but no augment, and the endings of the present. **οὐ
+**γράψω**: the **σ**, on the stem of **γράφω**, fused to **ψ** as in the
+aorist — but no augment, and the endings of the present. **οὐ
 ψεύσομαι**: deponent, **σ**, future. Four out of six, and the two wrong
 ones the two you wrote last, after you began to feel confident."
 
@@ -94,9 +93,9 @@ twice."
 ::: newgreek
 ## The future: the σ without the augment
 
-The **future** says that something will happen. Its mark is the **σ** you
-know from the first aorist — but with no augment at the front, and the
-*present* endings behind it.
+Look again at Marcus's first line, which he got right. The **σ** is the
+one you know from the first aorist — but there is no augment at the front,
+and the endings behind it are the *present* ones. That is the **future**.
 
 ::: paradigm
 | | Future active | Future middle |
@@ -535,12 +534,12 @@ since **χαλεπὰ τὰ καλά** in Lesson 3: predicate, no article, verb
 understood. A pupil who sees that without being told has carried Lesson 3
 through thirty lessons.
 
-**On Marcus.** His promises are a genuine attempt, not a performance, and
-the class should hear that. He is wrong about the grammar twice in six
-and right about what the future tense is *for* — a sentence that can
-be checked later — which is the lesson's point, and Theodoros gives him
-that in the closing scene. Do not let the room laugh at line five; let it
-notice that the error is one accent, and that an accent is enough.
+**On Marcus.** His promises are meant, not performed, and the class should
+hear that. He is wrong about the grammar twice in six and right about what
+the future is *for* — a sentence that can be checked later — and Theodoros
+gives him that in the closing scene. Do not let the room laugh at line
+five; let it see that the error is one accent, and that an accent is
+enough.
 
 **On the subjunctive.** **μεριμνήσητε** is the second time a pupil has had
 to take the aorist subjunctive whole (Lesson 26 named the construction).

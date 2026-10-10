@@ -10,9 +10,9 @@ most common one in American classrooms.
 ::: note
 **Why it matters that you know which system you are learning.**
 Greek has been read aloud in at least three widely used ways, and they
-differ substantially. A student who is taught one system without being told
-it is a system will later meet another and conclude, wrongly, that someone
-is making mistakes. Nobody is. They are different conventions, chosen for
+differ a good deal. A student taught one system without being told it is a
+system will later meet another and conclude, wrongly, that someone is making
+mistakes. Nobody is. They are different conventions, chosen for
 different reasons.
 :::
 
@@ -41,7 +41,7 @@ This course chooses reconstruction because the course is about the ancient
 world and because the sound of the language is part of what we are reading
 — Homer's hexameters and Greek wordplay stop working if the vowels are
 wrong. Where the reconstruction differs sharply from Erasmian, a note says
-so, since students may meet Erasmian elsewhere.
+so, since you may meet Erasmian elsewhere.
 
 ## The alphabet
 
@@ -120,8 +120,7 @@ exaggerated and is correct.
 **ει and ου are the odd ones.** By the fifth century these were no longer <!--nocheck-->
 true diphthongs in Attic but long single vowels — **ει** a close long
 *e*, **ου** a close long *o* that became a long *oo* during the fourth
-century. They are spelled as digraphs for historical
-reasons. Erasmian pronounces **ει** as *ay* in *day*, which is close
+century. They are spelled as digraphs for historical reasons. Erasmian pronounces **ει** as *ay* in *day*, which is close
 enough that confusion is rare.
 :::
 
@@ -197,8 +196,7 @@ The last one catches everyone once. A Greek semicolon asks a question.
 
 ## A short reading drill
 
-Read these aloud, slowly, applying the rules above. All are real words you
-will meet.
+Read these aloud, slowly. All are real words you will meet.
 
 **ἄνθρωπος** · **λόγος** · **φίλος** · **θεός** · **ψυχή** · **ἀρχή** ·
 **οἶκος** · **ὁδός** · **ῥήτωρ** · **ξένος** · **Ἀθῆναι** · **ἀγγέλλω**

@@ -76,8 +76,8 @@ rule of life. An aorist imperative asks for a *deed* — once, now, complete.
 
 You have met this difference in the indicative (Lesson 14), the infinitive
 (Lesson 16) and the participle (Lesson 22). The imperative is the fourth
-and, for this course, the last place it lives, and it is the place where it matters most in daily
-speech, because most of what people say to each other is commands.
+and, for this course, the last place it lives, and the one that matters
+most in daily speech: most of what people say to each other is commands.
 
 ## Saying *don't*
 
@@ -94,14 +94,13 @@ Recognise **μή** + a verb as a prohibition and let the exact form wait.
 
 ::: note
 **This is why μηδὲν ἄγαν has μηδέν and not οὐδέν.** You may have wondered in Lesson 2
-why the maxim used the **μή** word for *nothing*. The answer is that it is
-a command — *[do] nothing in excess* — and commands take the **μή** family.
+why the maxim used the **μή** word for *nothing*. It is a command — *[do] nothing in excess* — and commands take the **μή** family.
 There is no verb in the maxim; the **μ-** tells you one is understood.
 :::
 
 ## Obligation
 
-**δεῖ** — *it is necessary* — and **χρή** — *one ought* — are impersonal.
+Look again at how Marcus's conclusion began. **δεῖ** — *it is necessary* — and **χρή** — *one ought* — are impersonal.
 They have no subject in the ordinary sense; the person who must do the
 thing goes in the accusative, and the thing to be done is an infinitive.
 
@@ -119,12 +118,10 @@ Greek keeps these apart with its verbs, not its moods.
 - **κελεύω** — I order. The imperative's verb.
 - **συμβουλεύω** — I advise. Takes the dative: advice is given *to*.
 - **πείθω** — I persuade. And **πείθομαι**, the middle, is *I am persuaded*
-  — which is to say, *I obey*. In Greek, to obey is to have been
-  convinced.
+  — which is to say, *I obey*.
 
-That last one is worth a moment. The ordinary classical word for obeying
-is simply the middle of the word for persuading. A Greek who **πείθεται**
-has, by the grammar, agreed.
+The ordinary classical word for obeying is the middle of the word for
+persuading. A Greek who **πείθεται** has, by the grammar, agreed.
 
 ::: latinbridge
 **Latin's imperative is simpler and says less.** *Dic*, *audi*, *scribe* —
@@ -404,27 +401,25 @@ in excess*, which is advice.
 
 **Three lessons in two words each.** Aspect — the aorist of **γνῶθι**.
 The negative of command — the **μή** of **μηδέν**. The verb that need not
-be written — the missing *do*. You could not have seen any of it in Lesson
-1. You copied the letters. You can now read the grammar, and the grammar
-turns out to have been saying something all along.
+be written — the missing *do*. In Lesson 1 you copied the letters. Now you
+can read the grammar, and it turns out to have been saying something all
+along.
 
 ::: teacheronly
 **On the maxims.** They are proverbial and the Delphic carving is attested
 only by report; the Plato references are the course's sources for the
 wording, as in Lessons 1 and 2, and should be given as such.
 
-**On Marcus.** This is his best scene and the course's notes call it his
-best argument in the course, and its flaw. Give him the grammar victory in
+**On Marcus.** This is his best argument in the course, and its flaw.
+Give him the grammar victory in
 full — Julia's concession should sound like a concession — before Livia
 takes the argument apart. The lesson fails if he is made ridiculous; it
 works if he is made right about the Greek and wrong about the world, in
 that order, and knows which is which by the end.
 
-**On πείθομαι.** The observation that the ordinary word for obeying is the
-middle of the word for persuading is worth pausing on. (Koine has
-**ὑπακούω** as well, which has nothing to do with persuasion; the point is
-about **πείθομαι**, not about the whole language.) It is
-also the answer to a question a thoughtful pupil may ask about why
+**On πείθομαι.** Pause on it. (Koine has **ὑπακούω** as well, which has
+nothing to do with persuasion; the point is about **πείθομαι**, not about
+the whole language.) It also answers the thoughtful pupil who asks why
 **κελεύω** and **πείθω** are different verbs at all.
 :::
 :::

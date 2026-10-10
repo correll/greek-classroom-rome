@@ -42,10 +42,11 @@ collision; then we argue; and I tell you now that I shall not settle it."
 ::: newgreek
 ## Verbs that melt
 
-Some verbs have a stem that ends in a vowel — **α**, **ε** or **ο**. In
-most of the verb that is no trouble: the future, the aorist and the perfect
-put a consonant between stem and ending (**ἀγαπή-σ-ω**, **ἐ-ποίη-σ-α**,
-**δε-δήλω-κ-α**), and the stem vowel simply lengthens before it, **α** and
+Both of John's verbs for love have a stem that ends in a vowel, and so do
+many others — **α**, **ε** or **ο**. In most of the verb that is no
+trouble: the future, the aorist and the perfect put a consonant between
+stem and ending (**ἀγαπή-σ-ω**, **ἐ-ποίη-σ-α**, **δε-δήλω-κ-α**), and the
+stem vowel lengthens before it, **α** and
 **ε** to **η**, **ο** to **ω**.
 
 But in the **present** and the **imperfect** there is no consonant. The stem
@@ -140,11 +141,9 @@ The middle and passive endings of Lesson 31 melt in exactly the same way.
 | 2 plur. | **ἠγαπᾶσθε** | **ἐποιεῖσθε** | **ἐδηλοῦσθε** |
 | 3 plur. | **ἠγαπῶντο** | **ἐποιοῦντο** | **ἐδηλοῦντο** |
 
-Notice **ἀγαπᾷ** in the second singular of the middle. It is identical to
-the third singular of the active. **ἀγαπᾷ** is *he loves* and also *you are
-loved*, and only the sentence can tell you which. Melting costs something.
-It is the price of a language that will not keep two vowels apart when it
-can say them as one.
+Find **ἀγαπᾷ** in the second singular of the middle, then look for it in
+the active table. **ἀγαπᾷ** is *he loves* and also *you are loved*, and
+only the sentence can tell you which.
 
 ::: note
 **Six verbs you already own are contract verbs**, and you can now explain
@@ -154,7 +153,7 @@ Samaritan is its imperative. **εὐλογέω** (20) and **ἐλεέω** (22): 
 **ἐρωτᾷ**. And **ὁράω**, *I see*, whose aorist **εἶδον** you met in Lesson 22
 and whose imperative **ἰδού** you met in Lesson 27: its present is **ὁρῶ,
 ὁρᾷς, ὁρᾷ**, and its imperfect takes a double augment, **ἑώρων**, which you
-should simply recognise.
+need only recognise.
 
 **καλέω** keeps its **ε** short outside the present: future **καλῶ**
 (which is a contracted future, Lesson 32), aorist **ἐκάλεσα**. It is the
@@ -412,17 +411,17 @@ that I love you. He says to him: Feed my lambs.*
 
 **Three contract forms in one verse** — **ἠρίστησαν**, **ἀγαπᾷς**,
 **φιλῶ** — and only two of them melted. The aorist put a **σ** between stem
-and ending and the vowel lengthened instead. That is the whole of this
-lesson's rule, and the verse happens to illustrate it.
+and ending and the vowel lengthened instead.
 
 **And the question.** Jesus asks with **ἀγαπάω**. Peter answers with
 **φιλέω**. Peter also answers **ναί**, *yes* — which is not the answer to a
 question in which the verb had been refused. He says *yes* and changes the
-verb, and whether the second cancels the first is the argument. Notice at
-least this: **σύ** is written. Peter does not say *I love you*. He says
-*you know that I love you* — and throws the weight on the *you*. He is not
-describing his feeling. He is appealing to the other man's knowledge of it.
-Lesson 11 told you a written pronoun is a raised voice. Here it is raised.
+verb, and whether the second cancels the first is the argument. This much
+is not in dispute: **σύ** is written. Peter does not say *I love you*; he
+says *you know that I love you*, and throws the weight on the *you* —
+appealing to the other man's knowledge of his feeling instead of
+describing it. Lesson 11 told you a written pronoun is a raised voice.
+Here it is raised.
 
 ::: teacheronly
 **Verify before teaching.** The text follows the standard Greek New
@@ -432,18 +431,18 @@ from the **Ἰωνᾶ** of the Received Text, and **ἀρνία** against **πρ
 and **προβάτια** in the verses that follow; editions differ.
 
 **On the argument.** Do not settle it. The older commentators mostly held
-that the change of verb is deliberate and that Peter, having denied three
-times, will not now claim the greater word; many modern readers, noting that
-John varies **βόσκε/ποίμαινε**, **ἀρνία/πρόβατα** and **οἶδας/γινώσκεις** in
+that the change of verb is deliberate: Peter, having denied three times,
+will not now claim the greater word. Many modern readers note that John
+varies **βόσκε/ποίμαινε**, **ἀρνία/πρόβατα** and **οἶδας/γινώσκεις** in
 the same three verses and uses **φιλέω** elsewhere of the Father's love for
-the Son (5:20), hold that the variation is John's style and carries no
-weight. Both positions are respectable; both are defended from the page.
-Livia's point about the sheep is the second position in a sentence, and it
-should be allowed its full force before Marcus answers it — which he can,
-by observing that Peter was *grieved* at the third question and not at the
-first two, and asking what changed. The class should leave with the
-evidence on both sides and no verdict, and should be told that this is
-what reading a real text is like.
+the Son (5:20), and hold that the variation is style and carries no
+weight. Both positions are respectable and defended from the page.
+Livia's point about the sheep is the second in a sentence; give it its
+full force before Marcus answers it — which he can, by observing that
+Peter was *grieved* at the third question and not the first two, and
+asking what changed. The class should leave with the evidence on both
+sides, no verdict, and the news that this is what reading a real text is
+like.
 
 **On Theodosius.** He has brought the Latin to the Greek and found the
 Greek *behind* it, which is Lesson 19's discovery made a second time with

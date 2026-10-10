@@ -101,16 +101,15 @@ The **infinitive** is the form that does not do this.
 | **μανθάνω** I learn | **μανθάνειν** | **μαθεῖν** |
 | **εἰμί** I am | **εἶναι** | *(none)* |
 
-**λέγειν** is *to say*. Not *I* say, not *you* say, not *they* say. Just the
-action, with nobody attached to it.
+**λέγειν** is *to say*. Not *I* say, not *you* say, not *they* say. The
+action, with Nobody attached to it.
 
 English does the same thing with *to*: *to say*, *to write*, *to be*. Latin
-does it with **-re**: *dīcere*, *scrībere* (and, irregularly, *esse*). Every
-one of these is the verb with the person taken off.
+does it with **-re**: *dīcere*, *scrībere* (and, irregularly, *esse*).
 
 ## Two jobs, and they are not the same job
 
-The infinitive turns up in two quite different places, and telling them apart
+The infinitive turns up in two different places, and telling them apart
 is most of this lesson.
 
 **Job one: completing another verb.** Some verbs are unfinished on their own.
@@ -138,7 +137,7 @@ Watch a sentence change shape.
 **σοφία**, which was in the nominative because it was sitting on the other
 side of *is*, has become **σοφίαν** to match.
 
-That last move surprises everybody. The rule is simple: whatever case the
+That last move surprises everybody. The rule: whatever case the
 subject is in, a word describing that subject goes into the same case. The
 subject has moved to the accusative, so its description follows it.
 
@@ -147,15 +146,14 @@ subject has moved to the accusative, so its description follows it.
 is wisdom*. Greek does not. The accusative and the infinitive are the
 signal, all by themselves.
 
-When you translate into English you will have to supply *that* out of your
-own pocket. It is not in the Greek, and you should know that you are adding
-it.
+When you translate, you supply *that* out of your own pocket, and you should
+know that you are adding it.
 :::
 
 ## Aspect comes with it
 
-In Lesson 14 you learned that Greek verbs care about the *shape* of an
-action, not only when it happened. The infinitive carries that too — and this
+In Lesson 14 Marcus said *volo dicere* twice, for two Greek infinitives that
+are not the same: the infinitive carries the *shape* of an action — and this
 is where the two jobs part company.
 
 **In job one, the infinitive has no time at all. Only shape.**
@@ -403,8 +401,8 @@ nothing in particular.
 :::
 
 ::: {.exercise title="Rebuild the direct words"}
-Each of these reports what somebody said. Write out what they actually said —
-that is, turn the accusative back into a nominative and the infinitive back
+Each of these reports what somebody said. Write out their actual words:
+turn the accusative back into a nominative and the infinitive back
 into a finite verb.
 
 1. **λέγει τὸν θεὸν ἀγαθὸν εἶναι.**
@@ -522,15 +520,12 @@ has given the Cyclops wine. The Cyclops has asked his name.
 *Nobody is my name; Nobody is what my mother and my father and all my other
 companions call me.*
 
-**Now look at what he has done.**
-
 He has given the word twice, and in two different cases: **Οὖτις** in the
 nominative, **Οὖτιν** in the accusative. A name has to decline. By declining
 it, he makes it behave like a name — he puts it through the one test the
 Cyclops might have applied, and it passes.
 
-And every word of it is true. He has not said a false thing. He has said a
-true thing in a shape designed to be misheard.
+And every word of it is true.
 
 **Then the trap closes.** The Cyclops, blinded and shouting, tells his
 neighbours outside the cave that *Nobody* is killing him. He uses the
@@ -558,12 +553,10 @@ down.
 **Verify before teaching.** These two lines follow the standard text (see
 *Sources*). Check them against the edition in use before putting them on
 the board, with particular attention to **ἐμοί γ᾽** and to the breathing
-on **ἑταῖροι**. The Lesson 15 note applies: every Attic sentence composed for
-this course is safe, and every Homeric quotation is a quotation and deserves
-the same check the course asks of its pupils.
+on **ἑταῖροι**. The Lesson 15 note on Attic and Homeric lines applies.
 
-**On the lesson's argument.** The scene is deliberately left unresolved, and
-it should stay unresolved. Theodosius's objection is not a straw man and
+**On the lesson's argument.** The scene is left unresolved on purpose; keep
+it so. Theodosius's objection is not a straw man and
 Quintus's reply is not a victory; Sabina's distinction between a poem
 admiring and a poem watching is the most useful thing in the lesson and is
 worth writing on the board. If the class demands a verdict, the honest answer

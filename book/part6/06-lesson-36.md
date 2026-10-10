@@ -42,7 +42,8 @@ were strange."
 ::: newgreek
 ## The verbs that did not change
 
-Every verb you have learned ends its first person in **-ω**, and puts a
+Say Theodoros's three words aloud and listen for what is missing. Every
+verb you have learned ends its first person in **-ω**, and puts a
 vowel — **ο** or **ε** — between the stem and the ending: **λύ-ο-μεν,
 λύ-ε-τε**. That vowel is the *thematic vowel*, and the **-ω** verbs are the
 younger family.
@@ -74,8 +75,7 @@ Each present stem is *reduplicated*: the first consonant repeated with
 (the **σ** became a rough breathing). That is the reduplication of Lesson
 33 doing a different job: there it marked the perfect; here it marks the
 present of an old verb. The stems themselves are **δω/δο**, **θη/θε**,
-**στη/στα**, long in the singular and short in the plural, exactly as the
-table shows.
+**στη/στα**: long and short, as the table shows.
 
 The imperfect takes an augment and the short-vowel endings:
 **ἐδίδουν, ἐδίδους, ἐδίδου, ἐδίδομεν, ἐδίδοτε, ἐδίδοσαν**; **ἐτίθην,
@@ -148,7 +148,7 @@ no thematic vowel either; it is the oldest form in the table.
 
 ## εἶμι
 
-**εἶμι**, *I go*, is a different verb from **εἰμί** by a breathing and an
+**εἶμι**, *I go*, is a different verb from **εἰμί**, told apart only by its
 accent, and in Attic it has **future meaning**: Lesson 32 gave it to you as
 the future of **ἔρχομαι**, and that is how to use it.
 
@@ -162,9 +162,9 @@ Imperfect **ᾖα, ᾔεισθα, ᾔει, ᾖμεν, ᾖτε, ᾖσαν**; impe
 infinitive **ἰέναι**; participle **ἰών, ἰοῦσα, ἰόν**. Two of its forms
 collide with **εἰμί**. **εἶ** is *you are* and also *you will go*; **εἶσι**
 is *he will go*, and **εἰσί** — accent on the end, no circumflex — is
-*they are*. What in the word tells you? The accent, and nothing else. It
-is the last time this book will ask the question, and the answer is the
-same as the first time.
+*they are*. What in the word tells you? It is the last time this book will
+ask the question, and the answer is the same as the first time: the
+accent, and nothing else.
 
 ## φημί
 
@@ -449,8 +449,9 @@ futures.** Two of them passive, with no agent named: *it will be given*,
 meant to supply. **And one -μι verb,** hidden inside **δοθήσεται**.
 **δοθήσεται** is **δίδωμι** with the reduplication gone, the passive
 marker, the future marker and a middle ending: four pieces, from three
-lessons, stacked on one stem. At the start of this course you could not read the letters. Now you can take that word
-apart and name each piece and say what it is doing.
+lessons, stacked on one stem. At the start of this course you could not
+read the letters; now you can take that word apart and say what each
+piece is doing.
 
 ::: teacheronly
 **Verify before teaching.** The text follows the standard Greek New
@@ -462,13 +463,13 @@ the future marker, because some manuscripts read **ἀνοίγεται**.
 the class in Latin (*petite et dabitur vobis*), and contains a contract
 imperative, a future, a future passive and a **-μι** stem in eleven words.
 Have each pupil take one word and account for every piece of it aloud.
-This is the Great Reading's method applied to a single verse, and it is a
-fair final examination of Part VI.
+This is the Great Reading's method on a single verse, and a fair final
+examination of Part VI.
 
 **On the box.** The things Theodoros gives back are the class's own errors
-from the course, kept. If your own class has a course's worth of tablets, this
-is the lesson to return them; if it does not, the scene still works as a
-story, but it works better as a fact.
+from the course, kept. If your own class has a course's worth of tablets,
+this is the lesson to return them; if not, the scene still works as a
+story, but better as a fact.
 :::
 :::
 

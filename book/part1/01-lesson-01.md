@@ -40,14 +40,13 @@ in large, careful strokes he wrote:
 ::: newgreek
 ## Twenty-four letters
 
-The Greek alphabet has twenty-four letters. You know more of them than you
-expect to, because the Latin alphabet is descended from the Greek one — the
+Look again at the board. Greek has twenty-four letters, and you know more
+of them than you expect, because the Latin alphabet is descended from the Greek one — the
 Romans borrowed it, by way of the Etruscans, and changed it as they went.
 
-Each letter has a **name** and a **sound**, and the two are not the same
-thing. The letter whose name is **βῆτα** makes the sound *b*; its name is
-not its sound any more than the English letter named *double-u* makes the
-sound *double-u*.
+Each letter has a **name** and a **sound**. The letter named **βῆτα**
+makes the sound *b*, as the English letter named *double-u* makes the
+sound *w*.
 
 | | Name | Sound | | | Name | Sound |
 |:--|:--|:--|:-:|:--|:--|:--|
@@ -81,8 +80,8 @@ Six letters look like Latin letters and are not.
 | **Ω ω** — a *w* | long **o** | **ὦ μέγα** is *ō mega* |
 | **Ν ν** — a *v* | **n** | **νῦ** is *nü* |
 
-Marcus will get three of these wrong at first. So will
-you. Then you will stop.
+Marcus will get three of these wrong at first. So will you. Then you will
+stop.
 
 ## σ and ς
 
@@ -96,8 +95,8 @@ everywhere else:
 Theodoros wrote **ΑΘΗΝΑ**. Letter by letter: **Α Θ Η Ν Α** — *a*, *th*
 (with a puff), long *e*, *n*, *a*. Sound it out: *a-thē-na*.
 
-In the lower-case letters you will use in this book, that word is written
-two different ways depending on what it means:
+In the small letters this book uses, the word is written two ways,
+depending on what it means:
 
 - **ἡ Ἀθηνᾶ** — the goddess Athena.
 - **αἱ Ἀθῆναι** — the city of Athens. The Greeks called it a plural, as
@@ -115,11 +114,11 @@ marks. The board would have read:
 The small letters, the accents, the breathings, and the spaces between
 words are all later inventions — some from Alexandrian scholars around
 200 BC, the small letters not until about four hundred years *after*
-Theodoros. Modern printed editions use them because they make reading
-enormously easier. This book uses them for the same reason.
+Theodoros. Modern printed editions use them, and so does this book,
+because they make reading far easier.
 
-But remember what has been added. Every accent you see is a mark devised
-by Alexandrian scholars while the pitch accent was still spoken, handed
+But remember what has been added. Every accent you see was devised by
+Alexandrian scholars while the pitch accent was still spoken, handed
 down by grammarians, and written out in full only centuries later.
 :::
 :::
@@ -384,14 +383,12 @@ under another, each with its little word in front:
 :::
 
 ::: latinbridge
-Marcus's joke has a serious point behind it, and the Romans made it
-constantly. **ΒΙΡΓΙΛΙΟΣ** really is how a Greek writer would have spelled
+Marcus's joke has a serious point, and the Romans made it constantly. **ΒΙΡΓΙΛΙΟΣ** really is how a Greek writer would have spelled
 *Vergilius* in Theodoros's day — by AD 400 **β** was pronounced *v*
 (earlier Greeks had written **Οὐεργίλιος**) — and it added **-ος** because
 a Greek noun needs a Greek ending to be declined at all.
 
-That last part is the real lesson. A word enters a language properly only
-when the language can bend it. Marcus gave Virgil a Greek ending without
-meaning to, and in doing so did something more nearly right than he
-intended.
+A word enters a language properly only when the language can bend it.
+Marcus gave Virgil a Greek ending as a joke, and did something more
+nearly right than he intended.
 :::

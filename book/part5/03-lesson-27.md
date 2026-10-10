@@ -48,12 +48,11 @@ cannot do."
 ::: newgreek
 ## Where grammar stops
 
-Lesson 18 gave you a method: endings, article, aspect, connectors, and then
-the fifth question. That method will tell you which translations are
-*possible*. It will eliminate the ones the Greek forbids.
-
-It will not, by itself, choose between the ones the Greek allows. For that
-you need three things that are not grammar.
+Julia's translation passes every test of the method Lesson 18 gave you:
+endings, article, aspect, connectors, and then the fifth question. So does
+Livia's. The method tells you which translations are *possible*; it will
+not, by itself, choose between them. For that you need three things that
+are not grammar.
 
 **One. Range.** A Greek word covers a region (Lesson 19). When the region is
 wider than any English word's, the translator must choose a corner, and the
@@ -82,7 +81,8 @@ Sometimes the Greek is open on purpose. **καὶ ἡ σκοτία αὐτὸ ο
 *overtake*, *grasp*, and from *grasp* it comes to mean *understand*. *The
 darkness did not overcome it* and *the darkness did not comprehend it* are
 both the verb, and a great many readers have thought the writer wanted
-both at once.
+both at once. (English *comprehend* made the same journey: Latin
+*prehendere* is *to seize*.)
 
 A translator who picks one has made a choice. A translator who finds an
 English verb that keeps both — *the darkness has not mastered it* — has
@@ -97,8 +97,7 @@ choose which loss the reader can best afford.
 
 *Within you* loses the audience. *Among you* loses the inwardness that
 **ἐντός** usually carries. *Overcome* loses the understanding; *comprehend*
-loses the struggle. You cannot have everything. You can know what you gave
-up, and say so.
+loses the struggle. You can know what you gave up, and say so.
 
 ::: note
 **Marcus has been doing this on purpose all through this course.** Every one of his
@@ -427,16 +426,15 @@ Testament (see *Sources*); check verse 21 in particular, where the
 punctuation after **ἐροῦσιν** and the form **ἤ** vary between editions.
 
 **On adjudicating.** The lesson gives Livia the stronger argument *on this
-evidence* and says so, and also says that the question is not closed. Keep
-both. The failure modes are a class that concludes *within you* is simply
-an error (it is not; it has a long and serious history) and a class that
-concludes the question cannot be answered (it can be argued, and Livia
-argues it). What the lesson wants is a class that can say which reading
-the context favours and why, and can say what is lost by choosing it.
+evidence* and leaves the question open. Keep both. Watch for two failures:
+a class that decides *within you* is an error (it is not; it has a long
+and serious history), and a class that decides the question cannot be
+answered (it can be argued, and Livia argues it). You want a class that
+can say which reading the context favours, why, and what is lost by
+choosing it.
 
 **On Julia.** Her translation is the lexicon's default and she defends it
-exactly as a careful pupil should. She is not wrong about anything in her
-sentence. Do not let the class treat her as having blundered; she has
+exactly as a careful pupil should. Do not let the class treat her as having blundered; she has
 done what Lesson 18 taught and discovered that Lesson 18 was not the end.
 :::
 :::

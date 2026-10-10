@@ -39,8 +39,8 @@ Greek."
 ::: newgreek
 ## The shape of a Greek letter
 
-Greek letters, for a thousand years, began and ended the same way, and the
-way is built out of grammar you have.
+Felix's letter to the cat opens and closes as Greek letters did for a
+thousand years, and the shape is built out of grammar you have.
 
 **The opening.** The sender, in the nominative. The recipient, in the
 dative. Then the single word **χαίρειν**.
@@ -70,7 +70,7 @@ business — which makes the whole opening one balanced sentence: *first,
 health; and then …*
 
 **The body.** Whatever needs saying, in the Greek you have. Short sentences
-on **καί** and **δέ** are not a weakness here; they are how people wrote.
+on **καί** and **δέ** are how people wrote.
 
 **The greetings.** **ἀσπάζομαι** — *I greet* — with the accusative, as many
 times as there are people to greet. **ἀσπάζομαι τὸν ἀδελφόν μου καὶ τὴν
@@ -92,13 +92,14 @@ reader has to repair.
 
 This is how real letters were written. Apion, whose letter you will read,
 was a sailor, not a scholar; he misspells things, his sentences run on
-**καί**, and he is perfectly understood. Aim for Apion.
+**καί**, and he is perfectly understood.
 
 ::: latinbridge
 **Latin letters have the same bones and you know them.** *Cicero Attico
 salutem* — sender nominative, recipient dative, and *salutem* (*dicit*
 understood) where Greek has **χαίρειν** (**λέγει** understood). *Si vales,
-bene est* for the health wish. *Vale* for **ἔρρωσο**.
+bene est* for the health wish. *Vale* for **ἔρρωσο** — and *vale*, too,
+means *be strong*.
 
 Cicero's letters are the most Greek thing he wrote. He had learned the
 form in Greek, as every educated Roman did, and kept it. When you write
@@ -372,11 +373,9 @@ father, once of a god, and the same word for both. **ἀδελφή**, **θυγά
 *because*. **θάλασσα** in the Koine spelling. **εὐθέως**. A sailor from
 Egypt, writing in the second century AD, used almost nothing you have not had.
 
-**And notice what the letter does with the formulas.** It fills them. The
-health wish is not an empty phrase; he has just nearly drowned, and *I pray
-you are well* is followed at once by *I give thanks that I am*. The shape
-every Greek letter had turns out to hold a real event, when a real person
-writes in it.
+**And look at what the letter does with the formulas.** It fills them. He
+has just nearly drowned, and *I pray you are well* is followed at once
+by *I give thanks that I am*.
 
 The original is full of spellings no grammar would allow — he writes
 **ἐρωμένον** for **ἐρρωμένον**, **Μησήνους** for Misenum, **χέραν** for
@@ -397,11 +396,10 @@ copy anyway, because no better specimen of an ordinary person's Greek
 exists, and admits the licence here rather than hide it. If a pupil asks
 how he came by it, the honest answer is that the book did.
 
-**On Felix's letter.** It is marked equal to Aelia's on purpose, and the
-reason is given in the scene: the task was correct Greek, and his is
-correct. If a class feels the mark is unfair, that is a good argument to
-have, and the honest answer is that a longer correct letter and a shorter
-correct letter have both done what was asked. Do not raise Aelia's mark;
+**On Felix's letter.** It is marked equal to Aelia's on purpose: the task
+was correct Greek, and his is correct. If a class feels the mark is unfair,
+have the argument; a longer correct letter and a shorter one have both done
+what was asked. Do not raise Aelia's mark;
 if anything, point out that Felix's **ἐγὼ δὲ οὔ** is a **μέν**-less **δέ**
 used with real wit.
 

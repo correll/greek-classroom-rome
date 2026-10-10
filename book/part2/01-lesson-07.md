@@ -28,7 +28,7 @@ the board.
 
 "*Fine things are hard*," said Marcus. "We did it. It is a proverb."
 
-"Good." Theodoros rubbed out nothing, moved nothing, and simply wrote the
+"Good." Theodoros rubbed out nothing, moved nothing, and wrote the
 same three words again underneath in a different order:
 
 > **τὰ χαλεπὰ καλά**
@@ -50,9 +50,9 @@ The words are identical. Not one letter has changed. What moved?"
 ::: newgreek
 ## The whole article, at last
 
-You have been using five or six forms of the article. There are more, and they
-are the most useful words in the language. Here is everything you need for
-the next six lessons:
+Marcus lost his argument to a word two letters long. You have been using five
+or six forms of the article; here is all of it you need for the next six
+lessons:
 
 | | masculine | feminine | neuter |
 |:--|:--|:--|:--|
@@ -64,7 +64,7 @@ the next six lessons:
 Learn it as a shape, down the columns and across the rows, until you can say
 it without thinking. Everything in Part II depends on it.
 
-Three observations worth having now.
+Three observations.
 
 **Neuter never distinguishes subject from object** — **τό** in the singular,
 **τά** in the plural, both cases. You met this in Lesson 3 and it remains
@@ -93,8 +93,7 @@ The nouns follow, in the two patterns you already half know:
 | **acc. plur.** | **τοὺς λόγους** | **τὰς ψυχάς** | **τὰς οἰκίας** | **τὰ δῶρα** |
 
 The second declension (**λόγος**, **δῶρον**) and the first (**ψυχή**,
-**οἰκία**) are the two you will meet most. The third arrives in Lesson 15 and
-is worth not worrying about yet.
+**οἰκία**) are the two you will meet most. The third arrives in Lesson 15.
 
 ## Why ἄνθρωπος moves its accent
 
@@ -102,37 +101,35 @@ One oddity, and it has a rule behind it.
 
 > **ὁ ἄνθρωπος** → **τοὺς ἀνθρώπους**
 
-The accent has walked forward one syllable. It did not do this to annoy
-you. Greek accents obey a single mechanical restriction:
+The accent has walked forward one syllable. Compare the last syllables: what
+else is different? Greek accents obey one mechanical restriction:
 
 **An accent cannot stand on the third syllable from the end if the last
 syllable is long.**
 
 **ἄν-θρω-πος** has a short last syllable, so the accent may sit three back.
 **ἀν-θρώ-πους** has a long one — **-ους** — so the accent is forced forward
-to the second. Nothing about the meaning has changed; the word is simply
-obeying a rule about weight.
+to the second. The meaning has not changed; the word is obeying a rule
+about weight.
 
-You will see this happen to many nouns. When it does, it is this rule, and
-you need not learn each case separately.
+Many nouns do this, and it is always this rule; you need not learn them one
+by one.
 
 ::: latinbridge
-Latin's accent obeys a very similar law — the accent never goes further back
+Latin's accent obeys a similar law — the accent never goes further back
 than the third syllable, and the length of the penultimate syllable decides
 where it lands. If you have ever been taught *penultimate long, accent on
 the penult; penultimate short, accent on the antepenult*, you have already
 met the idea.
 
-Greek adds one twist Latin does not have: in Greek the length of the **last**
-syllable also constrains the accent. That is the rule above, and it is the
-only new thing here.
+Greek adds one twist: the length of the **last** syllable counts too. That is
+the rule above, and the only new thing here.
 :::
 
 ## What the article is for
 
-Marcus was wrong, but he was wrong in an interesting way. The article is not
-doing what *the* does in English. It is doing four things at once, and the
-fourth is the valuable one.
+Marcus was wrong in an interesting way: he took the article for an English
+*the*. It does four things at once, and the fourth decided his proverb.
 
 **It gives gender** — **ὁ** says masculine before you have seen the noun.
 
@@ -140,10 +137,9 @@ fourth is the valuable one.
 
 **It makes a thing definite** — *the* book, not *a* book.
 
-**And it marks which of two nouns is the subject.** This is the one that
-decided Marcus's proverb, and it works because Greek is content to leave a
-predicate bare. Where two nouns or two adjectives stand together and only
-one has the article, the one with the article is what you are talking
+**And it marks which of two nouns is the subject.** This works because
+Greek is content to leave a predicate bare. Where two nouns or two
+adjectives stand together and only one has the article, the one with the article is what you are talking
 *about*, and the other is what is being said about it.
 :::
 
@@ -186,8 +182,8 @@ Julia produced her list. It had fourteen entries on it and Marcus asked to
 see it only once.
 
 ::: {.exercise title="Retrieval"}
-Ten short questions from Lessons 3 to 6. Answer from memory, without
-looking anything up; the point is to find out what is already there.
+Ten questions from Lessons 3 to 6. Answer from memory; the point is to find
+out what is already there.
 
 1. What case is **τὸν ἵππον**, and what two things tell you?
 2. Translate **ὁ κριτής**.

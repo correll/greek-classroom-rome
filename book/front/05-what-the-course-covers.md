@@ -5,8 +5,8 @@ shape of a single lesson, so that you know where you are.
 
 ## The shape of a lesson
 
-Every lesson has the same six movements, in the same order, so that you know
-what is coming even as the Greek gets harder. How long each takes is for your
+Every lesson has the same six movements in the same order, so the shape
+stays put while the Greek gets harder. How long each takes is for your
 teacher to decide; most lessons fill more than one class.
 
 | | Movement | What happens |
@@ -18,9 +18,8 @@ teacher to decide; most lessons fill more than one class.
 | 5 | **The Reading** | A longer passage, with its vocabulary beside it. First a story about the class, written by Theodoros; from Lesson 15, real Greek — an adapted version first, then the original. |
 | 6 | **The Question** | A short reflection. What does this mean? Why these words? Is the idea still live? |
 
-The third movement is the one that matters most. Producing an English sentence is
-not the exercise; being able to say **what in the Greek makes it that
-sentence** is the exercise.
+The third movement matters most. The exercise is not to produce an English
+sentence but to say **what in the Greek makes it that sentence**.
 
 ::: note
 **Mystery sentences.** The best test in this course is a sentence that
@@ -52,7 +51,7 @@ The past: the imperfect and the aorist, and the idea that Greek distinguishes
 not only *when* something happened but *how it is being viewed*. Then
 infinitives, connectors, and your first real encounters with Homer and Plato.
 Homer's Greek is not the Greek you have been learning, and you will be told
-exactly how it differs rather than left to be confused.
+exactly how it differs.
 
 ### Part IV · Greek Becomes a Language of Scripture — Lessons 19–24
 

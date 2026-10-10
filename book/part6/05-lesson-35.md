@@ -47,8 +47,9 @@ lesson is, as it happens, the question that chapter is about."
 ::: newgreek
 ## A mood for what is not yet
 
-The **indicative** states what is. The **imperative** orders what is to be
-done. The **subjunctive** is the mood of what *might* be — what is
+Quintus changed his question by making one vowel longer. The **indicative**
+states what is; the **imperative** orders what is to be done; the
+**subjunctive** is the mood of what *might* be — what is
 intended, feared, hoped, supposed, open. English has almost lost it (*if I
 were*, *lest he fall*, *be that as it may* are its fossils) and does the
 work with *may*, *might*, *should*, *let*. Greek has a full set of forms,
@@ -67,8 +68,8 @@ rule. The present subjunctive of **λύω**:
 | 2 plur. | **λύητε** | **λύησθε** |
 | 3 plur. | **λύωσι(ν)** | **λύωνται** |
 
-Set it beside **λύω, λύεις, λύει, λύομεν, λύετε, λύουσι** and every
-difference is a vowel grown longer. The first singular, **λύω**, is
+Set it beside **λύω, λύεις, λύει, λύομεν, λύετε, λύουσι** and test each
+difference against the rule. The first singular, **λύω**, is
 identical in both moods; the sentence decides.
 
 ## The aorist subjunctive
@@ -106,13 +107,12 @@ contract verbs melt as they did in Lesson 34: **ποιῶ, ποιῇς, ποι�
 For **-άω** verbs, **α** swallows the long vowel exactly as it swallowed the
 short one, so **ἀγαπῶ, ἀγαπᾷς, ἀγαπᾷ, ἀγαπῶμεν, ἀγαπᾶτε, ἀγαπῶσι(ν)** is
 *both* the indicative and the subjunctive. Only the sentence tells you
-which, and now you know what to look for in it.
+which.
 :::
 
 ## What the mood is for
 
-Six jobs, and you have met examples of five of them already without the
-name.
+Six jobs; you have met five of them already without the name.
 
 **One. Purpose — ἵνα, ὅπως.** *In order that.* **ἀκούω ἵνα μάθω** — *I
 listen so that I may learn.* Negative **ἵνα μή**. This is the **ἵνα** of
@@ -180,8 +180,8 @@ and this is the one place in the course where Latin is the more complicated
 language — the Latin subjunctive has four tenses and a sequence of tenses
 to govern them. The Greek subjunctive has no tenses of time; Attic may
 shift to the optative after a past verb (Lesson 23), and Koine never does.
-**ἵνα μάθω** can follow a present verb and a past one alike; Greek asks the mood only about aspect, never about time,
-which is why it has no augment and why Marcus's column of things Latin
+**ἵνα μάθω** can follow a present verb and a past one alike; Greek asks
+the mood only about aspect, never about time, which is why it has no augment and why Marcus's column of things Latin
 cannot do does not need an entry here. It gets one anyway: Latin has no
 **οὐ μή**.
 :::
@@ -406,8 +406,8 @@ everyone who believes in him may not perish but may have eternal life.*
 **Two subjunctives, two aspects.** **ἀπόληται** is aorist: perishing is a
 single event, and the purpose is that it not happen. **ἔχῃ** is present:
 having life is a condition that continues, and the purpose is that it go
-on. The sentence chooses an aspect for each half of its purpose and the
-choice is not decoration. English *may not perish but may have* flattens
+on. The sentence chooses an aspect for each half of its purpose. English
+*may not perish but may have* flattens
 both to *may*.
 
 **And one ὥστε.** Result, with the indicative: the giving *happened*. Had
@@ -426,8 +426,8 @@ affect the reading.
 **On οὕτως.** The Latin *sīc … ut* and the English *so … that* have
 taught generations to hear *so much*; the Greek **οὕτως** more often means
 *in this way*, pointing back at the bronze serpent of verse 14. Mention it
-if a pupil raises it; the class has met the translator's dilemma before
-and this is a famous instance of it.
+if a pupil raises it: it is a famous case of the translator's dilemma the
+class already knows.
 
 **On Theodosius.** This is his verse and he will want to say so. Let him
 read it first, in Greek, and then ask him what **ἀπόληται** is — he will

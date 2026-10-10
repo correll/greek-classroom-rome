@@ -48,17 +48,18 @@ only sometimes and English asks in a different place."
 ::: newgreek
 ## The aorist: an action as a single whole
 
-The **aorist** is the tense Greek uses for an action looked at as **one
-complete thing** — it happened, that is all, no comment on how long it took
-or whether it was still going on.
+Marcus put Theodoros's first two sentences into Latin without trouble: *he
+was saying*, *he said*. Both are past; neither is further back than the
+other. What differs is how you are made to look at the action — from
+inside, while it goes on, or from outside, as **one complete thing**. Greek
+calls the second the **aorist**.
 
 | | |
 |:--|:--|
 | **ἔλεγε** *(imperfect)* | he was saying, he kept saying, he used to say |
 | **εἶπε** *(aorist)* | he said |
 
-Both are past. Neither is "more past" than the other. The difference is not
-**when** but **how it is being looked at**, and that is called **aspect**.
+The difference is not **when** but **how**, and that is called **aspect**.
 
 The name says so. **ἀόριστος** means *undefined*, *without boundaries* — the
 tense that declines to tell you anything about the shape of the action.
@@ -90,8 +91,8 @@ with the plain endings you already know from the imperfect:
 | **φέρω** | **ἤνεγκον** — I carried |
 
 These must be learned as pairs, like English *go / went*. There is no rule
-to deduce; **εἶπον** is simply the aorist of **λέγω**, as *went* is simply
-the past of *go*, and for the same historical reason.
+to deduce; **εἶπον** is the aorist of **λέγω** as *went* is the past of
+*go*, and for the same historical reason.
 
 ::: note
 **How to tell a second aorist from an imperfect**, since the endings are
@@ -112,9 +113,8 @@ have no time in them at all — and the infinitive is one. **λέγειν** is *
 say, to be saying, to go on saying*; **εἰπεῖν** is *to say, once*. Both are
 timeless; only the aspect differs, and Latin has one word for both.
 
-You meet infinitives properly in Lesson 16. For now it is enough to know
-that the thing you learned in this lesson is not a tense. It is a second question,
-and Greek asks it everywhere.
+You meet infinitives properly in Lesson 16. For now, what you learned in this
+lesson is less a tense than a second question, and Greek asks it everywhere.
 
 ::: latinbridge
 Marcus was right about the indicative and wrong about the language.
@@ -419,10 +419,9 @@ the Word begin.
 He wrote neither, and the whole of the difference is carried by two verb
 forms you learned in Lessons 13 and 14.
 
-Notice also **σάρξ**: no article, standing outside the group, which by
-Lesson 10 makes it a predicate. The construction is exactly that of
-**θεὸς ἦν ὁ λόγος** in verse 1. Same shape, different tense, and the
-difference between them is the point.
+**σάρξ** has no article and stands outside the group, which by Lesson 10
+makes it a predicate. The construction is exactly that of
+**θεὸς ἦν ὁ λόγος** in verse 1. Same shape, different tense.
 
 ::: note
 Marcus wanted one past. Here are two, about one subject, in one paragraph,

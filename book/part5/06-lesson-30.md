@@ -65,7 +65,8 @@ else, and it was the highest mark he ever gave anyone.
 ::: newgreek
 ## Everything
 
-No new grammar. This is what you have.
+No new grammar. This is what you have, and Marcus's five words used most of
+it.
 
 | | You can | Since |
 |:--|:--|:--:|
@@ -77,9 +78,9 @@ No new grammar. This is what you have.
 | **The Greeks** | tell Homeric from Attic from Septuagint from Koine, and say what gave each away | 15, 20, 23, 24 |
 | **The method** | put four questions to a sentence and five to a passage; ask what would have to be true for you to be wrong; know where the grammar stops and the page begins | 18, 24, 27, 29 |
 
-Twenty-nine lessons. About a hundred and fifty words. Everything on the
-list above is something you could not do at the start of this course and can
-do now, and most of it is something most people never do at all.
+Twenty-nine lessons. About a hundred and fifty words. You could do nothing
+on this list at the start of the course, and most people never do most of
+it at all.
 
 ## What the examination asks
 
@@ -104,9 +105,8 @@ say why; that is also an answer.
 
 Marcus asked it of himself, twelve lessons late, about five words, and the
 answer was *the article would have to be on the other noun*, and he checked,
-and it was not. That is the whole method. It is what Theodoros has been
-teaching since Lesson 1, and it is the only thing he was ever
-teaching, and it works on everything.
+and it was not. That is the whole method. It is the only thing Theodoros
+has been teaching since Lesson 1, and it works on everything.
 
 ::: latinbridge
 **At the start of this course, Latin was the thing you knew and Greek was
@@ -451,17 +451,15 @@ Greek because they had something to say that they could not say otherwise.
 Every one was read, in the courtyard, by a child who at the start of this
 course could not read the letters. And every one was explained — not performed, explained —
 with a feature of the grammar named aloud, so that the listener could see
-the reasoning even where they could not see the Greek.
-
-That is not a small thing. A great many grown people with a great deal of
-Greek cannot do it.
+the reasoning even where they could not see the Greek. A great many grown
+people with a great deal of Greek cannot do that.
 
 ::: teacheronly
 **Verify before teaching.** 1 John 1:5 in the written examination is quoted
 from the standard text (see *Sources*); check it against the edition in use.
 
-**On running the Great Reading.** Invite an audience. The point of the
-exercise is that the pupils explain Greek to people who do not have it, and
+**On running the Great Reading.** Invite an audience. The point is that
+the pupils explain Greek to people who do not have it, and
 that cannot be simulated; a class explaining to one another is a rehearsal.
 Parents will do; so will another class; so will the school's kitchen staff,
 who will be more attentive than you expect.
@@ -471,16 +469,14 @@ let the first swallow the third. *What do you know now that you did not?*
 is the one that tells you whether the course taught reading or decoding,
 and a pupil who answers it well has usually surprised themselves.
 
-**On Marcus.** His reading is the course's ending and it should be allowed
-to land. He has chosen the sentence he got wrong, prepared it properly for
-the first time, and said in public that Julia was right. Theodoros gives him
-no praise in words because none would be adequate and because Marcus, by
-this point, does not need it. If your own class has a Marcus, you will know
+**On Marcus.** His reading is the course's ending; let it land. He has
+chosen the sentence he got wrong, prepared it properly for the first time,
+and said in public that Julia was right. Theodoros gives him no praise in
+words: none would be adequate, and Marcus no longer needs it. If your own class has a Marcus, you will know
 whether to speak. Mostly, do not.
 
-**On the preface.** Now is the time to return to the question the course
-opened with — why learn Greek — and to let the class answer it, since they
-are now in a position to. The honest teacher's answer is in the preface:
+**On the preface.** Return now to the question the course opened with —
+why learn Greek — and let the class answer it. The honest teacher's answer is in the preface:
 pupils asked it two thousand years ago, in this very city, and the language
 is still here, and so is the question, and so, now, are they.
 :::

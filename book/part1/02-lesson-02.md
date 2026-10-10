@@ -29,8 +29,8 @@ Marcus looked sceptical. "Any letter could go in a gap."
 ::: newgreek
 ## Two vowels, one sound
 
-When certain pairs of vowels stand together, they make a single sound. The
-pair is called a **diphthong**, and it counts as *one* vowel for every
+Some pairs of vowels, standing together, make a single sound. The pair is
+called a **diphthong**, and it counts as *one* vowel for every
 purpose that matters — accent, length, and the way the word behaves.
 
 | | Sound | As in |
@@ -51,14 +51,14 @@ before Plato was born.
 ## The mark over every initial vowel
 
 A Greek word that begins with a vowel **always** carries one of two marks
-over it. There is no third option and there is no bare vowel.
+over it. No initial vowel goes bare.
 
 - **Smooth breathing** **᾿** — means nothing is pronounced before the
   vowel. **ἄνθρωπος** = *anthrōpos*.
 - **Rough breathing** **῾** — means an *h* is pronounced before the vowel.
   **ὁδός** = *hodos*.
 
-Three further rules, all of which you will need in this lesson:
+Three more rules, all needed in this lesson:
 
 1. On a **diphthong**, the mark sits over the *second* vowel:
    **οὐρανός**, **αἱ**, **εὖ**.
@@ -85,7 +85,7 @@ worth the half-second.
 
 Almost every Greek word carries an accent — the exceptions are a few little
 words such as the article **ὁ**, **ἡ** and the negative **οὐ** — and the
-accent is part of the spelling, not an optional decoration.
+accent is part of the spelling.
 
 - **´** acute — the voice rises: **λόγος**
 - **῀** circumflex — the voice rises and falls within one long syllable:
@@ -93,9 +93,8 @@ accent is part of the spelling, not an optional decoration.
 - **`** grave — an acute pushed down because another word follows:
   **καὶ ὁ φίλος**
 
-You will learn the rules that place these accents gradually. For now, learn
-each word with the accent it has, the way you learn each word with the
-letters it has.
+The rules that place these accents come gradually. For now, learn each
+word's accent as you learn its letters.
 
 ::: note
 **The accent can be the whole difference.**
@@ -154,7 +153,7 @@ you will be reconstructing, breathing, and dividing them this lesson.
 :::
 
 ::: investigation
-Theodoros did not simply fill in Felix's gaps. He made the class prove
+Theodoros did not fill in Felix's gaps himself. He made the class prove
 each one.
 
 "A gap is not a mystery," he said. "It is a question with a limited number
@@ -281,8 +280,7 @@ simply have to know. That ratio is about typical.
 :::
 
 ::: {.exercise title="Diphthong or not?"}
-In each word, say how many *syllables* there are. Remember that a diphthong
-counts as one vowel.
+How many *syllables* has each word? A diphthong counts as one vowel.
 
 1. **οὐρανός**
 2. **παιδεία**

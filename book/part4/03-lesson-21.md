@@ -64,9 +64,8 @@ Each line then adds **ὅτι** — *because* — and a reason.
 ## ὅτι, again
 
 In Lesson 16 you met **ὅτι** meaning *that*, introducing reported speech:
-**λέγει ὅτι …**, *he says that …*. Here it means *because*. It is the same
-word, and context decides, and you will meet both uses constantly in the
-Gospels. A **ὅτι** after a blessing is *because*; a **ὅτι** after *he said*
+**λέγει ὅτι …**, *he says that …*. Here it means *because*. Same word;
+context decides, and the Gospels use both constantly. A **ὅτι** after a blessing is *because*; a **ὅτι** after *he said*
 is *that*.
 
 ## The article makes a noun out of anything
@@ -78,8 +77,8 @@ Some lines do the same thing with a form you have not had yet:
 
 **οἱ πενθοῦντες** — *the mourning ones*, *those who mourn*. **πενθέω** is
 *I mourn*, and **πενθοῦντες** is a **participle** — a verb turned into an
-adjective — and the article turns the adjective into a noun. *The ones
-mourning.* Participles are the subject of the next lesson. For now, treat
+adjective — and the article turns the adjective into a noun. Participles
+are the subject of the next lesson. For now, treat
 **οἱ** + a word ending in **-οντες**, **-οῦντες** or **-ῶντες** (and, once,
 **-μένοι**) as *the people who are doing, or have had done to them, that*,
 and move on.
@@ -96,8 +95,7 @@ here it answers *in what way?*
 Most of the reasons begin **ὅτι αὐτοί** — *because they*. Greek, you
 remember, does not need a word for *they*; the verb ending carries it. When
 the word is put in anyway, it is for emphasis. **αὐτοὶ παρακληθήσονται**:
-*they*, and nobody else, will be comforted. Each line is saying that the
-blessing goes exactly to these and not to the others.
+*they*, and nobody else, will be comforted.
 
 ::: note
 **The futures.** You will see **-σουσιν** and **-θήσονται** on the ends of
@@ -115,9 +113,9 @@ which he uses of Lazarus — and chose not to use it here. Every line has a choi
 καρδίᾳ** — the dative of respect carried straight across into the Latin
 ablative, which is the Latin that does that job.
 
-The lesson is not that the Latin is bad. It is that you have been reading
-the Latin as though it were the thing itself, and it is a translation, with
-a translator's choices in it, and now you can see them.
+You have been reading the Latin as though it were the thing itself. It is
+a translation, with a translator's choices in it, and now you can see
+them.
 :::
 :::
 
@@ -412,17 +410,15 @@ Testament (see *Sources*); check each verse against the edition in use, especial
 the readings at 5:4–5, where some editions reverse the order of the two
 lines, and the form **κληρονομήσουσιν**.
 
-**On Theodosius.** His discovery that the Greek is *lower* than the Latin,
-not higher, is the point of the scene and should not be softened. He came
-looking for the Greek to confirm his reverence and it confronted him with a
-beggar instead. That is a better outcome than confirmation, and he is old
-enough to be told so.
+**On Theodosius.** His discovery that the Greek is *lower* than the Latin
+is the point of the scene; do not soften it. He came looking for his
+reverence confirmed and found a beggar. That is the better outcome, and he
+is old enough to be told so.
 
 **On the participles.** Three of the eight lines use them. Do not teach the
-participle here; give the rule of thumb in the grammar section and let the
-class read past them. Lesson 22 will build the form, and a class that has
-already met four of them in a passage they know by heart will find the
-lesson easy.
+participle here; give the rule of thumb and let the class read past them.
+Lesson 22 builds the form, and a class that has already met four of them in
+a passage it knows by heart will find that lesson easy.
 :::
 :::
 

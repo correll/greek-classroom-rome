@@ -82,14 +82,12 @@ No. It is not."
 ::: newgreek
 ## Three voices
 
-Every verb you have met has had its subject *doing* the action. That is
-the **active** voice, and until this lesson it was the only one you could write.
-
-Greek has two more. In the **passive**, the subject has the action done to
-it: *the cat is washed*. In the **middle**, the subject does the action and
-is caught up in it — does it to itself, or for itself, or with its own
-interest in the result: *the cat washes* (itself). English has no middle;
-it borrows a reflexive, *itself*, or does without.
+Look at the board again. In the first sentence Felix does the washing:
+that is the **active** voice, and until this lesson it was the only one you
+could write. In the second the cat has the washing done to it: the
+**passive**. In the third the cat does it and is caught up in it — to
+itself, for itself, with its own interest in the result: the **middle**.
+English has no middle; it borrows a reflexive, *itself*, or does without.
 
 | | | |
 |:--|:--|:--|
@@ -98,8 +96,8 @@ it borrows a reflexive, *itself*, or does without.
 | **Passive** | **λούεται** | he is being washed |
 
 The middle and the passive share their forms in the present and the
-imperfect. Only the aorist keeps them apart. That is the shape of the
-lesson, and it is why the paradigms come in two halves.
+imperfect. Only the aorist keeps them apart, which is why the paradigms
+come in two halves.
 
 ## The present and the imperfect: one set of endings, two voices
 
@@ -119,8 +117,8 @@ since Lesson 11, in its middle-and-passive form.
 
 **λύομαι** is *I loose myself* or *I am loosed*; **ἐλυόμην** is *I was
 loosing myself* or *I was being loosed*. The imperfect takes the augment
-exactly as it did in the active. Everything you learned in Lesson 13 about
-the **ἐ-** still holds.
+as it did in the active; everything Lesson 13 said about the **ἐ-** still
+holds.
 
 You have been reading these endings for seventeen lessons without a name
 for them. **βούλεται**, **δύναται**, **ψεύδεται**, **γίγνονται**,
@@ -175,8 +173,6 @@ So, for the cat:
 | **ἐλούσατο** | it washed (itself) | middle |
 | **ἐλούθη** | it was washed | passive |
 
-Three endings, three voices, one lesson.
-
 ## Who did it
 
 The person a passive action is done *by* goes after **ὑπό** with the
@@ -217,7 +213,7 @@ The participles are **λυόμενος, -η, -ον** (present), **λυσάμεν
 middle) and **λυθείς, λυθεῖσα, λυθέν** (aorist passive). Mark's account of
 the baptism has two of the present kind: **σχιζομένους**, *being torn
 open*, and **πειραζόμενος**, *being tested*. They decline like adjectives
-and agree like participles, exactly as in Lesson 22.
+and agree like participles, as in Lesson 22.
 
 ## What "middle" means
 
@@ -243,11 +239,10 @@ same beast. The grammarians of both languages noticed the same thing, but
 only the Latin grammarians named it; we borrow their name for Greek.
 
 **What Latin does not have is the middle**, and that is where Latin will
-mislead you. *Lavātur* is usually passive (though *lavor* can mean *I
-bathe*); a Roman who wanted to
-say *the cat washes itself* said *sē lavat*, with a reflexive, as English
-does. (The bath-house Latin *lavor*, *I am bathing*, is the nearest Latin
-comes to a middle, and it has no name for it and no separate form.) So
+mislead you. *Lavātur* is usually passive; a Roman who wanted to say *the
+cat washes itself* said *sē lavat*, with a reflexive, as English does.
+(The bath-house *lavor*, *I am bathing*, is the nearest Latin comes to a
+middle, and it has no name for it and no separate form.) So
 when you meet **λούεται** without **ὑπό**, do not reach for *lavātur*. It
 may be *sē lavat*. Only the sentence, or the cat, can tell you.
 :::
@@ -507,7 +502,7 @@ for the endings.
 was baptised into the Jordan by John.*
 
 **Three verbs, three different things.** **ἐγένετο** is a deponent: middle
-in form, and the meaning is simply *happened*. **ἦλθεν** is active: he
+in form, and the meaning is *happened*. **ἦλθεν** is active: he
 came, he did the coming. **ἐβαπτίσθη** is passive — the **-θη-** says so —
 and **ὑπὸ Ἰωάννου** names the one who did it. Mark could have written
 **Ἰωάννης ἐβάπτισεν αὐτόν**, *John baptised him*; the event is the same.
@@ -523,14 +518,13 @@ is reaching for the motion in the verb — **βαπτίζω** is *dip*, and one 
 **Verify before teaching.** Mark 1:9 is quoted from NA28; check it against
 the edition in use. Westcott–Hort reads identically here.
 
-**On the cat and the Jordan.** The grammar of the two is shared; the events
-are not, and a class that has been watching a wet cat will be
-tempted to run them together. Do not let it. Theodoros's rule — scripture
-is read with reverence, and the pupils may not turn it into a joke — is the
-rule here, and Theodosius will be watching to see whether you keep it. The
-right move is the one the text makes: the *voice* of **ἐβαπτίσθη** is what
-the cat taught, and the cat's lesson ends at the ending. If a pupil makes
-the joke anyway, ask them what **ὑπὸ Ἰωάννου** is doing, and move on.
+**On the cat and the Jordan.** The two share grammar, not events, and a
+class that has been watching a wet cat will want to run them together. Do
+not let it. Theodoros's rule — scripture is read with reverence, and the
+pupils may not turn it into a joke — holds here, and Theodosius will be
+watching to see whether you keep it. The cat taught the *voice* of
+**ἐβαπτίσθη**, and its lesson ends at the ending. If a pupil makes the
+joke anyway, ask what **ὑπὸ Ἰωάννου** is doing, and move on.
 
 **On Felix.** This is his lesson. His ear caught **λοῦμαι** in the street
 before his grammar could name the middle, and the course has been saying

@@ -8,7 +8,7 @@ instead, without the plots.
 
 Thirty-six lessons, in six parts of six. The course is not tied to a
 calendar or to an age: it can be taught in middle school or high school,
-over one year or two, and the teacher sets the pace. Parts I–V make a
+over one year or two, and you set the pace. Parts I–V make a
 complete first course in reading; Part VI completes the verb.
 
 ## The shape of a lesson
@@ -44,13 +44,14 @@ Greek is learnable.*
 
 Authentic text begins at Lesson 1, with the Delphic maxims and a proverb
 quoted by Plato; authentic Koine begins at Lesson 4. The three Koine
-passages of Part I are taken from the opening and later chapters of John, and they are chosen because they are short, famous, and built almost
-entirely from words the pupils already hold: **τί ἐστιν ἀλήθεια;** (4),
+passages of Part I are taken from the opening and later chapters of John,
+chosen because they are short, famous, and built almost entirely from words
+the pupils already hold: **τί ἐστιν ἀλήθεια;** (4),
 **ἐγώ εἰμι ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή** (5), and the whole of John 1:1
-(6). Each is labelled as Koine where it appears. The pedagogical argument
-for meeting real Greek this early is that a pupil who can read twenty-nine
-authentic words by the end of Lesson 6 has evidence that the course works; a pupil who
-has only ever read composed sentences has the teacher's word for it.
+(6). Each is labelled as Koine where it appears. The case for real Greek
+this early: a pupil who can read twenty-nine authentic words by the end of
+Lesson 6 has evidence that the course works; a pupil who has only ever read
+composed sentences has your word for it.
 
 Composed sentences remain in the exercises throughout, and are always marked
 as composed.
@@ -70,8 +71,7 @@ and the present tense.*
 | 12 | The First Reading Challenge | Consolidation | An adapted sentence of Protagoras, then the authentic one. Teams explain every ending. |
 
 Protagoras's most famous surviving sentence is the right first classical
-text: it
-is short, its claim is discussable without a literary introduction, and
+text: it is short, its claim is discussable without a literary introduction, and
 adapting it honestly — and then showing the real thing — teaches the
 difference between composed and quoted Greek, which the course insists on
 throughout.
@@ -160,10 +160,10 @@ four things worth measuring, weighted unequally.
 | Composition and reasoning | 20% | Writes simple correct Greek and justifies the choices made. |
 | Literature and reflection | 20% | Discusses a text thoughtfully and distinguishes its meaning from their own assumptions. |
 
-Whatever weights are chosen, the argument for putting the heaviest on
-explanation rather than output is this. A student who translates correctly
-but cannot say why has not yet learned Greek; they have learned to guess well, and the guessing will fail them at
-exactly the point the sentences get interesting.
+Whatever weights you choose, put the heaviest on explanation rather than
+output. A student who translates correctly but cannot say why has not yet
+learned Greek; they have learned to guess well, and the guessing will fail
+them at exactly the point the sentences get interesting.
 
 ::: note
 **Mystery sentences.** Include, every few lessons, a sentence that

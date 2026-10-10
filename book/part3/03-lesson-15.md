@@ -52,17 +52,17 @@ be told. It has to happen to you."
 ::: newgreek
 ## Greek is not one language
 
-The Greek you have been learning is **Attic** — the speech of Athens in the
-fifth and fourth centuries BC, and the standard for prose ever afterwards.
+Marcus said the scroll was not Greek. It is; but the Greek you have been
+learning is **Attic** — the speech of Athens in the fifth and fourth
+centuries BC, and the standard for prose ever afterwards.
 
 Homer is **epic** Greek: older, Ionic in its base, and never anybody's
 everyday speech even when it was new. It is a poetic dialect, assembled over
 centuries of oral performance, and it kept old forms because the verse
 needed them.
 
-So the differences you are about to meet are not mistakes, and they are not
-sloppiness. They are a different stage and a different variety of the same
-language.
+The differences you are about to meet belong to an older stage and a
+different variety of the same language, not to carelessness.
 
 ## Four differences, and why they exist
 
@@ -70,7 +70,7 @@ language.
 not yet articles; they are demonstratives, meaning *that one*, *he*, *she*.
 The word you have learned to lean on had not finished becoming itself.
 
-This means Homeric Greek cannot do the trick of Lesson 10. There is no
+So Homeric Greek cannot do the trick of Lesson 10. There is no
 attributive position, because there is no article to be inside or outside
 of. Position and sense have to do the work.
 
@@ -80,8 +80,7 @@ sounding, and the imperative **ἄειδε**. Attic squeezed; Homer had not yet.
 
 **Three. Endings that Attic simplified survive.** Genitives in **-οιο** and
 **-εω**, datives in **-οισι** and **-ῃσι**, where Attic has **-ου**, **-ου**,
-**-οις** and **-αις**. They are longer, and in verse that is often exactly why they
-were kept.
+**-οις** and **-αις**. They are longer, and in verse that is often why they were kept.
 
 **Four. Word order is far freer, because the metre is in charge.** Homer is
 in hexameters, and a poet composing aloud to a rhythm will put a word where
@@ -129,10 +128,9 @@ along; now the noun can too.
 ## Formulas
 
 Homer is built out of repeated phrases — **πολύμητις Ὀδυσσεύς**, *Odysseus
-of many wiles*; *swift-footed Achilles*; *the wine-dark sea* — and these are
-not laziness.
-They are the technique of a poet composing in performance, with a fixed
-rhythm to fill, who needs a phrase of exactly the right shape to hand.
+of many wiles*; *swift-footed Achilles*; *the wine-dark sea* — the technique of a poet composing in
+performance, with a fixed rhythm to fill, who needs a phrase of exactly the
+right shape to hand.
 
 When you meet the same two or three words about the same man for the twentieth
 time, you are seeing the machinery of oral poetry, not a shortage of
@@ -142,7 +140,7 @@ imagination.
 Latin has nothing quite like this, because Latin literature begins in
 writing and in imitation of Greek. Virgil opens *Arma virumque cano* — *arms
 and the man I sing* — and that first line is a deliberate echo of the two
-you are about to read.
+you are about to read: *the man* from one, *I sing* from the other.
 
 If you have met the *Aeneid*, you have met Homer at one remove, in a poet
 who expected you to notice.
@@ -447,9 +445,8 @@ the thing described. Both poems announce their subject in the first word and
 then ask somebody else to supply it — the poet does not claim to be the one
 who knows.
 
-**Now count the articles.** There are none. Not one, in either line. The
-word you have built fourteen lessons on is simply not there, and the lines are
-not ambiguous, because **ἄνδρα** and **μῆνιν** are accusative and say so
+**Now count the articles.** The word you have built fourteen lessons on is
+not there, and the lines are not ambiguous, because **ἄνδρα** and **μῆνιν** are accusative and say so
 with their endings.
 
 **And look at Πηληϊάδεω Ἀχιλῆος.** Two genitives, neither of them Attic:
@@ -462,12 +459,12 @@ help. Do not imitate.
 
 ::: teacheronly
 **Verify before teaching.** Both lines follow the standard text (see
-*Sources*) and should still be checked against the edition you are using,
-so that the board and the book do not disagree in front of a class.
+*Sources*); check them against your edition anyway, so that the board and
+the book do not disagree in front of a class.
 
-The same applies to the Cyclops passage in Lesson 16. Every Attic sentence
-in this course has been composed for it and is safe; the Homeric lines are
-quotations and deserve the check the course asks of its pupils.
+The same goes for the Cyclops passage in Lesson 16. The Attic sentences were
+composed for the course and are safe; the Homeric lines are quotations and
+deserve the check the course asks of its pupils.
 :::
 :::
 

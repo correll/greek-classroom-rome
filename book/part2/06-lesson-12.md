@@ -49,8 +49,8 @@ better thing."
 ::: newgreek
 ## Everything you have, in one page
 
-No new grammar in this lesson. This is the whole of Parts I and II, arranged so that
-you can see it at once, and it is worth copying out by hand.
+No new grammar. Here is the whole of Parts I and II on one page. Copy it out
+by hand.
 
 **The article**
 
@@ -86,7 +86,8 @@ asserts.
 
 ## How to attack a sentence you have not seen
 
-The method, in the order you should use it.
+Sabina's sentence had four nouns and only one subject. Here is how to find
+it, in order.
 
 **One. Read it all.** Do not translate anything until you have reached the
 end. The word that settles the sentence is often the last one.
@@ -106,8 +107,8 @@ endings, not against whether it sounds plausible.
 
 ::: note
 Step five is where this course differs from most. A translation that sounds
-right is not evidence of anything. The endings are the evidence, and they
-are still on the page after you have produced your English — which means
+right proves nothing; the endings are the evidence, and they are still on
+the page after you have produced your English — which means
 you can always check, and are therefore always obliged to.
 :::
 :::
@@ -400,13 +401,13 @@ Now the real one:
 are, that they are; of things that are not, that they are not* — and Plato,
 reporting it, turns it into indirect speech: **μέτρον ἄνθρωπον εἶναι**.)
 
-Five differences, and every one of them matters.
+Five differences. Find them before you read on.
 
 **The genitive has moved to the front.** **πάντων χρημάτων** is the first
 thing you meet, and in Greek the first thing is the emphasised thing. The
 sentence is not about man; it is about *everything*, and man turns out to be
 the yardstick for it. The adapted version buried that at the end, in the
-English order, and lost the emphasis entirely.
+English order, and lost the emphasis.
 
 **The articles are gone.** **ἄνθρωπος**, not **ὁ ἄνθρωπος**. Greek would
 normally say *man as such* with the article; without it the word can mean

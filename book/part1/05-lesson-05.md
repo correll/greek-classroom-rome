@@ -49,8 +49,8 @@ usually when asked where something was.
 ## The ending tells you who
 
 Until now you have borrowed verbs whole: **βλέπει**, **γράφει**, **ἔχει**,
-**λέγει** — all of them *he, she, or it does this*. Now you get the rest
-of them, and the rule behind them.
+**λέγει** — all of them *he, she, or it does this*. Here are the rest, and
+the rule behind them.
 
 A Greek verb changes its ending according to **who is doing it**. Here is
 **λέγω**, *I say*, in all six:
@@ -100,7 +100,8 @@ deliberately and you will be asked why.
 
 ## The verb that refuses to behave
 
-**εἰμί** — *I am* — is the commonest verb in Greek and the least regular.
+Aelia's verb, **εἰμί** — *I am* — is the commonest in Greek and the least
+regular.
 Learn it as a set of six noises; there is no pattern to deduce.
 
 | | form | meaning |
@@ -120,7 +121,7 @@ have been reading this verb without being able to name it.
 when the next word begins with a vowel, and usually at the end of a
 sentence. It exists to stop two vowels colliding — the same instinct that
 makes English choose *an apple* over *a apple*. Greek does this constantly
-and with practice you will stop noticing it.
+and you will soon stop noticing it.
 :::
 
 ## What εἰμί does not do
@@ -130,9 +131,9 @@ same thing, so what follows it is **nominative**, not accusative:
 
 > **ὁ φίλος ἐστὶ κριτής.** — The friend is a judge.
 
-Look hard at that sentence, because it contains the trick from Lesson 3.
+Look hard at that sentence: it contains the trick from Lesson 3.
 **ὁ φίλος** has the article; **κριτής** has none. That is how you know which
-is the subject and which is being said about it. *The friend is a judge* —
+is the subject and which is said about it. *The friend is a judge* —
 not *the judge is a friend*.
 
 Greek marks the difference with one small word, and it will do this to you
@@ -344,7 +345,7 @@ Aelia said **ἐγώ εἰμι ἡ ὁδός** and meant *I know the way*.
 :::
 
 ::: {.exercise title="Into Greek"}
-Write each in Greek. Do not supply a pronoun unless the English is stressing
+Translate into Greek. Supply a pronoun only where the English stresses
 one — the verb ending is the pronoun.
 
 1. I write the word.
