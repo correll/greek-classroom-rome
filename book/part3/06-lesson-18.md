@@ -122,6 +122,19 @@ good one, but not one you have any business defending in front of anybody.
 If you *can* answer it, then you know exactly what evidence your reading
 rests on — and you will know at once whether somebody has knocked it over.
 
+Try it on a sentence with no trap in it: **τὸν αἴλουρον βλέπει ὁ Φῆλιξ.**
+You write *Felix sees the cat.* For that to be wrong, **τὸν αἴλουρον** would
+have to be nominative, or **ὁ Φῆλιξ** accusative, or **βλέπει** plural with
+some other subject. Look: none of them is. And one thing is missing from the
+list — the cat coming first. Order is not evidence of who sees whom; that was
+Lesson 4.
+
+Now one where a single word decides: **καλὸς ὁ λόγος.** You write *the word
+is beautiful.* That would be wrong if the article stood in front of the
+adjective — **ὁ καλὸς λόγος**, *the beautiful word*, a label that asserts
+nothing. Check where the article is, and you can defend your translation in
+one sentence.
+
 ## Defensible and persuasive
 
 A **persuasive** translation makes the hearer agree. It can do this with
