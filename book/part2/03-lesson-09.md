@@ -1,7 +1,7 @@
 # The Dative and the Recipient
 
 ::: story
-Felix had been composing for some minutes, which was unusual, and smiling
+Felix had been composing quietly, which was unusual, and smiling
 while he did it, which was worse.
 
 "I have written you a message," he announced.
@@ -28,8 +28,8 @@ He waited. The pause went on slightly too long for his liking.
 "It says **πέμπω** — *I send*. And **τὸν διδάσκαλον** — the teacher. I send,
 to the teacher."
 
-"**τὸν διδάσκαλον** is accusative," said Julia, who had got there some
-seconds earlier and had been visibly holding it in. "It is the thing being
+"**τὸν διδάσκαλον** is accusative," said Julia, who had got there first
+and had been visibly holding it in. "It is the thing being
 sent."
 
 Felix read his sentence again.
@@ -52,7 +52,7 @@ not have minded if it were rude."
 "No," said Theodoros. "It is merely peculiar, and that is worse, and it
 happened because the teacher is not the *object* of your sending. He is the
 one it goes **to**. Greek has a case for that, and you have not learned it
-until this afternoon, so sit still and be peculiar for ten more minutes."
+yet, so sit still and be peculiar while I teach it."
 :::
 
 ::: newgreek
@@ -172,7 +172,7 @@ Felix was permitted to rewrite his message, on the condition that he read
 the corrected version aloud as well.
 
 ::: {.exercise title="Retrieval"}
-Ten quick questions from Lessons 5 to 8. From memory.
+Ten short questions from Lessons 5 to 8. From memory.
 
 1. What case is **τοῦ χρόνου**?
 2. Translate **ὁ υἱός**.
@@ -359,8 +359,8 @@ teacher*.
 1. **πέμπω τὴν ἐπιστολὴν τῷ διδασκάλῳ.** The letter must be supplied — his
    original did not contain it — and the teacher must move into the dative.
 2. That he is dispatching Theodoros somewhere, as a parcel.
-3. This is a question about precision rather than grammar, and worth two
-   minutes. A rude sentence would at least have been the sentence he
+3. This is a question about precision rather than grammar, and worth a brief
+   discussion. A rude sentence would at least have been the sentence he
    intended. The peculiar one was produced by somebody who believed he was
    saying something else, which is the position this whole course is
    designed to get you out of.
@@ -531,7 +531,7 @@ Read the whole tablet aloud before you answer anything.
 :::
 
 ::: story
-Felix delivered the corrected message at the end of the hour, folded, with
+Felix delivered the corrected message at the end of the lesson, folded, with
 some ceremony.
 
 It read:

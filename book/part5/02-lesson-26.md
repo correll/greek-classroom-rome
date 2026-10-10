@@ -1,7 +1,7 @@
 # Commands, Advice, and Persuasion
 
 ::: story
-Marcus had asked for ten minutes and been given five, and he used them.
+Marcus had asked for a long hearing and been given a short one, and he used it.
 
 The argument, delivered standing and in Greek, ran roughly as follows.
 Learning takes place in the soul. The soul is not in the house. Therefore
@@ -17,8 +17,8 @@ He sat down to something close to applause.
 **γάρ** clauses all give reasons. He used **μέν … δέ** twice and both times
 correctly. I cannot find anything."
 
-"Nor can I. It is the best Greek anyone in this room has produced this
-year, and I include myself." He turned. "Now the argument. Livia."
+"Nor can I. It is the best Greek anyone in this room has produced so
+far, and I include myself." He turned. "Now the argument. Livia."
 
 Livia had been waiting.
 
@@ -36,14 +36,14 @@ perfect and still wrong, which is a lesson I have been trying to teach since
 Lesson 18, and you have taught it better by *being* the example. For that
 you have my thanks." He paused. "The homework stands. **γράφετε.**"
 
-It was, the class agreed afterwards, the best five minutes Marcus had ever
-had, and he had lost.
+It was, the class agreed afterwards, the best speech Marcus had ever
+made, and he had lost.
 :::
 
 ::: newgreek
 ## The imperative
 
-You have been reading commands since the first week — **γνῶθι**, **ἄειδε**,
+You have been reading commands since Lesson 1 — **γνῶθι**, **ἄειδε**,
 **ἔννεπε**, **πορεύου**, **ποίει** — without the form being named. The
 **imperative** is the mood of telling someone to do something, and it comes
 in present and aorist, like everything else.
@@ -172,7 +172,7 @@ Theodoros had them sort Marcus's sentences into *commands*, *reasons* and
 true.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Lessons 22 to 25; nothing from today.
+From memory. Lessons 22 to 25; nothing from this lesson.
 
 1. **ἐλθών** — what form, from what verb, meaning what?
 2. **τίς ἐστιν ὁ διδάσκαλος;** — translate. Now take the accent off
@@ -326,7 +326,7 @@ each: grammar first, then argument.
 10. Imperative, present, plural: *keep writing*, *write — as a habit*.
     **γράψατε** would be *write this, now, once*, and the homework is not
     one deed but a rule of life. (At the end of the lesson he says
-    **γράψον** to Marcus alone, and means one evening's work, completely.)
+    **γράψον** to Marcus alone, and means one piece of work, completely.)
 :::
 
 ::: {.exercise title="Into Greek"}
@@ -414,14 +414,14 @@ only by report; the Plato references are the course's sources for the
 wording, as in Lessons 1 and 2, and should be given as such.
 
 **On Marcus.** This is his best scene and the course's notes call it his
-best argument of the year, and its flaw. Give him the grammar victory in
+best argument in the course, and its flaw. Give him the grammar victory in
 full — Julia's concession should sound like a concession — before Livia
 takes the argument apart. The lesson fails if he is made ridiculous; it
 works if he is made right about the Greek and wrong about the world, in
 that order, and knows which is which by the end.
 
 **On πείθομαι.** The observation that the ordinary word for obeying is the
-middle of the word for persuading is worth a minute. (Koine has
+middle of the word for persuading is worth pausing on. (Koine has
 **ὑπακούω** as well, which has nothing to do with persuasion; the point is
 about **πείθομαι**, not about the whole language.) It is
 also the answer to a question a thoughtful pupil may ask about why
@@ -590,7 +590,7 @@ Marcus asked, at the end, whether he had at least been right that learning
 takes place in the soul.
 
 "You were," said Theodoros. "It does. And the soul, as Livia pointed out,
-is wherever you are, and this evening it will be in your house, with a lamp
+is wherever you are, and when you go home it will be in your house, with a lamp
 and a tablet, copying the aorist imperative until it knows it. **γράψον.**"
 
 "That is aorist," said Marcus.

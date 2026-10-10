@@ -4,7 +4,7 @@
 Felix arrived with a grievance.
 
 "Two letters have escaped," he announced, holding up his tablet. "I wrote
-them yesterday. They are not there now."
+them at home. They are not there now."
 
 Theodoros examined the tablet. Somebody — the evidence suggested a thumb —
 had smudged the wax across two words, leaving gaps. By the time the class
@@ -14,7 +14,7 @@ had gathered round, Theodoros had added three more words of his own.
 you?"
 
 "Nobody," said Felix, with the confidence of a boy who has not yet
-considered that the tablet spent the night in a house containing a cat.
+considered that the tablet had been left in a house containing a cat.
 
 "Then we shall reconstruct them." Theodoros held the tablet up so the class
 could see. "Here is a useful thing about Greek. You can often work out a
@@ -161,7 +161,7 @@ each one.
 of possible answers. Your job is to eliminate the impossible ones."
 
 ::: {.exercise title="Retrieval"}
-From last lesson, and from memory — do not open the table.
+From Lesson 1, and from memory — do not open the table.
 
 1. Write the small form of **Ψ** and give its name.
 2. Which letter is named **ῥῶ**, and what sound does it make?
@@ -400,7 +400,7 @@ In a modern edition:
 
 *mē-den a-gan*. It means **nothing in excess**.
 
-Notice what you can now do that you could not do last lesson. You can see
+Notice what you can now do that you could not do in Lesson 1. You can see
 that **ἄγαν** begins with a smooth breathing — so no *h*. You can see that
 the accent on **μηδὲν** is a grave, which tells you another word follows it
 closely. Neither of those marks is on the stone. Both are a modern
@@ -433,5 +433,5 @@ accident would have taken out something we couldn't."
 
 There was a pause.
 
-"Five words," said Theodoros. "Tomorrow."
+"Five words," said Theodoros.
 :::

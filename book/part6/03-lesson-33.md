@@ -1,13 +1,13 @@
 # What Stands Done
 
 ::: story
-The written papers came back on a Tuesday, face down, one to a desk,
+The written papers came back face down, one to a desk,
 which was how Theodoros returned anything he had marked and the reason the
-room was quiet for the first time that week.
+room was quiet for once.
 
-It had been the first examination of the second term: a page of Greek of
+It had been the first examination since the class came back: a page of Greek of
 their own, composed, not copied — *write what you can read* — and they had
-been waiting nine days.
+been waiting for the marks.
 
 Julia turned hers over, read the single line at the foot of it, and said,
 not loudly, "**τετέλεσται.**"
@@ -23,10 +23,10 @@ finished. I have been waiting for it since —"
 
 "Both of you stop," said Theodoros, "and both of you are right, and I will
 take the grammar first and the text second, because the text deserves to
-be taken on its own and will be, in the second period. Julia. You said
+be taken on its own and will be, later in the lesson. Julia. You said
 **τετέλεσται**. Is that a past or a present?"
 
-"A past. It is finished. It *was* finished — you marked it last week."
+"A past. It is finished. It *was* finished — you marked it."
 
 "Then why did you not say **ἐτελέσθη**? *It was finished.* Aorist passive,
 Lesson 31; you can form it."
@@ -55,7 +55,7 @@ Marcus had been looking at it for some time. "One word. **μεμάθηκας.**"
 "Which is?"
 
 "*You have learned.*" He paused. "Not **ἔμαθες**. *You learned* — that
-would be about last term. You wrote — you have learned. I am in the state
+would be about the event. You wrote — you have learned. I am in the state
 of someone who has."
 
 "I chose the tense," said Theodoros. "I always do."
@@ -67,7 +67,7 @@ were told in Lesson 25 to take it whole."
 "It is one. It is the perfect of a verb that means *see*: *I have seen,
 and therefore I know*. You have been using the perfect tense since Lesson
 25 without being told, and you have been using it correctly, because the
-meaning was never in doubt — only the name. Today you get the name, and
+meaning was never in doubt — only the name. Now you get the name, and
 the rest of the paradigm, and Theodosius gets his text back at the end,
 intact, which he is right to want."
 :::
@@ -204,7 +204,7 @@ reduplication. **ἐγέγραπτο** — *it had been written, it stood writte
 then*; **ἐτεθνήκει** — *he had died, he was dead by then*; **ἐλελύκη,
 ἐλελύκης, ἐλελύκει** — *I had loosed*. The pluperfect of **οἶδα** is
 **ᾔδη, ᾔδησθα, ᾔδει** — *I knew*. It is the only one of these you will
-need to write this year, and you will need it: *I knew* is a common thing
+need to write in this course, and you will need it: *I knew* is a common thing
 to have to say. The rest, recognise.
 
 ## Past or present?
@@ -547,7 +547,7 @@ bracketed article; check it against the edition in use.
 **On the two uses of τετέλεσται.** Julia's use of the word for her
 examination is the kind of thing Theodoros does not allow, and the lesson
 has him not allow it — gently, by separating the grammar from the text and
-giving the text its own ten minutes. Theodosius's objection is right and
+giving the text its own place in the lesson. Theodosius's objection is right and
 should be played as right, not as fussiness; Julia's answer to the grammar
 question is also right. Keep both. The course has held since Lesson 16
 that scripture is read with reverence and that the grammar is the same
@@ -712,7 +712,7 @@ Read both tiers aloud before you answer anything.
 
 ::: story
 Marcus kept his paper. He had kept the tablet from Lesson 14 too, the one
-headed **things Latin cannot do**, and that evening he added a line to it,
+headed **things Latin cannot do**, and afterwards he added a line to it,
 then crossed the line out, then wrote it again lower down under a heading
 of its own.
 
@@ -724,7 +724,7 @@ Under it: *scrīpsī* — **ἔγραψα, γέγραφα**.
 And beneath that, in smaller letters, after some thought: *nōvī* —
 **οἶδα**, *and this one Latin got right*.
 
-He showed it to Julia the next morning, which he had never done with the
+He showed it to Julia, which he had never done with the
 first tablet. She read it twice, corrected an accent, and said that the
 second heading was better than the first because it was true in both
 directions.

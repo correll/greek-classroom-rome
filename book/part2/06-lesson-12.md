@@ -18,7 +18,7 @@ class understood from that alone that something had changed.
 "That is absurd," said Marcus. "The translation is the work."
 
 "The translation is the *result*. Anyone can arrive at a result. Felix
-arrives at results constantly." Felix bowed. "What I am buying today is the
+arrives at results constantly." Felix bowed. "What I am buying is the
 reason. If your English is perfect and you cannot tell me which ending made
 it so, you score nothing. If your English is wrong and you can show me
 precisely which ending you misread and why, you score almost everything."
@@ -49,7 +49,7 @@ better thing."
 ::: newgreek
 ## Everything you have, in one page
 
-No new grammar today. This is the whole of Parts I and II, arranged so that
+No new grammar in this lesson. This is the whole of Parts I and II, arranged so that
 you can see it at once, and it is worth copying out by hand.
 
 **The article**
@@ -154,7 +154,7 @@ then defends every ending in it; the ten points under each sentence are the
 defence, and they are what is marked. Everyone does the Retrieval first.
 
 ::: {.exercise title="Retrieval"}
-Ten quick questions from Lessons 8 to 11. From memory.
+Ten short questions from Lessons 8 to 11. From memory.
 
 1. Translate **περὶ τοῦ νόμου**.
 2. **φέρετε** — person, number, and translation.
@@ -270,7 +270,7 @@ Translate it, then defend it:
 7. No. The subject is in the verb ending, which is where Greek is happy to
    leave it. A team that reports this as an error in the question should
    be told that they have made the single most important observation of
-   the afternoon — and then shown **-ομεν**.
+   the exercise — and then shown **-ομεν**.
 8. **μανθάνουσι** — *they learn*; **μανθάνεις** — *you learn*. Nothing
    else changes at all: the nouns are doing the same jobs for whoever the
    subject is.
@@ -385,7 +385,7 @@ it is **adapted**, and you are told so.
 *The man is the measure of the works.*
 
 Every form in it is one you have had since Lesson 9, and the one new word
-is in today's list. Translate it, defend it, and then look at what it cost.
+is in this lesson's list. Translate it, defend it, and then look at what it cost.
 
 Now the real one:
 
@@ -441,7 +441,7 @@ Now you know what to ask.
 :::
 
 ::: {.reading title="Theodoros's tenth tablet" source="composed"}
-The tenth tablet was written the evening after the teams, when the argument
+The tenth tablet was written after the teams, when the argument
 about Protagoras had followed the class out of the room and down the
 stairs. It closes Part II, and it is the first tablet that takes a side.
 
@@ -567,8 +567,8 @@ sentence that is almost Protagoras.
 Sabina's team lost.
 
 They had the translation exactly right and could not account for the dative,
-and Theodoros, who had written the rule on the board himself an hour
-earlier, gave them nothing and looked unhappy about it.
+and Theodoros, who had written the rule on the board himself,
+gave them nothing and looked unhappy about it.
 
 Livia's team won with a translation that had two mistakes in it, both of
 which Livia identified, explained, and attributed to the correct endings
@@ -578,6 +578,6 @@ before anyone asked her to.
 
 "You were right," Livia agreed. "You did not know why."
 
-Sabina thought about this for most of the walk home, and then went back the
-next morning and asked about the dative.
+Sabina thought about this for most of the walk home, and then went back
+and asked about the dative.
 :::

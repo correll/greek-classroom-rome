@@ -539,7 +539,7 @@ where it is longer.
    singular, **ἦλθον** third plural — the same letters that in the first
    person mean *I came* (Lesson 13's warning).
 2. Into **Ἰδών**, a participle: *having seen*. One main verb, **ἀνέβη**,
-   with the seeing hung from it. This is Lesson 22 a week early, and it
+   with the seeing hung from it. This is Lesson 22 one lesson early, and it
    is why the original is shorter than the adaptation.
 3. Genitive, both. So **αὐτοῦ** is not the subject of **προσῆλθαν** — the
    disciples are (**οἱ μαθηταί**, nominative). The genitive pair is a
@@ -597,9 +597,9 @@ can do now is say what it means."
 "It means *happy*."
 
 "It means the state the gods are in, and the dead, and the beggar at the
-gate, all at once. Find me a Latin word for that and I will give you the
-afternoon off."
+gate, all at once. Find me a Latin word for that and I will let you off the
+next exercise."
 
-Felix thought about it for the rest of the lesson and did not get the
-afternoon off.
+Felix thought about it for the rest of the lesson and was not let
+off.
 :::

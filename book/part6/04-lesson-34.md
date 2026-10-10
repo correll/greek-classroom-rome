@@ -178,7 +178,7 @@ either three times. He did not. **ἀγαπᾷς** became *dīligis* and
 **φιλεῖς** became *amās*, and he kept the change exactly where John put
 it. Whether that is because the Greek meant something by it, or because
 Jerome, like John, disliked saying the same thing twice in the same
-words, is the question the class is about to spend ten minutes on.
+words, is the question the class is about to take up.
 :::
 :::
 
@@ -359,7 +359,7 @@ One sentence each. Use the contracted form.
 3. **οἱ παῖδες ἐζήτουν τὸν αἴλουρον.** — imperfect: an activity, probably
    unsuccessful.
 4. **ποιοῦμεν τὸ ἔργον.** — **ποιέ-ομεν → ποιοῦμεν**. Watch for
-   **ποιῶμεν**, which is a different mood and next week's lesson.
+   **ποιῶμεν**, which is a different mood and the subject of Lesson 35.
 5. **ὁ διδάσκαλος ἐτίμα τὸν κριτήν.** — **ἐτίμα** with the acute on the
    **ι**; a circumflex here is the commonest accent error in the exercise.
 6. **τὸ πρόβατον ὁρᾷ τὸν ποιμένα.** — **ποιμένα**, third declension

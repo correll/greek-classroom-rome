@@ -14,10 +14,10 @@ them can be defended from the Greek."
 "Which is best?" said Marcus.
 
 "No. Which can be *defended*. They are not the same question and by the end
-of this afternoon you will know why."
+of this lesson you will know why."
 
-He read them out. The room did something it had not done all year, which was
-to go completely silent for most of a minute.
+He read them out. The room did something it had never done before, which was
+to go completely silent.
 
 "They cannot all be right," said Quintus.
 
@@ -28,13 +28,13 @@ to go completely silent for most of a minute.
 "Also no."
 
 Marcus stood up without being asked, which was characteristic, and gave a
-speech, which was also characteristic. It lasted ninety seconds. It had three
+speech, which was also characteristic. It had three
 parts. It ended with the observation that he had translated the words in the
 order in which they were written, which was surely the most honest thing a
 translator could do, and that the others had all rearranged a sentence that
 God had not asked them to rearrange.
 
-It was the best thing anybody said that afternoon.
+It was the best thing anybody said in the trial.
 
 It was also wrong, and Julia knew exactly why, and said so, and nobody heard
 her.
@@ -166,7 +166,7 @@ language said, and it is the oldest problem in the trade.
 
 ::: vocab
 No new words. Twelve to have cold before the trial, each with the lesson it
-came from; every one of them is in this afternoon's Greek.
+came from; every one of them is in this lesson's Greek.
 
 - **ὁ λόγος** — word, speech, account *(Lesson 1)*
 - **ὁ ἄνθρωπος** — human being, person *(Lesson 1)*
@@ -208,7 +208,7 @@ were allowed to say what it was. First, as always, ten from memory — the
 jury's qualifying examination.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Nothing here is from this lesson; the imperfects
+From memory. Nothing here is from this lesson; the imperfects
 and aorists are mixed on purpose.
 
 1. **ἔλαβε** — tense; what is its present?
@@ -286,7 +286,7 @@ word.
    **ἀρχῇ** dative after **ἐν**; on **ὁ λόγος** nominative with the article,
    the subject both times; on **πρός** with the accusative, *towards, in
    the presence of*, Lesson 6; and on **ἦν**, imperfect — a state, not an
-   event. They should recognise it as the afternoon's sentence before
+   event. They should recognise it as the trial's sentence before
    they finish reading it.
 5. *This boy told the truth, but the other one is lying.* — rests on
    **μέν … δέ** for the balance; on **εἶπεν**, aorist, one act in the
@@ -344,7 +344,7 @@ be told so in front of the class.
 1. **ἐν ἀρχῇ ἦν ὁ λόγος.** — Lesson 6, and they should recognise it before
    they have finished writing it.
 2. **ὁ μὲν σοφὸς βούλεται μανθάνειν, ὁ δὲ κακὸς οὐ βούλεται.**
-3. **γιγνώσκομεν τὸν λόγον θεὸν εἶναι.** — this is the afternoon's sentence
+3. **γιγνώσκομεν τὸν λόγον θεὸν εἶναι.** — this is the trial's sentence
    put through Lesson 16. Note what happened to the article: it is still on
    **λόγος**, which is still the thing being talked about, and it has
    followed **λόγος** into the accusative. **θεόν** still has none. Ask the
@@ -359,7 +359,7 @@ be told so in front of the class.
    order is a different sentence, the answer is Lesson 4, and they should be
    made to give it themselves.
 5. **ἐν ἀρχῇ ὁ λόγος ἦν πρὸς τὸν θεόν.** — **πρός** with the accusative,
-   Lesson 6. Accept **ἦν ὁ λόγος**. The second clause of the afternoon's
+   Lesson 6. Accept **ἦν ὁ λόγος**. The second clause of the trial's
    verse, and they should recognise this one too.
 6. **οὗτος ὁ ἀνὴρ δίκαιος ἦν· ἀεὶ γὰρ τὴν ἀλήθειαν ἔλεγεν.** — **οὗτος**
    outside the article group; **γάρ** second; **ἔλεγεν** imperfect with
@@ -506,7 +506,7 @@ about God. The Greek says it is about the Word. Marcus has reproduced the
 order and reversed the grammar, and the reason he could do it without
 noticing is that English assigns roles by position and Greek does not.
 
-That is Lesson 4, three months later, with something at stake.
+That is Lesson 4 again, fourteen lessons on, with something at stake.
 
 **Why is θεός in front, then?** Because Greek puts a word first for emphasis,
 and the article is doing the work of marking the subject, so the writer is
@@ -515,7 +515,7 @@ not what assigns the roles.
 
 **And Theodosius.** He wrote out the Latin, and the Latin has the same word
 order as the Greek, and Latin has no article at all — so *et Deus erat
-Verbum* cannot make the distinction we have just spent ten minutes making. A
+Verbum* cannot make the distinction we have just been making. A
 Latin reader has to decide from the surrounding argument. The distinction is
 not mistranslated. It is *untranslatable*, into that language, and it is gone.
 
@@ -583,7 +583,7 @@ are how you show them the other three.
 The trial was about five words. Here are the five verses they sit in —
 twice. The first version was written for you, in Attic, with the words and
 forms you have; it is **adapted**, and labelled so; its last paragraph is
-not in John at all, but is the afternoon's sentence put through Lesson 16.
+not in John at all, but is the trial's sentence put through Lesson 16.
 The second is the Gospel's own Greek, which is Koine — the common Greek of
 the Roman world, four centuries after Plato. You will find that nearly all
 of it is already yours.

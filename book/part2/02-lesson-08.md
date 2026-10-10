@@ -1,7 +1,7 @@
 # The Genitive Mystery
 
 ::: story
-The wax tablet turned up on the third day, in Quintus's satchel, which
+The wax tablet turned up at last, in Quintus's satchel, which
 Quintus said proved nothing and Felix said proved everything.
 
 "It is mine," said Felix. "It was given to me."
@@ -45,7 +45,7 @@ There was a pause while the room worked out what that did to both claims.
 Theodoros held out his hand, and after a moment Felix put the tablet into
 it.
 
-"One ending," said Theodoros, "settled a three-day argument that two
+"One ending," said Theodoros, "settled a long argument that two
 witnesses, one accusation and a search of three satchels could not. Sit
 down and I will show you how it works."
 :::
@@ -155,7 +155,7 @@ freely.
 **ἡ θυγάτηρ** and **τὸ ὄνομα** belong to the third declension and their
 genitives are not formed like anything above. Recognise them in the
 nominative for now; Lesson 15 gives you their endings. A course that teaches
-you a form you cannot yet use has wasted your afternoon.
+you a form you cannot yet use has wasted your effort.
 :::
 :::
 
@@ -164,7 +164,7 @@ Theodoros returned the tablet to its owner, who was himself, and set the
 class to work.
 
 ::: {.exercise title="Retrieval"}
-Ten quick questions from Lessons 4 to 7. From memory.
+Ten short questions from Lessons 4 to 7. From memory.
 
 1. Give the gender, number and case of **τὰς ψυχάς**.
 2. Translate **ἡ ἡμέρα**.
@@ -499,14 +499,14 @@ Read the whole tablet aloud before you answer anything.
    though the genealogy that follows it (Matthew 1:2–16) runs forwards.
    Why might you build a title that way?
 3. **ἡ θυγάτηρ** appears in your vocabulary but not in the genealogy. Open
-   the question of why, and see how far the class gets before the bell.
+   the question of why, and see how far the class gets.
 :::
 
 ::: story
 The tablet went back on Theodoros's shelf, where it had been for eleven
 years before Felix borrowed it without asking.
 
-Some time later Julia noticed that the scratched letters were not in
+Later Julia noticed that the scratched letters were not in
 Theodoros's hand. They were small and careful and slightly crooked, the way
 a person writes who is learning, and they had been there a long time.
 

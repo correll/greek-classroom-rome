@@ -4,7 +4,7 @@
 Felix had been waiting twenty-two lessons to be right about something, and
 when it came he very nearly missed it.
 
-Theodoros was reading from the Gospel of John, as he had been for a week,
+Theodoros was reading from the Gospel of John, as he had been for several lessons,
 and he had slipped — as he sometimes did when he was reading rather than
 teaching — out of the careful, measured Greek he used in the classroom and
 into something quicker, flatter, with the vowels run together.
@@ -17,7 +17,7 @@ Theodoros stopped reading.
 
 "I beg your pardon?"
 
-"When you are angry. When you shouted at the carter last month. You said
+"When you are angry. When you shouted at the carter. You said
 **βλέπε** and **ὕπαγε** and **θέλω** — not **ἐθέλω** — and you said *and,
 and, and*. You sounded like the Psalm. You sounded like *this*." He pointed
 at the scroll. "You do not teach us that Greek. You teach us Plato's. But
@@ -710,8 +710,8 @@ Read each adapted text aloud, then its original. Keep the table open.
 At the end, Felix asked whether he could learn the Greek Theodoros spoke at
 home instead of the Greek he taught.
 
-"You already have," said Theodoros. "You have been hearing it for a year
-every time I forgot myself. What you could not do, until this afternoon, was
+"You already have," said Theodoros. "You have been hearing it since Lesson 1,
+every time I forgot myself. What you could not do, until now, was
 tell that it was different. Now you can. That is the only thing I have ever
 been trying to teach any of you, about anything."
 :::

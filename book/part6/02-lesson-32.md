@@ -1,7 +1,7 @@
 # What Will Be
 
 ::: story
-"One sentence each," said Theodoros, "about the end of the year. In Greek.
+"One sentence each," said Theodoros, "about the end of the course. In Greek.
 What you will have done by then. You may be ambitious; you may not be
 vague."
 
@@ -24,8 +24,8 @@ and the class, which had learned to tell, settled in.
 
 "*I will write the letters well. I will learn all the verbs. I will not
 lie. I will be wise. I will stay in the school. I will come tomorrow.*"
-He sat down. "Six promises. All in the future. You may check them in
-July."
+He sat down. "Six promises. All in the future. You may check them at
+the end."
 
 "I will check them now," said Theodoros, "because a promise is a sentence
 whose truth is decided later, and its grammar is decided at once. Julia.
@@ -85,7 +85,7 @@ ones the two you wrote last, after you began to feel confident."
 
 He set the tablet on the shelf.
 
-"I am keeping this. It will be read aloud in the last week of the year,
+"I am keeping this. It will be read aloud in the last lesson of the course,
 and each sentence will be checked against the facts. That is what the
 future tense is for. It is the only tense whose sentences can be marked
 twice."
@@ -229,10 +229,10 @@ carry a future: **λέγει γράψειν** — *he says he will write*; **λ�
 only recognise them.
 
 **And the future passive**, which you have seen twice: **παρακληθήσονται**
-in the Beatitudes, *they will be comforted*; **προστεθήσεται** in today's
+in the Beatitudes, *they will be comforted*; **προστεθήσεται** in this lesson's
 Reading, *will be added*. Its mark is **-θησ-**: the **θη** of the aorist
 passive with the **σ** of the future behind it. **λυθήσομαι**, *I will be
-loosed*. Recognise it; you will not be asked to write it this year.
+loosed*. Recognise it; you will not be asked to write it in this course.
 :::
 
 ::: latinbridge
@@ -279,7 +279,7 @@ participle or a subjunctive, and no tense at all for the *will have*.
 **ζητέω** and **μεριμνάω** are *contract* verbs — their present forms run
 two vowels together (**ζητεῖτε**, **μεριμνᾶτε**) and Lesson 34 unpacks
 them. Their futures are regular, **ζητήσω** and **μεριμνήσω**, with the
-stem vowel lengthened before the **σ**, and those you can write today.
+stem vowel lengthened before the **σ**, and those you can write now.
 The present forms, when you meet them in the Reading, are glossed whole.
 
 **πᾶς** is of the third declension: **πᾶς, παντός** masculine, **πᾶσα,
@@ -406,7 +406,7 @@ From memory.
 :::
 
 ::: {.exercise title="Marcus's tablet"}
-Marcus's six sentences, and four more he added that evening. For each, say
+Marcus's six sentences, and four more he added afterwards. For each, say
 whether it is a correct future, and if it is not, say what it is and
 correct it.
 
@@ -488,7 +488,7 @@ middle future that English gives no warning of.
 :::
 
 ::: {.voice source="Matthew 6:34"}
-The last sentence of the passage you will read in the second period. One
+The last sentence of the passage you will read in this lesson's Reading. One
 future in it, and it is not given to you.
 
 **Μὴ οὖν μεριμνήσητε εἰς τὴν αὔριον, ἡ γὰρ αὔριον μεριμνήσει ἑαυτῆς·
@@ -527,8 +527,8 @@ depends on how you read **μεριμνήσει**, and the class will not agree.
 ::: teacheronly
 **Verify before teaching.** Matthew 6:34 is quoted from NA28; check it
 against the edition in use. The verse is the close of the Reading, by
-design: the class meets the sentence in the first period and the passage
-it closes in the second.
+design: the class meets the sentence first and the passage
+it closes afterwards.
 
 **On ἀρκετόν.** It is a one-word sentence of the kind the course has read
 since **χαλεπὰ τὰ καλά** in Lesson 3: predicate, no article, verb
@@ -745,7 +745,7 @@ Read both tiers aloud before you answer anything.
 ::: story
 Marcus stayed behind.
 
-"The tablet on the shelf. When you read it in July — if I have done the
+"The tablet on the shelf. When you read it at the end — if I have done the
 things, do the two wrong sentences count?"
 
 "Which two?"
@@ -764,7 +764,7 @@ and the class will see the difference. That is worth more than a mark."
 
 "Is a future, and will be checked as one, and I will note that it is
 Felix's Greek and not yours, and that you borrowed it from the one person
-in the room whose ear you have spent a year pretending not to trust." He
+in the room whose ear you have spent this whole course pretending not to trust." He
 put the tablet back. "**εἶ.**"
 
 Marcus hesitated. "*You are*? Or *you will go*?"

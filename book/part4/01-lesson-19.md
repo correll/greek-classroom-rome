@@ -584,7 +584,7 @@ Read the adapted text aloud twice before you touch the original.
 
 ::: story
 Felix wanted to know whether the household cat, which he had labelled with a
-noun in the first week, was the **κύριος** of anything.
+noun in Lesson 3, was the **κύριος** of anything.
 
 Theodoros said that the cat was the **κύριος** of the kitchen, the
 courtyard, and Felix, in that order, and that the law of Athens would have

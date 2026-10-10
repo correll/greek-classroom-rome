@@ -4,7 +4,7 @@
 "One rule," said Theodoros. "You may not say that two texts agree when they
 do not."
 
-Each pupil had been given a week, two passages — one from the classical
+Each pupil had been given two passages — one from the classical
 authors, one from scripture — and the instruction to read both, explain the
 grammar of both, and say what each one meant. Now they were to present.
 
@@ -23,7 +23,7 @@ the first words and then do opposite things with it: Homer asks a goddess
 to tell him about his man, John asserts about his Word and asks nobody.
 
 Quintus took Socrates and John on truth, and reported — with the air of a
-man who had argued with himself for a week and lost — that they did not say
+man who had argued with himself at length and lost — that they did not say
 the same thing, and that he had wanted them to.
 
 Theodosius had Protagoras's *man the measure* against *blessed are the
@@ -407,7 +407,7 @@ begins by stating what is. The grammar of the first word tells you which.
 
 **Quintus.** *Apology* 38a and John 8:32. The pair from Lesson 23, and he
 reported what the class found there: that the two sentences sound alike and
-make different claims, and that he had spent a week wanting them to agree
+make different claims, and that he had gone on wanting them to agree
 before conceding that **βίος** and **ἀλήθεια** are not the same noun and
 *examining* and *knowing* are not the same act.
 

@@ -7,7 +7,7 @@
 
 "That is what I said."
 
-"It is not what you said. You have been saying **ἡ λόγος** for a fortnight.
+"It is not what you said. You have been saying **ἡ λόγος** in every lesson.
 I have been counting."
 
 Marcus turned round. "Why would you count that?"
@@ -24,7 +24,7 @@ the board.
 
 > **χαλεπὰ τὰ καλά**
 
-"You saw this in your third week. Translate it."
+"You saw this in Lesson 3. Translate it."
 
 "*Fine things are hard*," said Marcus. "We did it. It is a proverb."
 
@@ -177,7 +177,7 @@ forms printed — and note **μόνον**, the neuter, which is used as an adver
 **τὰ γράμματα** is the Greek for *literature*, and literally means *the
 letters*. A **γραμματικός** was, to begin with, simply a person who knew
 their letters. English *grammar* and *glamour* are both descended from it,
-by routes that are worth looking up when you have ten minutes.
+by routes that are worth looking up.
 :::
 :::
 
@@ -186,7 +186,7 @@ Julia produced her list. It had fourteen entries on it and Marcus asked to
 see it only once.
 
 ::: {.exercise title="Retrieval"}
-Ten quick questions from Lessons 3 to 6. Answer from memory, without
+Ten short questions from Lessons 3 to 6. Answer from memory, without
 looking anything up; the point is to find out what is already there.
 
 1. What case is **τὸν ἵππον**, and what two things tell you?
@@ -413,7 +413,7 @@ carries the article, so **τὰ καλά** is the thing being talked about.
 **χαλεπά** does not, so **χαλεπά** is what is being said about it.
 
 Reverse the article and you reverse the proverb, which is exactly what
-Theodoros did to Marcus this afternoon:
+Theodoros did to Marcus at the start of this lesson:
 
 **τὰ χαλεπὰ καλά** — *hard things are fine.*
 
@@ -425,7 +425,7 @@ doing its work, in the same half-second you now can.
 
 ::: {.reading title="Theodoros's fifth tablet" source="composed"}
 The fifth tablet was about the plural, and about Marcus, and it went round
-the room on a day that had already been long.
+a room that was already tired.
 
 οἱ μαθηταὶ φέρουσι τὰς δέλτους πρὸς τὸ διδασκαλεῖον. ὁ παιδαγωγὸς οὐ
 φέρει τὰς δέλτους, ἀλλὰ τὰ βιβλία. οἱ δοῦλοι φέρουσι τὴν τράπεζαν. ὁ
@@ -518,9 +518,9 @@ Read the whole tablet aloud before you answer anything.
 :::
 
 ::: story
-Julia's list ended that afternoon at fourteen.
+Julia's list ended at fourteen.
 
-Marcus asked her, some weeks later and with elaborate casualness, whether
+Marcus asked her, some lessons later and with elaborate casualness, whether
 she was still counting. She said she had stopped at fourteen because there
 had been nothing to add since the proverb.
 

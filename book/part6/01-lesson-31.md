@@ -4,8 +4,8 @@
 Nobody saw how the cat got into the ink, and the cat was not saying.
 
 What was certain was that it had, and that it had then walked the length
-of the courtyard and up the step and across the first clean tablet of the
-second term, which was Julia's, and that the household had decreed it
+of the courtyard and up the step and across the first of the clean tablets
+the class had brought back, which was Julia's, and that the household had decreed it
 washed. Asked who should do the washing, Theodoros said that the pupil who
 had most often claimed the cat might reasonably be given it, and so Felix,
 who had labelled it in Lesson 3 and written to it in Lesson 28, was in the
@@ -30,7 +30,7 @@ both ends."
 
 "And the third?"
 
-"That one will be true in about an hour," said Livia, "when the cat has
+"That one will be true soon enough," said Livia, "when the cat has
 finished removing the washing."
 
 "The second and third are the same word," said Marcus. "**λούεται**,
@@ -46,7 +46,7 @@ what cats do, and you know what Felix is doing, and you read the sentence
 with both in your head. The ending **-εται** is honest about exactly one
 thing — the cat is the subject and the washing is happening to it. Whether
 the cat is doing it or having it done is a question the ending declines to
-answer, and that is the voice you are learning today. It is called the
+answer, and that is the voice you are learning now. It is called the
 middle, and it looks back at its own subject."
 
 The door opened. Felix came in wet to the elbows and did not sit down.
@@ -83,7 +83,7 @@ No. It is not."
 ## Three voices
 
 Every verb you have met has had its subject *doing* the action. That is
-the **active** voice, and until today it was the only one you could write.
+the **active** voice, and until this lesson it was the only one you could write.
 
 Greek has two more. In the **passive**, the subject has the action done to
 it: *the cat is washed*. In the **middle**, the subject does the action and
@@ -175,7 +175,7 @@ So, for the cat:
 | **ἐλούσατο** | it washed (itself) | middle |
 | **ἐλούθη** | it was washed | passive |
 
-Three endings, three voices, one afternoon.
+Three endings, three voices, one lesson.
 
 ## Who did it
 
@@ -282,7 +282,7 @@ will write the tidy one and should recognise the other.
 
 **ὑπό** has other jobs with other cases — *under*, with the dative or the
 accusative — which you will meet as they come. With the genitive and a
-passive verb it means *by*, and that is the one to learn today.
+passive verb it means *by*, and that is the one to learn now.
 :::
 :::
 
@@ -486,7 +486,7 @@ form for 1 and 2 and can say why has understood the lesson.
 :::
 
 ::: {.voice source="Mark 1:9"}
-One verse, and two of this afternoon's three voices in it. You read it in
+One verse, and two of this lesson's three voices in it. You read it in
 Lesson 23 beside Xenophon, for the Greek it was written in. Read it now
 for the endings.
 
@@ -524,7 +524,7 @@ is reaching for the motion in the verb — **βαπτίζω** is *dip*, and one 
 the edition in use. Westcott–Hort reads identically here.
 
 **On the cat and the Jordan.** The grammar of the two is shared; the events
-are not, and a class that has spent twenty minutes on a wet cat will be
+are not, and a class that has been watching a wet cat will be
 tempted to run them together. Do not let it. Theodoros's rule — scripture
 is read with reverence, and the pupils may not turn it into a joke — is the
 rule here, and Theodosius will be watching to see whether you keep it. The
@@ -677,7 +677,7 @@ Read both tiers aloud before you answer anything.
 :::
 
 ::: story
-At the end of the afternoon the cat was clean, dry, on the wall, and
+By the end of the lesson the cat was clean, dry, on the wall, and
 washing itself, and Felix had written three sentences on his tablet
 without being asked.
 
@@ -689,7 +689,7 @@ without being asked.
 
 "The first is passive," said Theodoros, reading over his shoulder. "The
 second is middle. The third is a deponent, and it is also the truest
-sentence anyone has written this term. **ὑπ᾽ ἐμοῦ** — *by me* — you have
+sentence anyone has written yet. **ὑπ᾽ ἐμοῦ** — *by me* — you have
 put yourself in the genitive, at the end, after the cat. That is where the
 agent goes."
 

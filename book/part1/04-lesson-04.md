@@ -52,7 +52,7 @@ the order mean*. Ask *what does the order do*."
 ::: newgreek
 ## The order moved; the meaning did not
 
-You met this at the end of the last lesson, and Marcus got half of it. Here
+You met this at the end of Lesson 3, and Marcus got half of it. Here
 is the whole of it.
 
 These four sentences are all correct Greek, and all four mean the same
@@ -261,7 +261,7 @@ name the one piece of evidence that told you. Then translate.
     weighted towards what each man has, not who he is.
 
 A student who answered 2 differently from 1 read the order and ignored the
-endings. This is the single commonest mistake in the first term, it is
+endings. This is the single commonest mistake at this stage, it is
 entirely reasonable, and it is why Sabina's court kept returning the same
 verdict.
 :::
@@ -391,8 +391,8 @@ is Greek, and if it is, what it means.
    Students may also offer **ὁ κριτὴς καὶ ὁ μάρτυς λέγει**, which is the
    natural thing to try. It is in fact acceptable Greek — a verb may agree
    with the nearer of two subjects — though Greek more often uses a plural
-   verb here, which arrives in Lesson 5. Tell them they have found the
-   next lesson, and that finding it one lesson early is the right kind of
+   verb here, which arrives in Lesson 5. Tell them they have found
+   Lesson 5, and that finding it one lesson early is the right kind of
    mistake.
 3. Not Greek — the same fault with the verb moved into the middle. Two
    nominatives, one **-ει**. Moving the words changed nothing, which is
@@ -407,7 +407,7 @@ is Greek, and if it is, what it means.
 7. Greek: *The judge tells the truth and justice.* Two objects, one verb.
    Whether it is good sense is a separate question, and a fair one.
 8. Acceptable, as in 2: the verb agrees with the nearer subject. Greek
-   would more often use a plural verb, which arrives next lesson.
+   would more often use a plural verb, which arrives in Lesson 5.
 9. Not what he thinks. **ὦ φίλε** is a vocative: someone being spoken
    *to*, which cannot be the subject of anything. As it stands it means
    *Friend! — he is speaking*, with the speaker unnamed. A pupil who
@@ -483,7 +483,7 @@ witness to the truth. The governor answers him:
 *What is truth?*
 
 Two words of it are new. The third, **ἀλήθεια**, is yours — you learned it
-this afternoon, nominative, and here with no article: *what is truth?*,
+in this lesson, nominative, and here with no article: *what is truth?*,
 not *what is the truth?*
 
 ::: note
@@ -499,13 +499,13 @@ Notice what the governor does *not* do. He does not answer the man, and he
 does not wait for the man to answer him. Three words of Greek, and the trial
 moves on.
 
-Sabina's court spent an afternoon deciding who had done what, and could do
+Sabina's court decided who had done what, and could do
 it because the endings told her. This court is asked a question the endings
 cannot settle at all.
 :::
 
 ::: {.reading title="Theodoros's second tablet" source="composed"}
-The next morning there was a second tablet. It was about the trial, and
+Afterwards there was a second tablet. It was about the trial, and
 Sabina read it first, which she afterwards said was a mistake.
 
 ἡ Σαβῖνα βλέπει τὸν Φήλικα. ὁ Φῆλιξ οὐ βλέπει τὴν Σαβῖναν· τὴν θύραν
@@ -611,5 +611,5 @@ somebody came close.
 
 > **ὦ διδάσκαλε, τὴν ἀλήθειαν λέγει ὁ μάρτυς.**
 
-He left it there for the rest of the week.
+He left it there.
 :::

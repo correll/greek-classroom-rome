@@ -6,10 +6,9 @@ Theodoros arrived with a handful of small wooden tags and a pot of ink.
 "Label the room," he said. "Every object gets its Greek name. You will find
 the words on the board. Attach the tag to the thing."
 
-This was received as the best instruction of the term so far. Within five
-minutes the stools, the door, the lamp, the water jar, and one of
-Theodoros's sandals had been labelled. Within six minutes Felix had
-labelled Quintus.
+This was received as the best instruction so far. In no time the
+stools, the door, the lamp, the water jar, and one of Theodoros's sandals
+had been labelled. Then Felix labelled Quintus.
 
 "**ὁ ἄνθρωπος**," he explained. "It is accurate."
 
@@ -22,7 +21,7 @@ Theodoros had learned to pay attention to.
 **τό**. They all mean *the*. Why are there three?"
 
 "Ah," said Theodoros, and sat down, which was always a bad sign for the
-afternoon's schedule. "Because in Greek, a noun has a sex."
+lesson plan. "Because in Greek, a noun has a sex."
 :::
 
 ::: newgreek
@@ -410,7 +409,7 @@ all — fine things are hard.
 :::
 
 ::: {.reading title="Theodoros's first tablet" source="composed"}
-At the end of the first week Theodoros wrote a story on a tablet and
+After the first lessons Theodoros wrote a story on a tablet and
 passed it round. It was about them. Every word in it was on the wall.
 
 ὁ αἴλουρος βλέπει τὸν ἵππον. ὁ ἵππος οὐ βλέπει τὸν αἴλουρον.

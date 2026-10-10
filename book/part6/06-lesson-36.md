@@ -4,7 +4,7 @@
 Theodoros came in with the box.
 
 Everyone knew the box. It had sat on the shelf beside the Psalms since the
-first week, and it was the one object in the room nobody had ever been
+first lesson, and it was the one object in the room nobody had ever been
 allowed to label, and the one object Felix had never tried to.
 
 He put it on the table and opened it, and took things out one at a time,
@@ -219,7 +219,7 @@ for *didō* and not find it; Latin put the doubling into the perfect
 instead, *dedī*, where Greek has **δέδωκα**. And Latin *sum* has no
 participle to match **ὤν**, which is why *ens*
 had to be invented by philosophers and **ὄν** did not. Marcus's column
-gets one line today — *Latin cannot say **ὤν*** — and then he may close
+gets one line now — *Latin cannot say **ὤν*** — and then he may close
 it, because the column was never really about Latin.
 :::
 :::
@@ -263,11 +263,11 @@ thought of each.
 :::
 
 ::: investigation
-The last investigation. Theodoros said that anyone who finished early could
-spend the remainder labelling the box.
+The last investigation. Theodoros said that anyone who finished first could
+label the box.
 
 ::: {.exercise title="Retrieval"}
-From memory. These range over the whole year.
+From memory. These range over the whole course.
 
 1. **τὸ δῶρον** — nominative or accusative?
 2. Why would a writer put **ἐγώ** in front of **λέγω**, when the ending
@@ -449,7 +449,7 @@ futures.** Two of them passive, with no agent named: *it will be given*,
 meant to supply. **And one -μι verb,** hidden inside **δοθήσεται**.
 **δοθήσεται** is **δίδωμι** with the reduplication gone, the passive
 marker, the future marker and a middle ending: four pieces, from three
-lessons, stacked on one stem. A year ago you could not read the letters. Now you can take that word
+lessons, stacked on one stem. At the start of this course you could not read the letters. Now you can take that word
 apart and name each piece and say what it is doing.
 
 ::: teacheronly
@@ -466,7 +466,7 @@ This is the Great Reading's method applied to a single verse, and it is a
 fair final examination of Part VI.
 
 **On the box.** The things Theodoros gives back are the class's own errors
-from the year, kept. If your own class has a year's worth of tablets, this
+from the course, kept. If your own class has a course's worth of tablets, this
 is the lesson to return them; if it does not, the scene still works as a
 story, but it works better as a fact.
 :::
@@ -629,7 +629,7 @@ Read both tiers aloud before you answer anything.
    from nothing, would you have guessed these? What does the list leave out,
    and why?
 3. *What in the sentence tells you that?* You have been asked it of every
-   sentence for a year. Name one thing outside Greek it can be asked of,
+   sentence all through this course. Name one thing outside Greek it can be asked of,
    and ask it.
 :::
 
@@ -638,7 +638,7 @@ The tags stayed on Julia's bench until the lesson ended, and she did not
 touch them until everyone else had gone, and then she untied the thread and
 read all three, and put them in her sleeve, and said nothing either.
 
-That was the end of the year.
+That was the end of the course.
 
 Ten years later, in a house in another city, where she taught Greek to
 children who complained about it exactly as she had, a letter came for

@@ -1,8 +1,8 @@
 # The First Real Sentence
 
 ::: story
-Theodoros was at the board before anyone sat down, and he did not say good
-morning.
+Theodoros was at the board before anyone sat down, and he did not greet
+anyone.
 
 He wrote seventeen words, put the charcoal down, and sat.
 
@@ -40,7 +40,7 @@ last part **ὁ λόγος** is the one we are talking about, and **θεός** i
 is being said about it. Like **ὁ διδάσκαλός ἐστι φίλος**. Like the fine
 things being hard."
 
-The room went quiet in a way it had not done all term.
+The room went quiet in a way it had not done before.
 
 "I still do not know what **ἦν** means," Livia added.
 
@@ -514,7 +514,7 @@ So the Greek says: *the Word was God.* With **θεός** shouted.
 centuries, and a good deal of the argument is about the missing article —
 whether leaving it off makes **θεός** a description rather than an
 identification, and what the difference would amount to. You are not going
-to settle that this afternoon. But you are, as of today, able to see what
+to settle that in this lesson. But you are now able to see what
 they are arguing *about*, which is further than most readers of this
 sentence ever get.
 
@@ -530,8 +530,8 @@ again.
 :::
 
 ::: {.reading title="Theodoros's fourth tablet" source="composed"}
-The fourth tablet went round the next morning, when Marcus had stopped
-being pleased with himself. It was about the morning before.
+The fourth tablet went round once Marcus had stopped being pleased
+with himself. It was about the seventeen words on the board.
 
 ὁ διδάσκαλος γράφει τὸν λόγον· «ἐν ἀρχῇ ἦν ὁ λόγος.» ὁ Μᾶρκος λέγει·
 «οὐκ ἀναγιγνώσκω. οὐ γιγνώσκω τὴν γραφήν.»
@@ -639,10 +639,10 @@ Read the whole tablet aloud before you answer anything.
 :::
 
 ::: story
-At the end of the hour Theodoros rubbed out fifteen of the seventeen words.
+At the end of the lesson Theodoros rubbed out fifteen of the seventeen words.
 
 He left **ὁ λόγος** on the board, in the corner, and it stayed there until
-the winter, when a slave cleaning the room wiped it off without knowing what
+a slave cleaning the room wiped it off without knowing what
 it was, which Theodoros said afterwards was the most appropriate thing that
 had ever happened in that house.
 :::

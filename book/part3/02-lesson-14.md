@@ -9,7 +9,7 @@
 say about it?" He was enjoying himself. "Latin has three and that is already
 two too many. Greek will no doubt have four."
 
-"Greek has rather more than four," said Theodoros, "but today you get one,
+"Greek has rather more than four," said Theodoros, "but for now you get one,
 and I will trade you for it." He wrote on the board:
 
 > **ἔλεγε τὸν λόγον.**
@@ -40,7 +40,7 @@ dicere.*"
 
 "They are the same in Latin, and in English, and they are not the same in
 Greek, and nothing in the difference has anything whatever to do with the
-past." Theodoros sat down. "That is what you are getting today. Not another
+past." Theodoros sat down. "That is what you are getting now. Not another
 past tense. A second question Greek asks about every verb, which Latin asks
 only sometimes and English asks in a different place."
 :::
@@ -113,7 +113,7 @@ say, to be saying, to go on saying*; **εἰπεῖν** is *to say, once*. Both 
 timeless; only the aspect differs, and Latin has one word for both.
 
 You meet infinitives properly in Lesson 16. For now it is enough to know
-that the thing you learned today is not a tense. It is a second question,
+that the thing you learned in this lesson is not a tense. It is a second question,
 and Greek asks it everywhere.
 
 ::: latinbridge
@@ -176,7 +176,7 @@ Marcus asked to keep the two sentences. He was given them, after the usual
 ten questions on the last four lessons.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Nothing here is from this lesson.
+From memory. Nothing here is from this lesson.
 
 1. **ἀγαθή** — what gender? Name one noun from your lists it could describe.
 2. Translate **ἐθέλω**.
@@ -417,7 +417,7 @@ both sides. Had the author written **ἦν σάρξ** he would have said the Wor
 the Word begin.
 
 He wrote neither, and the whole of the difference is carried by two verb
-forms you learned this week.
+forms you learned in Lessons 13 and 14.
 
 Notice also **σάρξ**: no article, standing outside the group, which by
 Lesson 10 makes it a predicate. The construction is exactly that of
@@ -433,7 +433,7 @@ then asked about the infinitives again, which it cannot.
 :::
 
 ::: {.reading title="What happened next" source="composed"}
-The tablet picks up where last week's left off. Everything that was going on
+The tablet picks up where the Lesson 13 tablet left off. Everything that was going on
 is still going on — and then things start to happen. Watch which verbs have
 **-σα-** or a changed stem, and which do not.
 
@@ -483,7 +483,7 @@ Read it aloud first. Then go through it a second time marking every verb
    the case each one takes.
 7. What fell, and what was written on it?
 8. Who picked up the tablet, and what did he say? Which tablet is he
-   talking about — this one, or last week's?
+   talking about — this one, or the one from Lesson 13?
 9. Felix says **ἐγὼ οὐκ ἦλθον**. Is it true? Quote the words of the tablet
    that contradict him, and say what tense they are.
 10. List every aorist in the fourth paragraph, then every imperfect. Which
@@ -511,7 +511,7 @@ Read it aloud first. Then go through it a second time marking every verb
    περὶ τῶν μαθητῶν** — the writing about the pupils: the earlier tablet's
    story, as question 8 shows.
 8. Marcus; **ἐγὼ οὐκ ἔλεγον περὶ τῶν ἵππων** — *I was not talking about
-   horses*. He means last week's tablet, which said he was; he has read
+   horses*. He means the Lesson 13 tablet, which said he was; he has read
    the accusation and is answering it. The teacher's one-word reply,
    **ἔλεγες**, is the imperfect of Lesson 13 doing all the work.
 9. No. **ὁ Φῆλιξ ἦλθεν εἰς τὸ διδασκαλεῖον** — aorist, at the start of the
@@ -543,7 +543,7 @@ of his own.
 
 The heading read: **things Latin cannot do**.
 
-It had one entry that afternoon. By the end of Part V it had grown to a
+It had one entry to begin with. By the end of Part V it had grown to a
 column, and he had stopped writing it in a tone of complaint some time
 around the fourth.
 :::

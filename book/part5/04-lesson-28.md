@@ -142,7 +142,7 @@ Theodoros set the exercises before the letters were written, so that the
 formulas would be in hand.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Lessons 24 to 27; nothing from today.
+From memory. Lessons 24 to 27; nothing from this lesson.
 
 1. **ἄκουσον** — what form? How does it differ from **ἄκουε**?
 2. Translate **τίνος ἐστὶ τὸ πλοῖον;**
@@ -651,6 +651,6 @@ will think you have been living there."
 
 "I have never been there."
 
-"No. But you have been reading its letters for a year, and that is the
+"No. But you have been reading its letters all through this course, and that is the
 next best thing, and in some ways the better one."
 :::

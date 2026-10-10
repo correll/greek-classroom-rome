@@ -2,7 +2,7 @@
 
 ::: story
 "Each of you will say one thing about yourself," said Theodoros. "In Greek.
-Today."
+Now."
 
 There was the particular silence of a room in which eight people have
 simultaneously decided to be somebody else's problem.
@@ -10,7 +10,7 @@ simultaneously decided to be somebody else's problem.
 "I shall go first," said Aelia.
 
 This surprised nobody. Aelia's mother kept a Greek cook, and Aelia had been
-telling the class for a fortnight that she had been hearing Greek spoken at
+telling the class from the start that she had been hearing Greek spoken at
 home since she was four, which was true, and that she therefore had an
 advantage, which was about to be tested.
 
@@ -41,15 +41,15 @@ rescue you from that."
 
 Aelia sat down with great dignity.
 
-Felix said **ἐγώ εἰμι ἡ ὁδός** at least once a week for the rest of the
-term, usually when asked where something was.
+Felix said **ἐγώ εἰμι ἡ ὁδός** at every opportunity afterwards,
+usually when asked where something was.
 :::
 
 ::: newgreek
 ## The ending tells you who
 
 Until now you have borrowed verbs whole: **βλέπει**, **γράφει**, **ἔχει**,
-**λέγει** — all of them *he, she, or it does this*. Today you get the rest
+**λέγει** — all of them *he, she, or it does this*. Now you get the rest
 of them, and the rule behind them.
 
 A Greek verb changes its ending according to **who is doing it**. Here is
@@ -72,7 +72,7 @@ Three things follow, and the third is the one that matters.
 **One. The dictionary form is *I*, not *he*.** Greek verbs are listed under
 the first person singular — **λέγω**, not **λέγει**. English dictionaries
 use *to say*; Greek uses *I say*. This is why your vocabulary list has
-changed shape today.
+changed shape in this lesson.
 
 **Two. Greek does not need a separate word for the subject.** **λέγομεν**
 is a complete sentence: *we say*. There is no **we** standing in front of
@@ -112,15 +112,15 @@ Learn it as a set of six noises; there is no pattern to deduce.
 | 2nd plural | **ἐστέ** | you (more than one) are |
 | 3rd plural | **εἰσί(ν)** | they are |
 
-**ἐστί** is the **ἐστιν** you met in Pilate's question last lesson. You
-have been reading this verb for a week without being able to name it.
+**ἐστί** is the **ἐστιν** you met in Pilate's question in Lesson 4. You
+have been reading this verb without being able to name it.
 
 ::: note
 **Why some forms end in (ν).** **ἐστί(ν)** and **εἰσί(ν)** add a **-ν**
 when the next word begins with a vowel, and usually at the end of a
 sentence. It exists to stop two vowels colliding — the same instinct that
 makes English choose *an apple* over *a apple*. Greek does this constantly
-and you will stop noticing it within a month.
+and with practice you will stop noticing it.
 :::
 
 ## What εἰμί does not do
@@ -163,7 +163,7 @@ both; Greek keeps two, and will expect you to choose.
 The **γνω-** in it is the same root as in **γνῶθι σαυτόν**, *know yourself*,
 the maxim carved at Delphi. That is a **command**, and commands have endings
 of their own which you do not meet until Lesson 26. Theodoros points this
-out every year and every year somebody tries to issue one anyway.
+out to every class and in every class somebody tries to issue one anyway.
 
 The five verbs from **λαμβάνω** down all take the endings in the table
 exactly as **λέγω** does, and are here so that you have something to
@@ -240,8 +240,8 @@ pronoun in Greek — the ending is the pronoun.
     end.
 
 A student who translated 3 as *he knows* has read **-ου-** as **-ει-**. It
-is worth slowing down on, because the plural endings are where the first
-term's marks are lost.
+is worth slowing down on, because the plural endings are where the most
+marks are lost.
 :::
 
 ::: {.exercise title="Translate"}
@@ -387,7 +387,7 @@ an error of emphasis, and it is worth naming as such every time.
 ::: {.voice source="John 14:6"}
 Aelia's sentence was not original.
 
-About three hundred years before that afternoon, somebody had written down
+About three hundred years before Aelia stood up, somebody had written down
 very nearly the same words, and meant them.
 
 **ἐγώ εἰμι ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή.**
@@ -417,7 +417,7 @@ the same reason: to put the weight on the speaker. *I* am these things.
 one. Drop the three articles and the sentence becomes modest. They are the
 most important three letters in it.
 
-**It answers the question from last lesson.** Pilate asked
+**It answers the question from Lesson 4.** Pilate asked
 **τί ἐστιν ἀλήθεια;** — *what is truth?* This sentence, in the same book,
 spoken by the man standing in front of him, is an answer given before the
 question was asked. Whether it is a good answer is not a question Greek can
@@ -531,7 +531,7 @@ speakers and a cat.
 :::
 
 ::: story
-Weeks later, lost in the Subura with Felix and a basket of fish, Aelia
+Later, lost in the Subura with Felix and a basket of fish, Aelia
 stopped at a junction and considered the three streets available to her.
 
 "**ἐγώ εἰμι ἡ ὁδός**," said Felix.

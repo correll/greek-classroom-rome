@@ -39,7 +39,7 @@ There was a pause.
 "Sabina," said Theodoros, "has just told you what a participle is for, and
 she has done it without knowing the word. The rest of you have spent
 twenty-one lessons being told that parsing is plot and not believing it.
-Today it is going to be impossible not to."
+Now it is going to be impossible not to."
 :::
 
 ::: newgreek
@@ -479,7 +479,7 @@ Check the passage against the edition in use; **Σαμαρίτης** is also spe
 **Σαμαρείτης** in some editions, and the word order in verse 34 varies.
 
 **On Sabina.** This is her lesson, and the point of giving it to her is that
-the pupil who has been impatient with parsing all year turns out to parse
+the pupil who has been impatient with parsing all along turns out to parse
 fastest when the parsing is a story — because for her it always was one.
 Let her account of the passage stand as the model and build the grammar
 underneath it, rather than the other way round.

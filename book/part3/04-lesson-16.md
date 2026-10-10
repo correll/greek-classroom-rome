@@ -1,9 +1,8 @@
 # Odysseus and the Problem of Cleverness
 
 ::: story
-Theodoros had been reading them the Cyclops for three days, a dozen lines at
-a time, and on the fourth day he reached the part where Odysseus gives his
-name.
+Theodoros had been reading them the Cyclops a dozen lines at a time, and at
+last he reached the part where Odysseus gives his name.
 
 He stopped. He looked up. He waited, which was a thing he did when he wanted
 the room to arrive at something by itself.
@@ -29,14 +28,14 @@ Theodosius had gone very still.
 "And the poem admires him for it."
 
 "The poem," said Theodoros carefully, "calls him **πολύτροπος**. You
-translated that word last week. Say it again."
+translated that word in Lesson 15. Say it again."
 
 "Of many turns." Theodosius did not look happy about it. "But my uncle
 says — " He stopped. "It is a lie. It is not a clever lie or a necessary lie.
 It is a lie, and he tells it, and he gets home, and the poem gives him a
 hundred more lines of it."
 
-Quintus had been waiting for this since the first day of the Cyclops.
+Quintus had been waiting for this since the Cyclops began.
 
 "He is in a cave," he said, "with a man-eating giant, and six of his crew
 are already dead. What is the honest answer? *My name is Odysseus, son of
@@ -69,15 +68,15 @@ books showing us what the word costs."
 
 Nobody spoke.
 
-"That," said Theodoros, "is the best thing anyone has said in this room this
-year, and I am not going to tell you whether she is right."
+"That," said Theodoros, "is the best thing anyone has said in this room,
+and I am not going to tell you whether she is right."
 
 "Sir — "
 
 "No. You are twelve, and thirteen, and fourteen, and the question of whether
 cleverness is a virtue is one that grown men have ruined their lives getting
-wrong. You will not settle it this afternoon and neither will I." He picked
-the scroll back up. "What you *will* do this afternoon is learn the form
+wrong. You will not settle it here and neither will I." He picked
+the scroll back up. "What you *will* do now is learn the form
 you need in order to report what Odysseus said without repeating his trick:
 the infinitive. He does not lie by saying a false thing. He lies by saying a
 true thing in a shape that will be misheard, and to say *he said that* in
@@ -162,7 +161,7 @@ is where the two jobs part company.
 **In job one, the infinitive has no time at all. Only shape.**
 
 - **βούλεται γράφειν.** — *He wants to be writing* — to do some writing, to
-  spend the afternoon at it, to keep at it.
+  be busy at it, to keep at it.
 - **βούλεται γράψαι.** — *He wants to write it* — to get it written, one
   completed act.
 
@@ -238,8 +237,8 @@ it, the years of it, the thing the *Odyssey* is about. English borrowed the
 other half of it: *nostalgia* is **νόστος** + **ἄλγος**, the ache for the
 homecoming.
 
-**ὁ δόλος** and **ἡ σοφία** are the two words the class has just spent five
-minutes arguing about. Homer uses the first of Odysseus; the second is
+**ὁ δόλος** and **ἡ σοφία** are the two words the class has just been
+arguing about. Homer uses the first of Odysseus; the second is
 Attic — Homer's own word for his cleverness is **μῆτις**, which you meet
 below.
 :::
@@ -251,7 +250,7 @@ were about the *Odyssey* and one of them was about Felix. Before that, as
 always now, ten questions from memory.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Nothing here is from this lesson; the imperfects
+From memory. Nothing here is from this lesson; the imperfects
 and aorists are mixed on purpose.
 
 1. **ἔπαθον** — tense; what told you?
@@ -449,7 +448,7 @@ into a finite verb.
 Watch for pupils who leave **ἀγαθόν**, **σοφίαν** and **κακούς** in the
 accusative. The word agreed with the subject, the subject has gone back to
 the nominative, and so must it. This is the step that gets missed, every
-year, by everybody.
+time, by everybody.
 :::
 
 ::: {.exercise title="Into Greek"}

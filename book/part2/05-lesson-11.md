@@ -41,7 +41,7 @@ already says it?"
 Theodoros sat down, which the class had learned to recognise.
 
 "That," he said, "is the first genuinely good question anybody has asked
-this term."
+so far."
 :::
 
 ::: newgreek
@@ -169,7 +169,7 @@ and you may treat **-ως** as English *-ly* until told otherwise.
 Theodoros gave out the rest of the sheet.
 
 ::: {.exercise title="Retrieval"}
-Ten quick questions from Lessons 7 to 10. From memory.
+Ten short questions from Lessons 7 to 10. From memory.
 
 1. Give the gender, number and case of **τὰς δέλτους**.
 2. Translate **ἐκ τῆς οἰκίας**.
@@ -353,7 +353,7 @@ Marcus asked why anyone writes **ἐγώ** if the ending already says it.
    *I tell the truth* / *I tell the truth* (as against whoever does not).
 3. English uses stress in speech and italics in writing, and in both cases
    it is adding something outside the words. Greek does it with a word.
-   Worth five minutes: which method survives being copied out by hand?
+   Worth discussing: which method survives being copied out by hand?
 4. *You say so* against *you say so* — or *it is you who say so*. Against
    the speaker, or whoever else might have said it; the point is that
    somebody else is in view.
@@ -536,7 +536,7 @@ Years later, teaching a class of his own in a province he had not expected
 to end up in, he set the same exercise, with the subjects removed, and
 waited for somebody to tell him it could not be done.
 
-Somebody did, in the second week. He said it was the first genuinely good
-question anybody had asked that term, and then had to go and stand by the
+Somebody did, in one of the first lessons. He said it was the first genuinely
+good question anybody had asked so far, and then had to go and stand by the
 window for a moment.
 :::

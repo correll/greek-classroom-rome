@@ -21,7 +21,7 @@ cannot find a mistake. But Plato would not write one line of it."
 
 "Then why is it like this?"
 
-Theodoros sat on the edge of the table, which he did about twice a year.
+Theodoros sat on the edge of the table, which he almost never did.
 
 "Because the men who wrote it were translating," he said. "They had a
 Hebrew text in front of them, and every word in it was holy, and they had to
@@ -315,7 +315,7 @@ line, what was lost. New words you may need are given in brackets.
 
 Any Attic the class produces will be, in one way or another, more elegant and
 less faithful. That is the lesson, and the pupil who notices it unprompted
-has done the afternoon's work. Item 7 is the one where most of the meaning
+has done the lesson's work. Item 7 is the one where most of the meaning
 goes; ask the class which item it was before you tell them.
 :::
 
@@ -339,7 +339,7 @@ Write these in Septuagint Greek — that is, keep the Hebrew shape.
    μού ἐστιν** as correct Greek that has missed the instruction.
 2. **τὸ ἔλεος τοῦ κυρίου μέγα ἦν.** — **μέγα** is the neuter of **μέγας**,
    agreeing with **ἔλεος**.
-3. **ὁ ποιμὴν ἄγει τὰ πρόβατα εἰς τὸν οἶκον.** — **ἄγω** is in today's
+3. **ὁ ποιμὴν ἄγει τὰ πρόβατα εἰς τὸν οἶκον.** — **ἄγω** is in this lesson's
    list; the class saw it inside **παιδαγωγός** in Lesson 3.
 4. **εἰς τὸν αἰῶνα.** — the idiom whole. A pupil who writes **ἀεί** has
    written Attic, which is correct and is not what was asked.

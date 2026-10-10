@@ -40,8 +40,8 @@ Julia looked at her tablet.
 right. The lexicon is right. The translation is wrong, and the reason is
 not in the sentence. It is in the one before it, and in who was in the
 room when it was said." He sat down. "This is the lesson where I tell you
-that everything you have learned this year is necessary and none of it is
-sufficient. You have the grammar. Today you find out what the grammar
+that everything you have learned in this course is necessary and none of it is
+sufficient. You have the grammar. Now you find out what the grammar
 cannot do."
 :::
 
@@ -101,7 +101,7 @@ loses the struggle. You cannot have everything. You can know what you gave
 up, and say so.
 
 ::: note
-**Marcus has been doing this on purpose all year.** Every one of his
+**Marcus has been doing this on purpose all through this course.** Every one of his
 technically-possible-and-absurd translations was a demonstration that the
 grammar permits more than the sense does. He was being annoying. He was
 also, every time, right about the grammar — and the lesson he was teaching
@@ -162,7 +162,7 @@ reason for preferring one — and that *the dictionary says so* was not a
 reason, since the dictionary said both.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Lessons 23 to 26; nothing from today.
+From memory. Lessons 23 to 26; nothing from this lesson.
 
 1. **εἰπέ** — what form? From what verb?
 2. Translate **οὐκ οἶδα τίς ἐστιν.**
@@ -443,8 +443,8 @@ done what Lesson 18 taught and discovered that Lesson 18 was not the end.
 
 ::: {.reading title="The storm on the lake" source="Mark 4:35–41"}
 A story, told fast, in the shortest Gospel. It ends with a question nobody
-answers, and it has in it three of the dilemmas you argued about this
-afternoon. The first version is **adapted**: it has no passives and no
+answers, and it has in it three of the dilemmas you argued about in
+this lesson. The first version is **adapted**: it has no passives and no
 subjunctives, and it calls the man in the boat **ὁ διδάσκαλος** throughout,
 because that is what the others call him. The second is the text of
 Nestle–Aland, glossed beside it.
@@ -604,7 +604,7 @@ Read both versions aloud before you answer anything.
 :::
 
 ::: question
-1. Marcus has spent the year producing translations that were technically
+1. Marcus has spent the course producing translations that were technically
    possible and absurd. He was being annoying on purpose. When a real
    translator does it by accident, how would anyone know?
 2. The Latin kept the ambiguity. Was that faithfulness or

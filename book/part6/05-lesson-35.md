@@ -6,7 +6,7 @@ decided what the last will contain, and since you have opinions about
 everything else you may as well have one about that."
 
 Quintus had his hand up before the sentence ended. He had been waiting all
-year for a question with philosophy in it, and this was one.
+through the course for a question with philosophy in it, and this was one.
 
 "**τί ποιοῦμεν;**" he said, in his best Greek.
 
@@ -23,7 +23,7 @@ wanted to know."
 indicative *reports*. You asked what we are doing, and I reported. What you
 wanted to ask is what we are *to* do — what might be done, what should be
 done, what is open — and you cannot ask that in any mood you own. Every
-finite verb you have learned this year states a fact or gives an order.
+finite verb you have learned in this course states a fact or gives an order.
 You wanted a third thing."
 
 Livia had the Luke open. She had been looking for something since Quintus
@@ -91,7 +91,7 @@ So **ἔλθω, ἴδω, μάθω, λάβω, γένωμαι** are the aorist sub
 **ἔρχομαι, ὁράω, μανθάνω, λαμβάνω, γίγνομαι** — the stems you learned as
 pairs in Lesson 14 and Lesson 29, with the augment gone and the vowel long.
 The aorist passive takes a circumflex throughout, because **-θέ-ω** melted
-into **-θῶ** by last week's rules.
+into **-θῶ** by Lesson 34's rules.
 
 The difference between **λύω** and **λύσω** in the subjunctive is not time.
 It is the difference of Lesson 14: **λύω** is the activity, **λύσω** the
@@ -101,7 +101,7 @@ single deed. **ἵνα μανθάνω** is *so that I may be learning*; **ἵν�
 ::: note
 **Two small tables that complete the set.** **εἰμί**: **ὦ, ᾖς, ᾖ, ὦμεν,
 ἦτε, ὦσι(ν)** — the endings alone, with nothing in front of them. And the
-contract verbs melt as they did last week: **ποιῶ, ποιῇς, ποιῇ, ποιῶμεν,
+contract verbs melt as they did in Lesson 34: **ποιῶ, ποιῇς, ποιῇ, ποιῶμεν,
 ποιῆτε, ποιῶσι(ν)**; **δηλῶ, δηλοῖς, δηλοῖ, δηλῶμεν, δηλῶτε, δηλῶσι(ν)**.
 For **-άω** verbs, **α** swallows the long vowel exactly as it swallowed the
 short one, so **ἀγαπῶ, ἀγαπᾷς, ἀγαπᾷ, ἀγαπῶμεν, ἀγαπᾶτε, ἀγαπῶσι(ν)** is
@@ -136,7 +136,7 @@ it.
 **Five. Prohibition — μή with the aorist.** **μὴ εἴπῃς** — *don't say it*
 (this once). Lesson 26 promised you this form: **μή** + present imperative
 forbids a habit, **μή** + aorist subjunctive forbids a single act. **μὴ
-θαυμάσῃς** — *do not be surprised* — in this week's Reading.
+θαυμάσῃς** — *do not be surprised* — in this lesson's Reading.
 
 **Six. Emphatic denial — οὐ μή with the aorist.** Two negatives, and they
 do not cancel: **οὐ μὴ εἴπω** is *I will certainly not say it*; **οὐ μὴ
@@ -155,7 +155,7 @@ last — and there **μή** is present too.
 | **General** | **ἐάν** + subjunctive | present | **ἐὰν λέγῃς, ἀκούω.** *If ever you speak, I listen.* |
 | **Contrary to fact, now** | **εἰ** + imperfect | imperfect + **ἄν** | **εἰ ἔλεγες, ἤκουον ἄν.** *If you were speaking, I would be listening.* |
 | **Contrary to fact, then** | **εἰ** + aorist | aorist + **ἄν** | **εἰ εἶπες, ἤκουσα ἄν.** *If you had said it, I would have listened.* |
-| **Remote** | **εἰ** + optative | optative + **ἄν** | *(a mood this book leaves for another year: **εἰ λέγοις, ἀκούοιμι ἄν**, "if you were to speak, I would listen")* |
+| **Remote** | **εἰ** + optative | optative + **ἄν** | *(a mood this book leaves for another book: **εἰ λέγοις, ἀκούοιμι ἄν**, "if you were to speak, I would listen")* |
 
 Read the table downward and it is a scale of confidence. The top row takes
 no view; the second expects; the third generalises; the fourth and fifth
@@ -182,7 +182,7 @@ to govern them. The Greek subjunctive has no tenses of time; Attic may
 shift to the optative after a past verb (Lesson 23), and Koine never does.
 **ἵνα μάθω** can follow a present verb and a past one alike; Greek asks the mood only about aspect, never about time,
 which is why it has no augment and why Marcus's column of things Latin
-cannot do does not need an entry today. It gets one anyway: Latin has no
+cannot do does not need an entry here. It gets one anyway: Latin has no
 **οὐ μή**.
 :::
 :::
@@ -225,7 +225,7 @@ word and both lose half of it. Lesson 27's dilemma, once more.
 ::: investigation
 Theodoros wrote **ποιοῦμεν** and **ποιῶμεν** on the board, one above the
 other, and said that anyone who could not tell him the difference by the end
-of the hour would be asked the first one and answered literally.
+of the lesson would be asked the first one and answered literally.
 
 ::: {.exercise title="Retrieval"}
 From memory.
@@ -391,7 +391,7 @@ this lesson in a single sentence.
 - **τὸν υἱὸν τὸν μονογενῆ** — the only son *(attributive position, article
   repeated — Lesson 10; **μονογενής**, *only-begotten*, third declension)*
 - **ἔδωκεν** — gave *(aorist of **δίδωμι**: the verb of Lesson 9 and of
-  Thursday)*
+  Lesson 36)*
 - **ἵνα … μὴ ἀπόληται** — in order that he may not perish *(aorist
   subjunctive, middle, of **ἀπόλλυμαι**)*
 - **πᾶς ὁ πιστεύων εἰς αὐτόν** — everyone who believes in him *(**πᾶς**
@@ -598,12 +598,12 @@ Read both tiers aloud before you answer anything.
 :::
 
 ::: story
-Quintus asked again, at the door, what they were to do on Thursday.
+Quintus asked again, at the door, what they were to do in the last lesson.
 
 "**τί ποιῶμεν;**" he said, and got the vowel right, and knew it.
 
 "You have asked correctly," said Theodoros, "and now I am obliged to answer,
-and I shall. On Thursday we read the oldest verbs in the language — the
+and I shall. In the last lesson we read the oldest verbs in the language — the
 ones that were already old when **λύω** was new. One of them has been on
 your vocabulary list since Lesson 9 and you have never been shown how it
 works. And I shall give something back."

@@ -2,7 +2,7 @@
 
 ::: story
 "Three questions," said Theodoros. "Each of you. About your own passage,
-which you have chosen, and which you will read to the courtyard next week.
+which you have chosen, and which you will read to the courtyard in Lesson 30.
 I will answer three and no more, so decide what you most need to know
 before you ask the first one."
 
@@ -18,11 +18,11 @@ Marcus had not told anyone what he had chosen.
 
 The three questions turned out to be the hardest part. Felix used his first
 to ask whether the cat could attend and was told that it counted. Quintus
-spent twenty minutes composing a question so precise it answered itself, and
+laboured over a question so precise it answered itself, and
 then did not need to ask it. Livia asked one question, wrote the answer
 down, and said she would keep the other two in case.
 
-Marcus asked all three in the first five minutes, all about the same two
+Marcus asked all three straight away, all about the same two
 words, and all of them good. Theodoros answered them without comment and
 then, when Marcus had gone back to his tablet, watched him for a while.
 
@@ -39,7 +39,7 @@ then, when Marcus had gone back to his tablet, watched him for a while.
 ## Reading something you have not seen
 
 Everything in this course so far has been scaffolded: glossed, prepared,
-set beside something you knew. The passage you read next week will not be.
+set beside something you knew. The passage you read in Lesson 30 will not be.
 You need a *method* — a way of reading an unfamiliar sentence that does not
 depend on hope.
 
@@ -130,7 +130,7 @@ it will work there too.
 :::
 
 ::: vocab
-No new words this week; each of you builds your own list from your own
+No new words in this lesson; each of you builds your own list from your own
 passage. These twelve are review — words the lesson's Reading leans on,
 with the lesson where you first met each. If any is not yours, it is now.
 
@@ -166,7 +166,7 @@ Theodoros gave them one sentence none of them had seen and made them do the
 seven steps on it, aloud, in turn.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Lessons 25 to 28; nothing from today.
+From memory. Lessons 25 to 28; nothing from this lesson.
 
 1. **ἔρρωσο** — to how many people? Give the form for several.
 2. Translate **λέγει τις.** Now translate **τίς λέγει;** What has changed
@@ -346,8 +346,8 @@ them revise the list before they spend it.
 :::
 
 ::: {.voice source="The approved list"}
-There is no single text this week. There is a list, and every passage on it
-is in this book, and you have read every one of them with help. Next week
+There is no single text in this lesson. There is a list, and every passage on it
+is in this book, and you have read every one of them with help. In Lesson 30
 you read one of them without.
 
 | | Passage | Lesson | Greek | What it tests |

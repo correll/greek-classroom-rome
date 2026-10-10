@@ -25,7 +25,7 @@ place, which in Greek is an achievement.
 
 Quintus read Socrates and did not editorialise, which cost him visibly.
 Livia read two verses of Luke and one sentence of explanation and sat
-down, and the explanation was the clearest thing anyone said all afternoon.
+down, and the explanation was the clearest thing anyone said in the courtyard.
 Aelia read the Psalm in the Greek of her grandmother's kitchen. Felix read
 Apion's letter and, at the end, said *and he got home*, which was not in the
 text, and nobody corrected him.
@@ -49,17 +49,17 @@ Lesson 3, and I knew it, and I did not look. The sentence is about the
 Word. *The Word was God.* **θεός** is first because Greek puts a word first
 to lean on it, and the article is there so that it can." He stopped. "Julia
 told me this. I did not hear her, because I was listening to myself. I have
-had three months to work out why I should have, and I have chosen this
+had since Lesson 18 to work out why I should have, and I have chosen this
 sentence so that I would have to say so in front of people who do not know
 Greek and will not know whether I am right. You will have to take it from
 the grammar."
 
 He sat down.
 
-Theodoros, who had not said a word all afternoon, did not say one now. He
+Theodoros, who had not said a word all through the readings, did not say one now. He
 looked at Marcus for a moment, and then at Julia, and then at the courtyard,
 and then he stood up and said, "That concludes the examination," and nothing
-else, and it was the highest mark he gave anyone that year.
+else, and it was the highest mark he ever gave anyone.
 :::
 
 ::: newgreek
@@ -78,7 +78,7 @@ No new grammar. This is what you have.
 | **The method** | put four questions to a sentence and five to a passage; ask what would have to be true for you to be wrong; know where the grammar stops and the page begins | 18, 24, 27, 29 |
 
 Twenty-nine lessons. About a hundred and fifty words. Everything on the
-list above is something you could not do at the start of the year and can
+list above is something you could not do at the start of this course and can
 do now, and most of it is something most people never do at all.
 
 ## What the examination asks
@@ -102,15 +102,15 @@ say why; that is also an answer.
 
 *What would have to be true in the Greek for my translation to be wrong?*
 
-Marcus asked it of himself, three months late, about five words, and the
+Marcus asked it of himself, twelve lessons late, about five words, and the
 answer was *the article would have to be on the other noun*, and he checked,
 and it was not. That is the whole method. It is what Theodoros has been
-teaching since the first week, and it is the only thing he was ever
+teaching since Lesson 1, and it is the only thing he was ever
 teaching, and it works on everything.
 
 ::: latinbridge
-**A year ago, Latin was the thing you knew and Greek was the thing you
-did not.** Now you have two languages, and each one shows you the other.
+**At the start of this course, Latin was the thing you knew and Greek was
+the thing you did not.** Now you have two languages, and each one shows you the other.
 You know that Latin has no article because Greek does. You know that
 Latin's perfect is doing two jobs because Greek gives each its own tense. You know that
 *caritas* was a word for *expensive* because **ἀγάπη** never was.
@@ -128,7 +128,7 @@ in a sentence of your own.
 
 These twelve are review: the words the Great Reading's own passage, John
 1:1–14, is built from, with the lesson where each arrived. Between them
-they span the year.
+they span the course.
 
 - **ὁ λόγος** — word, speech, account, reason *(Lesson 1)*
 - **ἡ ἀρχή** — beginning; origin *(Lesson 6)*
@@ -146,13 +146,13 @@ they span the year.
 :::
 
 ::: investigation
-The written part of the examination. Theodoros set it the day before the
+The written part of the examination. Theodoros set it before the
 courtyard, and said that anyone who could do it had nothing to fear from
-an audience. The Retrieval came first, as it has every week; the
+an audience. The Retrieval came first, as it has in every lesson; the
 examination proper has four sections of ten.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Lessons 26 to 29; nothing from today.
+From memory. Lessons 26 to 29; nothing from this lesson.
 
 1. **ἄκουσον** / **ἄκουε** — which asks for a deed and which for a habit?
 2. **Ἀπίων Ἐπιμάχῳ χαίρειν.** — name the two cases, and the verb that is
@@ -355,7 +355,7 @@ feeling. For each feature, what the three sentences must contain:
    28 around one aorist verb: *I learned* — once, completely, and the
    aspect is the claim.
 5. **τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.** — John
-   1:5, from Lesson 27, and the second half of the day's Reading is built
+   1:5, from Lesson 27, and the second half of this lesson's Reading is built
    on it. Present for the shining, which goes on; aorist for the failure
    to overcome, which is over. **αὐτό** neuter, agreeing with **φῶς**.
 6. **τίς ἐστιν οὗτος; καὶ ὁ ἄνεμος καὶ ἡ θάλασσα ὑπακούει αὐτῷ.** — Mark
@@ -387,7 +387,7 @@ feeling. For each feature, what the three sentences must contain:
 In your own language. Ten questions; a sentence or two on each, and the
 ten together are your paragraph.
 
-1. What can you do now that you could not do a year ago — not in Greek,
+1. What can you do now that you could not do at the start of this course — not in Greek,
    but because of it?
 2. Which sentence in the course did you read first without help, and when
    did you notice?
@@ -404,14 +404,14 @@ ten together are your paragraph.
    when you do?
 9. What did reading your passage aloud to people without Greek teach you
    that reading it to the class had not?
-10. What do you want to be able to read by this time next year?
+10. What do you want to be able to read next?
 :::
 
 ::: answers
 No key, and read every one. This is the only exercise in the book with no
 Greek in it, and it is the one that tells you whether the course worked.
 The tenth question has a practical use: it tells you what to put in front
-of them in the second term.
+of them in Part VI.
 :::
 :::
 
@@ -430,7 +430,7 @@ Greek goes lower than the Latin. His uncle asked him to say it again.
 Levite, in Greek, which means she made the participles audible.
 
 **Quintus** — *Apology* 38a. Read without comment, which was the hardest
-thing he did all year, and the explanation he gave afterwards was about
+thing he did in the course, and the explanation he gave afterwards was about
 the **δέ**.
 
 **Livia** — Luke 17:20–21. Two verses, one sentence of explanation: *he is
@@ -448,8 +448,8 @@ and had to take it from the article.
 
 **What the eight have in common.** Every one is a text somebody wrote in
 Greek because they had something to say that they could not say otherwise.
-Every one was read, this afternoon, by a child who a year ago could not
-read the letters. And every one was explained — not performed, explained —
+Every one was read, in the courtyard, by a child who at the start of this
+course could not read the letters. And every one was explained — not performed, explained —
 with a feature of the grammar named aloud, so that the listener could see
 the reasoning even where they could not see the Greek.
 
@@ -694,13 +694,13 @@ theology of the adaptation, which they may.
 the same sentence that opened Lesson 6 read whole, in context, by a class
 that can now say what every word of it is doing. Let the last question
 land and do not add to it. Part VI begins with the voice they have been
-glossing past all year — the middle — and the first thing the cat does in the
-second term is get washed.
+glossing past all through the course — the middle — and the first thing the cat
+does in Part VI is get washed.
 :::
 :::
 
 ::: question
-1. A year ago you could not read the letters. Today you read aloud, in
+1. At the start of this course you could not read the letters. Now you read aloud, in
    Greek, to a room. What else that you currently believe to be impossible
    is merely unlearned?
 2. Marcus chose the sentence he had got wrong. Was that courage, penance,
@@ -718,7 +718,7 @@ a courtyard again, Felix found Theodoros putting the scrolls away.
 
 "Was what worth it?"
 
-"Greek. All of it. A year. My mother asked, this morning, what it was *for*,
+"Greek. All of it. My mother asked what it was *for*,
 and I did not have an answer."
 
 Theodoros finished tying the Homer, which took some time, and set it on the
@@ -735,7 +735,7 @@ ever had, and the only one it needed."
 "That is not an answer."
 
 "No," said Theodoros. "It is a fact. You have the Greek now. Make the answer
-yourself. You have a fortnight to do it in, and then we begin again."
+yourself. You have until we begin again to do it in."
 
 "Begin *what*? We have read everything."
 
@@ -743,15 +743,15 @@ yourself. You have a fortnight to do it in, and then we begin again."
 Every verb you know looks outward. The Greeks had a whole voice of the
 verb that looks back at its own subject — *I wash*, meaning myself; *I
 am persuaded*, meaning I obey — and you have been reading round it all
-year, naming it and stepping round it. **βούλομαι. δύναμαι. ἔρχομαι.**
+through the course, naming it and stepping round it. **βούλομαι. δύναμαι. ἔρχομαι.**
 You know a dozen of its forms already and have never been shown how they
 hang together. That is
-the second term, and the cat is in it." He put the last scroll on the
-shelf. "**ἔρρωσο** — for a fortnight. After that, **ἔρρωσθε**, all of you,
+what comes next, and the cat is in it." He put the last scroll on the
+shelf. "**ἔρρωσο** — for now. After that, **ἔρρωσθε**, all of you,
 and bring your tablets clean."
 
 Felix went home. The cat, which had understood none of it, stayed on the
 wall until dark, and was, in its own estimation, the **κύριος** of
-everything it could see; and had no idea what the second term had in store
+everything it could see; and had no idea what Part VI had in store
 for it.
 :::

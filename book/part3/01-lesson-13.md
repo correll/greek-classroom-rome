@@ -3,13 +3,13 @@
 ::: story
 "A story is not a list," said Quintus.
 
-Nobody had asked him, but he had been building to it for some minutes and
-there was no stopping it now.
+Nobody had asked him, but he had clearly been building to it and there was
+no stopping it now.
 
 "If I say: *he came in, he sat down, he spoke, he left* — that is four
 things, one after another. That is a list. But if I say: *the rain was
 falling, and the lamp was going out, and nobody was speaking* — that is not
-four things. That is a *situation*. It is the same afternoon seen from
+four things. That is a *situation*. It is the same scene seen from
 inside instead of counted up from outside."
 
 "Go on," said Theodoros.
@@ -34,12 +34,12 @@ stood up. "Greek does it on purpose, with an ending, and it has done so for
 a thousand years before you were born. You have just described the
 difference between two Greek tenses without knowing either of them, which
 is the most efficient piece of work anybody has done in this room since
-September."
+Lesson 1."
 
 Marcus said that he did not see what the fuss was about, and that a past
 was a past.
 
-"Keep that," said Theodoros. "You will want it next week."
+"Keep that," said Theodoros. "You will want it next lesson."
 :::
 
 ::: newgreek
@@ -103,7 +103,7 @@ being able to name it.
 | 3 plur. | **ἦσαν** |
 
 **ἦν** is *was* — and, because it is an imperfect, *was and went on being*.
-Hold on to that; it matters this afternoon.
+Hold on to that; it matters later in this lesson.
 
 ::: latinbridge
 Latin has an imperfect that does the same job — *dicebam*, *I was saying*,
@@ -139,7 +139,7 @@ Greek.
 **ἀεί** is the word in the motto of more schools than anyone has counted,
 and it means *always* in the strong sense — continuously, without
 interruption. It belongs with the imperfect the way *suddenly* belongs with
-the aorist you meet next week.
+the aorist you meet in Lesson 14.
 
 **πάλιν** gives English *palindrome* — a thing that runs *back* again.
 
@@ -153,10 +153,10 @@ is in *telephone* and *phonetics*; **ἄλλος** is in *allergy* — a reactio
 ::: investigation
 Theodoros set the class to turning situations into events and back again.
 First, though, he went back over the last four lessons without warning, as
-he had begun to do every week.
+he had begun to do every lesson.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Nothing here is from this lesson.
+From memory. Nothing here is from this lesson.
 
 1. **τῷ διδασκάλῳ** — name the case and give one thing it can mean.
 2. Translate **πέμπω**.
@@ -300,7 +300,7 @@ table.
     … οὐδέ**. A pupil who writes **καὶ οὐ** has said something a Greek
     could say but would not.
 
-Question 4 catches two things at once and is worth setting again next week.
+Question 4 catches two things at once and is worth setting again in the next lesson.
 :::
 
 ::: {.exercise title="Quintus's distinction"}
@@ -308,7 +308,7 @@ Quintus said that *he came in, he sat down, he spoke* is a list, while *the
 rain was falling, the lamp was going out* is a situation.
 
 1. Which of those two sets of English verbs would be imperfect in Greek?
-2. Write two Greek sentences about the same afternoon, one giving a
+2. Write two Greek sentences about the same scene, one giving a
    situation and one giving an event, using only the imperfect you have.
 3. Why might a storyteller want both? What would a story be like with only
    one?
@@ -332,7 +332,7 @@ rain was falling, the lamp was going out* is a situation.
 2. Answers will vary; only imperfects are available, so the "event"
    sentence will be imperfect too and will feel wrong. **That is the
    intended discovery.** A pupil who complains that they cannot yet say *he
-   sat down* properly has found next week's lesson, and should be told so.
+   sat down* properly has found the next lesson, and should be told so.
 3. A story with only imperfects never moves; a story with only events has no
    weather, no mood, and nobody waiting. Greek narrative uses the two
    against each other constantly, and Part III is mostly about learning to
@@ -354,7 +354,7 @@ rain was falling, the lamp was going out* is a situation.
    *was* is doing in it, and then what the Greek is doing.
 9. For example, *when I came in he was speaking* (I interrupted him) against
    *when I came in he spoke* (he started as I entered). The two describe
-   different afternoons.
+   different scenes.
 10. For example, *yesterday he was speaking in the forum* / *yesterday he
     spoke in the forum*. Both report the same fact. What it shows is that
     Marcus is right that both tenses place the action in the past — and
@@ -386,13 +386,13 @@ been the argument. It will not be the last.
 Greek had another option here and did not take it. There is a tense for
 *came to be* — it is the one Marcus is about to meet — and the author of
 this line uses it thirteen verses later, about the same subject, to say
-something entirely different. Next week you will be able to read both and
+something entirely different. In Lesson 14 you will be able to read both and
 see the difference.
 :::
 :::
 
 ::: {.reading title="What happened yesterday" source="composed"}
-Theodoros's tablet that week was about the day before. It was the first
+Theodoros's tablet this time was about the day before. It was the first
 time the class had read a story in Greek that was not happening now, and
 every verb in it has an augment.
 

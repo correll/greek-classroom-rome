@@ -56,7 +56,7 @@ have just written one. Sit down."
 ## The question word
 
 **τίς** — *who?*, *which?* — and its neuter **τί** — *what?* — decline like
-the third-declension nouns you have been recognising all year.
+the third-declension nouns you have been recognising all through this course.
 
 | | Masc./Fem. | Neuter |
 |:--|:--|:--|
@@ -178,7 +178,7 @@ Theodoros made them read each sentence aloud *before* deciding what it
 meant, on the grounds that the accent was audible and the meaning was not.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Nothing here is from today; all of it is from
+From memory. Nothing here is from this lesson; all of it is from
 Lessons 21 to 24.
 
 1. **ἰδών** — what form is it, from what verb, and what does it mean?
@@ -211,7 +211,7 @@ Lessons 21 to 24.
    nobody else* (Lesson 21).
 10. A command: *go, and you do likewise* (Lesson 22). Two present
     imperatives, though the class has not yet been told the form's name;
-    that comes next lesson.
+    that comes in Lesson 26.
 :::
 
 ::: {.exercise title="Question or statement?"}
@@ -402,8 +402,8 @@ You read this in Lesson 4, before you could parse a word of it. Now:
 article — *what is truth?*, not *what is the truth?* A question about the
 thing itself, not about any particular fact.
 
-Pilate asks it and leaves. The Gospel gives no answer. Marcus asked it this
-afternoon and got none either, and was right to feel that the silence was a
+Pilate asks it and leaves. The Gospel gives no answer. Marcus asked it in the
+classroom and got none either, and was right to feel that the silence was a
 kind of reply.
 
 **Set them side by side.** Both are questions about an abstract noun —
@@ -627,7 +627,7 @@ Livia's second question, when she was allowed it, was **τίς ἐστιν ὁ
 διδάσκαλος;** with the accent, read aloud so that everyone could hear it.
 
 "I am," said Theodoros. "And you have just taught the rest of them more
-about the accent than I managed in a quarter of an hour, by getting it wrong
+about the accent than I managed in all my explaining, by getting it wrong
 first. Thank you."
 
 Livia, who did not usually enjoy being thanked for mistakes, found that

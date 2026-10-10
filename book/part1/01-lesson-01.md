@@ -5,7 +5,7 @@ Marcus arrived late. He did not hurry, because hurrying would have
 suggested that he thought arriving on time mattered.
 
 Felix had already drawn a horse on his wax tablet. It was a good horse.
-Julia had finished copying the day's Latin exercise, twice, and was now
+Julia had finished copying the Latin exercise, twice, and was now
 sitting with her hands folded in the manner of someone who wishes it to be
 noticed that she has finished. Sabina was telling Aelia about a man who had
 tricked a king, and Quintus was explaining to nobody in particular that
@@ -18,7 +18,7 @@ where all of them could see it.
 The page was covered in small, even writing. Not one of them could read a
 word of it.
 
-"Today," he said, "we begin Greek. Which means we begin where every
+"Now," he said, "we begin Greek. Which means we begin where every
 language begins. With the letters."
 
 Marcus did not look at the page. "But we already know letters."
@@ -81,7 +81,7 @@ Six letters look like Latin letters and are not.
 | **Ω ω** — a *w* | long **o** | **ὦ μέγα** is *ō mega* |
 | **Ν ν** — a *v* | **n** | **νῦ** is *nü* |
 
-Marcus will get three of these wrong before the end of the week. So will
+Marcus will get three of these wrong at first. So will
 you. Then you will stop.
 
 ## σ and ς
@@ -373,7 +373,7 @@ does not become Greek merely because you disguise it."
 
 Felix asked immediately whether the same principle applied to homework.
 
-"It does," said Theodoros. "Five words. Tomorrow."
+"It does," said Theodoros. "Five words."
 :::
 
 ::: latinbridge

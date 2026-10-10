@@ -46,8 +46,8 @@ Theodoros wrote two things on the board, one above the other.
 
 "Sabina," he said, "has accused Felix of being a bad son. The second one
 says it rather more plainly. Before anyone writes anything else about anyone
-else, you are going to learn the difference, because today it is funny and
-in two weeks it will be in your examination."
+else, you are going to learn the difference, because now it is funny and
+one day it will be in your examination."
 :::
 
 ::: newgreek
@@ -119,7 +119,7 @@ where **ὁ** is standing.
 
 This is the same mechanism you met in **χαλεπὰ τὰ καλά**. There the
 adjective **χαλεπά** stood outside the group and asserted something about
-**τὰ καλά**. You have been reading predicate position since Lesson 3; today
+**τὰ καλά**. You have been reading predicate position since Lesson 3; now
 it gets its name.
 
 ::: latinbridge
@@ -171,7 +171,7 @@ would not have thought of those as five things.
 Sabina's list was confiscated. The exercises are Theodoros's.
 
 ::: {.exercise title="Retrieval"}
-Ten quick questions from Lessons 6 to 9. From memory.
+Ten short questions from Lessons 6 to 9. From memory.
 
 1. What case is **τῷ κριτῇ**, and what job does it usually do?
 2. Translate **πέμπω**.
@@ -399,14 +399,14 @@ weight on the speaker.
 ::: note
 Koine, and from John again. The course's own sentences are Attic throughout,
 and Part III brings Homer and Plato; the gospel sentences so far — six of
-them — were chosen because you could read them in your first term, not
+them — were chosen because you could read them this early in the course, not
 because the New Testament is the centre of the course.
 :::
 :::
 
 ::: {.reading title="Theodoros's eighth tablet" source="composed"}
 The eighth tablet was Sabina's list, as Theodoros chose to remember it, and
-it went round the day after the list was confiscated.
+it went round after the list was confiscated.
 
 ἡ Σαβῖνα γράφει ἐν τῇ δέλτῳ τὴν γνώμην περὶ τῶν μαθητῶν. ὁ πρῶτος
 λόγος· ἡ σοφὴ Σαβῖνα.
@@ -522,7 +522,7 @@ Read the whole tablet aloud before you answer anything.
 :::
 
 ::: story
-The list was returned to Sabina at the end of term, folded, with one
+The list was eventually returned to Sabina, folded, with one
 addition in Theodoros's hand at the bottom.
 
 > **ἡ σοφὴ Σαβῖνα.**

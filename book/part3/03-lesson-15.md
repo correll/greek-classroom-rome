@@ -5,7 +5,7 @@ The scroll Theodoros brought out had been repaired three times and smelled
 of the cupboard.
 
 The class knew what it was before he said anything. They had been promised
-it since the first week, in the way that a thing is promised to children
+it since Lesson 1, in the way that a thing is promised to children
 who are not yet ready for it, and Sabina had asked about it so often that
 she had been told to stop.
 
@@ -27,7 +27,7 @@ on a wall at the edge of the world, it is usually this."
 "And the second thing?"
 
 Theodoros turned the scroll towards them, and the class leaned in, and
-there was a silence of about four seconds.
+there was a moment of silence.
 
 "That is not Greek," said Marcus.
 
@@ -44,7 +44,7 @@ was the load-bearing wall. You said that in Lesson seven. I wrote it down."
 "Four hundred years in the future," said Theodoros. "Homer is older than the
 article. He is older than Attic. He is older than Athens being anywhere in
 particular." He put the scroll down. "You have spent fourteen lessons
-learning one dialect of this language, extremely well, and this afternoon
+learning one dialect of this language, extremely well, and now
 you are going to find out that it is a dialect, which is a thing nobody can
 be told. It has to happen to you."
 :::
@@ -183,11 +183,11 @@ turns.* It can mean widely travelled, and it can mean devious, and the
 
 ::: investigation
 Theodoros let them hold the scroll, one at a time, and then took it back
-and asked ten questions about the last four weeks before anyone was allowed
+and asked ten questions about the last four lessons before anyone was allowed
 near Homer again.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Nothing here is from this lesson, and the two
+From memory. Nothing here is from this lesson, and the two
 past tenses are mixed up on purpose.
 
 1. **ἔγραψας** — tense and person.
@@ -388,7 +388,7 @@ article was the load-bearing wall.
 2. No — he was describing Attic, which is what they were learning.
 3. Because a language changes, and a rule about one stage of it is not a
    rule about all of them. This is the single most important idea in Part
-   III and it is worth taking the full five minutes. A pupil who concludes
+   III and it is worth dwelling on. A pupil who concludes
    that the grammar they learned was *wrong* should be asked whether a map
    of Rome is wrong because it does not show Athens.
 4. *He* — it is a pronoun standing on its own, with no noun after it. In
@@ -639,7 +639,7 @@ Read the adapted version aloud, then the Homer, slowly. Then answer.
 ::: story
 Sabina asked whether she could learn Homeric Greek instead.
 
-Theodoros said she could learn it afterwards, in about two years, and that
+Theodoros said she could learn it afterwards, once she could read Attic, and that
 people who tried to start there generally ended up able to recite forty
 lines and unable to read a letter.
 

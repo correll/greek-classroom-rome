@@ -1,7 +1,7 @@
 # What Makes a Just Person?
 
 ::: story
-Quintus had been asking for Plato since the first week.
+Quintus had been asking for Plato since Lesson 1.
 
 He had asked in the way that children ask for things they have decided are
 owed to them: at intervals, with increasing legal precision, and always just
@@ -13,7 +13,7 @@ On the seventh he did not.
 "Sit down," he said. "You have been promised a philosopher and you are about
 to get one, and I want to tell you what is going to happen before it
 happens, because otherwise you will conclude that you are stupid, and you are
-not stupid, and I would rather not spend the afternoon on it."
+not stupid, and I would rather not spend the lesson on it."
 
 Quintus sat down with the expression of somebody who has been handed a sword
 and warned about the handle.
@@ -21,7 +21,7 @@ and warned about the handle.
 "You will know nearly every word," said Theodoros. "That is the first
 thing. There are three words in this sentence you have not had, and I will
 give you all three. **ὁ** you have had. **βίος** is one of the three.
-**ἄνθρωπος** you have had since the first week."
+**ἄνθρωπος** you have had since Lesson 1."
 
 "Then where is the difficulty?"
 
@@ -86,7 +86,7 @@ translate it.
 
 ## They do not come first
 
-Here is the thing that will trip you for a month.
+Here is the thing that will trip you again and again.
 
 **δέ**, **γάρ**, **οὖν** and **μέν** are **postpositive**: they cannot stand
 first in their clause. They take second place, behind whatever word the
@@ -218,7 +218,7 @@ at the connector. Before the sentences, as always now, ten questions from
 memory.
 
 ::: {.exercise title="Retrieval"}
-From memory, and quickly. Nothing here is from this lesson; the imperfects
+From memory. Nothing here is from this lesson; the imperfects
 and aorists are mixed on purpose.
 
 1. **ἔπιεν** — tense; what told you?
@@ -384,7 +384,7 @@ These three sentences use the same eight words. Only the small word changes.
     reasoning. A pupil who leaves **λέγει** and merely moves **οὖν** has
     not understood what question 3 was asking.
 
-This is the exercise to spend time on. The words are identical, the grammar
+This is the exercise that matters most. The words are identical, the grammar
 is identical, and the logic is three different shapes. A class that can hear
 that difference is ready for Plato; a class that cannot will translate Plato
 accurately and understand none of him.
