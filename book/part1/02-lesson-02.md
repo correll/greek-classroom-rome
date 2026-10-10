@@ -126,6 +126,14 @@ once.
 - **ὁ θεός** — god
 - **οὐ** (**οὐκ**, **οὐχ**) — not
 - **καί** — and; also, even
+- **ὁ ἥλιος** — sun
+- **ἡ ὥρα** — hour; season; the right time
+- **ὁ ἑταῖρος** — companion, comrade
+- **ἡ εἰρήνη** — peace
+- **ἡ ἀρετή** — excellence, virtue
+- **ὁ ἀγρός** — field; the countryside
+- **ὁ οἶνος** — wine
+- **ὁ δοῦλος** — slave
 
 ::: note
 **ἡ ὁδός** is feminine, though it ends in **-ος** like **ὁ λόγος** and
@@ -137,15 +145,51 @@ with the noun every single time.
 **οὐ** before a consonant · **οὐκ** before a smooth breathing ·
 **οὐχ** before a rough breathing. Greek is being helpful here — it is
 avoiding a collision of vowels.
+
+The eight words from **ἥλιος** down were chosen for their beginnings.
+Between them they carry both breathings and most of the diphthongs, and
+you will be reconstructing, breathing, and dividing them this lesson.
+**ὥρα** is the Latin *hora*: the Romans borrowed the word, *h* and all.
 :::
 :::
 
-::: {.investigation time="15 min"}
+::: {.investigation time="20 min"}
 Theodoros did not simply fill in Felix's gaps. He made the class prove
 each one.
 
 "A gap is not a mystery," he said. "It is a question with a limited number
 of possible answers. Your job is to eliminate the impossible ones."
+
+::: {.exercise title="Retrieval"}
+From last lesson, and from memory — do not open the table.
+
+1. Write the small form of **Ψ** and give its name.
+2. Which letter is named **ῥῶ**, and what sound does it make?
+3. What does **ὁ λόγος** mean? Give two of its meanings.
+4. Which of Theodoros's five words takes **τό** in front of it?
+5. Sound out **ψυχή**.
+6. Which comes first in the alphabet, **μ** or **λ**?
+7. Give the Greek for *friend*, with its little word.
+8. **ἄνθρωπος** ends in a sigma. Which shape of sigma, and why?
+9. What is the twenty-fourth letter, and what does its name mean?
+10. **γνῶθι σαυτόν** — what does it mean, and where was it carved?
+:::
+
+::: answers
+1. **ψ**, **ψῖ**.
+2. **ρ**; *r*. A pupil who says *p* has made the mistake the lesson
+   predicted.
+3. Word, speech, account, reason — any two.
+4. **τὸ δῶρον**. The others take **ὁ** or **ἡ**.
+5. *Psūchē*. Watch the **χ**: a puffed *k*, not *sh*.
+6. **λ** (eleventh) before **μ** (twelfth). The commonest slip is to go
+   by the Latin *l, m* — which happens to give the same answer — rather
+   than by the Greek order; ask them to say the letters either side.
+7. **ὁ φίλος**. Without the **ὁ** it is half an answer.
+8. **ς**, the final form, because it is the last letter of the word.
+9. **ω**, **ὦ μέγα** — *big o*, the long one.
+10. *Know yourself*; at Delphi, on the temple of Apollo.
+:::
 
 ::: {.exercise title="Felix's tablet"}
 Each word below has one letter missing, marked [ ]{.gap}. Only one letter can
@@ -157,6 +201,11 @@ rule rules out the others.
 3. **οἶκ[ ]{.gap}ς** — *house*.
 4. **ἄνθρ[ ]{.gap}πος** — *person*. (Listen to it: *anthrōpos*.)
 5. **θε[ ]{.gap}ς** — *god*.
+6. **[ ]{.gap}λιος** — *sun*. (Listen to it: *hēlios*.)
+7. **ἀρετ[ ]{.gap}** — *excellence*. (Compare **ψυχή**.)
+8. **εἰρ[ ]{.gap}νη** — *peace*. (*eirēnē*: both *e*'s are long.)
+9. **[ ]{.gap}ταῖρος** — *companion*. (*hetairos*.)
+10. **ἀγρ[ ]{.gap}ς** — *field*.
 :::
 
 ::: answers
@@ -175,36 +224,90 @@ rule rules out the others.
    the last syllable is short, which is a rule you will meet properly in
    Lesson 7.
 5. **ό** → **θεός**.
+6. **ἥ** → **ἥλιος**. An initial vowel, so a breathing; *hēlios*, so
+   rough; a long *e*, so **η** and not **ε**. A pupil who wrote **ἕ** has
+   the breathing right and the ear wrong — the same lesson as 1, the
+   other way round.
+7. **ή** → **ἀρετή**. Settled by the comparison, not by a rule: **ψυχή**
+   ends in **-ή**, and so does this. Nothing forbids **-έ** in itself,
+   which is why the comparison was given.
+8. **ή** → **εἰρήνη**. The middle *e* is long, so **η**; and the accent
+   sits on it. A pupil who wrote **έ** has been told the vowel is long and
+   has not listened.
+9. **ἑ** → **ἑταῖρος**. Rough, because *hetairos*; short, because
+   *he-* is short — **ἡ-** would be *hē-*. Both decisions come from the
+   ear.
+10. **ό** → **ἀγρός**, exactly as 2 and 5.
 :::
 
 ::: {.exercise title="Breathe correctly"}
 Each of these words begins with a vowel or **ρ**, and the breathing has
 been left off. Supply it, and say how you knew.
 
-**_ανθρωπος** · **_οδός** · **_υπέρ** · **_ρήτωρ** · **_οἶκος** · <!--nocheck-->
-**_ημι-** <!--nocheck-->
+1. **_ανθρωπος** <!--nocheck-->
+2. **_οδός** <!--nocheck-->
+3. **_υπέρ** <!--nocheck-->
+4. **_ρήτωρ** <!--nocheck-->
+5. **_οἶκος** <!--nocheck-->
+6. **_ημι-** <!--nocheck-->
+7. **_ώρα** <!--nocheck-->
+8. **_οἶνος** <!--nocheck-->
+9. **_εἰρήνη** <!--nocheck-->
+10. **_αγρός** <!--nocheck-->
 :::
 
 ::: answers
-**ἄνθρωπος** smooth · **ὁδός** rough · **ὑπέρ** rough (rule 2: initial
-**υ** is always rough) · **ῥήτωρ** rough (rule 3: initial **ρ** always) ·
-**οἶκος** smooth · **ἡμι-** rough (compare Latin *semi-*).
+1. **ἄνθρωπος** smooth.
+2. **ὁδός** rough.
+3. **ὑπέρ** rough (rule 2: initial **υ** is always rough).
+4. **ῥήτωρ** rough (rule 3: initial **ρ** always).
+5. **οἶκος** smooth.
+6. **ἡμι-** rough (compare Latin *semi-*).
+7. **ὥρα** rough (Latin *hora* is the same word, borrowed with its *h*).
+8. **οἶνος** smooth. Latin *vinum* is a cousin, but the sound that
+   dropped off the front of the Greek word was a *w*, not an *s*, and a
+   lost *w* leaves no *h* behind. A pupil who wrote **οἷνος** on the
+   strength of *vinum* has applied the Latin test to the wrong consonant.
+9. **εἰρήνη** smooth — and the mark sits on the second vowel of the
+   diphthong (rule 1). A breathing on the **ε** is the commonest error
+   here.
+10. **ἀγρός** smooth. Latin *ager* is the cousin, and it has no *s*, so
+    the test gives no *h*: the Latin bridge working in reverse.
 
 Two of these you could work out from rules alone (**ὑπέρ**, **ῥήτωρ**);
-two from a Latin cousin (**ὑπέρ** again, **ἡμι-**); and three (**ἄνθρωπος**,
-**ὁδός**, **οἶκος**) you simply have to know. That ratio is about typical.
+four from a Latin cousin (**ὑπέρ** again, **ἡμι-**, **ὥρα**, **ἀγρός**);
+and five (**ἄνθρωπος**, **ὁδός**, **οἶκος**, **οἶνος**, **εἰρήνη**) you
+simply have to know. That ratio is about typical.
 :::
 
 ::: {.exercise title="Diphthong or not?"}
 In each word, say how many *syllables* there are. Remember that a diphthong
 counts as one vowel.
 
-**οὐρανός** · **παιδεία** · **εὖ** · **ἀλήθεια** · **οἰκία** · **θεοί**
+1. **οὐρανός**
+2. **παιδεία**
+3. **εὖ**
+4. **ἀλήθεια**
+5. **οἰκία**
+6. **θεοί**
+7. **ἑταῖρος**
+8. **εἰρήνη**
+9. **δοῦλος**
+10. **ἥλιος**
 :::
 
 ::: answers
-**οὐ-ρα-νός** 3 · **παι-δεί-α** 3 · **εὖ** 1 · **ἀ-λή-θει-α** 4 ·
-**οἰ-κί-α** 3 · **θε-οί** 2.
+1. **οὐ-ρα-νός** 3
+2. **παι-δεί-α** 3
+3. **εὖ** 1
+4. **ἀ-λή-θει-α** 4
+5. **οἰ-κί-α** 3
+6. **θε-οί** 2
+7. **ἑ-ταῖ-ρος** 3
+8. **εἰ-ρή-νη** 3
+9. **δοῦ-λος** 2
+10. **ἥ-λι-ος** 3. A pupil who says 2 has made **ιο** a diphthong; it is
+    not on the list.
 
 The trap is **-εια**, **-εία** and **-ία**: the **ι** there is not forming
 a diphthong with the **α** that follows, because **ια** is not on the list.
@@ -218,18 +321,66 @@ Marcus argues that if **ει** is really just a long *e*, and **ου** is
 really just a long *oo*, then the Greeks were spelling badly and should
 have used **η** and a single **υ** instead.
 
-Write two sentences answering him. (Hint: English spells *knight* with a
-silent *k* and *gh*. Why?)
+1. Say, in one sentence, what Marcus is right about.
+2. Say, in one sentence, what he has missed. (Hint: English spells *knight*
+   with a silent *k* and *gh*. Why?)
+3. In *knight*, which letters are silent, and what do they tell you about
+   how the word was once said?
+4. Marcus wants **οὐρανός** written with a single **υ**. What sound did a
+   single **υ** make in Attic? Does his plan work?
+5. He wants **εἰρήνη** written with **η** throughout. **η** and **ει** were
+   both long *e* — were they the *same* long *e*? Look at the table.
+6. Which of the seven diphthongs in the table are honest — both vowels
+   still heard — and which two are the liars?
+7. Which is older, the spelling **ει** or the single-vowel sound it came
+   to stand for? What does that tell you about when the spelling was
+   fixed?
+8. Write **εἰρήνη**, **οἶνος** and **οὐρανός** in Latin letters. Which of
+   the three contains a diphthong you can actually hear?
+9. **ου** is two letters for one sound; **ξ** is one letter for two. Which
+   is the better bargain for a reader, and why?
+10. The accent marks are a record too: by Theodoros's day the rise and
+    fall of the voice had long since become a plain stress, yet the marks
+    went on being copied. Give one reason for writing a mark that records
+    a sound nobody makes any more.
 :::
 
 ::: answers
-Accept any answer that reaches the idea that **spelling records history**.
-The **ει** spelling is there because the sound genuinely *was* a diphthong
-once; the writing system kept the old spelling after the sound simplified,
-exactly as English keeps the *k* in *knight* from a time when it was
-pronounced. A good answer notices that this is useful as well as
-conservative: the spelling often tells you which forms a word is related
-to, which the modern pronunciation alone would hide.
+1. He is right about the sound. By classical times **ει** and **ου** were
+   single long vowels, and had been for some while.
+2. Accept any answer that reaches the idea that **spelling records
+   history**. The **ει** spelling is there because the sound genuinely
+   *was* a diphthong once; the writing system kept the old spelling after
+   the sound simplified, exactly as English keeps the *k* in *knight* from
+   a time when it was pronounced. A good answer notices that this is
+   useful as well as conservative: the spelling often tells you which
+   forms a word is related to, which the modern pronunciation alone would
+   hide.
+3. The *k* and the *gh*. Both were once pronounced — *k-nicht*, with a
+   throaty sound in the middle — and the spelling is a record of that.
+4. A single **υ** was the French *u* of the table, not *oo*. His letter is
+   already taken by another sound, so his plan collides with it. **ου**
+   came to mean *oo* precisely because **υ** had moved away from it.
+5. No. **η** was a long *open* *e*, the *ai* of *air*; **ει** was a long
+   *close* *e*, the German *See*. Two different sounds, which is why the
+   Greeks did not write them with one letter. Marcus's premise — that the
+   spelling is merely bad — is half wrong before he starts.
+6. Honest: **αι**, **αυ**, **ευ**, **οι**, **υι**. Liars: **ει**, **ου**.
+7. The spelling is older. It was fixed while the diphthong was still
+   heard, and kept afterwards — the story of *knight* again. Spellings are
+   nearly always older than the sounds under them.
+8. *Eirēnē*, *oinos*, *ouranos*. Only **οἶνος** has a diphthong you can
+   hear — the *oi* of *boil*. The other two have the liars, and the Latin
+   letters keep *ei* and *ou* by convention, so they lie exactly as the
+   Greek ones do.
+9. Accept either, with a reason. **ξ** saves space and never misleads;
+   **ου** costs a letter and keeps a record. A reader in a hurry wants
+   **ξ**; a reader who wants to know where a word came from wants **ου**.
+   Greek kept both, and so does English.
+10. Any one of: it tells words apart (**τίς** and **τις**); it records how
+    the word once sounded, which is itself knowledge; it keeps every
+    dictionary and every edition consistent with every other. A pupil who
+    says *none* should be asked how they will tell *who?* from *someone*.
 :::
 :::
 

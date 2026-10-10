@@ -143,11 +143,24 @@ since Lesson 3.
 ::: vocab
 - **ἡ ἀρχή** — beginning; origin; rule, power
 - **πρός** — towards, with, in the presence of *(with the accusative)*
+- **ἀναγιγνώσκω** — I read *(literally *I know again*: **ἀνα-** + **γιγνώσκω**)*
+- **ναί** — yes
+- **οὐδέ** — and not, nor; not even
+- **ἔτι** — still, yet
+- **ἤδη** — already; by now
+- **ἐνταῦθα** — here; there
+- **θαυμάζω** — I wonder at, am amazed; I admire
+- **διώκω** — I chase, pursue
+- **λείπω** — I leave, leave behind
+- **ὁ δεσπότης** — master *(of a household; of slaves)*
 
-Otherwise this lesson is review: the negative and the word for God come
-back from Lesson 2 for a closer look. Every other word in it has been met before,
-and the cumulative list at the back of this book is now worth reading
-straight through.
+The first two belong to the sentence on the board. The rest are what the
+fourth tablet needs: a verb for reading, a *yes* to answer the *no*, three
+small words that say where and when, and three more verbs for the endings
+you now own. Otherwise this lesson is review: the negative and the word
+for God come back from Lesson 2 for a closer look. Every other word in it
+has been met before, and the cumulative list at the back of this book is
+now worth reading straight through.
 
 ::: note
 **ἡ ἀρχή** is the ancestor of English *arch-* and *-archy*: an *archbishop*
@@ -155,12 +168,55 @@ is a first bishop, an *anarchy* is a state with no **ἀρχή** at all. The wor
 means *beginning* and *rule* at the same time, because to a Greek the thing
 that comes first is the thing that governs. That is an argument buried in a
 noun, and you will meet it again.
+
+**ἀναγιγνώσκω** is **γιγνώσκω** with *again* or *up* in front of it: to
+read is to recognise, letter by letter, what someone else already knew. It
+is the ordinary Attic word for reading aloud, which is the only kind of
+reading most Greeks did.
+
+**ὁ δεσπότης** goes like **ὁ κριτής**, and like **ὁ κριτής** you should use
+it as a subject only for now. **πρός** with **βλέπω** is the ordinary way
+to say *look towards*, *look at*: **βλέπω πρὸς τὴν θύραν**.
 :::
 :::
 
-::: {.investigation time="15 min"}
+::: {.investigation time="20 min"}
 Theodoros refused to translate the sentence on the board until the class had
 finished with it.
+
+::: {.exercise title="Retrieval"}
+From Lessons 2 to 5, and from memory.
+
+1. Give the person and number of **γράφομεν**, and translate it.
+2. **ὁ φίλος ἐστὶ κριτής.** Which noun is the subject, and what tells you?
+3. Put **ὁ ξένος** into the vocative.
+4. What case comes after **εἰμί** — accusative or nominative?
+5. Translate **οὐ βλέπεις τὴν θύραν.**
+6. What is **εἰσίν**, and why does it end in **-ν** here?
+7. What does **ἀλλά** mean, and what does it join?
+8. Supply the breathing: **_ώρα** — *hour*. <!--nocheck-->
+9. Turn **ὁ αἴλουρος βλέπει τὸν ἵππον** round so that the horse sees the
+   cat, changing endings only.
+10. What does **ἐγώ** add to **ἐγὼ γράφω** that **γράφω** does not have?
+:::
+
+::: answers
+1. First plural; *we write*.
+2. **ὁ φίλος**: it has the article and **κριτής** has not. *The friend is a
+   judge.*
+3. **ὦ ξένε**.
+4. Nominative. **εἰμί** links; it does not act upon.
+5. *You do not see the door* — one person. A pupil who wrote *he* has read
+   **-εις** as **-ει**.
+6. Third plural of **εἰμί**, *they are*; the **-ν** is movable, and is there
+   because the word stands at the end.
+7. *But*; it joins clauses, or words, and sets them against each other.
+8. **ὥρα** — rough, as the Latin *hora* remembers.
+9. **τὸν αἴλουρον βλέπει ὁ ἵππος.** Two articles, two endings, nothing
+   moved.
+10. Emphasis: ***I*** *write*, as against somebody else. Nothing else; the
+    **-ω** already said *I*.
+:::
 
 ::: {.exercise title="What tells you that?"}
 In the sentence on the board, **ὁ λόγος** appears three times and **θεός**
@@ -171,6 +227,19 @@ twice — once as **τὸν θεόν** and once as **θεός**.
    the subject? Give your evidence.
 3. Marcus says the final clause must mean *and God was the word*, because
    that is the order the words are in. What is wrong with his reasoning?
+4. Count the articles in the sentence. How many are there, and what gender
+   and case is each?
+5. **πρὸς τὸν θεόν** — the accusative here is not the object of a verb.
+   What is it there for?
+6. How many verbs are in the sentence, and what is unusual about them?
+7. **ἐν ἀρχῇ** has no article. Does the knife from Lesson 3 apply to it?
+8. Rewrite the last clause with the article moved — **καὶ ὁ θεὸς ἦν λόγος**
+   — and say what it would then mean.
+9. Felix says that because **ὁ λόγος** stands first in the first two clauses
+   and last in the third, the third clause must be about something else.
+   Answer him.
+10. Livia did not know what **ἦν** meant and construed the sentence anyway.
+    List what she needed to know, and what she did not.
 :::
 
 ::: answers
@@ -187,6 +256,33 @@ twice — once as **τὸν θεόν** and once as **θεός**.
 
    Students who get this right should be told plainly that they have just
    done, unaided, something that is argued about by people with degrees.
+4. Four: **ὁ** three times, masculine nominative, each with **λόγος**; and
+   **τόν** once, masculine accusative, with **θεόν**. A pupil who counts
+   three has missed **τόν** because it does not look like **ὁ**.
+5. It is what **πρός** requires. A small word like **πρός** takes a case
+   after it the way a verb takes an object, and this one takes the
+   accusative; the vocabulary box says so.
+6. Three, and all three are the same word, **ἦν** — one verb for each
+   clause, which is how you know there are three clauses. It was glossed
+   whole; you will own its endings in Part III.
+7. Not as you have it. The knife works on a noun that could be the subject
+   of **εἰμί** or what is said about the subject; **ἀρχῇ** sits inside a
+   phrase after **ἐν**, and such phrases very often go without an article.
+   *I cannot tell yet* is the correct answer, and the rules that would let
+   you tell are Part II's.
+8. *And God was a word* — or *was word*. The article has moved, so the
+   subject has moved with it: the claim is now about God, and what it says
+   of him is **λόγος**, a description. Exactly reversed from the board.
+9. The subject is identified by the article, not by its position, and
+   **ὁ λόγος** carries the article in all three clauses. The third clause
+   is about the same thing as the other two; what has changed is that
+   **θεός** has been put first for weight. Felix has made Marcus's
+   mistake from the other end.
+10. Needed: that **ὁ** marks the subject and its absence marks what is said
+    about the subject; that **τόν … -ον** is an accusative; that
+    **ὁ λόγος** is the same word three times. Not needed: the meaning of
+    **ἦν**, of **ἐν**, of **ἀρχῇ**, or who wrote it. A pupil who lists the
+    four unknown words under *needed* has not yet seen what she did.
 :::
 
 ::: {.exercise title="Deny it"}
@@ -196,6 +292,12 @@ Put **οὐ** in its correct form in front of each, and translate.
 2. ... **ἔχει τὸ βιβλίον.**
 3. ... **γιγνώσκομεν τὴν ἀλήθειαν.**
 4. ... **ἡ ὁδός.**
+5. ... **διώκει τὸν αἴλουρον.**
+6. ... **εὑρίσκεις τὴν ὁδόν.**
+7. ... **ἀναγιγνώσκετε τὴν δέλτον.**
+8. ... **ὁ ἑταῖρος.**
+9. ... **λείπομεν τὴν οἰκίαν.**
+10. ... **ἐνταῦθα μένει ὁ δεσπότης.**
 :::
 
 ::: answers
@@ -204,6 +306,18 @@ Put **οὐ** in its correct form in front of each, and translate.
    smooth breathing)
 3. **οὐ γιγνώσκομεν τὴν ἀλήθειαν.** — *We do not know the truth.*
 4. **οὐχ ἡ ὁδός.** — *Not the road.* (**ἡ** has a rough breathing)
+5. **οὐ διώκει τὸν αἴλουρον.** — *He is not chasing the cat.*
+6. **οὐχ εὑρίσκεις τὴν ὁδόν.** — *You are not finding the road.* A pupil
+   who wrote **οὐκ** has seen a vowel and not read its breathing: **εὑ-**
+   is rough.
+7. **οὐκ ἀναγιγνώσκετε τὴν δέλτον.** — *You are not reading the tablet.*
+8. **οὐχ ὁ ἑταῖρος.** — *Not the companion.* It is the article that
+   decides, not the noun behind it; **ὁ** is rough.
+9. **οὐ λείπομεν τὴν οἰκίαν.** — *We are not leaving the house.*
+10. **οὐκ ἐνταῦθα μένει ὁ δεσπότης.** — *The master does not stay here* —
+    or better, *it is not here that the master stays*: **οὐ** stands in
+    front of the word it denies, and here that word is *here*. **ἐνταῦθα**
+    has a smooth breathing, so **οὐκ**.
 
 The only thing being tested is whether the student looked at the next word.
 That is the entire rule.
@@ -215,6 +329,14 @@ of the rest.
 
 1. **τὸν διδάσκαλον οὐ βλέπει ὁ μάρτυς.**
 2. **ὁ κριτὴς οὐκ ἔχει τὴν ἀλήθειαν, ἀλλὰ γιγνώσκει τὴν ὁδόν.**
+3. **τὸν αἴλουρον διώκει ὁ ἵππος.**
+4. **ὁ δεσπότης οὐ λείπει τὴν οἰκίαν, ἀλλὰ μένει.**
+5. **οὐχ ὁ δοῦλος ἀναγιγνώσκει τὴν δέλτον, ἀλλὰ ὁ δεσπότης.**
+6. **τὴν γραφὴν θαυμάζει ὁ ξένος.**
+7. **ἐνταῦθα μένομεν καὶ ἀναγιγνώσκομεν.**
+8. **τὸν νόμον οὐ γιγνώσκει ὁ δοῦλος, ἀλλὰ τὴν ὁδόν.**
+9. **ὁ αἴλουρος οὐκ ἀναγιγνώσκει οὐδὲ γράφει, ἀλλὰ καθεύδει.**
+10. **ἡ Ἰουλία ἤδη ἀναγιγνώσκει, ἀλλὰ ὁ Μᾶρκος ἔτι βλέπει.**
 
 *(Composed for this lesson. These are not quotations.)*
 :::
@@ -228,23 +350,93 @@ of the rest.
    clause has no stated subject; **γιγνώσκει** supplies it. Students should
    be able to say that the subject of the second verb is still the judge,
    and that the **-ει** is what tells them.
+3. *The horse is chasing the cat.* As 1: the subject is the last word, and
+   a pupil who has the cat chasing the horse never got there.
+4. *The master does not leave the house, but stays.* The subject of
+   **μένει** is still the master; the **-ει** carries him across the
+   **ἀλλά**.
+5. *It is not the slave who reads the tablet, but the master.* **οὐχ**
+   denies **ὁ δοῦλος**, not the reading — the reading happens; the question
+   is who does it — and the second half has no verb of its own, so you must
+   reach **ὁ δεσπότης** to learn the answer and then carry
+   **ἀναγιγνώσκει** back to him.
+6. *The stranger admires the writing.* Object first; **ὁ ξένος** at the end
+   settles it.
+7. *Here we stay and read.* No noun at all: the first ending, **-ομεν**,
+   is the word you had to reach, and it tells you everything.
+8. *The slave does not know the law, but he does know the road.* The second
+   half supplies no verb; the first half lends it one, and the second
+   object is in the same case as the first because it has the same job.
+9. *The cat does not read, nor write, but sleeps.* **οὐδέ** carries the
+   **οὐ** on into the second verb; **ἀλλά** then turns the sentence
+   towards what the cat does do.
+10. *Julia is already reading, but Marcus is still looking.* Both subjects
+    are stated and both verbs are third singular, so the endings cannot
+    tell them apart; it is **ἤδη** and **ἔτι** that carry the contrast,
+    and **ἀλλά** that announces it.
 :::
 
 ::: {.exercise title="Compose, and then break it"}
-Write one Greek sentence using an article, a noun, and a verb.
-
-Then write it again with the article removed from one noun, and say what —
-if anything — changes about who is doing what.
+1. Write one Greek sentence using an article, a noun, and a verb.
+2. Write it again with the article removed from one noun, and say what —
+   if anything — changes about who is doing what.
+3. Write a sentence with **εἰμί** in which the article decides the subject.
+   Then move the article to the other noun and translate both.
+4. Write a sentence that uses **οὐκ** correctly. Then change one word so
+   that it needs **οὐχ** instead.
+5. Take **ὁ δεσπότης ἀναγιγνώσκει τὴν δέλτον** and deny it three ways, by
+   placing the negative before the verb, before the subject, and before
+   the object. Say what each version denies.
+6. Write a sentence whose first word is an accusative, so that a reader has
+   to wait for the subject.
+7. Write a sentence with no noun in it at all, and say how a reader knows
+   who the subject is.
+8. Write Marcus's **οὐκ ἀναγιγνώσκω** in the third person plural, and then
+   write *they are not looking*.
+9. Write a sentence that joins two verbs with **οὐδέ**.
+10. Write one sentence that is correct Greek and untrue, and one that is
+    correct Greek and true. Say how a reader could tell them apart from the
+    Greek alone — if a reader can.
 :::
 
 ::: answers
-Answers will vary. The point of the second half is that removing the article
-from the *object* usually changes very little, while removing it from the
-*subject* of a sentence with **εἰμί** can change which noun is the subject
-altogether.
-
-A student who discovers this on their own has found the mechanism behind the
-sentence on the board, and should be asked to explain it to Marcus.
+1. Answers will vary. Check the article agrees with its noun.
+2. The point of this is that removing the article from the *object*
+   usually changes very little, while removing it from the *subject* of a
+   sentence with **εἰμί** can change which noun is the subject altogether.
+   A student who discovers this on their own has found the mechanism
+   behind the sentence on the board, and should be asked to explain it to
+   Marcus.
+3. For example **ὁ δεσπότης ἐστὶ κριτής** — *the master is a judge* —
+   against **ὁ κριτής ἐστι δεσπότης** — *the judge is a master*. Check that
+   the noun without the article is nominative in both; a pupil who gave it
+   **-ην** has made **εἰμί** take an object.
+4. For example **οὐκ ἔχω τὴν δέλτον** → **οὐχ εὑρίσκω τὴν δέλτον**. The
+   change must be to the word after the negative; changing the object
+   changes nothing about **οὐ**.
+5. **ὁ δεσπότης οὐκ ἀναγιγνώσκει τὴν δέλτον** — denies the reading: he
+   does something else with it. **οὐχ ὁ δεσπότης ἀναγιγνώσκει τὴν δέλτον**
+   — denies the master: someone else is reading it. **ὁ δεσπότης οὐ τὴν
+   δέλτον ἀναγιγνώσκει** — denies the tablet: he is reading something
+   else. The breathing on the next word changed the negative's shape each
+   time; a pupil who kept **οὐκ** throughout has done the placing and not
+   the looking.
+6. For example **τὴν θύραν διώκει ὁ αἴλουρος.** Check that the first word
+   really is accusative and the last really is nominative.
+7. For example **μένομεν καὶ θαυμάζομεν.** The ending says *we*; nothing
+   else does, and nothing else needs to.
+8. **οὐκ ἀναγιγνώσκουσιν.** **οὐ βλέπουσιν.** The negative changed shape
+   because the verb changed: **ἀ-** against **β-**. A pupil who wrote
+   **οὐκ βλέπουσιν** has copied the first and not looked at the second.
+9. For example **ὁ δοῦλος οὐ λείπει τὴν οἰκίαν οὐδὲ φεύγει.** Check that
+   **οὐ** or **οὐκ** or **οὐχ** opens the first denial and **οὐδέ** the
+   second; **καὶ οὐ** is not wrong, but **οὐδέ** is what Greek says.
+10. For example **ὁ λίθος ἀναγιγνώσκει τὴν δέλτον** and **ὁ διδάσκαλος
+    ἀναγιγνώσκει τὴν δέλτον**. A reader cannot tell them apart from the
+    Greek: both are faultless. What tells them apart is the world. The
+    pupil who says *you cannot* has understood the difference between
+    construing a sentence and believing it, which is the lesson, and the
+    course.
 :::
 
 ::: {.exercise title="Into Greek"}
@@ -255,6 +447,12 @@ word that follows it.
 2. He does not have the book.
 3. The judge does not tell the truth.
 4. In the beginning was the word.
+5. The slave is not reading the tablet.
+6. We are not finding the road.
+7. Not the companion, but the stranger.
+8. The master does not stay here.
+9. Yes — you are reading, Marcus.
+10. The cat neither reads nor looks.
 :::
 
 ::: answers
@@ -265,6 +463,18 @@ word that follows it.
 4. **ἐν ἀρχῇ ἦν ὁ λόγος.** — They have just read it. Writing it out from
    English is a different act from recognising it on a board, and a pupil
    who can do the second but not the first has not yet learned it.
+5. **ὁ δοῦλος οὐκ ἀναγιγνώσκει τὴν δέλτον.**
+6. **οὐχ εὑρίσκομεν τὴν ὁδόν.** — Rough breathing on **εὑ-**; the usual
+   miss is **οὐκ**.
+7. **οὐχ ὁ ἑταῖρος, ἀλλὰ ὁ ξένος.** — No verb in the English, and none
+   needed in the Greek.
+8. **ὁ δεσπότης οὐκ ἐνταῦθα μένει** or **ὁ δεσπότης οὐ μένει ἐνταῦθα.**
+   Accept either; the first denies *here*, the second denies *staying*,
+   and the pupil should be able to say which they meant.
+9. **ναί· ἀναγιγνώσκεις, ὦ Μᾶρκε.** — Vocative **-ε**, no article.
+10. **ὁ αἴλουρος οὐκ ἀναγιγνώσκει οὐδὲ βλέπει.** — **οὐκ** before the
+    smooth breathing; **οὐδέ** for the second *nor*. A pupil who wrote
+    **καὶ οὐ βλέπει** has said it, but not the Greek way.
 
 Accept **οὐ γιγνώσκει τὴν ὁδόν** in 1 only if the pupil can say why they
 chose the third person; the English says *I*.

@@ -139,6 +139,14 @@ ending. There is not one.
 - **ἐκ**, **ἐξ** — out of *(with the genitive)*
 - **ἀπό** — from, away from *(with the genitive)*
 - **περί** — about, concerning *(with the genitive)*
+- **τὸ τέκνον** — child
+- **ὁ νόμος** — law, custom
+- **ἡ δίκη** — justice; a trial, a lawsuit
+- **εὑρίσκω** — I find
+- **λαμβάνω** — I take, receive
+- **λείπω** — I leave, leave behind
+- **οὐδέ** — and not, nor; not even
+- **ἐκεῖ** — there
 
 ::: note
 **ὁ υἱός** behaves like **ὁ λόγος**: **τοῦ υἱοῦ**, **τῶν υἱῶν**. Use it
@@ -151,9 +159,41 @@ you a form you cannot yet use has wasted your afternoon.
 :::
 :::
 
-::: {.investigation time="15 min"}
+::: {.investigation time="20 min"}
 Theodoros returned the tablet to its owner, who was himself, and set the
 class to work.
+
+::: {.exercise title="Retrieval"}
+Ten quick questions from Lessons 4 to 7. From memory.
+
+1. Give the gender, number and case of **τὰς ψυχάς**.
+2. Translate **ἡ ἡμέρα**.
+3. Give the person and number of **λέγουσιν**.
+4. Which form of *not* goes in front of **ἡ ὁδός**?
+5. Translate **πρὸς τὸν θεόν**.
+6. Turn **οἱ ἄνθρωποι βλέπουσι τοὺς ἵππους** round, so that the horses see
+   the men.
+7. Put **ὁ διδάσκαλος** into the vocative.
+8. Which four forms of the article do not begin with **τ**?
+9. Translate **ἀλλά**.
+10. Write *we have the works* in Greek.
+:::
+
+::: answers
+1. Feminine, plural, accusative.
+2. *Day.*
+3. Third person plural, *they say*.
+4. **οὐχ** — rough breathing on **ἡ**.
+5. *Towards God*, or *with God*, *in the presence of God*; the John 1:1
+   phrase.
+6. **οἱ ἵπποι βλέπουσι τοὺς ἀνθρώπους.** Watch the accent: **ἄνθρωποι**
+   becomes **ἀνθρώπους** because **-ους** is long (Lesson 7).
+7. **ὦ διδάσκαλε.**
+8. **ὁ, ἡ, οἱ, αἱ** — the masculine and feminine nominatives, singular and
+   plural. The neuter **τό, τά** begin with **τ** in every case.
+9. *But.*
+10. **ἔχομεν τὰ ἔργα.** — no pronoun; **-ομεν** is the *we*.
+:::
 
 ::: {.exercise title="Whose?"}
 Translate, and say which word is in the genitive and what tells you.
@@ -163,6 +203,11 @@ Translate, and say which word is in the genitive and what tells you.
 3. **ὁ υἱὸς τοῦ διδασκάλου**
 4. **αἱ ἡμέραι τοῦ χρόνου**
 5. **τὸ ἔργον τῶν ψυχῶν**
+6. **ἡ ὁδὸς τῆς ἀληθείας**
+7. **τὰ δῶρα τοῦ θεοῦ**
+8. **τοῦ Μάρκου ἡ δέλτος**
+9. **οἱ λόγοι τῶν κριτῶν**
+10. **ἡ ζωὴ τῶν τέκνων**
 :::
 
 ::: answers
@@ -174,9 +219,18 @@ Translate, and say which word is in the genitive and what tells you.
 4. *The days of time.* **τοῦ χρόνου**.
 5. *The work of the souls.* **τῶν ψυχῶν** — note the circumflex on the
    ultima, which is where every first-declension genitive plural puts it.
+6. *The road of truth.* **τῆς ἀληθείας** — **τῆς** and **-ας**: after
+   **ι** the first declension keeps alpha, as **οἰκίας** does.
+7. *The gifts of God.* **τοῦ θεοῦ**.
+8. *Marcus's tablet.* **τοῦ Μάρκου** — and it comes *first*. A pupil who
+   makes Marcus the subject of something has read the order and not
+   **τοῦ**.
+9. *The words of the judges.* **τῶν κριτῶν** — circumflex on the ultima
+   again; **κριτής** is first declension and obeys the rule.
+10. *The life of the children.* **τῶν τέκνων**.
 
-In every one of these the genitive is the second noun, which is the normal
-order and not a rule. Pupils should be warned that it can come first.
+In 1–7 and 9–10 the genitive is the second noun, which is the normal order
+and not a rule; 8 is there to prove it.
 :::
 
 ::: {.exercise title="Out of, from, about"}
@@ -186,6 +240,12 @@ Translate.
 2. **ἀπὸ τοῦ υἱοῦ**
 3. **περὶ τῶν ἔργων γράφομεν.**
 4. **ὁ ἄνθρωπος ἐκ τῆς οἰκίας βλέπει τὰ γράμματα.**
+5. **ἀπὸ τῶν ἡμερῶν**
+6. **περὶ τῆς ἀληθείας λέγει ὁ μάρτυς.**
+7. **ἐξ ἀρχῆς**
+8. **οἱ υἱοὶ λαμβάνουσι τὰ δῶρα ἀπὸ τοῦ διδασκάλου.**
+9. **περὶ τῶν τέκνων γράφει ὁ κριτής, οὐ περὶ τοῦ νόμου.**
+10. **ἐκ τῆς οἰκίας τοῦ κριτοῦ**
 :::
 
 ::: answers
@@ -195,6 +255,17 @@ Translate.
 4. *The man out of the house sees the letters.* — or *from out of the
    house*. The prepositional phrase sits between the subject and its verb,
    which English finds awkward and Greek does not.
+5. *From the days.* — **τῶν ἡμερῶν**, circumflex on the ultima.
+6. *The witness speaks about the truth.*
+7. *From the beginning.* — **ἐξ**, because **ἀρχῆς** begins with a vowel;
+   and no article, because this is a fixed phrase, like English *from
+   scratch*. A pupil who asks where the article has gone has asked the
+   right question.
+8. *The sons take the gifts from the teacher.*
+9. *The judge writes about the children, not about the law.*
+10. *Out of the house of the judge.* — Two genitives doing two different
+    jobs: **τῆς οἰκίας** because **ἐκ** demands it, **τοῦ κριτοῦ** because
+    the house is his. The same ending, two reasons; ask for both.
 :::
 
 ::: {.exercise title="Into Greek"}
@@ -203,6 +274,11 @@ Translate.
 3. Out of the house.
 4. We write about the work.
 5. The judge's house.  *(same as 1 in form — say why)*
+6. The name of the son.
+7. From the judge.
+8. The deeds of the children.
+9. The teacher finds the tablet of the judge.
+10. We speak about the law, but the judge writes about the truth.
 :::
 
 ::: answers
@@ -215,6 +291,14 @@ Translate.
    thing. Greek has one, and it is the genitive. A pupil who hunts for a
    second construction to match the second English phrasing is being misled
    by their own language.
+6. **τὸ ὄνομα τοῦ υἱοῦ.**
+7. **ἀπὸ τοῦ κριτοῦ.**
+8. **τὰ ἔργα τῶν τέκνων.**
+9. **ὁ διδάσκαλος εὑρίσκει τὴν δέλτον τοῦ κριτοῦ.** — **τὴν δέλτον**,
+   feminine article and **-ον**, like **ὁδός**.
+10. **περὶ τοῦ νόμου λέγομεν, ἀλλὰ ὁ κριτὴς περὶ τῆς ἀληθείας γράφει.** —
+    **τῆς ἀληθείας**, with alpha. A pupil who writes **τῆς ἀληθείης** has
+    applied the **ψυχή** pattern to the wrong noun.
 
 The commonest error here is leaving the article off the genitive: **τὸ
 βιβλίον διδασκάλου**. It is not meaningless — it says *the book of a
@@ -230,6 +314,16 @@ teacher had given him the tablet.
 2. What would it have been if the tablet had meant *the teacher's son*?
 3. Felix's reading and the true reading differ by how many letters? What
    does that tell you about reading Greek quickly?
+4. Write *the daughter of the teacher*.
+5. Write *of the sons*.
+6. The tablet was scratched in capitals, with no accents or breathings.
+   Write **ΤΟΥ ΔΙΔΑΣΚΑΛΟΥ** in small letters with everything it needs.
+7. What would **ΤΩΝ ΔΙΔΑΣΚΑΛΩΝ** have meant?
+8. Theodoros said one ending settled the argument. Which letters are the
+   ending, on the noun and on the article?
+9. Give the genitive singular of **ἡ δέλτος**, with its article.
+10. If the tablet had read **ΤΟΥ ΥΙΟΥ**, whose would it have been — and
+    would the argument have been settled?
 :::
 
 ::: answers
@@ -242,6 +336,23 @@ teacher had given him the tablet.
    between *the teacher* and *of the teacher* can be carried entirely by
    the last letter of the word, so the last letter is not a detail you
    check afterwards. It is the sentence.
+4. **ἡ θυγάτηρ τοῦ διδασκάλου.** — the daughter stays in the nominative,
+   which is the only form of her you have.
+5. **τῶν υἱῶν.** — circumflex, because **υἱός** is accented on its last
+   syllable and **-ῶν** is long.
+6. **τοῦ διδασκάλου.** — rough breathing is not needed (**τ** is a
+   consonant); the circumflex on **τοῦ** and the acute on **-κά-** are.
+   Note that the accent of **διδάσκαλος** has moved forward, for the
+   Lesson 7 reason.
+7. *Of the teachers.* — genitive plural.
+8. **-ου** on the noun, and the whole of **τοῦ** on the article, since
+   **τοῦ** is nothing but ending.
+9. **τῆς δέλτου.** — feminine article, second-declension ending; the same
+   mismatch as **ἡ ὁδός, τῆς ὁδοῦ**.
+10. *The son's* — but whose son? **τοῦ υἱοῦ** names a relationship, not a
+    person, and the argument would have moved rather than ended. The point
+    worth drawing out is that the genitive answers *whose* only as far as
+    the noun it is attached to does.
 :::
 :::
 
@@ -284,6 +395,100 @@ building one out of a noun and a column of genitives.
 
 Felix's tablet said **ΤΟΥ ΔΙΔΑΣΚΑΛΟΥ** and settled who owned it. This line
 uses the same ending to settle who someone is.
+:::
+
+::: {.reading time="20 min" title="Theodoros's sixth tablet" source="composed"}
+The sixth tablet took up the argument about the wax tablet, and settled it
+in a way that satisfied nobody.
+
+ὁ διδάσκαλος οὐκ ἔχει τὴν δέλτον. ἡ δέλτος τοῦ διδασκάλου ἐν τῇ οἰκίᾳ
+τοῦ κριτοῦ ἐστιν. κριτὴς ἡ Σαβῖνα. ὁ διδάσκαλος λείπει τὴν δέλτον ἐκεῖ.
+
+ὁ Φῆλιξ εὑρίσκει τὴν δέλτον καὶ λαμβάνει τὴν δέλτον ἐκ τῆς οἰκίας.
+βλέπει τὰ γράμματα τῆς δέλτου, ἀλλὰ οὐ γιγνώσκει τὰ γράμματα. τὰ
+γράμματα λέγει· τοῦ διδασκάλου.
+
+ὁ υἱὸς τοῦ διδασκάλου ἔχει τὸ βιβλίον τοῦ κριτοῦ. τὸ βιβλίον δῶρόν ἐστιν
+ἀπὸ τοῦ κριτοῦ. ὁ υἱὸς τέκνον ἐστίν· οὐ γιγνώσκει τὰ γράμματα τοῦ
+βιβλίου.
+
+ὁ Μᾶρκος οὐκ ἔχει τὴν δέλτον οὐδὲ τὸ βιβλίον, ἀλλὰ λέγει περὶ τῆς δέλτου
+καὶ περὶ τοῦ βιβλίου. πολλοὶ οἱ λόγοι τοῦ Μάρκου· ὁ αἴλουρος οὐ λέγει
+περὶ τῆς δέλτου. ὁ νόμος τῆς δίκης· ἡ δίκη τοῦ κριτοῦ ἐστιν, ἀλλὰ ἡ
+δέλτος τοῦ διδασκάλου.
+
+::: gloss
+- **ἐν τῇ οἰκίᾳ** — in the house *(a case you meet in Lesson 9; take the
+  phrase whole, as you took **ἐν ἀρχῇ**)*
+- **ἡ Σαβῖνα, ὁ Φῆλιξ, ὁ Μᾶρκος** — Sabina, Felix, Marcus. **τοῦ Μάρκου**
+  is an ordinary second-declension genitive.
+- **ὁ αἴλουρος** — the cat
+- **τὰ γράμματα λέγει** — *the letters say*: neuter plural, singular verb,
+  as in the last tablet
+- **δῶρόν ἐστιν, τέκνον ἐστίν, κριτοῦ ἐστιν** — take the accents as
+  printed; **ἐστιν** leans on the word before it
+:::
+
+::: {.exercise title="Understanding the reading"}
+Read the whole tablet aloud before you answer anything.
+
+1. Where is the teacher's tablet? That sentence has two genitives: say
+   what each one is doing.
+2. Who is the judge? The sentence that tells you has no verb — how do you
+   know which noun is the subject?
+3. Who finds the tablet, and where does he take it from? Which preposition
+   is used, and what case does it demand?
+4. Felix sees the letters but does not know them. What do the letters say,
+   and in what case?
+5. **τὰ γράμματα λέγει** — why is the verb singular?
+6. Who has the judge's book, and where did it come from? Which preposition
+   tells you, and what is the book called?
+7. Translate **ὁ υἱὸς τέκνον ἐστίν**. Which noun has the article, and what
+   does that settle?
+8. What does Marcus have? What does he do instead? Find **οὐδέ** and say
+   what two things it joins.
+9. List every genitive in the last paragraph, and for each say which noun
+   it hangs on.
+10. Translate the last sentence. Does the tablet settle who owns the wax
+    tablet of the Story — and does the Greek say *Theodoros* anywhere?
+:::
+
+::: answers
+1. In the house of the judge: **ἐν τῇ οἰκίᾳ τοῦ κριτοῦ**. **τοῦ
+   διδασκάλου** says whose tablet; **τοῦ κριτοῦ** says whose house. Same
+   ending, two owners.
+2. Sabina: **κριτὴς ἡ Σαβῖνα**. **ἡ Σαβῖνα** has the article, so she is
+   the subject and **κριτής** is what is said about her — *Sabina is
+   judge*. A pupil who translates *the judge is Sabina* has read the order.
+3. Felix, **ὁ Φῆλιξ εὑρίσκει**; out of the house, **ἐκ τῆς οἰκίας**;
+   **ἐκ**, genitive.
+4. **τοῦ διδασκάλου** — *of the teacher*, genitive. It is Lesson 8's whole
+   Story in two words, and Felix in the tablet makes exactly the mistake
+   Felix in the Story made.
+5. Because **τὰ γράμματα** is neuter plural, and a neuter plural subject
+   takes a singular verb (glossed, here and in the last tablet).
+6. The son of the teacher, **ὁ υἱὸς τοῦ διδασκάλου**; from the judge,
+   **ἀπὸ τοῦ κριτοῦ**; it is a gift, **δῶρον**.
+7. *The son is a child.* **ὁ υἱός** has the article and **τέκνον** does
+   not; so the sentence is about the son, and what it says of him is that
+   he is a child — which is why he cannot read the book he owns.
+8. Nothing — neither the tablet nor the book: **οὐκ ἔχει τὴν δέλτον οὐδὲ
+   τὸ βιβλίον**. **οὐδέ** joins the two objects under one negative, *not …
+   nor*. He talks about both instead, **λέγει περί**.
+9. **τῆς δέλτου** and **τοῦ βιβλίου** (after **περί**, twice); **τοῦ
+   Μάρκου** (on **οἱ λόγοι**); **τῆς δέλτου** (after **περί** again);
+   **τῆς δίκης** (on **ὁ νόμος**); **τοῦ κριτοῦ** (predicate — the trial
+   *is the judge's*); **τοῦ διδασκάλου** (predicate — the tablet *is the
+   teacher's*). Seven. A pupil who stops at the ones after prepositions has
+   found the easy half.
+10. *The rule of the case: the trial is the judge's, but the tablet is the
+    teacher's.* Yes — the genitive **τοῦ διδασκάλου** gives it to the
+    teacher, as the scratched letters did. No: the word **Θεόδωρος** is
+    nowhere in it. The tablet names a role, not a person, which is the
+    same thing the scratched letters did, and the class may notice that
+    this leaves the question of Lesson 8's closing story exactly where it
+    was.
+:::
 :::
 
 ::: {.question time="5 min"}

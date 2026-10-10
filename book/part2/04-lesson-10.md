@@ -143,6 +143,13 @@ This is the clearest case in the course of the article earning its keep.
 - **σοφός** — wise, skilled
 - **μικρός** — small, little
 - **μέγας** — great, large
+- **ἄλλος** — other, another *(neuter **ἄλλο**, not **ἄλλον**)*
+- **πρῶτος** — first
+- **νέος** — new; young *(feminine **νέα**, after **ε**)*
+- **ὀλίγος** — little, few
+- **μακρός** — long *(feminine **μακρά**; you met **μακραί** on the fifth tablet)*
+- **χαλεπός** — difficult, hard, harsh *(the proverb's word, at last with its endings)*
+- **ἡ γνώμη** — opinion, judgement; a mind made up
 
 ::: note
 **μικρός** has **μικρά** in the feminine, not **μικρή**: after **ε**, **ι**
@@ -160,8 +167,39 @@ would not have thought of those as five things.
 :::
 :::
 
-::: {.investigation time="15 min"}
+::: {.investigation time="20 min"}
 Sabina's list was confiscated. The exercises are Theodoros's.
+
+::: {.exercise title="Retrieval"}
+Ten quick questions from Lessons 6 to 9. From memory.
+
+1. What case is **τῷ κριτῇ**, and what job does it usually do?
+2. Translate **πέμπω**.
+3. Write *in the house* in Greek.
+4. Translate **δίδωσι**.
+5. Give the gender, number and case of **τοῖς λόγοις**.
+6. Translate **ἡ ἀρχή** — both its meanings.
+7. Translate **ἀπὸ τοῦ υἱοῦ**.
+8. Put **ὁ υἱὸς ἔχει τὸ δῶρον** into the plural throughout.
+9. In **τὸ βιβλίον τοῦ κριτοῦ**, which word is in the genitive, and what
+   two things tell you?
+10. **οὐκ** or **οὐχ** in front of **ἔχομεν**?
+:::
+
+::: answers
+1. Dative; the one something is given, sent or said to.
+2. *I send.*
+3. **ἐν τῇ οἰκίᾳ** — with both iota subscripts.
+4. *He, she or it gives.*
+5. Masculine, plural, dative.
+6. *Beginning* and *rule*; the course has made a point of their being the
+   same word.
+7. *From the son.*
+8. **οἱ υἱοὶ ἔχουσι τὰ δῶρα.** — article, noun, verb, article, noun: five
+   changes, and a pupil who makes four has usually left the verb singular.
+9. **τοῦ κριτοῦ**; **τοῦ** and **-οῦ**.
+10. **οὐκ** — smooth breathing on **ἔχομεν**.
+:::
 
 ::: {.exercise title="Make it agree"}
 Put the adjective into the right form.
@@ -172,6 +210,10 @@ Put the adjective into the right form.
 4. **τοὺς** (**κακός**) **λόγους**
 5. **τῇ** (**καλός**) **ἡμέρᾳ**
 6. **τῶν** (**σοφός**) **ἀνθρώπων**
+7. **τὴν** (**ἀγαθός**) **ὁδόν**
+8. **οἱ** (**νέος**) **μαθηταί**
+9. **τοῖς** (**μικρός**) **τέκνοις**
+10. **τῆς** (**καλός**) **ἐπιστολῆς**
 :::
 
 ::: answers
@@ -181,6 +223,15 @@ Put the adjective into the right form.
 4. **τοὺς κακοὺς λόγους** — masc. acc. plur.
 5. **τῇ καλῇ ἡμέρᾳ** — fem. dat. sing. Both iota subscripts must appear.
 6. **τῶν σοφῶν ἀνθρώπων** — masc. gen. plur.
+7. **τὴν ἀγαθὴν ὁδόν** — fem. acc. sing. The noun ends in **-ον** and the
+   adjective in **-ην**, and both are right: **ὁδός** is a feminine noun
+   with second-declension endings, and the adjective follows the gender,
+   not the shape. The commonest wrong answer is **ἀγαθόν**; it has
+   followed the shape.
+8. **οἱ νέοι μαθηταί** — masc. nom. plur. The noun ends in **-αι** and the
+   adjective in **-οι**; the same lesson as 7 from the other side.
+9. **τοῖς μικροῖς τέκνοις** — neut. dat. plur.
+10. **τῆς καλῆς ἐπιστολῆς** — fem. gen. sing.
 
 The article is doing the teaching in every one of these. A pupil who reads
 **τῇ** and writes a nominative has not looked at it.
@@ -194,6 +245,11 @@ Translate, and say whether the adjective describes or asserts.
 3. **ἡ ψυχὴ ἡ καλή**
 4. **ἡ ψυχὴ καλή**
 5. **μικρὰ τὰ δῶρα τῶν ἀνθρώπων.**
+6. **ὁ νέος υἱός**
+7. **χαλεπὴ ἡ ὁδός.**
+8. **οἱ μαθηταὶ οἱ ἀγαθοί**
+9. **ὀλίγοι οἱ σοφοί.**
+10. **καλὰ τὰ ἔργα τῶν νέων.**
 :::
 
 ::: answers
@@ -204,9 +260,19 @@ Translate, and say whether the adjective describes or asserts.
    in the open.
 5. *The gifts of the men are small.* Asserts. **μικρά** stands outside, and
    the sentence has no verb and needs none.
+6. *The young son.* Describes.
+7. *The road is hard.* Asserts. Note **χαλεπή** with the feminine **ὁδός**.
+8. *The good pupils.* Describes; the repeated article again.
+9. *The wise are few.* Asserts — and there is no noun at all. **οἱ σοφοί**
+   is an adjective with the article, which makes it a noun, *the wise
+   ones*; **ὀλίγοι** without the article is what is said about them. This
+   is **χαλεπὰ τὰ καλά** with the genders changed.
+10. *The deeds of the young are fine.* Asserts; **τῶν νέων** is another
+    adjective turned noun by its article.
 
 3 and 4 differ by one word, **ἡ**, and are a description and a claim
-respectively. Spend time here.
+respectively. Spend time here. Then 9, which has no noun and still has a
+subject.
 :::
 
 ::: {.exercise title="Into Greek"}
@@ -216,6 +282,10 @@ respectively. Spend time here.
 4. Of the small house.
 5. The great word is bad.
 6. The teacher is good, but the son is small.
+7. The good road.  *(object)*
+8. The first day is long.
+9. The other pupils are young.
+10. Of the wise teachers.
 :::
 
 ::: answers
@@ -229,6 +299,14 @@ respectively. Spend time here.
 5. **κακὸς ὁ μέγας λόγος.** — one adjective describing, one asserting, in
    the same sentence. This is the hardest question on the sheet.
 6. **ἀγαθὸς ὁ διδάσκαλος, ἀλλὰ μικρὸς ὁ υἱός.**
+7. **τὴν ἀγαθὴν ὁδόν.** — feminine adjective, masculine-looking noun;
+   **τὴν ἀγαθὸν ὁδόν** is the error to expect.
+8. **μακρὰ ἡ πρώτη ἡμέρα.** — one adjective inside the group, one
+   outside: 5 again, with different words. **μακρά**, with alpha, after
+   **ρ**.
+9. **νέοι οἱ ἄλλοι μαθηταί.** — the same shape; accept **οἱ ἄλλοι μαθηταὶ
+   νέοι**.
+10. **τῶν σοφῶν διδασκάλων.** — both circumflexes.
 
 1 and 2 are the examination. A pupil who produces the same Greek for both
 has not understood the lesson, however well they have learned the endings.
@@ -244,6 +322,17 @@ Sabina wrote **ὁ κακὸς υἱός** about Felix.
    sentence he could have used to say *Sabina is wise*, and then the one
    that would have said *the wise Sabina*, and say which he would have
    preferred.
+5. Sabina called Livia **ἡ μικρὰ ψυχή**. Rewrite it as a claim, and
+   translate the claim.
+6. Why **μικρά** and not **μικρή**?
+7. Write *the word is great* and *the great word*, and say which one
+   Marcus accepted.
+8. Put Quintus's label, **ὁ ἀγαθὸς ἄνθρωπος**, into the genitive.
+9. Write a label for the paedagogus, inside the article group, using any
+   adjective from this lesson; then move the adjective outside and
+   translate what you have now said about him.
+10. Translate **χαλεπὰ τὰ καλά** once more, and say — now that you have
+    the word for it — which position the adjective is in.
 :::
 
 ::: answers
@@ -257,6 +346,23 @@ Sabina wrote **ὁ κακὸς υἱός** about Felix.
    it stands inside. He would have preferred
    the first, because it is a judgement he is willing to defend, and the
    second is a title he is not willing to award in front of Marcus.
+5. **μικρὰ ἡ ψυχή.** — *The soul is small.* Which, said of Livia, is a
+   different and much less kind thing than the label, and the class
+   should be able to say why.
+6. After **ρ** the first declension keeps alpha, as **οἰκία** does; the
+   note in the vocabulary box has it.
+7. **μέγας ὁ λόγος** — *the word is great*; **ὁ μέγας λόγος** — *the
+   great word*. Marcus accepted the second, which is what Sabina wrote; a
+   pupil who thinks he accepted a claim about himself has not noticed
+   that the article shelters the adjective.
+8. **τοῦ ἀγαθοῦ ἀνθρώπου.** — three endings change, and the accent of
+   **ἄνθρωπος** moves for the Lesson 7 reason.
+9. Answers will vary; e.g. **ὁ σοφὸς παιδαγωγός** → **σοφὸς ὁ
+   παιδαγωγός**, *the paedagogus is wise*. Check that the second version
+   has lost nothing but position.
+10. *Fine things are hard.* Predicate position: **χαλεπά** stands outside
+    the article group and asserts. The class has been reading predicate
+    position since Lesson 3; this is the first time they can name it.
 :::
 :::
 
@@ -295,6 +401,112 @@ Koine, and from John again. The course's own sentences are Attic throughout,
 and Part III brings Homer and Plato; the gospel sentences so far — six of
 them — were chosen because you could read them in your first term, not
 because the New Testament is the centre of the course.
+:::
+:::
+
+::: {.reading time="20 min" title="Theodoros's eighth tablet" source="composed"}
+The eighth tablet was Sabina's list, as Theodoros chose to remember it, and
+it went round the day after the list was confiscated.
+
+ἡ Σαβῖνα γράφει ἐν τῇ δέλτῳ τὴν γνώμην περὶ τῶν μαθητῶν. ὁ πρῶτος
+λόγος· ἡ σοφὴ Σαβῖνα.
+
+ἡ Σαβῖνα λέγει· ἡ Ἰουλία ἡ σοφὴ θυγάτηρ. ἡ Ἰουλία λέγει· οὐ σοφὴ ἡ
+θυγάτηρ, ἀλλὰ ἀγαθή.
+
+ἡ Σαβῖνα λέγει· ἡ Λιβία ἡ μικρὰ ψυχή. ἡ Λιβία οὐ λέγει. ὀλίγοι οἱ λόγοι
+τῆς Λιβίας. μικρὰ ἡ Λιβία, ἀλλὰ οὐ μικρὰ ἡ ψυχή.
+
+ἡ Σαβῖνα λέγει· ὁ Κόιντος ὁ ἀγαθὸς ἄνθρωπος. ὁ Κόιντος λέγει· ἀγαθὸς ὁ
+ἄνθρωπος, καὶ σοφός, καὶ μέγας.
+
+ἡ Σαβῖνα λέγει· ὁ Φῆλιξ ὁ κακὸς υἱός. ὁ Φῆλιξ λέγει· οὐ κακὸς ὁ υἱός,
+ἀλλὰ νέος.
+
+ἡ Σαβῖνα λέγει· ὁ Μᾶρκος ὁ μέγας λόγος. ὁ Μᾶρκος λέγει· μακρὸς ὁ λόγος,
+ἀλλὰ ἀγαθός.
+
+οἱ ἄλλοι μαθηταὶ λέγουσι περὶ τῆς Σαβίνης· οὐ σοφὴ ἡ Σαβῖνα, ἀλλὰ
+χαλεπή. ὁ διδάσκαλος λέγει· χαλεπὰ τὰ καλά.
+
+::: gloss
+- **ἡ Σαβῖνα, ἡ Ἰουλία, ἡ Λιβία, ὁ Κόιντος, ὁ Φῆλιξ, ὁ Μᾶρκος** — Sabina,
+  Julia, Livia, Quintus, Felix, Marcus
+- **τῆς Λιβίας** — of Livia; an ordinary first-declension genitive
+- **τῆς Σαβίνης** — of Sabina *(genitive; a name in **-α** after **ν**
+  takes **-ης** — take it whole for now)*
+:::
+
+::: {.exercise title="Understanding the reading"}
+Read the whole tablet aloud before you answer anything.
+
+1. What does Sabina write, where, and about whom? Give the case of each
+   of the three noun phrases and say what decides it.
+2. What is the first entry on the tablet? Is it a description or a claim?
+   Which would Theodoros have been willing to write?
+3. Sabina's label for Julia and Julia's reply use the same adjective. What
+   has moved, and what has changed in the meaning?
+4. Why does the tablet have Livia say nothing? What does it say about her
+   instead — and does it agree with Sabina?
+5. **μικρὰ ἡ Λιβία, ἀλλὰ οὐ μικρὰ ἡ ψυχή** — how many claims, and where
+   is the verb?
+6. Quintus agrees with Sabina, after a fashion. What does he add? Where do
+   all three of his adjectives stand?
+7. Translate Felix's objection. What is the difference between **ὁ κακὸς
+   υἱός** and **οὐ κακὸς ὁ υἱός**?
+8. Marcus changes one of Sabina's words. Which, and to what? Translate his
+   reply and say whether he has denied anything.
+9. What do the other pupils say about Sabina? What is the tablet's last
+   word, and whose word was it before it was theirs?
+10. Go through the whole tablet and sort every adjective into *inside the
+    article group* and *outside it*. Which kind does Sabina use, and which
+    kind does everyone who answers her use? What does that tell you about
+    the difference between the two?
+:::
+
+::: answers
+1. Her opinion, **τὴν γνώμην** (accusative — the thing written); on the
+   tablet, **ἐν τῇ δέλτῳ** (dative after **ἐν**); about the pupils, **περὶ
+   τῶν μαθητῶν** (genitive after **περί**).
+2. **ἡ σοφὴ Σαβῖνα** — *the wise Sabina*. A description: the adjective is
+   inside the article group. Theodoros wrote exactly this at the end of the
+   Story, because it commits him to nothing; a pupil who has read the
+   closing story should spot the joke.
+3. The article. **ἡ σοφὴ θυγάτηρ** describes — *the wise daughter* —
+   and **σοφὴ ἡ θυγάτηρ** asserts — *the daughter is wise*. Julia turns
+   the label into a claim in order to deny it: **οὐ σοφή … ἀλλὰ ἀγαθή**,
+   *not wise but good*.
+4. Because she says little: **ὀλίγοι οἱ λόγοι τῆς Λιβίας**, *Livia's words
+   are few*. The tablet then says she is small but her soul is not —
+   which contradicts Sabina's **ἡ μικρὰ ψυχή** by the simplest possible
+   means, **οὐ**.
+5. Two claims, **μικρὰ ἡ Λιβία** and **οὐ μικρὰ ἡ ψυχή**, joined by
+   **ἀλλά**; there is no verb anywhere. Both adjectives are in predicate
+   position.
+6. **καὶ σοφός, καὶ μέγας** — *and wise, and great*. All three stand
+   outside the article group: **ἀγαθὸς ὁ ἄνθρωπος**, then two more
+   predicates on the same subject. He has turned a label into three
+   claims about himself, which is Quintus.
+7. *Not a bad son, but a young one.* **ὁ κακὸς υἱός** is a name — *the
+   bad son*; **οὐ κακὸς ὁ υἱός** is a denial — *the son is not bad*. You
+   cannot deny a label; you can only deny a claim, so Felix has to move
+   the article before he can object.
+8. **μέγας** becomes **μακρός**: *long* rather than *great*. *The word is
+   long, but good.* He has denied nothing; he has accepted a lesser charge
+   and added a defence, which is what Marcus does.
+9. **οὐ σοφὴ ἡ Σαβῖνα, ἀλλὰ χαλεπή** — *Sabina is not wise, but
+   difficult*. The last word is **καλά**, in **χαλεπὰ τὰ καλά**; it was
+   Plato's, and before him a proverb, and the teacher uses it to say that
+   Sabina may be both.
+10. Inside: **ἡ σοφὴ Σαβῖνα, ἡ σοφὴ θυγάτηρ, ἡ μικρὰ ψυχή, ὁ ἀγαθὸς
+    ἄνθρωπος, ὁ κακὸς υἱός, ὁ μέγας λόγος, ὁ πρῶτος λόγος, οἱ ἄλλοι
+    μαθηταί** — Sabina's are all of this kind (plus two of the narrator's).
+    Outside: everything said in reply — **σοφή, ἀγαθή, μικρά** (three
+    times), **ἀγαθός, σοφός, μέγας, κακός, νέος, μακρός, ἀγαθός, σοφή,
+    χαλεπή**, and the proverb's **χαλεπά**. Sabina labels; everyone else
+    argues. Attributive position names a thing; predicate position says
+    something about it, and only the second can be true or false, which
+    is why only the second can be answered.
 :::
 :::
 

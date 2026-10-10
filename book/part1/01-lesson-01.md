@@ -125,7 +125,7 @@ down by grammarians, and written out in full only centuries later.
 :::
 
 ::: vocab
-Five words. Learn each one *with the little word in front of it* — that
+Twelve words. Learn each one *with the little word in front of it* — that
 word tells you the noun's gender, which you cannot always guess from the
 ending. Lesson 3 explains why this matters.
 
@@ -134,9 +134,25 @@ ending. Lesson 3 explains why this matters.
 - **ὁ ἄνθρωπος** — human being, person
 - **ἡ ψυχή** — soul, life, self
 - **τὸ δῶρον** — gift
+- **ὁ ξένος** — stranger; guest; foreigner
+- **ἡ φωνή** — voice; sound
+- **ἡ τέχνη** — skill, craft, art
+- **τὸ τέκνον** — child
+- **ὁ πόλεμος** — war
+- **ὁ φόβος** — fear
+- **ὁ τρόπος** — way, manner; a person's character
+
+::: note
+The first five are the ones Theodoros set. The other seven are here
+because you will be sounding them out and putting them in order this
+lesson, and because every one of them is among the few hundred words that
+make up most of any Greek page. You do not need to know yet what to do
+with them. You need to be able to say them, spell them, and find them in a
+list.
+:::
 :::
 
-::: {.investigation time="15 min"}
+::: {.investigation time="20 min"}
 Theodoros did not explain the alphabet. He wrote **ΑΘΗΝΑ** and asked the
 class what they already knew, which is a different kind of lesson.
 
@@ -154,6 +170,20 @@ Look at **ΑΘΗΝΑ** without being told what it says.
 3. Which one is not a Latin letter at all?
 4. The letter **Η** appears once. If you assumed it was the Latin *H*, what
    would you think the word sounded like? Why would you be wrong?
+5. Theodoros writes **ΡΩΜΗ** underneath. Felix reads it as *pwmh* and
+   gives up. Read it properly, and say which three letters tricked him.
+6. **ΑΘΗΝΑ** has three vowels and two consonants. Which letters are the
+   vowels?
+7. In small letters the goddess is written **Ἀθηνᾶ**. (Ignore the marks
+   above the letters for now; Lesson 2 explains them.) Match each small
+   letter to its capital. Which small letter looks least like its capital?
+8. Theodoros's own name, on the board, is **ΘΕΟΔΩΡΟΣ**. Sound it out.
+   Which two of its letters would a Latin reader get wrong? And which two
+   words from the vocabulary are hiding inside it?
+9. Name the five letters of **ΑΘΗΝΑ** in order, using their Greek names.
+10. Aelia said she *knew* the word meant Athens; Theodoros said she had
+    *remembered* it. What could a pupil who had never heard of Athens
+    still have *known* about **ΑΘΗΝΑ**, using nothing but the table?
 :::
 
 ::: answers
@@ -167,23 +197,66 @@ Look at **ΑΘΗΝΑ** without being told what it says.
    alphabet in which it still stood for *h*; Attic later re-used the letter
    for long *e* and wrote its *h*-sound another way (the rough breathing,
    Lesson 2). The word is *a-thē-na*.
+5. *Rhō-mē* — Rome. The three traps are **Ρ** (*r*, not *p*), **Ω** (long
+   *o*, not *w*) and **Η** (long *e*, not *h*). Felix's *pwmh* is what you
+   get by trusting the shapes. A pupil who reads *Rōm-* correctly and
+   then stalls at the end has fallen for **Η** alone, which is the
+   commonest of the three.
+6. **Α**, **Η**, **Α** — three. A pupil who finds only two has read **Η**
+   as a consonant. It is Latin *H* that is the consonant, and this is not
+   Latin *H*.
+7. **α**/**Α**, **θ**/**Θ**, **η**/**Η**, **ν**/**Ν**, **α**/**Α**. The
+   small **η** is the one least like its capital — it looks like a Latin
+   *n* with a tail, which is a second reason to handle it with care.
+   Accept **α** or **ν** if the pupil gives a reason; **ν** looks like a
+   Latin *v*, and that will catch people later.
+8. *The-o-dō-ros*. **Ω** (not *w*) and **Ρ** (not *p*) are the traps.
+   Hidden inside are **θεός**, *god*, and **δῶρον**, *gift*: the teacher's
+   name means *god's gift*. A pupil who notices that unprompted should be
+   told that Theodoros knows, and has heard every possible remark about it.
+9. **ἄλφα**, **θῆτα**, **ἦτα**, **νῦ**, **ἄλφα**. The usual slip is
+   *ēta* said as *hēta*, which is item 4 again.
+10. Everything in items 1–3 and 6, and how it sounds: five letters, four
+    different, three of them vowels, one with no Latin shape at all, and
+    the sound *a-thē-na*. What Aelia had was the one thing the table does
+    not give — what the word refers to. Theodoros's distinction is between
+    what is on the page and what is in your head, and the whole course
+    keeps returning to it.
 :::
 
 ::: {.exercise title="Sound them out"}
 Write each word in Latin letters, then say it aloud. Do not try to work out
 what it means.
 
-**φίλος** · **λόγος** · **ψυχή** · **ἄνθρωπος** · **δῶρον** · **θεός** ·
-**ῥήτωρ** · **ξένος**
+1. **φίλος**
+2. **λόγος**
+3. **ψυχή**
+4. **ἄνθρωπος**
+5. **δῶρον**
+6. **θεός**
+7. **ῥήτωρ**
+8. **ξένος**
+9. **φωνή**
+10. **τέχνη**
 :::
 
 ::: answers
-*philos* · *logos* · *psūchē* · *anthrōpos* · *dōron* · *theos* ·
-*rhētōr* · *xenos*
+1. *philos*
+2. *logos*
+3. *psūchē*
+4. *anthrōpos*
+5. *dōron*
+6. *theos*
+7. *rhētōr*
+8. *xenos*
+9. *phōnē*
+10. *technē*
 
-Watch for: **φ** is *ph* (a puffed *p*, not an *f*); **χ** in **ψυχή** is
-*ch* as a puffed *k*; **ρ** at the start of a word takes the rough
-breathing and so is *rh*; **ξ** is a single letter spelling two sounds.
+Watch for: **φ** is *ph* (a puffed *p*, not an *f*); **χ** in **ψυχή** and
+**τέχνη** is *ch* as a puffed *k*, never the *ch* of *church*; **ρ** at the
+start of a word takes the rough breathing and so is *rh*; **ξ** is a single
+letter spelling two sounds. **φωνή** has two long syllables, *phō-nē*, and a
+pupil who says *phonny* has read **ω** as a short *o* and **η** as nothing.
 :::
 
 ::: {.exercise title="Copy the letters"}
@@ -191,13 +264,56 @@ Copy out the twenty-four letters in order, capital and small, with the name
 of each beside it. Do this by hand. Do it twice.
 
 Then cover the names and write them from memory.
+
+Then, with the table still covered, answer these.
+
+1. Which letter comes immediately after **ν**, and what sound does it make?
+2. Which letter stands between **π** and **σ**?
+3. Three letters are pronounced with a puff of breath. Name them.
+4. Three letters each spell two sounds. Name them and give the sounds.
+5. **Λ** and **Δ** are easily confused. Which is which, and what are their
+   small forms?
+6. One letter has two small forms. Which, and when is each used?
+7. Put these words into alphabetical order: **πόλεμος**, **τέκνον**,
+   **φόβος**, **ξένος**, **τρόπος**.
+8. The names **ὂ μικρόν** and **ὦ μέγα** mean something. What, and which of
+   the two letters is the long one?
+9. Write **ΦΟΒΟΣ** and **ΠΟΛΕΜΟΣ** in small letters, and **φίλος** and
+   **τρόπος** in capitals, as a stonecutter would.
+10. What is the eighth letter of the alphabet? The eighteenth? Theodoros's
+    name begins with one and ends with the other.
 :::
 
 ::: answers
-Check against the table above. The most commonly mis-ordered pair is
-**ξ** and **ο** — **ξῖ** comes before **ὂ μικρόν**, not after. Greek slips
-a letter in between **ν** and **ο** where Latin has none, and pupils used to
-Latin expect the *x*-sound to come near the end of the alphabet.
+Check the copying against the table above. The most commonly mis-ordered
+pair is **ξ** and **ο** — **ξῖ** comes before **ὂ μικρόν**, not after.
+Greek slips a letter in between **ν** and **ο** where Latin has none, and
+pupils used to Latin expect the *x*-sound to come near the end of the
+alphabet.
+
+1. **ξ**, *ks*. The usual wrong answer is **ο**, for the reason just given.
+2. **ρ**.
+3. **θ**, **φ**, **χ** — *t*, *p* and *k* with breath behind them. A pupil
+   who adds **ψ** has confused *two sounds* with *a puff*.
+4. **ζ** (*zd*), **ξ** (*ks*), **ψ** (*ps*).
+5. **Λ** is *l* and its small form is **λ**; **Δ** is *d* and its small
+   form is **δ**. The one with the bar along the bottom is the delta, as in
+   the delta of the Nile, which is the shape of the letter.
+6. **σ** and **ς**: **ς** at the end of a word only, **σ** everywhere else.
+7. **ξένος**, **πόλεμος**, **τέκνον**, **τρόπος**, **φόβος**. The pair to
+   watch is **τέκνον** and **τρόπος**: both begin **τ**, and **ε** comes
+   before **ρ**, so **τέκνον** first. A pupil who put **φόβος** before
+   **πόλεμος** has alphabetised by the Latin *f*, which Greek does not
+   have; **φ** is the twenty-first letter.
+8. *Little o* and *big o*; **ω** is the long one. The names are late — they
+   were given when the two letters had come to sound the same and needed
+   telling apart — but they are the ones every dictionary uses.
+9. **φόβος**, **πόλεμος**; **ΦΙΛΟΣ**, **ΤΡΟΠΟΣ**. Check that the final
+   sigma became **Σ** — capitals have only one shape — and that no accent
+   was carried up into the capitals: the stonecutter had none.
+10. **θ** is the eighth and **σ** the eighteenth: **ΘΕΟΔΩΡΟΣ**. A pupil who
+    says **ρ** for the eighteenth has forgotten **ξ** again and is one out
+    all the way down.
 :::
 :::
 
