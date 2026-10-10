@@ -3,7 +3,7 @@
 %%  XeLaTeX / Pandoc template
 %%  Build with: make pdf   (see Makefile)
 %% ---------------------------------------------------------------
-\documentclass[11pt,twoside,openright]{book}
+\documentclass[11pt,twoside,openany]{book}
 
 %% ---- page geometry: 7in x 10in trade textbook ------------------
 \usepackage[
@@ -175,7 +175,7 @@
 
 %% section markers used inside lessons
 \newcommand{\lessonrubric}[2]{%
-  \needspace{3\baselineskip}%
+  \Needspace{3\baselineskip}%
   \par\vspace{12pt}%
   {\noindent\footnotesize\scshape\color{terra}#1\hfill\color{greyink}#2\par}%
   {\color{rule}\vspace{2pt}\hrule height 0.4pt}%
@@ -192,7 +192,7 @@
 \newcounter{exercisecount}[chapter]
 \newcommand{\exercisehead}[1]{%
   \refstepcounter{exercisecount}%
-  \needspace{2\baselineskip}%
+  \Needspace{2\baselineskip}%
   \par\vspace{8pt}\noindent
   {\bfseries\color{inkblue}Exercise \thechapter.\theexercisecount}%
   \ifx\relax#1\relax\else~— #1\fi\par\vspace{3pt}}
