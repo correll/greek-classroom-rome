@@ -238,6 +238,13 @@ function Table(el)
   local nrows = 0
   for _, body in ipairs(el.bodies) do nrows = nrows + #body.body end
   if nrows > 30 then return nil end           -- a real list: leave longtable
+  -- a table with wrapped (relative-width) columns grows tall quickly and a
+  -- tabular cannot break; keep longtable once it has more than a few rows
+  local wrapped = false
+  for _, cs in ipairs(el.colspecs) do
+    if type(cs[2]) == "number" and cs[2] > 0 then wrapped = true end
+  end
+  if wrapped and nrows > 6 then return nil end
   local ncols = #el.colspecs
   local spec = {}
   for i, cs in ipairs(el.colspecs) do
