@@ -336,9 +336,9 @@ better sense, and say why you chose it.
 5. **ὁ ξένος βλέπει τὴν χώραν, ἀλλὰ τὴν ὁδὸν οὐ βλέπει.** — The same
    subject, but the second half denies what the first affirmed, and
    **ἀλλά** marks the turn; **ἀλλά** is about contrast, not about a change
-   of subject. Putting **τὴν ὁδόν** before **οὐ** also keeps **ἀλλά** and
-   **οὐ** from standing side by side, which Greek dislikes, and throws the
-   weight where the sense wants it.
+   of subject. Putting **τὴν ὁδόν** before **οὐ** also avoids **ἀλλὰ οὐ**,
+   where a Greek writer would elide to **ἀλλ᾽ οὐ** — which you have not
+   yet been shown — and throws the weight where the sense wants it.
 6. Either. **καί** if the two are a sequence — the witness speaks and the
    judge writes it down; **ἀλλά** if they are being set against each
    other. Both are defensible; the pupil must say which they meant.
@@ -526,8 +526,8 @@ Sabina read it first, which she afterwards said was a mistake.
 - **ὁ λύχνος** — the lamp
 - **ὦ μάρτυς** — witness! *(the vocative of this noun is the same as its
   nominative)*
-- **ὦ κριτά** — judge! *(the vocative of **κριτής**; nouns in **-ης** take
-  **-α** when called to)*
+- **ὦ κριτά** — judge! *(the vocative of **κριτής**; masculine nouns in
+  **-της** take **-α** when called to)*
 - **« »** — quotation marks, a modern editor's, like the accents
 :::
 

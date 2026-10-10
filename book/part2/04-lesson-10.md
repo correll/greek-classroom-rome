@@ -343,9 +343,9 @@ Sabina wrote **ὁ κακὸς υἱός** about Felix.
    weaker of the two, whether or not she knew it.
 4. **σοφὴ ἡ Σαβῖνα** — *Sabina is wise* — asserts: the adjective stands
    outside the article. **ἡ σοφὴ Σαβῖνα** — *the wise Sabina* — describes:
-   it stands inside. He would have preferred
-   the first, because it is a judgement he is willing to defend, and the
-   second is a title he is not willing to award in front of Marcus.
+   it stands inside. He would have preferred the second, and in the end
+   wrote it: a description commits him to nothing, and the first is a
+   judgement he is not willing to make in front of Marcus.
 5. **μικρὰ ἡ ψυχή.** — *The soul is small.* Which, said of Livia, is a
    different and much less kind thing than the label, and the class
    should be able to say why.
@@ -487,7 +487,7 @@ Read the whole tablet aloud before you answer anything.
    outside the article group: **ἀγαθὸς ὁ ἄνθρωπος**, then two more
    predicates on the same subject. He has turned a label into three
    claims about himself, which is Quintus.
-7. *Not a bad son, but a young one.* **ὁ κακὸς υἱός** is a name — *the
+7. *The son is not bad, but young.* **ὁ κακὸς υἱός** is a name — *the
    bad son*; **οὐ κακὸς ὁ υἱός** is a denial — *the son is not bad*. You
    cannot deny a label; you can only deny a claim, so Felix has to move
    the article before he can object.
@@ -501,8 +501,8 @@ Read the whole tablet aloud before you answer anything.
 10. Inside: **ἡ σοφὴ Σαβῖνα, ἡ σοφὴ θυγάτηρ, ἡ μικρὰ ψυχή, ὁ ἀγαθὸς
     ἄνθρωπος, ὁ κακὸς υἱός, ὁ μέγας λόγος, ὁ πρῶτος λόγος, οἱ ἄλλοι
     μαθηταί** — Sabina's are all of this kind (plus two of the narrator's).
-    Outside: everything said in reply — **σοφή, ἀγαθή, μικρά** (three
-    times), **ἀγαθός, σοφός, μέγας, κακός, νέος, μακρός, ἀγαθός, σοφή,
+    Outside: everything said in reply — **σοφή, ἀγαθή, ὀλίγοι, μικρά**
+    (twice), **ἀγαθός, σοφός, μέγας, κακός, νέος, μακρός, ἀγαθός, σοφή,
     χαλεπή**, and the proverb's **χαλεπά**. Sabina labels; everyone else
     argues. Attributive position names a thing; predicate position says
     something about it, and only the second can be true or false, which

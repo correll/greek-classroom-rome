@@ -328,7 +328,7 @@ And a fourth, the shortest.
 7. Both: *I trust God*, *I believe in God*. The dative has gone, and
    **εἰς** with the accusative has come in — the preposition doing the
    case's work (the table's row on the dative).
-8. Neither, probably. The Latin *credo in Deum* was made by Christians
+8. The second: the Latin *credo in Deum* was made by Christians
    translating this Greek, so the Latin is Greek-influenced; the Greek
    itself grew out of the Septuagint's Hebrew. The resemblance to Latin
    is real and tells you about the translators, not about Koine. A pupil
@@ -338,7 +338,7 @@ And a fourth, the shortest.
    Koine has gone flat and simply means *child*; **εἶπεν** / **ἐλάλησεν**
    — Attic's verb of saying against Koine's **λαλέω**; **ὁ** / **τό** —
    the gender has changed with the ending, because diminutives in **-ιον**
-   are neuter. Three differences in four words.
+   are neuter. Three differences in three words.
 10. *Chatter*, *babble* — the noise of birds and children. An Athenian
     would have heard *the little one babbled*, faintly comic; a Galilean
     heard *the child spoke*, which is what it means in every Gospel. Same
@@ -366,7 +366,7 @@ Write each sentence in Attic and then in Koine.
 2. Attic **βούλομαι μανθάνειν.** Koine **θέλω μανθάνειν.** — Koine keeps
    the infinitive here; **ἵνα** is an alternative, not a requirement.
 3. Attic **ἡ θάλαττα μεγάλη ἐστίν.** Koine **ἡ θάλασσα μεγάλη ἐστίν.** — one
-   letter's difference, and a Greek of the fourth century AD would have
+   sound's difference, and a Greek of the fourth century AD would have
    heard it as the difference between a book and a person.
 4. **γνώσεσθε τὴν ἀλήθειαν.** — the same in both. Not everything changed,
    and the class should notice that this sentence, which is John 8:32, is
@@ -520,6 +520,9 @@ and forms you have)*
 ::: gloss
 - **Δαρείου καὶ Παρυσάτιδος** — of Darius and Parysatis *(the Persian king
   and queen; genitives: the sons are theirs)*
+- **Ἀρταξέρξης, Κῦρος** — Artaxerxes, Cyrus *(the two sons; accusative
+  **Κῦρον**, dative **Κύρῳ**)*
+- **Τισσαφέρνης** — Tissaphernes, a Persian governor
 - **κακῶς εἶχε** — was ill *(the Attic idiom: **ἔχω** with an adverb,
   literally "was having badly")*
 - **ἐλθεῖν** — to come *(aorist infinitive of **ἦλθον**)*
@@ -529,6 +532,8 @@ and forms you have)*
 - **τριακοσίους** — three hundred
 - **Ξενίαν** — Xenias, a Greek captain *(**ξένος** inside the name)*
 - **τὸν ἀδελφόν** — his brother *(**ὁ ἀδελφός**, Lesson 28)*
+- **ποιεῖν** — to do *(present infinitive of **ποιέω**, a contract verb,
+  Lesson 34; take it whole)*
 - **ἀποκτείνειν** — to kill *(**ἀποκτείνω**)*
 - **ἡ μήτηρ** — his mother *(Lesson 28)*
 - **γίγνονται** — are born *(a present of **γίγνομαι**, whose aorist you
@@ -603,7 +608,7 @@ and forms you have)*
 ::: {.exercise title="Understanding the reading"}
 Read each adapted text aloud, then its original. Keep the table open.
 
-1. Both passages have a going-up. Find the two forms of **ἀναβαίνω** in
+1. Both passages have a going-up. Find the three forms of **ἀναβαίνω** in
    the originals, say what each is (tense; verb or participle), and say
    who goes up, from where.
 2. **γίγνονται παῖδες δύο.** The verb is present; the sons were born long

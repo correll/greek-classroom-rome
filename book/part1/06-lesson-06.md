@@ -570,7 +570,7 @@ Read the whole tablet aloud before you answer anything.
    *is* doing instead?
 4. **οὐχ ὁ Μᾶρκος βλέπει, ἀλλὰ ἡ Λιβία.** Why **οὐχ**? What exactly is
    being denied — the looking, or the looker?
-5. **ἡ Λιβία ἤδη ἀναγιγνώσκει· ὁ Μᾶρκος ἔτι λέγει.** Which two small
+5. **ἡ Λιβία ἤδη ἀναγιγνώσκει, ὁ Μᾶρκος ἔτι λέγει.** Which two small
    words carry the contrast, and what does each mean?
 6. Marcus sees three things before he reads. Name them, give the case of
    each, and say where on the board they come from.
@@ -604,7 +604,8 @@ Read the whole tablet aloud before you answer anything.
    cannot tell the two apart; the adverbs do.
 6. **τὸν λόγον**, **τὴν ἀρχήν**, **τὸν θεόν** — all accusative, the
    objects of **βλέπει**. They are the three nouns of the sentence on the
-   board, the ones the class already knew: *word*, *beginning*, *God*. He
+   board: *word*, *beginning*, *God* — two the class knew already, and
+   **ἀρχή**, which this lesson's box has just given them. He
    sees the words he knows, and then he can read.
 7. He reads — **ἀναγιγνώσκει** — the very clause he said he could not.
    **ναί**, *yes*: the answer to his **οὐκ**, and the word the vocabulary

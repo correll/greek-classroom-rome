@@ -248,11 +248,11 @@ been left off. Supply it, and say how you knew.
 2. **_οδός** <!--nocheck-->
 3. **_υπέρ** <!--nocheck-->
 4. **_ρήτωρ** <!--nocheck-->
-5. **_οἶκος** <!--nocheck-->
+5. **_οῖκος** <!--nocheck-->
 6. **_ημι-** <!--nocheck-->
 7. **_ώρα** <!--nocheck-->
-8. **_οἶνος** <!--nocheck-->
-9. **_εἰρήνη** <!--nocheck-->
+8. **_οῖνος** <!--nocheck-->
+9. **_ειρήνη** <!--nocheck-->
 10. **_αγρός** <!--nocheck-->
 :::
 
@@ -340,8 +340,8 @@ have used **η** and a single **υ** instead.
 9. **ου** is two letters for one sound; **ξ** is one letter for two. Which
    is the better bargain for a reader, and why?
 10. The accent marks are a record too: by Theodoros's day the rise and
-    fall of the voice had long since become a plain stress, yet the marks
-    went on being copied. Give one reason for writing a mark that records
+    fall of the voice had long since become a plain stress, yet the grammarians
+    went on teaching the marks. Give one reason for keeping a mark that records
     a sound nobody makes any more.
 :::
 

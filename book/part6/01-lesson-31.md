@@ -104,7 +104,7 @@ lesson, and it is why the paradigms come in two halves.
 ## The present and the imperfect: one set of endings, two voices
 
 Here is **λύω** — *I loose* — which the course has used as its pattern verb
-since Lesson 14, in its middle-and-passive form.
+since Lesson 11, in its middle-and-passive form.
 
 ::: paradigm
 | | Present | Imperfect |
@@ -202,8 +202,9 @@ because, to a Greek ear, wanting and coming and praying and greeting are
 things the subject is *in*. Do not translate the voice; translate the verb.
 
 In the aorist, some deponents go middle (**ἐγενόμην**, **ἐψευσάμην**,
-**ηὐξάμην**) and some go passive (**ἀπεκρίθην**, *I answered*;
-**ἐβουλήθην**, *I wanted*). It is a fact about each verb, learned with the
+**ηὐξάμην**, and in Attic **ἀπεκρινάμην**, *I answered*) and some go
+passive (**ἐβουλήθην**, *I wanted*; the Gospels' **ἀπεκρίθην**, *I
+answered*, is Koine). It is a fact about each verb, learned with the
 verb, like a second aorist.
 
 ## For reading: the infinitive and the participle
@@ -238,11 +239,12 @@ second sentence on the board is Latin you already know.
 **Latin has deponents, and the name is Latin.** *Loquor*, *sequor*,
 *morior*, *cōnor* — passive forms, active meanings, *dēpōnentia*, verbs
 that have *laid down* their active. **βούλομαι** and **ἔρχομαι** are the
-same beast. Greek borrowed nothing from Latin here; the grammarians of
-both languages noticed the same thing and gave it the same name.
+same beast. The grammarians of both languages noticed the same thing, but
+only the Latin grammarians named it; we borrow their name for Greek.
 
 **What Latin does not have is the middle**, and that is where Latin will
-mislead you. *Lavātur* is passive and nothing else; a Roman who wanted to
+mislead you. *Lavātur* is usually passive (though *lavor* can mean *I
+bathe*); a Roman who wanted to
 say *the cat washes itself* said *sē lavat*, with a reflexive, as English
 does. (The bath-house Latin *lavor*, *I am bathing*, is the nearest Latin
 comes to a middle, and it has no name for it and no separate form.) So
@@ -253,7 +255,7 @@ may be *sē lavat*. Only the sentence, or the cat, can tell you.
 
 ::: vocab
 - **λούω** — I wash *(middle **λούομαι**, I wash myself; aorist **ἔλουσα**;
-  aorist passive **ἐλούθην**)*
+  aorist passive **ἐλούθην**, later **ἐλούσθην**)*
 - **βαπτίζω** — I dip, I immerse; I baptise *(aorist passive
   **ἐβαπτίσθην**)*
 - **γίγνομαι** — I become, I come to be; I happen *(deponent; aorist
@@ -270,14 +272,9 @@ may be *sē lavat*. Only the sentence, or the cat, can tell you.
 - **ἀγαπητός** — beloved *(the adjective of **ἀγάπη**)*
 - **πειράζω** — I test; I tempt *(passive **πειράζομαι**, I am tested)*
 - **ἐκβάλλω** — I throw out, I drive out *(aorist **ἐξέβαλον**)*
-- **ὁ αἴλουρος** — cat
+- **ἡ περιστερά** — dove
 
 ::: note
-**ὁ αἴλουρος** has been glossed in every reading since Lesson 3 and
-examined in none. It is now required. It is not a frequent word in Greek
-literature. It is the most frequent noun in this classroom, and the
-sentences in this lesson cannot be written without it.
-
 **λούω** in the mouths of Athenians often ran its vowels together —
 **λοῦμαι**, **λοῦται**, as Felix heard in the street — and the tidy
 **λούομαι** of the table is the grammarian's form. Both are Attic. You
@@ -438,8 +435,8 @@ with **ὑπό**.
    is odd.
 6. **ὁ ἄγγελος ἐπέμφθη ὑπὸ τοῦ πατρός.**
 7. **ὁ Ἰησοῦς ἐβαπτίσθη ὑπὸ τοῦ Ἰωάννου.**
-8. **αὐτὸς ἐκβάλλεται ὑπὸ τοῦ πνεύματος.** — or without **αὐτός**; the
-   ending carries him.
+8. **ἐκβάλλεται ὑπὸ τοῦ πνεύματος.** — no pronoun; the ending carries
+   him. **αὐτός** in the nominative would mean *he himself*.
 9. **ἡ Σαβῖνα πείθεται ὑπὸ τοῦ Μάρκου.** — *Sabina is persuaded by
    Marcus*, and also *Sabina obeys Marcus*, which is a different claim
    about Sabina and is why the sentence was set.
@@ -564,7 +561,7 @@ that you can see both. What is glossed is new or not yet yours.
 τετταράκοντα ἡμέρας, καὶ ἐπειράζετο ὑπὸ τοῦ σατανᾶ· καὶ ἦν μετὰ τῶν
 θηρίων, καὶ οἱ ἄγγελοι ἐδιακόνουν αὐτῷ.
 
-**Then Mark's own words.** Koine, unaltered. Two participles where the
+**Then Mark's own words.** Koine, unaltered. Four participles where the
 adaptation had clauses, **εἰς** where it had **ἐν**, and one present tense
 in the middle of a story in the past.
 
@@ -593,7 +590,6 @@ in the middle of a story in the past.
   οὐρανούς**)*
 - **καταβαίνω** — I come down *(**κατέβαινεν** was coming down;
   **καταβαῖνον** coming down, neuter, with **τὸ πνεῦμα**)*
-- **ἡ περιστερά** — dove
 - **μου** — my *(genitive of **ἐγώ**, enclitic)*
 - **σοί** — you *(dative of **σύ**)*
 - **εὐδόκησα** — I am well pleased *(aorist; take it whole)*
@@ -616,7 +612,8 @@ Read both tiers aloud before you answer anything.
 3. **ἀνέβη** in the adaptation becomes **ἀναβαίνων** in Mark. What kind of
    word is each, and what does the change do to the sentence?
 4. **ἐσχίζοντο** — give the tense and voice. Who or what is the subject?
-5. Find the deponent verb in the second paragraph of each tier. What does
+5. Find the deponent verb that introduces the voice from the sky in each
+   tier. What does
    it mean, and why is its form middle?
 6. **ἐκβάλλει** in Mark is present tense in a story told in the past.
    What is the adaptation's verb, and which is the stranger choice?

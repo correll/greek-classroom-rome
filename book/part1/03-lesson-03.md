@@ -332,7 +332,7 @@ He is partly right.
 :::
 
 ::: {.exercise title="Compose"}
-Use only this lesson's words and the three borrowed verbs. In every
+Use only words from Lessons 1–3 and the three borrowed verbs. In every
 sentence you write, underline each ending and write *nom.* or *acc.*
 above it.
 
@@ -439,7 +439,7 @@ Read the whole tablet aloud before you answer anything.
 1. Who sees the horse? Which two words tell you?
 2. Who does *not* see the cat? What one word tells you?
 3. In the second paragraph, the teacher is looking at something. What?
-4. Find every word in the accusative. There are twelve. List them with
+4. Find every word in the accusative. There are fourteen. List them with
    their articles.
 5. Find every word in the nominative. How many are there?
 6. *The teacher sees Marcus* and *Marcus sees the teacher* are both here.
@@ -452,21 +452,21 @@ Read the whole tablet aloud before you answer anything.
 :::
 
 ::: answers
-1. The cat; **ὁ αἴλουρος** (nominative, with **ὁ**) and **βλέπει**.
+1. The cat and Felix: **ὁ αἴλουρος** and **ὁ Φῆλιξ** (nominative, with
+   **ὁ**), each the subject of **βλέπει** with **τὸν ἵππον**.
 2. The horse; **οὐ**.
 3. The book, **τὸ βιβλίον**. (Accept *the scroll*.)
 4. τὸν ἵππον, τὸν αἴλουρον, τὸν αἴλουρον, τὸν ἵππον, τὸν ἵππον, τὸ
    βιβλίον, τὸν διδάσκαλον, τὸν Μᾶρκον, τὸ βιβλίον, τὸ βιβλίον, τὴν γραφήν,
-   τὸν ἵππον, τὴν τράπεζαν, τὸν οὐρανόν — fourteen, in fact; the question
-   says twelve so that the pupil who counts carefully gets to correct the
-   book. A pupil who says twelve has probably missed the two neuters
-   (**τὸ βιβλίον** twice), because **τό** looks the same in both cases;
-   that is the point to draw out.
+   τὸν ἵππον, τὴν τράπεζαν, τὸν οὐρανόν — fourteen. A pupil who finds eleven has probably missed the
+   three neuters (**τὸ βιβλίον** three times), because **τό** looks the
+   same in both cases; that is the point to draw out.
 5. Eleven: ὁ αἴλουρος, ὁ ἵππος, ὁ Φῆλιξ, ὁ διδάσκαλος, ὁ Μᾶρκος, ὁ
    διδάσκαλος, ὁ Μᾶρκος, ἡ Ἰουλία, ὁ παιδαγωγός, ὁ αἴλουρος, ὁ θεός.
    (The subject of **βλέπει τὸ βιβλίον** is understood; do not count it.)
 6. **ὁ** ↔ **τόν**, **-ος** ↔ **-ον** on both nouns; **βλέπει** does not
-   change. Word order also stays the same — which is the lesson.
+   change. The pattern — subject, verb, object — stays the same; the
+   names swap places and endings together.
 7. The book and the writing; he has the horse.
 8. *Julia has the book and the writing. The paedagogus has the horse. The
    cat has the table. God has the sky.*

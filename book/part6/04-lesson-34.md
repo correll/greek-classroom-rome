@@ -57,7 +57,7 @@ rest of the verb is as regular as **λύω**.
 
 ## The rules of melting
 
-| stem vowel | + ε | + ει | + ο | + ου | + ω | + η | + ῃ | + οι |
+| stem vowel | + **ε** | + **ει** | + **ο** | + **ου** | + **ω** | + **η** | + **ῃ** | + **οι** |
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | **α** | **ᾱ** | **ᾳ** | **ω** | **ω** | **ω** | **ᾱ** | **ᾳ** | **ῳ** |
 | **ε** | **ει** | **ει** | **ου** | **ου** | **ω** | **η** | **ῃ** | **οι** |
@@ -94,6 +94,9 @@ was standing on the first vowel when the two became one.
 | infinitive | **ἀγαπᾶν** | **ποιεῖν** | **δηλοῦν** |
 | imperative 2 sing. | **ἀγάπα** | **ποίει** | **δήλου** |
 | imperative 2 plur. | **ἀγαπᾶτε** | **ποιεῖτε** | **δηλοῦτε** |
+
+The infinitive is the one exception to the table: its **-ειν** was once
+**-εν**, so **ἀγαπά-εν → ἀγαπᾶν** and **δηλό-εν → δηλοῦν**, with no iota.
 
 Under the melt, the endings are still there and still visible: **-ς** on
 the second person, **-μεν**, **-τε**, **-σι**. Ask of **ποιοῦμεν** *what in
@@ -144,7 +147,7 @@ It is the price of a language that will not keep two vowels apart when it
 can say them as one.
 
 ::: note
-**Four verbs you already own are contract verbs**, and you can now explain
+**Six verbs you already own are contract verbs**, and you can now explain
 every form of them you have met. **ποιέω** (Lesson 22): **ποίει** in the
 Samaritan is its imperative. **εὐλογέω** (20) and **ἐλεέω** (22): **-έω**.
 **λαλέω** (23): **-έω**. **ἐρωτάω** (25): **-άω**, so *he asks* is
@@ -155,8 +158,8 @@ should simply recognise.
 
 **καλέω** keeps its **ε** short outside the present: future **καλῶ**
 (which is a contracted future, Lesson 32), aorist **ἐκάλεσα**. It is the
-one common exception to the lengthening rule and it is in the Gospels on
-every page.
+commonest exception to the lengthening rule (**τελέω, ἐτέλεσα**, Lesson 33,
+is another), and it is in the Gospels on every page.
 :::
 
 ::: latinbridge
@@ -205,9 +208,10 @@ the choice, and by John's day the two verbs overlapped a great deal. That
 overlap is the whole difficulty of the Ancient Voice.
 
 **πᾶς** is third declension (**παντός**, **παντί**, **πάντα**); the
-feminine **πᾶσα** is first. With the article inside the group, **πᾶσα ἡ
-πόλις**, it means *the whole city*; outside, **πᾶσα πόλις**, *every
-city*. **πάντα**, neuter plural, is *everything*: **πάντα σὺ οἶδας**.
+feminine **πᾶσα** is first. With **πᾶς** outside the article group,
+**πᾶσα ἡ πόλις**, it means *the whole city*; with no article, **πᾶσα
+πόλις**, *every city*; and **πᾶς ὁ** + participle is *everyone who*.
+**πάντα**, neuter plural, is *everything*: **πάντα σὺ οἶδας**.
 :::
 :::
 
@@ -364,7 +368,8 @@ One sentence each. Use the contracted form.
    verb gives **οι** before an iota.
 8. **τηροῦσι τοὺς λόγους τοῦ πατρός.** — **τηροῦσι(ν)**; **πατρός** from
    Lesson 28.
-9. **ναί, κύριε, σὺ οἶδας ὅτι φιλῶ σε.** — Peter's answer, John 21:15.
+9. **ναί, κύριε, σὺ οἶσθα ὅτι φιλῶ σε.** — Peter's answer, John 21:15,
+   in Attic; accept John's **οἶδας** if the pupil says it is Koine.
    **σύ** written out because it is emphatic (Lesson 11): *you* know, whatever
    I say.
 10. **ὁ αἴλουρος κύριος καλεῖται.** — **κύριος** predicate, no article; the
@@ -398,7 +403,8 @@ and say what the Koine did instead.
 - **φιλῶ σε** — I love you *(**φιλέ-ω**; **σε** enclitic)*
 - **βόσκε** — feed! *(present imperative: keep feeding)*
 - **τὰ ἀρνία μου** — my lambs *(a diminutive, Lesson 23; **μου** enclitic,
-  so **ἀρνία** takes a second accent)*
+  but **ἀρνία**, accented on its second-last syllable, takes no second
+  accent — compare **πρόβατά μου**, which does)*
 
 *So when they had breakfasted, Jesus says to Simon Peter: Simon, son of
 John, do you love me more than these? He says to him: Yes, Lord, you know
@@ -555,7 +561,8 @@ Read both tiers aloud before you answer anything.
 9. **οἶδας** looks regular: it has the ordinary **-ς** of the second person.
    **οἶσθα** is an old irregular ending. Koine, spoken by people learning
    it as adults, replaced the irregular form with the regular one (Lesson
-   23). The same thing produced **γινώσκω** for **γιγνώσκω**.
+   23). **γινώσκω** for **γιγνώσκω** is a different kind of change, of
+   sound rather than of form.
 10. For: Peter is grieved at the third question and not at the first two,
     and the third is the one that changes verb — something changed, and the
     verb is the only candidate the text offers. Against: the lambs, the

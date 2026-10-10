@@ -169,8 +169,8 @@ seven steps on it, aloud, in turn.
 From memory, and quickly. Lessons 25 to 28; nothing from today.
 
 1. **ἔρρωσο** — to how many people? Give the form for several.
-2. Translate **λέγει τις.** Now translate **τίς λέγει;** What is the only
-   difference on the page?
+2. Translate **λέγει τις.** Now translate **τίς λέγει;** What has changed
+   on the page?
 3. **γράψον μοι** — present or aorist? Why does a request for a letter take
    that aspect?
 4. **ἐντὸς ὑμῶν** — give both translations, and say what settles it.
@@ -184,9 +184,9 @@ From memory, and quickly. Lessons 25 to 28; nothing from today.
 
 ::: answers
 1. One; **ἔρρωσθε** (Lesson 28).
-2. *Someone is speaking* / *Who is speaking?* The accent on **τίς**, and
-   nothing else — the enclitic cannot stand first, so the order changes
-   with it (Lesson 25).
+2. *Someone is speaking* / *Who is speaking?* The accent on **τίς**; with
+   it, the order — the enclitic cannot stand first — and the question mark
+   (Lesson 25).
 3. Aorist: a letter is one deed, done once. **γράφε μοι** would be *keep
    writing to me* (Lessons 26 and 28).
 4. *Within you* / *among you*. The page — who is being spoken to — not the
@@ -201,8 +201,8 @@ From memory, and quickly. Lessons 25 to 28; nothing from today.
 9. Accusative, the subject of the infinitive **ὑγιαίνειν**: *I pray you to
    be well* (Lessons 16 and 28). The likely wrong answer is *object of
    **εὔχομαι***.
-10. *When he came* / *When did he come?* The accent on the first syllable
-    and the question mark; **ὅτε** opens a clause, **πότε** asks (Lesson
+10. *When he came* / *When did he come?* The **π** and the question mark
+    (both words have an acute on the first syllable); **ὅτε** opens a clause, **πότε** asks (Lesson
     28).
 :::
 
@@ -321,20 +321,23 @@ them revise the list before they spend it.
    acute.
 7. **ὁ Σωκράτης ἐκάθευδεν, ὁ δὲ φίλος αὐτοῦ οὐκ ἤγειρεν αὐτόν.** —
    imperfect for the sleeping, which went on; for the not-waking, the
-   imperfect is what Plato wrote (**οὐκ ἤγειρον**, *I kept not waking
-   you*), and the aorist **οὐκ ἤγειρεν** is also correct and says
-   something slightly different: he did not do it, once.
+   third person **ἤγειρεν** is both imperfect and aorist (the two tenses
+   meet in the third singular, though elsewhere they part: **ἤγειρον** /
+   **ἤγειρα** for *I*), so the form stands
+   whichever aspect the pupil means. Plato's Crito, speaking of himself,
+   has the imperfect: **οὐκ ἤγειρον**, *I kept not waking you*.
 8. **θαυμάζω ὅτι οὕτω ῥᾳδίως αὐτὸ φέρεις.** — **ὅτι** reporting the fact
    wondered at (Lesson 23); **φέρω** in the sense the box gives, *put up
-   with*. Attic could say **θαυμάζω σε ὡς ῥᾳδίως φέρεις**, which is what
-   Crito says; the class's **ὅτι** is correct and plainer.
+   with*. Attic could say **θαυμάζω σου ὡς ῥᾳδίως φέρεις** — the shape of
+   Crito's **σοῦ … θαυμάζω … ὡς ἡδέως καθεύδεις**; the class's **ὅτι** is
+   correct and plainer.
 9. **δεῖ πρῶτον μανθάνειν τὴν ὁδόν.** — **δεῖ** + infinitive with no person
    expressed: *it is necessary to learn*. A pupil who adds **σε** or
    **ἡμᾶς** has said *you* or *we* must, which the English did not. (And
    *method* is **μέθοδος**, *the way after* — **ὁδός** with **μετά** on the
    front.)
 10. **ἐρώτησον τρεῖς ἐρωτήσεις καὶ μὴ πλείους** — is more than they have.
-    Accept **ἐρώτησον τρία καὶ μὴ ἄλλο** or, best, **ἐρώτησον τρία·
+    Accept **ἐρώτησον τρία καὶ μηδὲν ἄλλο** or, best, **ἐρώτησον τρία·
     μηδὲν ἄλλο** — *ask three things; nothing else* — with the aorist
     imperative of **ἐρωτάω** (one act of asking) and **μή**, not **οὐ**,
     because it is a prohibition (Lesson 26). Mark the imperative and the
@@ -545,7 +548,8 @@ The seven steps, on Crito's long speech in the original — **Οὐ μὰ τὸ�
    *you*, and what tells you?
 4. Step four. Two participles and one infinitive. Find them and say which
    verb each hangs from.
-5. Step five. **ἀλλά**, the **καί**s, **ἵνα**, **μὲν … δέ**, **ὡς** twice.
+5. Step five. **ἀλλά**, the **καί**s, **ἵνα**, **μὲν … δέ**, **ὡς** three
+   times (once with a superlative).
    Say what each joins.
 6. Step six. Now uncover the glosses. Which words did you *need*? Which did
    you look at and find you had already understood?
@@ -584,7 +588,8 @@ The seven steps, on Crito's long speech in the original — **Οὐ μὰ τὸ�
    and grieving*; the **καί**s add; **ἵνα** gives the purpose of the
    not-waking; **μὲν … δέ** balances *often before* against *most of all
    now*; **ὡς** twice introduces what Crito perceives — *how sweetly*, *how
-   easily* — the exclamation turned into a report.
+   easily* — the exclamation turned into a report; the third, **ὡς
+   ἥδιστα**, is *as … as possible* with a superlative.
 6. Needed: **ἀγρυπνίᾳ**, **λύπῃ**, **αἰσθανόμενος**, **ἐπίτηδες**,
    **διάγῃς**, **ηὐδαιμόνισα**, **παρεστώσῃ**, **συμφορᾷ**, **πρᾴως** —
    about nine words. Already understood: **ἤθελον**, **εἶναι**,

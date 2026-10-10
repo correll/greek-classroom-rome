@@ -180,7 +180,7 @@ Ten quick questions from Lessons 7 to 10. From memory.
 6. What case follows **σύν**, and what does it mean?
 7. **τοῦ υἱοῦ** — case, and translation.
 8. Translate **μικρὰ ἡ ψυχή**.
-9. Put **ὁ μαθητὴς γράφει τὸ γράμμα** into the plural throughout.
+9. Put **ὁ μαθητὴς γράφει τὸ βιβλίον** into the plural throughout.
 10. Of **ἐκ**, **ἐν**, **περί** and **πρός**, which takes the dative?
 :::
 
@@ -196,7 +196,7 @@ Ten quick questions from Lessons 7 to 10. From memory.
 7. Genitive — *of the son*, *the son's*.
 8. *The soul is small.* A pupil who wrote *the small soul* has put the
    article where it is not.
-9. **οἱ μαθηταὶ γράφουσι τὰ γράμματα.** Five changes; the verb is the one
+9. **οἱ μαθηταὶ γράφουσι τὰ βιβλία.** Five changes; the verb is the one
    most often left behind.
 10. **ἐν**. The other three take the genitive, the genitive, and the
     accusative.
@@ -419,8 +419,8 @@ to be the important one.
 :::
 
 ::: {.reading time="20 min" title="Theodoros's ninth tablet" source="composed"}
-The ninth tablet was the sheet again, with the class's answers written in,
-and the class did not come out of it well.
+The ninth tablet was a second sheet of the same kind, with the class's
+answers written in, and the class did not come out of it well.
 
 ὁ διδάσκαλος γράφει ἐν τῇ δέλτῳ λόγους, ἀλλὰ τὰ ὀνόματα οὐ γράφει. λέγει
 τοῖς μαθηταῖς· τίς πράττει; ἀκούετε καὶ μανθάνετε.
@@ -446,10 +446,11 @@ and the class did not come out of it well.
   Quintus
 - **« »** — the sentences on the sheet, as the teacher wrote them; the
   rest is what the class said about them
+- **τὰ ὀνόματα** — the names *(plural of **τὸ ὄνομα**; Lesson 15)*
 - **τίς;** — who? *(a question word; Lesson 25)*
 - **οὐκ ἔστιν** — is not *(**ἐστίν** after **οὐκ** takes the accent on
   its first syllable; take it as printed)*
-- **μανθάνειν** — to learn *(the infinitive, as in the first exercise)*
+- **μανθάνειν** — to learn *(the infinitive, as in* Who is acting?*, item 5)*
 - **διδάσκω τοὺς μαθητὰς τὰ γράμματα** — two accusatives, the person and
   the thing: *I teach the pupils the letters*
 :::
@@ -461,7 +462,7 @@ the sheet; the rest is the class.
 1. What does the teacher write, and what does he leave out? Which two
    verbs does he tell the class to do about it?
 2. Marcus says the first sentence cannot be answered. Translate his reason.
-   Then translate Livia's two-word answer, and say what is clever about it.
+   Then translate Livia's one-word answer, and say what is clever about it.
 3. **τὸ ὄνομα οὐκ ἔστιν ἐν τῇ δέλτῳ, ἀλλὰ ἐν τῷ λόγῳ.** Where does Livia
    say the name is? What does she mean by it?
 4. Who is the second sentence about, according to Felix? What in the

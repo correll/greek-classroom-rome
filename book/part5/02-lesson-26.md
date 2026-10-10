@@ -455,7 +455,7 @@ second is the text of Nestle–Aland, glossed beside it.
 
 Αἰτεῖτε καὶ δοθήσεται ὑμῖν, ζητεῖτε καὶ εὑρήσετε, κρούετε καὶ
 ἀνοιγήσεται ὑμῖν· πᾶς γὰρ ὁ αἰτῶν λαμβάνει καὶ ὁ ζητῶν εὑρίσκει καὶ τῷ
-κρούοντι ἀνοιγήσεται. ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος, ὃν αἰτήσει ὁ υἱὸς
+κρούοντι ἀνοιγ[ής]εται. ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος, ὃν αἰτήσει ὁ υἱὸς <!--nocheck-->
 αὐτοῦ ἄρτον, μὴ λίθον ἐπιδώσει αὐτῷ; ἢ καὶ ἰχθὺν αἰτήσει, μὴ ὄφιν
 ἐπιδώσει αὐτῷ; εἰ οὖν ὑμεῖς πονηροὶ ὄντες οἴδατε δόματα ἀγαθὰ διδόναι
 τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει
@@ -468,7 +468,9 @@ second is the text of Nestle–Aland, glossed beside it.
 - **δοθήσεται ὑμῖν** — it will be given to you *(a future; gloss it whole)*
 - **εὑρήσετε** — you will find *(future of **εὑρίσκω**)*
 - **κρούετε** — knock!
-- **ἀνοιγήσεται** — it will be opened *(future; gloss it whole)*
+- **ἀνοιγήσεται** — it will be opened *(future; gloss it whole. In verse 8
+  Nestle–Aland prints **ἀνοιγ[ής]εται**: the brackets mean some manuscripts <!--nocheck-->
+  have the present, **ἀνοίγεται**, it is opened)*
 - **πᾶς ὁ αἰτῶν** — everyone who asks
 - **τῷ κρούοντι** — to the one who knocks *(the participle in the dative)*
 - **ἤ** — or

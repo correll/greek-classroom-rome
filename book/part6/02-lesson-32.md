@@ -70,7 +70,7 @@ says it is in the Gospels."
 
 "Felix is right. It is in the Gospels; it is good Koine; you will read it
 in church on Sunday and you may write it in Lesson 35. In this room we
-write Attic, and Attic has no future of **ἔρχομαι** at all. It uses a
+write Attic, and Attic prose hardly ever uses a future of **ἔρχομαι**. It uses a
 different verb. **εἶμι**: *I am going*, *I am on my way*. In Attic, to say
 you will come is to say you have already started."
 
@@ -80,8 +80,8 @@ you will come is to say you have already started."
 it." Theodoros picked up the tablet. "Lines one and three are correct.
 **γράψω**: the **σ**, on the stem of **γράφω**, fused to **ψ** exactly as
 in the aorist — but no augment, and the endings of the present. **οὐ
-ψεύσομαι**: deponent, **σ**, future. Two out of six, and the two you
-wrote first, before you began to feel confident."
+ψεύσομαι**: deponent, **σ**, future. Four out of six, and the two wrong
+ones the two you wrote last, after you began to feel confident."
 
 He set the tablet on the shelf.
 
@@ -170,7 +170,7 @@ the rest of the table has; it is the form you will meet most.
 
 ## The future of *to come*: εἶμι
 
-Attic **ἔρχομαι** has no future. It borrows one from an older verb,
+Attic prose avoids a future of **ἔρχομαι**. It borrows one from an older verb,
 **εἶμι**, which in the present means *I am going* and in Attic prose is
 used as the future *I will go, I will come*:
 
@@ -239,10 +239,11 @@ loosed*. Recognise it; you will not be asked to write it this year.
 **Latin has a future, and it has two of them, and that is the trouble.**
 *Amābō*, *monēbō* — the **-bō** future of the first two conjugations — is
 clear enough. But *dīcam*, *dūcam*, *audiam* — the future of the third and
-fourth — is spelled exactly like the present subjunctive: *dīcam* is *I
-will say* and *let me say* and *I might say*, and Latin leaves you to
-work it out. Greek's **σ** closes that door. **λέξω** or **ἐρῶ** is a
-future and nothing else.
+fourth — is spelled in its first person exactly like the present
+subjunctive: *dīcam* is *I will say* and *let me say* and *I might say*,
+and Latin leaves you to work it out. Greek's **σ** narrows it but does not
+close it: **λέξω** can also be an aorist subjunctive (Lesson 35); **ἐρῶ**
+is a future and nothing else.
 
 **And Latin's *eō* is Greek's εἶμι.** The same verb, from the same ancient
 root: *eō, īs, it* beside **εἶμι, εἶ, εἶσι**. Latin kept it as a plain
@@ -283,7 +284,7 @@ The present forms, when you meet them in the Reading, are glossed whole.
 
 **πᾶς** is of the third declension: **πᾶς, παντός** masculine, **πᾶσα,
 πάσης** feminine, **πᾶν, παντός** neuter. **πάντα** is *all things,
-everything*. With the article inside the group — **πᾶσα ἡ γῆ** — it is
+everything*. With **πᾶς** outside the article group — **πᾶσα ἡ γῆ** — it is
 *all the earth*; without an article — **πᾶσα γῆ** — *every land*.
 
 **αὔριον** is an adverb, *tomorrow*. Matthew gives it an article, **ἡ
@@ -441,9 +442,10 @@ correct it.
 9. Correct. Middle future of **γιγνώσκω**.
 10. Correct. *It will be well.* **ἔσται**, the form without the vowel.
 
-Six correct out of ten is an improvement on two out of six, and the two
-wrong ones are wrong in the two ways the lesson warned about: a present
-posing as a future, and an aorist with the **σ** but the wrong ends.
+Six correct out of ten. The four wrong ones are wrong in the ways the
+lesson warned about: a present posing as a future (5), Koine for Attic
+(6), an active where the future goes middle (7), and an aorist with the
+**σ** but the wrong ends (8).
 :::
 
 ::: {.exercise title="Into Greek"}
@@ -464,9 +466,9 @@ posing as a future, and an aorist with the **σ** but the wrong ends.
 2. **μενοῦμεν ἐν τῇ οἰκίᾳ.** — a pupil who writes **μένομεν** has
    promised to be where they are.
 3. **ἔσῃ σοφός.** — accept **ἔσει**, which Attic also wrote.
-4. **ὁ διδάσκαλος εἶσι πρὸς τὸν πατέρα.** — **εἶσι**, not **ἐστί**; the
-   two are one breathing and one accent apart, and a pupil who confuses
-   them has written *the teacher is to the father*.
+4. **ὁ διδάσκαλος εἶσι πρὸς τὸν πατέρα.** — **εἶσι**, not **ἐστί**
+   (*the teacher is to the father*), and not **εἰσί**, *they are*, which
+   is one accent away.
 5. **μαθήσονται πάντα τὰ γράμματα.** — middle. **μαθήσουσι** is not
    Greek.
 6. **οὐ ψεύσομαι.**
@@ -534,8 +536,8 @@ understood. A pupil who sees that without being told has carried Lesson 3
 through thirty lessons.
 
 **On Marcus.** His promises are a genuine attempt, not a performance, and
-the class should hear that. He is wrong about the grammar four times in
-six and right about what the future tense is *for* — a sentence that can
+the class should hear that. He is wrong about the grammar twice in six
+and right about what the future tense is *for* — a sentence that can
 be checked later — which is the lesson's point, and Theodoros gives him
 that in the closing scene. Do not let the room laugh at line five; let it
 notice that the error is one accent, and that an accent is enough.
@@ -662,7 +664,7 @@ Read both tiers aloud before you answer anything.
 1. List every future tense in the adapted tier. There are five. Give each
    with its subject.
 2. Matthew's tier has only two futures. Find them. Then say what Matthew
-   wrote in place of each of the adaptation's other three.
+   wrote in place of each of the adaptation's other four.
 3. **ἐδόμεθα** and **πιόμεθα** are futures. What is unusual about their
    form, and which verbs in the vocabulary box behave the same way?
 4. **σήμερον … αὔριον** in the sentence about the grass. What is the
@@ -703,7 +705,8 @@ Read both tiers aloud before you answer anything.
 5. A noun. The article **ἡ** has made it one: *the tomorrow*. Compare
    **ὁ πλησίον** in Lesson 22. Without the article it is an adverb, as in
    **αὔριον … βάλλεται**.
-6. **προσ-** (to, in addition) + **τε-** (the stem of *put*) + **-θησ-**
+6. **προσ-** (to, in addition) + **τε-** (the stem **θε-** of *put*, its
+   **θ** turned to **τ** before the **θ** that follows) + **-θησ-**
    (the aorist passive **θη** with the future **σ**) + **-εται** (present
    middle ending, third singular). Future passive: *it will be put to you*,
    *will be added*.
@@ -743,16 +746,16 @@ Read both tiers aloud before you answer anything.
 Marcus stayed behind.
 
 "The tablet on the shelf. When you read it in July — if I have done the
-things, do the four wrong sentences count?"
+things, do the two wrong sentences count?"
 
-"Which four?"
+"Which two?"
 
-"**ἔσομαι** was right. **μαθήσομαι** was right. You said so. The present
-and the Koine and —" he counted — "two. Two wrong."
+"The present and the Koine. **μένω** and **ἐλεύσομαι**. The other four
+you said were right."
 
-"Two wrong. You have been recounting them all afternoon, and you have the
-number now." Theodoros took the tablet down and looked at it. "The
-sentences will be read as written. **μένω ἐν τῷ διδασκαλείῳ** will be
+"They were. Four right, two wrong, and you have the number." Theodoros
+took the tablet down and looked at it. "The sentences will be read as
+written. **μένω ἐν τῷ διδασκαλείῳ** will be
 checked against whether you are, at that moment, in the schoolroom, and I
 expect you will be, so it will be true, and it will also not be a promise,
 and the class will see the difference. That is worth more than a mark."

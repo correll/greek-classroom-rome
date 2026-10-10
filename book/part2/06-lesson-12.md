@@ -530,7 +530,7 @@ sentence that is almost Protagoras.
    the original — *the works*, with articles on both nouns — so he is
    quoting the textbook and calling it the wise man, which The Ancient
    Voice has just warned the class about.
-7. Two nouns and a negative, with the verb left out as Greek allows when
+7. Three nouns and a negative, with the verb left out as Greek allows when
    **εἰμί** is meant. **μέτρον** has no article, so it is what is being
    said about the other two: *opinion is not a measure; truth is*. She is
    answering Sabina, whose measure was **ἡ γνώμη τοῦ κριτοῦ**; Quintus

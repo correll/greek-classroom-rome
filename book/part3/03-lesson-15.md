@@ -214,7 +214,7 @@ past tenses are mixed up on purpose.
 6. The accusative. (Lesson 14.)
 7. *You came* or *you went*. (Lesson 14.)
 8. *We were carrying.* (Lesson 13.) Not *we carried*, which would be the
-   aorist **ἠνέγκομεν**, a form they have seen only in the Lesson 14
+   aorist **ἠνέγκομεν**, built on the **ἤνεγκον** of the Lesson 14
    table.
 9. *Finally the book fell.* (Lesson 14.)
 10. Second plural, present — *you teach*. (Lesson 11.) No augment, so not
@@ -399,7 +399,7 @@ article was the load-bearing wall.
    nothing did except the sense; which is itself the lesson.
 6. Homer: about 700 BC, give or take a century, from much older material.
    Attic prose: the fifth and fourth centuries BC. Three to four hundred
-   years, as Theodoros said; longer than the gap between Chaucer and us.
+   years, as Theodoros said; about the gap between Shakespeare and us.
 7. No — a rule describes the texts it was made from, and Lesson 7's rule
    was made from Attic. Accept any sentence that distinguishes *wrong* from
    *limited*.
@@ -570,7 +570,7 @@ Read the adapted version aloud, then the Homer, slowly. Then answer.
    adapted version that says so.
 5. Find the one imperfect verb in the Homer. What is its present, and what
    does the imperfect tell you about the eating?
-6. Find three genitives in the Homer that an Attic writer would spell
+6. Find the two genitives in the Homer that an Attic writer would spell
    differently, and give the Attic spelling.
 7. **αὐτὰρ ὁ τοῖσιν ἀφείλετο** — what does **ὁ** mean here? What tells you
    it is not an article?
@@ -602,14 +602,16 @@ Read the adapted version aloud, then the Homer, slowly. Then answer.
    one meal but a habit, which is why it was a crime and not a mistake. A
    pupil who hears that the one imperfect in ten lines is the one that
    dooms the companions has heard Homer.
-6. **Τροίης** (Attic **Τροίας**), **Ἠελίοιο** (**Ἡλίου**), **Ὑπερίονος**
-   (unchanged in Attic — a pupil who offers it has found a Homeric word in
-   an Attic form, which is worth saying); **Διός** is also unchanged.
-   **Πηληϊάδεω** from the Voice is a fourth, if anyone remembers it.
+6. **Τροίης** (Attic **Τροίας**) and **Ἠελίοιο** (**Ἡλίου**). The other
+   genitives — **πολλῶν ἀνθρώπων**, **ἑταίρων**, **αὐτῶν**, **τῶν**,
+   **Ὑπερίονος**, **Διός** — are spelt as Attic would spell them; a pupil
+   who offers **Ὑπερίονος** has found a Homeric word in an Attic form,
+   which is worth saying. **Πηληϊάδεω** from the Voice is a third, if
+   anyone remembers it.
 7. *He* — the Sun. It stands alone, with no noun following, and is the
    subject of **ἀφείλετο**. An Attic article cannot do that; a Homeric one
    can, because it is still a pronoun.
-8. Adapted: twenty-six. Homer: none — **ὁ** in line 9 and **ὅ γ᾽** in line
+8. Adapted: twenty-seven. Homer: none — **ὁ** in line 9 and **ὅ γ᾽** in line
    4 are pronouns, and a pupil who counts them should be asked what noun
    each one goes with. The exact count of the adapted version matters less
    than the contrast.

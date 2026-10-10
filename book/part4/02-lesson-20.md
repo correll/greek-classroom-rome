@@ -546,7 +546,7 @@ Read the adapted Psalm aloud, all of it, before you look at the original.
    head of a sentence is a name (the grammar note). A pupil who says *the
    article is missing* has seen the evidence and needs to be told what it
    is evidence of.
-2. Four, joining five clauses in one paragraph. An Athenian would have
+2. Three, joining five clauses in one paragraph. An Athenian would have
    subordinated — *when he leads me … my soul lives* — or used **δέ**, or
    a participle, which they meet in Lesson 22.
 3. Accusative (**τὸ ὕδωρ**: motion *on to*) and genitive (**ὕδατος**:

@@ -98,11 +98,12 @@ did, but differently. The first consonant of the stem is repeated with an
 every mood, not only the indicative — unlike the augment, which belongs to
 the past indicative and nowhere else.
 
-Three adjustments. A stem beginning with **φ, θ** or **χ** reduplicates
+Four adjustments. A stem beginning with **φ, θ** or **χ** reduplicates
 with **π, τ, κ**: **θνῄσκω → τέθνηκα**, **φιλέω → πεφίληκα**. A stem
 beginning with a vowel lengthens it, as the augment would: **ἄγω →
-ἦχα**. A stem beginning with two consonants usually takes a plain **ἐ-**:
-**γιγνώσκω → ἔγνωκα**. A few verbs double a whole syllable — **ἀκούω →
+ἦχα**. A stem beginning with two consonants usually takes a plain **ἐ-**
+(but a stop followed by **λ** or **ρ** reduplicates normally, as in
+**γέγραφα**): **γιγνώσκω → ἔγνωκα**. A few verbs double a whole syllable — **ἀκούω →
 ἀκήκοα**, **ἐγείρω → ἐγήγερμαι**, **ἔρχομαι → ἐλήλυθα** — which is old and
 Attic and only needs recognising.
 
@@ -139,7 +140,7 @@ A short list, worth having whole:
 | **λαμβάνω** | **εἴληφα** | I have taken |
 | **ἀποθνῄσκω** | **τέθνηκα** | I have died — I am dead |
 
-Read the last two columns of the last three together. *I have come* and so
+Read the glosses of **ἐλήλυθα**, **γέγονα** and **τέθνηκα** together. *I have come* and so
 *I am here*; *I have become* and so *I am*; *I have died* and so *I am
 dead*. That is the perfect, every time: the English on the right is what
 the Greek means, and the English in the middle is how it got there.
@@ -305,7 +306,7 @@ From memory.
    missing.
 5. **ἐγένετο** — name the voice, and say what kind of verb has that voice
    without that meaning.
-6. Name the three postpositives of Lesson 17.
+6. Name the four postpositives of Lesson 17.
 7. **πρὸς τὸν θεόν** — case, and meaning.
 8. **ὁ ποιήσας τὸ ἔλεος** — what is the participle's aspect, and what is
    the article doing?
@@ -374,7 +375,7 @@ From memory.
 6. **πεπιστεύκαμεν καὶ ἐγνώκαμεν ὅτι σὺ εἶ ὁ ἅγιος τοῦ θεοῦ.** *(**ἅγιος**
    = holy; John 6:69)*
 7. **ἐλήλυθεν ὁ διδάσκαλος· ἐν τῷ διδασκαλείῳ οὖν ἐστιν.**
-8. **οἱ πολλοὶ ἀδελφοὶ ἔτι μένουσιν, τινὲς δὲ τεθνήκασιν.** *(**ἔτι** =
+8. **οἱ πολλοὶ τῶν ἀδελφῶν ἔτι μένουσιν, τινὲς δὲ τεθνήκασιν.** *(**ἔτι** =
    still)*
 9. **ᾔδη ὅτι ὁ αἴλουρος οὐκ ἐβούλετο λούεσθαι.**
 10. **ὃ γέγραφα, γέγραφα.** *(John 19:22)*
@@ -402,7 +403,8 @@ From memory.
 7. *The teacher has come; so he is in the schoolroom.* — **ἐλήλυθεν**
    means *is here*; the second clause only spells it out.
 8. *Most of the brothers still remain, but some have died.* — Paul's
-   sentence, nearly; **οἱ πολλοί** with the article is *the majority*.
+   sentence, nearly; **οἱ πολλοί** with the article and a partitive
+   genitive is *the majority*.
    **τεθνήκασιν** — *are dead*.
 9. *I knew that the cat did not want to be washed.* — the pluperfect of
    **οἶδα**; the imperfect **ἐβούλετο** keeps the time of the knowing.
@@ -641,7 +643,7 @@ Read both tiers aloud before you answer anything.
 4. Rewrite **ἐγήγερται** as an aorist passive. Translate both. Which one
    would Paul's readers, reading in the present, have more reason to care
    about?
-5. **ὤφθη** occurs five times in Paul's tier. What voice is it, and why
+5. **ὤφθη** occurs four times in Paul's tier. What voice is it, and why
    are the people who saw in the dative rather than after **ὑπό**?
 6. **κατὰ τὰς γραφάς**, twice. Which two events does Paul attach it to,
    and which two does he not?

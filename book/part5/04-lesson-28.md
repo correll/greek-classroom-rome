@@ -174,8 +174,9 @@ From memory, and quickly. Lessons 24 to 27; nothing from today.
 8. Accusative: after **χρή** and **δεῖ** the person who must act goes in
    the accusative, and the thing to be done is an infinitive (Lesson 26).
 9. *Where?* / *somewhere* (Lesson 25).
-10. Imperfect; *he was sleeping*. The augment is inside the compound —
-    **ἐ-κάθ-ευδ-** — not in front of it (Lesson 27).
+10. Imperfect; *he was sleeping*. The augment stands in front of the
+    prefix, **ἐ-κάθευδ-**, as if the verb were simple — not inside it, as
+    in Attic **καθ-ηῦδ-** (Lesson 27).
 :::
 
 ::: {.exercise title="Translate"}
@@ -208,7 +209,7 @@ From memory, and quickly. Lessons 24 to 27; nothing from today.
    question (Lesson 25). **ἐρωτῶ** is **ἐρωτάω** with its vowels run
    together.
 6. *When I came into the city, I wrote a letter to my father.* — **ὅτε**
-   is not **πότε**: no accent on the first syllable, no question. **τῷ
+   is not **πότε**: no **π**, a rough breathing, no question. **τῷ
    πατρί**, dative: the person written to.
 7. *God saved me out of the sea.* — Apion's sentence, nearly; **ἔσωσε** is
    the aorist of **σῴζω**, and the enclitic **με** has thrown an accent
@@ -263,7 +264,7 @@ Now the rest of Felix's letter, and Aelia's opening.
    accusative: *I pray you to be well*. A pupil who calls **σε** the object
    of **εὔχομαι** has not seen the construction.
 5. **ἐγὼ δὲ οὔ** — *I, however, am not* [the master of the house]. The
-   **μέν** of the health wish is answered three sentences later by a
+   **μέν** of the health wish is answered two sentences later by a
    **δέ** that is doing a joke. (Strictly, the **δέ** in the letter answers
    **σὺ εἶ** rather than **πρὸ μὲν πάντων**; a pupil who says the **μέν**
    is never properly paid, as it often is not in real letters, is also
@@ -310,9 +311,9 @@ Now the rest of Felix's letter, and Aelia's opening.
 5. **Κόιντος Σωκράτει χαίρειν.** — the third-declension dative **Σωκράτει**
    was given in the Translate exercise; accept any sensible attempt at it,
    and mark the nominative **Κόιντος** and the infinitive.
-6. **γράφω σοι ὅτι ὑγιαίνω.** — or, in Attic, **γράφω σοι ὑγιαίνειν**
-   with the subject understood; the **ὅτι** way is what Apion would have
-   written.
+6. **γράφω σοι ὅτι ὑγιαίνω.** — **ὅτι**, not the infinitive: **γράφω σοι
+   ὑγιαίνειν** would be *I write telling you to be well*, like **χαίρειν**.
+   The **ὅτι** way is also what Apion would have written.
 7. **ὅτε ἦλθον εἰς Ῥώμην, ἔγραψα τῇ μητρί.** — **ὅτε**, not **πότε**: a
    pupil who writes **πότε** has asked *when?* A dative for the mother, as
    for every recipient of writing.
@@ -414,8 +415,8 @@ The Ancient Voice gave you the opening, down to the thanksgiving. Here is
 the whole letter, twice. The first version is **regularised**: it is in
 standard spelling, and where Apion uses a form you have not met it uses
 one you have, so that you can read it straight through. The second is the
-papyrus as it was published, with Apion's own spellings and the address on
-the back, glossed beside it. Read the regularised version first, aloud;
+papyrus as it was published, with Apion's own spellings and the first of
+the two addresses on the back, glossed beside it. Read the regularised version first, aloud;
 then read the original and see what a sailor's ear did to his Greek.
 
 **Regularised.**
@@ -435,7 +436,7 @@ then read the original and see what a sailor's ear did to his Greek.
 **The original** (the papyrus's own spellings; the brackets that mark
 restored letters have been removed).
 
-Ἀπίων Ἐπιμάχῳ τῶι πατρὶ καὶ κυρίῳ πλεῖστα χαίρειν. πρὸ μὲν πάντων εὔχομαί
+Ἀπίων Ἐπιμάχῳ τῷ πατρὶ καὶ κυρίῳ πλεῖστα χαίρειν. πρὸ μὲν πάντων εὔχομαί
 σε ὑγιαίνειν καὶ διὰ παντὸς ἐρωμένον εὐτυχεῖν μετὰ τῆς ἀδελφῆς μου καὶ
 τῆς θυγατρὸς αὐτῆς καὶ τοῦ ἀδελφοῦ μου. εὐχαριστῶ τῷ κυρίῳ Σεράπιδι, ὅτι
 μου κινδυνεύσαντος εἰς θάλασσαν ἔσωσε εὐθέως. ὅτε εἰσῆλθον εἰς Μησήνους,
@@ -445,15 +446,16 @@ restored letters have been removed).
 χέραν, ὅτι με ἐπαίδευσας καλῶς, καὶ ἐκ τούτου ἐλπίζω ταχὺ προκόσαι τῶν
 θεῶν θελόντων. ἄσπασαι Καπίτωνα πολλὰ καὶ τοὺς ἀδελφούς μου καὶ Σερηνίλλαν
 καὶ τοὺς φίλους μου. ἔπεμψά σοι εἰκόνιν μου διὰ Εὐκτήμονος. ἔστι δέ μου
-ὄνομα Ἀντώνις Μάξιμος. ἐρρῶσθαί σε εὔχομαι. κεντυρία Ἀθηνονίκη.
+ὄνομα Ἀντῶνις Μάξιμος. ἐρρῶσθαί σε εὔχομαι. κεντυρία Ἀθηνονίκη.
 
-*On the back:* εἰς Φιλαδέλφιαν Ἐπιμάχῳ ἀπὸ Ἀπίωνος υἱοῦ.
+*On the back:* εἰς Φιλαδέλφιαν Ἐπιμάχῳ ἀπὸ Ἀπίωνος υἱοῦ. *(A second line,
+not printed here, tells the carrier to deliver the letter first to the
+first cohort of the Apamenians, to a secretary named Julianus, to be
+passed on to Epimachus.)*
 
 ::: gloss
 *The opening, down to **εὐθέως**, is glossed in The Ancient Voice.*
 
-- **τῶι πατρί** — to his father *(the papyrus writes the dative's iota
-  on the line, **ωι**, where printed Greek tucks it under: **ῳ**)*
 - **ὅτε εἰσῆλθον** — when I came in, arrived *(**ἦλθον**, Lesson 14, with
   **εἰς** on the front)*
 - **εἰς Μησήνους** — to Misenum *(the fleet's base on the bay of Naples;
@@ -493,7 +495,7 @@ restored letters have been removed).
   of; the man who carried it)*
 - **ἔστι δέ μου ὄνομα** — and my name is *(**ἔστι** at the head of its
   clause, Lesson 25)*
-- **Ἀντώνις Μάξιμος** — Antonius Maximus *(**Ἀντώνιος**: the Roman name he
+- **Ἀντῶνις Μάξιμος** — Antonius Maximus *(**Ἀντώνιος**: the Roman name he
   was given on enlisting)*
 - **ἐρρῶσθαί σε εὔχομαι** — I pray that you are well *(the **ἔρρωσο** of
   the formula turned into an infinitive after **εὔχομαι**; gloss it whole)*
@@ -526,7 +528,7 @@ Read both versions aloud before you answer anything.
 7. **ἵνα σου προσκυνήσω τὴν χέραν.** What does Apion want to do, and to
    what? Which spelling is his and which is the vocab box's? What did the
    regularised tier put in place of **ἵνα** + **προσκυνήσω**, and why?
-8. **ἔστι δέ μου ὄνομα Ἀντώνις Μάξιμος.** A man called Apion says his name
+8. **ἔστι δέ μου ὄνομα Ἀντῶνις Μάξιμος.** A man called Apion says his name
    is Antonius Maximus. Explain. And why does **ἔστι** carry its accent on
    the first syllable?
 9. The regularised tier closes with **ἔρρωσο**; the papyrus closes with
@@ -542,8 +544,8 @@ Read both versions aloud before you answer anything.
 1. After **ἔσωσε εὐθέως**. The first news is **ὅτε εἰσῆλθον εἰς Μησήνους,
    ἔλαβα βιάτικον** — *when I arrived at Misenum I got my travelling
    money*. **ὅτε** opens it: *when* as a clause-opener, not a question
-   (Lesson 28's box). A pupil who reads **πότε** has put an accent on the
-   first syllable that is not there and has asked a question Apion did not
+   (Lesson 28's box). A pupil who reads **πότε** has put a **π** on the
+   front that is not there and has asked a question Apion did not
    ask.
 2. **ἔλαβον**, Lesson 14 — the aorist of **λαμβάνω** — with the first
    person ending **-α** of the first aorist (**ἔγραψα**) in place of the
@@ -565,7 +567,7 @@ Read both versions aloud before you answer anything.
 5. It is not paid. **δεύτερον** and **τρίτον** follow without **δέ**; the
    list carried the contrast and the particle was not needed. The same
    happened in the opening: **πρὸ μὲν πάντων** never finds a **δέ**
-   either, as Lesson 28's New Greek warned. Real letters leave **μέν**
+   either, though the New Greek promised one. Real letters leave **μέν**
    waiting all the time, and the class's own letters may.
 6. **σωτηρίας**: *about the [safety] of my brothers*. The article agrees
    with the missing noun (feminine genitive singular) and so tells you
@@ -595,16 +597,18 @@ Read both versions aloud before you answer anything.
     **Ἐπιμάχῳ** dative: the person it is for — the letter's recipient in
     the recipient's case, as on the front. **Ἀπίωνος** genitive after
     **ἀπό**, with **υἱοῦ** in apposition: *from Apion, his son*. The back
-    is the envelope, and it tells you the letter went by hand across the
-    sea and up the Nile and was expected to be read by someone who did not
-    know Apion from any other sailor, which is why *his son* is there.
-    Spellings: **ἐρωμένον** for **ἐρρωμένον** — one **ρ** heard for two;
-    **Μησήνους** for **Μισηνούς** — **η** and **ι** had come to sound the
-    same; **χέραν** for **χεῖρα** — **ει** and **ε** likewise, and the
+    is the envelope, and it carries two addresses: this one, for the
+    family in Philadelphia, and another sending the letter first to the
+    cohort at Alexandria to be passed on. It went by hand, in stages,
+    across the sea and up the Nile.
+    Spellings the regularised tier corrected: **Μησήνους** for
+    **Μισηνούς** — **η** and **ι** had come to sound the same; **χέραν** for **χεῖρα** — **ει** and **ε** likewise, and the
     ending levelled to the first declension; **εἰκόνιν** for **εἰκόνιον**
-    — the unstressed **-ο-** swallowed; **Ἀντώνις** for **Ἀντώνιος** — the
-    same; **Φιλαδέλφιαν** for **Φιλαδέλφειαν** — **ει** and **ι** again.
-    Any three. Every one is the sound of Greek as it was spoken in AD 100,
+    — the unstressed **-ο-** swallowed; **Ἀντῶνις** for **Ἀντώνιος** — the
+    same. Any three. (Two more are not in the regularised tier at all:
+    **ἐρωμένον** for **ἐρρωμένον**, one **ρ** heard for two, and
+    **Φιλαδέλφιαν** for **Φιλαδέλφειαν**, **ει** and **ι** again.) Every one is the sound of Greek as it was
+    spoken in AD 100,
     and most of them are the sound of Greek as it is spoken now.
 :::
 
@@ -612,9 +616,14 @@ Read both versions aloud before you answer anything.
 **Verify before teaching.** The text follows the first edition (BGU II
 423) as reprinted in the standard anthologies (Deissmann, *Light from the
 Ancient East*; Hunt and Edgar, *Select Papyri* I 112). Points to check
-against a printed text: the adscript **τῶι** in line 1 (printed **τῷ** in
-some reprints), the punctuation around **τρίτον**, and the abbreviated
-**κεντυρί(α)**, expanded here. The editorial brackets have been removed
+against a printed text: the punctuation around **τρίτον** and after
+**τρεῖς**, the accent of **Ἀντῶνις**, the papyrus spelling of the address
+(printed here **Φιλαδέλφιαν**; some editions accent it **Φιλαδελφίαν**),
+and the abbreviated **κεντυρί(α)**, expanded here. The second address line
+on the back (to the first cohort of the Apamenians, for Julianus the
+secretary, to be forwarded to Epimachus) is described rather than printed;
+take its wording from Hunt and Edgar if the class wants it. The editorial
+brackets have been removed
 for the class's sake and the fragmentary greetings written sideways in the
 left margin (Serenus, Turbo and others send their greetings) are omitted;
 say so if a pupil asks whether this is *all* of it.

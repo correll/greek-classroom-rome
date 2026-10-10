@@ -157,7 +157,7 @@ Latin's *num* and *nonne* are **μή** and **ἆρ᾽ οὐ**: *surely not* and
 - **ἀποκρίνομαι** — I answer
 - **ἡ ἀρετή** — excellence, virtue; being good at what you are
 - **ἡ πόλις** — city *(third declension; accusative **πόλιν**, genitive **πόλεως**)*
-- **οὐδείς, οὐδέν** — no one, nothing *(the **οὐ** word; it declines like **τίς**)*
+- **οὐδείς, οὐδέν** — no one, nothing *(the **οὐ** word; **οὐδείς, οὐδεμία, οὐδέν**, genitive **οὐδενός** — **οὐδὲ εἷς**, not even one)*
 - **θαυμάζω** — I wonder at, I am amazed; I admire
 
 ::: note
@@ -471,7 +471,7 @@ and then see how much of the real one you already own.
 γέγονεν, καὶ κινδυνεύει ἐκ τῶνδε τῶν τόπων παρ᾽ ὑμᾶς οἴχεσθαι ἡ σοφία. εἰ
 γοῦν τινα ἐθέλεις οὕτως ἐρέσθαι τῶν ἐνθάδε, οὐδεὶς ὅστις οὐ γελάσεται καὶ
 ἐρεῖ· "Ὦ ξένε, κινδυνεύω σοι δοκεῖν μακάριός τις εἶναι — ἀρετὴν γοῦν εἴτε
-διδακτὸν εἴθ᾽ ὅτῳ τρόπῳ παραγίγνεται εἰδέναι — ἐγὼ δὲ τοσούτου δέω εἴτε
+διδακτὸν εἴθ᾽ ὅτῳ τρόπῳ παραγίγνεται εἰδέναι — ἐγὼ δὲ τοσοῦτον δέω εἴτε
 διδακτὸν εἴτε μὴ διδακτὸν εἰδέναι, ὥστ᾽ οὐδὲ αὐτὸ ὅτι ποτ᾽ ἐστὶ τὸ παράπαν
 ἀρετὴ τυγχάνω εἰδώς."
 
@@ -486,6 +486,7 @@ and then see how much of the real one you already own.
 - **παραγίγνεται** — comes to, arrives in *(**γίγνομαι** with a prefix)*
 - **ἄλλῳ τινὶ τρόπῳ** — in some other way
 - **πρὸ τοῦ** — before this, formerly
+- **ὦ Μένων** — Meno *(vocative)*
 - **Θετταλοί** — Thessalians; Meno is one
 - **εὐδόκιμοι ἦσαν** — were well thought of *(**ἦσαν**: they were)*
 - **ἐν τοῖς Ἕλλησιν** — among the Greeks
@@ -497,6 +498,7 @@ and then see how much of the real one you already own.
 - **οἱ τοῦ σοῦ ἑταίρου Ἀριστίππου πολῖται Λαρισαῖοι** — the fellow-citizens
   of your friend Aristippus, the people of Larisa
 - **τούτου … αἴτιος** — responsible for this
+- **Γοργίας** — Gorgias, the famous teacher of speaking
 - **ἀφικόμενος** — having arrived *(an aorist participle; gloss it whole)*
 - **ἐραστὰς … εἴληφεν** — has won lovers, admirers *(**εἴληφεν**: has taken,
   a perfect of **λαμβάνω**)*
@@ -515,6 +517,9 @@ and then see how much of the real one you already own.
 - **ὅτι ἄν τις βούληται** — whatever anyone wishes *(**ὅτι** here is the
   relative *whatever*, not *that*)*
 - **οὐδενὶ ὅτῳ οὐκ ἀποκρινόμενος** — refusing an answer to no one
+  *(**οὐδενί**, dative of **οὐδείς, οὐδεμία, οὐδέν**, genitive **οὐδενός**:
+  it is **οὐδὲ εἷς**, not even one, and declines like *one*, not like
+  **τίς**)*
 - **ἐνθάδε** — here
 - **τὸ ἐναντίον περιέστηκεν** — the opposite has come about
 - **αὐχμός τις … γέγονεν** — a kind of drought has set in
@@ -532,7 +537,7 @@ and then see how much of the real one you already own.
 - **εἴτε … εἴτε** — whether … or
 - **ὅτῳ τρόπῳ** — in whatever way
 - **εἰδέναι** — to know *(the infinitive of **οἶδα**)*
-- **τοσούτου δέω … ὥστε** — I am so far from … that
+- **τοσοῦτον δέω … ὥστε** — I am so far from … that
 - **οὐδὲ αὐτό** — not even this itself
 - **ὅτι ποτ᾽ ἐστί** — what on earth it is *(**ὅτι** again the relative;
   **ποτέ** adds *on earth*)*

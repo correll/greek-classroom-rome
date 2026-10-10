@@ -215,7 +215,7 @@ From Lessons 17 to 20. Answer from memory.
 7. **ὁ διδάσκαλος ἦλθεν εἰς τὸ ὄρος καὶ ἐδίδασκε τοὺς μαθητὰς ἐν τῷ
    ὄρει.**
 8. **μακάριος ὁ πτωχὸς τῷ πνεύματι, ὅτι αὐτοῦ ἐστιν ἡ βασιλεία.**
-9. **οὕτως γὰρ ἔλεγον οἱ προφῆται τοῖς ἀνθρώποις.**
+9. **οὕτω γὰρ ἔλεγον οἱ προφῆται τοῖς ἀνθρώποις.**
 10. **καθαρὰ ἡ καρδία τοῦ παιδός· αὐτὸς οὖν τὸν θεὸν βλέπει.**
 :::
 
@@ -243,7 +243,8 @@ From Lessons 17 to 20. Answer from memory.
    **ὄρος**; they have it from the box.
 8. *Blessed is the poor man in spirit, because his is the kingdom.* —
    singular throughout; **αὐτοῦ**, *of him*, in the Gospel's position.
-9. *For so the prophets used to speak to the people.* — **οὕτως**;
+9. *For so the prophets used to speak to the people.* — **οὕτω**, the
+   form before a consonant;
    **γάρ** second; imperfect **ἔλεγον**, a habit. Watch for *I was
    saying*, which the ending allows and the subject forbids.
 10. *The child's heart is pure; he himself, therefore, sees God.* — no
@@ -469,6 +470,7 @@ and forms you have)*
 ὑμῶν.
 
 ::: gloss
+- **ὁ Ἰησοῦς** — Jesus *(genitive **Ἰησοῦ**)*
 - **εἶδε** — saw *(aorist of **ὁράω**, I see; Lesson 22 has its participle)*
 - **αὐτόν, αὐτούς, αὐτοῖς** — him, them, to them *(cases of this lesson's
   **αὐτός**)*
@@ -548,7 +550,9 @@ where it is longer.
    and shut the door on the sermon.
 5. It had to add a noun or let **οἵ** stand alone, and a finite verb with
    an object (**κακὰ ἔχουσιν** for **πενθοῦντες**). The participle saves
-   two or three words each time and keeps the group as a single noun.
+   three words for **πενθοῦντες**; for **πεινῶντες** the adaptation is
+   actually shorter, because it dropped *thirsting* — the participle's
+   gain is that it keeps the group a single noun.
 6. A substitution. **πραΰς** is *gentle*, *mild*, *not asserting oneself*;
    **μικρός** is *small*. The adaptation kept the lowliness and lost the
    gentleness — and the class had no word for gentleness, which is the

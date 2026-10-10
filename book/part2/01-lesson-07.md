@@ -376,8 +376,8 @@ own.
 7. *The gifts are horses.* Subject **τὰ δῶρα**.
 8. *The horses are gifts.* Subject **οἱ ἵπποι**. In 7 and 8 the two nouns
    are different genders, so the articles are different words and the
-   point is easier to see than with two neuters; that is why 1–6 are
-   harder.
+   point is easier to see; 3–6, where both words are neuter, are the
+   harder ones.
 9. Answers will vary. The pattern to look for is two neuter plurals, or a
    noun and an adjective, with the article attached first to one and then
    to the other.
@@ -404,8 +404,8 @@ You met this in Lesson 3, when you could translate it and not explain it.
 Now say why.
 
 Both words are neuter plural. Neither ending distinguishes subject from
-anything else — you established that this afternoon, in exercise 1, question
-3. The two words are grammatically interchangeable and the sentence should
+anything else — you established that in *Name all three*, question 3. The
+two words are grammatically interchangeable and the sentence should
 be unreadable.
 
 It is not unreadable, and the reason is two letters long. **τὰ καλά**
@@ -447,7 +447,8 @@ the room on a day that had already been long.
 - **φέρουσι, φέρει** — carry, carries *(you meet the verb in Lesson 11)*
 - **μακραί, μακρός** — long *(an adjective; it changes its ending with its
   noun, as **πολλοί** does — Lesson 10)*
-- **πολλά** — many *(the neuter plural of **πολλοί**)*
+- **πολλούς, πολλά** — many *(the masculine accusative and neuter plural
+  of **πολλοί**)*
 - **ὁ Μᾶρκος** — Marcus; **ὦ Μᾶρκε** is the vocative
 - **ζῷόν ἐστιν, λόγοι ἐστίν** — *is an animal*, *are words*. **ἐστίν**
   leans on the word before it and can lend it an accent or borrow one;

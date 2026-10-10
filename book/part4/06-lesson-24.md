@@ -192,7 +192,7 @@ From Lessons 20 to 23. Answer from memory.
    man on the ground do the seeing.
 7. **λέγει ὅτι ὁ ἄνθρωπος ἀγαθός ἐστιν.** — the accusative becomes a
    nominative with a verb of its own.
-8. *As a friend*; *just like a shepherd*. **ὡς** is Lesson 23's, **ὥσπερ**
+8. *As a friend*; *just like a shepherd*. **ὡς** is Lesson 17's, **ὥσπερ**
    Lesson 20's — and **ὥσπερ** is **ὡς** with **περ** on the end to make
    it emphatic.
 9. **πνεύματος**, **ἱερέως**, **ἄρχοντος**.
@@ -243,8 +243,9 @@ Name the variety, and the feature that gives it away.
 10. Septuagint or Gospel — the class may say either, and should be asked
     what would decide. The **μακάριος** formula with no verb and the
     relative clause after it are the Psalms' opening shape (Psalm 1 begins
-    almost exactly so); **ὁ ἀνήρ** with the article is the Septuagint's
-    Hebrew showing through. (Composed, after Psalm 1:1.)
+    almost exactly so); the Psalm itself has **μακάριος ἀνήρ** without the
+    article; the composed version has added one. (Composed, after Psalm
+    1:1.)
 :::
 
 ::: {.exercise title="Do they agree?"}
@@ -305,7 +306,7 @@ claims, or claims that do not meet. Give one reason from the Greek.
    *asked* to sing of anger. One text defines its god; the other gives
    hers a job. The pupil who says *both are about gods* has summarised,
    and the rule says to send them back to the article.
-7. Different claims — from the same story, four words apart. The
+7. Different claims — from the same story, two verses apart. The
    participle is identical, **ἰδών**; the main verb is the opposite. The
    whole parable turns on two men doing the same first thing and not the
    same second thing, and the exercise is here to show that the rule
@@ -363,7 +364,7 @@ claims, or claims that do not meet. Give one reason from the Greek.
    Lesson 16, and a class that can produce it has consolidated Part III and
    Part IV at once.
 5. **τὸ παιδίον θέλει ἀναβαίνειν εἰς τὴν θάλασσαν.** — three Koine marks
-   in five words: **παιδίον**, **θέλει**, **θάλασσαν**. **βούλεται** or
+   in seven words: **παιδίον**, **θέλει**, **θάλασσαν**. **βούλεται** or
    **θάλατταν** would each pull the sentence back into the other column.
 6. **ὁ στρατηγὸς τοὺς Ἕλληνας ἤγαγεν ἐπὶ τὴν θάλατταν.** — **ἤγαγεν**,
    the aorist of **ἄγω**; **θάλατταν**. Accept **ἦγεν** if the pupil
@@ -444,6 +445,11 @@ says two texts disagree when they agree — that almost never happens. It is
 the pupil who finds a comfortable generality that covers both and stops
 there. The remedy, every time, is to send them back to the Greek: *which
 word in each text is making that claim?*
+
+**Verify before teaching.** The wording of the fable's Greek in the Reading
+— in particular **τῷ Ἡλίῳ μεταπαρέδωκε**, where some texts have **τῷ Ἡλίῳ
+αὐτὸν παρέδωκε** — should be checked against Chambry or Perry before it
+goes on the board.
 
 **If it was not said at Lesson 18**, where the scope-and-sequence suggests
 it, this is the time to say to the class what the teacher's notes say about
@@ -672,7 +678,7 @@ places where it is doing something the adaptation could not.
    generality the lesson warned about, and should be sent back to
    **ἀνυστικώτερον**.
 10. No — Aesop's Greek, if he had any, is lost; this is the Greek of a
-    collector writing centuries after the New Testament. It is closest to
+    collector writing, probably, some time after the New Testament. It is closest to
     Attic in its ambitions — participles, genitive clauses, the
     infinitive with the article, **μέν … δέ**, **-ττ-** — and to Koine in
     its slips — **-σσ-**, **ὅτι** after **δηλοῖ**, and a word,

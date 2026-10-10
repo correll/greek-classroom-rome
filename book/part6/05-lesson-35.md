@@ -29,8 +29,8 @@ You wanted a third thing."
 Livia had the Luke open. She had been looking for something since Quintus
 spoke.
 
-"The crowds ask John the Baptist a question," she said. "Three times, in
-one chapter. **τί οὖν ποιήσωμεν;** I thought it was a mistake in the copy.
+"Everyone asks John the Baptist the same question," she said. "The
+crowds, the tax collectors, the soldiers — three times, in one chapter. **τί οὖν ποιήσωμεν;** I thought it was a mistake in the copy.
 It has an omega where the indicative would have an omicron, and no augment,
 and it is not asking what they are doing. It is asking what they are to
 do." She turned the scroll round. "I think it is the mood he means. I think
@@ -173,12 +173,14 @@ perfect subjunctive where Greek uses the aorist, and for the same reason:
 a single act, not a habit.
 
 It misleads in two ways. First, *ut* means *as* and *when* as well as *in
-order that*, and you have spent years deciding which; **ἵνα** is purpose
-and nothing else in Attic, and in Koine only stretches to *that*. Second —
+order that*, and you have spent years deciding which; **ἵνα** with the
+subjunctive is purpose and nothing else in Attic (on its own it can mean
+*where*), and in Koine only stretches to *that*. Second —
 and this is the one place in the course where Latin is the more complicated
 language — the Latin subjunctive has four tenses and a sequence of tenses
-to govern them. The Greek has none. **ἵνα μάθω** follows a present verb and
-a past one alike; Greek asks the mood only about aspect, never about time,
+to govern them. The Greek subjunctive has no tenses of time; Attic may
+shift to the optative after a past verb (Lesson 23), and Koine never does.
+**ἵνα μάθω** can follow a present verb and a past one alike; Greek asks the mood only about aspect, never about time,
 which is why it has no augment and why Marcus's column of things Latin
 cannot do does not need an entry today. It gets one anyway: Latin has no
 **οὐ μή**.
@@ -188,7 +190,7 @@ cannot do does not need an entry today. It gets one anyway: Latin has no
 ::: vocab
 - **ἐάν** — if *(with the subjunctive; **εἰ** + **ἄν**)*
 - **ἄν** — *(a particle: with the subjunctive, opens a general or future
-  clause; with a past indicative, marks "would have")*
+  clause; with a past indicative, marks "would" or "would have")*
 - **ὅταν** — whenever, when *(with the subjunctive; **ὅτε** + **ἄν**)*
 - **ὥστε** — so that, with the result that
 - **οὐδείς, οὐδεμία, οὐδέν** — no one, nothing *(**μηδείς** with the **μή**
@@ -280,7 +282,7 @@ you. Where a form could be either, say so.
 ::: answers
 1. Subjunctive — the **ῃ** where the indicative has **ει**. (Also 2 sing.
    middle indicative **λύῃ**, *you are being loosed*; the sentence decides.)
-2. Indicative — short **ει**.
+2. Indicative — **ει**, not **ῃ**.
 3. Subjunctive — aorist stem **γραψ-** with **no augment** and long **ω**.
 4. Indicative — the augment **ἐ-** and short **α**. *We wrote.*
 5. Subjunctive — aorist stem, no augment, **ῃ**.
@@ -411,7 +413,7 @@ both to *may*.
 **And one ὥστε.** Result, with the indicative: the giving *happened*. Had
 John written **ὥστε δοῦναι**, with an infinitive, he would have said the
 love was *such as to* give; with **ἔδωκεν** he says it did. Lesson 29's
-method — mark the verbs — finds three here: one indicative of fact
+method — mark the verbs — finds four here: one indicative of fact
 (**ἠγάπησεν**), one indicative of result (**ἔδωκεν**), two subjunctives of
 purpose. The whole shape of the sentence is in its moods.
 
@@ -444,7 +446,7 @@ Koine did instead.
 **First tier — adapted.** *Attic; composed in the words of the course.*
 
 ἦν δὲ ἄνθρωπος, Νικόδημος ὄνομα αὐτῷ, ἄρχων τῶν Ἰουδαίων. οὗτος ἦλθε πρὸς
-τὸν Ἰησοῦν νυκτὸς καὶ εἶπεν αὐτῷ· "ὦ διδάσκαλε, οἴδαμεν ὅτι ἀπὸ τοῦ θεοῦ
+τὸν Ἰησοῦν νυκτὸς καὶ εἶπεν αὐτῷ· "ὦ διδάσκαλε, ἴσμεν ὅτι ἀπὸ τοῦ θεοῦ
 ἦλθες· οὐδεὶς γὰρ δύναται ποιεῖν τὰ σημεῖα ἃ σὺ ποιεῖς, ἐὰν μὴ ὁ θεὸς ᾖ
 σὺν αὐτῷ."
 
@@ -483,7 +485,7 @@ text.*
 - **οἱ Ἰουδαῖοι** — the Jews
 - **οὗτος** — this man; he *(Lesson 17)*
 - **νυκτός** — by night *(genitive of time)*
-- **οἴδαμεν** — we know *(1 plur. of **οἶδα**)*
+- **οἴδαμεν** — we know *(1 plur. of **οἶδα**, Koine; Attic **ἴσμεν**)*
 - **ἃ σὺ ποιεῖς** — which you do *(neuter plural relative)*
 - **ᾖ** — may be *(subjunctive of **εἰμί**)*
 - **ἀπεκρίνατο** — answered *(Attic aorist middle; the Koine has
@@ -521,7 +523,7 @@ Read both tiers aloud before you answer anything.
 
 1. Who comes to whom, and when? Which word gives the time, and what case is
    it in?
-2. Nicodemus's first sentence is in the indicative: **οἴδαμεν ὅτι … ἦλθες**.
+2. Nicodemus's first sentence is in the indicative: **ἴσμεν ὅτι … ἦλθες**.
    What kind of sentence is that — a statement, a question, or a wish?
 3. His sentence ends with a subjunctive: **ἐὰν μὴ ὁ θεὸς ᾖ σὺν αὐτῷ**.
    Which job from the lesson is it doing, and how do you translate **ἐὰν
@@ -569,7 +571,8 @@ Read both tiers aloud before you answer anything.
    resulting from a past act (Lesson 33). **ἦλθες**, aorist: *you came*.
    The original claims the arrival still stands; Nicodemus is talking to
    someone whose coming is a present fact.
-9. Any three of: **ἀπεκρίθη** (Attic **ἀπεκρίνατο**); **οἶδας** (Attic
+9. Any three of: **ἀπεκρίθη** (Attic **ἀπεκρίνατο**); **οἴδαμεν** (Attic
+   **ἴσμεν**); **οἶδας** (Attic
    **οἶσθα**); **ποῦ ὑπάγει** (Attic **ποῖ ἔρχεται**); **θέλει** (Attic
    **ἐθέλει**); **μετ᾽ αὐτοῦ** (**σὺν αὐτῷ**); **ῥαββί** (**ὦ
    διδάσκαλε**); **ἀμὴν ἀμήν** doubled; **ἀπὸ θεοῦ** without the article.

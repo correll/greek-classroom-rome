@@ -368,10 +368,12 @@ The exercise has no wrong answers and several bad ones. Mark the *reason*.
    lesson; **σύν** is correct and a little more Attic.)
 9. **πᾶς ἄνθρωπος ψυχὴν ἔχει.** — no article on either noun: *every man*,
    *a soul*. **πᾶς ὁ ἄνθρωπος** would mean *the whole man*.
-10. Attic: **ὁ κριτὴς εἶπε τὸν μάρτυρα ψεύδεσθαι.** Koine: **ὁ κριτὴς
-    εἶπεν ὅτι ὁ μάρτυς ψεύδεται.** — both are right; ask each pupil which
-    they wrote and whether they knew they were choosing. In the Koine
-    version the present **ψεύδεται** stands, as English *was lying* does
+10. Infinitive: **ὁ κριτὴς ἔλεγε τὸν μάρτυρα ψεύδεσθαι.** With **ὅτι**:
+    **ὁ κριτὴς εἶπεν ὅτι ὁ μάρτυς ψεύδεται.** — both right, and both
+    Attic; the **ὅτι** form is the one the New Testament prefers. Ask each
+    pupil which they wrote and whether they knew they were choosing. (A
+    pupil who writes **εἶπε τὸν μάρτυρα ψεύδεσθαι** has written *ordered
+    the witness to lie*.) In the **ὅτι** version the present **ψεύδεται** stands, as English *was lying* does
     not: Greek keeps the tense the speaker used.
 :::
 :::
@@ -536,10 +538,11 @@ Read the adapted text aloud twice before you touch the original.
 :::
 
 ::: answers
-1. *We* love *our friends*; first person plural; the writer and his readers
+1. *Let us love our friends* (or *we love*; the letters allow both, and the
+   gloss chooses *let us*); first person plural; the writer and his readers
    together. (A pupil who answers *God* has not read the ending.)
 2. **πᾶς ὁ ἀγαπῶν** — article plus participle for *everyone who loves*;
-   two words for four. The participle is Lesson 22's, and they have just
+   three words for four — John saved one. The participle is Lesson 22's, and they have just
    read one without being taught it.
 3. **ὁ θεός**: it has the article, **ἀγάπη** does not. Lesson 18's rule;
    both nouns are nominative, so nothing else can decide.

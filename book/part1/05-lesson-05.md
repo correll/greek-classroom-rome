@@ -332,7 +332,7 @@ Aelia said **ἐγώ εἰμι ἡ ὁδός** and meant *I know the way*.
 7. **ὁ διδάσκαλός ἐστι φίλος** against **ὁ φίλος ἐστὶ διδάσκαλος**; or
    **ὁ ξένος ἐστὶ κριτής** against **ὁ κριτής ἐστι ξένος**. Any pair in
    which moving the article moves the claim.
-8. No. **εἰμι ἡ ὁδός** is still *I am the road*. Dropping **ἐγώ** removes
+8. No. **εἰμὶ ἡ ὁδός** is still *I am the road*. Dropping **ἐγώ** removes
    the emphasis and leaves the claim exactly as it was. The pronoun was
    not where the mistake lived.
 9. **οὐ γιγνώσκω τὴν ὁδόν.** **οὐ γιγνώσκομεν τὴν ὁδόν.** — **οὐ** in
@@ -459,15 +459,15 @@ about theirs.
 :::
 
 ::: {.exercise title="Understanding the reading"}
-Read the whole tablet aloud before you answer anything. There are eight
+Read the whole tablet aloud before you answer anything. There are nine
 speakers and a cat.
 
 1. Who speaks first, and what does he say he sees and does not see?
 2. Julia's sentence has **ἐγώ** and Livia's does not. What is Julia
    emphasising, and against whom?
 3. Aelia says **γιγνώσκω τὴν ὁδόν**. What case is **τὴν ὁδόν**, and why is
-   it that case here when the road was nominative in her sentence last
-   week?
+   it that case here when the road was nominative in her sentence in the
+   Story?
 4. Felix says Aelia's old sentence. Theodoros answers him. Translate the
    answer, and say which form of **εἰμί** it uses.
 5. Sabina says **ἐγώ εἰμι κριτής**, with no article on **κριτής**. What
@@ -480,7 +480,7 @@ speakers and a cat.
    what tells you?
 9. The cat says nothing. What does the tablet say the cat does instead, and
    what person and number is that verb?
-10. Theodoros wrote **ἐγώ** into five mouths and left it out of three. Name
+10. Theodoros wrote **ἐγώ** into five pupils' mouths and left it out of three. Name
     the five, and suggest, for one of them, why.
 :::
 

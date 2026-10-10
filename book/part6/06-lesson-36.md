@@ -19,7 +19,7 @@ was the Word* on it in his own hand, and Theodosius the Beatitudes with the
 Latin down the margin, and Livia a sheet of sentences with no subjects.
 Felix got his letter to the cat. The cat got nothing, and watched.
 
-"**δίδωμι. δίδως. δίδωσι.** I give, you give, he gives. There is no omega,
+"**δίδωμι. δίδως. δίδωσι.** I give, you give, he gives. There is no **-ω** at the end,
 and there is no vowel between the stem and the ending, because this verb is
 older than the vowel. It was already old when **λύω** was new. It is the
 verb on your list since Lesson 9 that I have never once shown you how to
@@ -35,7 +35,7 @@ Theodoros's back for some time. He did not turn round.
 
 "**ἀπέδωκα**," he said to the board. "I have given back. Aorist. Once,
 completely. Now: the oldest verbs in the language. There are six of them
-you need, and you have been using two since Part I without knowing they
+you need, and you have been using two since Parts I and II without knowing they
 were strange."
 :::
 
@@ -217,7 +217,7 @@ English *do* and *deed*.
 Where Latin misleads: *dō* has lost its reduplication, so a pupil will look
 for *didō* and not find it; Latin put the doubling into the perfect
 instead, *dedī*, where Greek has **δέδωκα**. And Latin *sum* has no
-subjunctive **ὦ** and no participle **ὤν** of its own, which is why *ens*
+participle to match **ὤν**, which is why *ens*
 had to be invented by philosophers and **ὄν** did not. Marcus's column
 gets one line today — *Latin cannot say **ὤν*** — and then he may close
 it, because the column was never really about Latin.
@@ -446,21 +446,21 @@ will be opened to you.*
 advice about a way of living, not about a single request. **Three
 futures.** Two of them passive, with no agent named: *it will be given*,
 *it will be opened* — by whom, the Greek does not say and the hearer is
-meant to supply. **And one -μι verb,** hidden inside the longest word.
+meant to supply. **And one -μι verb,** hidden inside **δοθήσεται**.
 **δοθήσεται** is **δίδωμι** with the reduplication gone, the passive
-marker, the future marker and a middle ending: four lessons stacked on one
-stem. A year ago you could not read the letters. Now you can take that word
+marker, the future marker and a middle ending: four pieces, from three
+lessons, stacked on one stem. A year ago you could not read the letters. Now you can take that word
 apart and name each piece and say what it is doing.
 
 ::: teacheronly
 **Verify before teaching.** The text follows the standard Greek New
 Testament (see *Sources*); check it against the edition in use, and note
-that some editions print **ἀνοίγεται** for the second **ἀνοιγήσεται** in
-the verse that follows.
+that in the verse that follows NA28 prints **ἀνοιγ[ής]εται**, bracketing <!--nocheck-->
+the future marker, because some manuscripts read **ἀνοίγεται**.
 
 **On the verse as a summary.** It is chosen because it is short, known to
 the class in Latin (*petite et dabitur vobis*), and contains a contract
-imperative, a future, a future passive and a **-μι** stem in nine words.
+imperative, a future, a future passive and a **-μι** stem in eleven words.
 Have each pupil take one word and account for every piece of it aloud.
 This is the Great Reading's method applied to a single verse, and it is a
 fair final examination of Part VI.
@@ -494,7 +494,7 @@ text; then Plato, Apology 29d–e, Attic, from Burnet's text.*
 
 Αἰτεῖτε καὶ δοθήσεται ὑμῖν, ζητεῖτε καὶ εὑρήσετε, κρούετε καὶ ἀνοιγήσεται
 ὑμῖν· πᾶς γὰρ ὁ αἰτῶν λαμβάνει καὶ ὁ ζητῶν εὑρίσκει καὶ τῷ κρούοντι
-ἀνοιγήσεται. ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος, ὃν αἰτήσει ὁ υἱὸς αὐτοῦ ἄρτον,
+ἀνοιγ[ής]εται. ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος, ὃν αἰτήσει ὁ υἱὸς αὐτοῦ ἄρτον, <!--nocheck-->
 μὴ λίθον ἐπιδώσει αὐτῷ; ἢ καὶ ἰχθὺν αἰτήσει, μὴ ὄφιν ἐπιδώσει αὐτῷ; εἰ οὖν
 ὑμεῖς πονηροὶ ὄντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ
 μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν.
@@ -503,8 +503,8 @@ text; then Plato, Apology 29d–e, Attic, from Burnet's text.*
 τῷ θεῷ ἢ ὑμῖν, καὶ ἕωσπερ ἂν ἐμπνέω καὶ οἷός τε ὦ, οὐ μὴ παύσωμαι
 φιλοσοφῶν καὶ ὑμῖν παρακελευόμενός τε καὶ ἐνδεικνύμενος ὅτῳ ἂν ἀεὶ
 ἐντυγχάνω ὑμῶν, λέγων οἷάπερ εἴωθα, ὅτι "ὦ ἄριστε ἀνδρῶν, Ἀθηναῖος ὤν,
-πόλεως τῆς μεγίστης καὶ εὐδοκιμωτάτης εἰς σοφίαν καὶ ἰσχύν, οὐκ αἰσχύνῃ
-ἐπιμελούμενος χρημάτων μὲν ὅπως σοι ἔσται ὡς πλεῖστα, καὶ δόξης καὶ τιμῆς,
+πόλεως τῆς μεγίστης καὶ εὐδοκιμωτάτης εἰς σοφίαν καὶ ἰσχύν, χρημάτων μὲν
+οὐκ αἰσχύνῃ ἐπιμελούμενος ὅπως σοι ἔσται ὡς πλεῖστα, καὶ δόξης καὶ τιμῆς,
 φρονήσεως δὲ καὶ ἀληθείας καὶ τῆς ψυχῆς ὅπως ὡς βελτίστη ἔσται οὐκ
 ἐπιμελῇ οὐδὲ φροντίζεις;"
 
@@ -581,10 +581,11 @@ Read both tiers aloud before you answer anything.
 :::
 
 ::: answers
-1. The hearers ask (**αἰτεῖτε**, **ὁ αἰτῶν**, **αἰτήσει**); the father
-   gives (**δοθήσεται**, **ἐπιδώσει**, **διδόναι**, **δώσει**). Four forms
-   of **δίδωμι** in five verses, one in each of present, future, future
-   passive and infinitive.
+1. The hearers ask (**αἰτεῖτε**, **ὁ αἰτῶν**), and the son asks
+   (**αἰτήσει**); human fathers give (**ἐπιδώσει**, **διδόναι**) and the
+   father in heaven gives (**δοθήσεται**, **δώσει**). Five forms of
+   **δίδωμι** (two compounded) in five verses: a future passive, three
+   futures and a present infinitive.
 2. **αἰτεῖτε** — imperative, present: *keep asking*, a practice. **δοθήσεται**
    — future passive, 3 sing. Present because the instruction is a way of
    living, not a single request; **αἰτήσατε** would be *ask, once*.
@@ -607,8 +608,8 @@ Read both tiers aloud before you answer anything.
    means stop.* The strongest future *no* the language has, said to a court
    that could have him killed, and did.
 9. **ὦ** (subjunctive, in **οἷός τε ὦ**), **ὤν** (participle, in **Ἀθηναῖος
-   ὤν**), **ἔσται** (future, twice). Three of the five columns of this
-   lesson's table in one sentence.
+   ὤν**), **ἔσται** (future, twice). Two of the four columns of the
+   **εἰμί** table, and the participle beneath it, in one sentence.
 10. That what matters most is not what is asked for first. The Gospel says
     the father gives **ἀγαθά** — not stones and snakes, but not bread and
     fish either: *good things*, left undefined. Socrates says the
@@ -639,7 +640,7 @@ read all three, and put them in her sleeve, and said nothing either.
 
 That was the end of the year.
 
-Eleven years later, in a house in another city, where she taught Greek to
+Ten years later, in a house in another city, where she taught Greek to
 children who complained about it exactly as she had, a letter came for
 her from Theodoros. It was short, as his letters were. It began **χαίρειν**
 and ended **ἔρρωσο**, and between the two formulas there was a single

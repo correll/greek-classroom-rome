@@ -179,7 +179,7 @@ Look at **ΑΘΗΝΑ** without being told what it says.
    letter to its capital. Which small letter looks least like its capital?
 8. Theodoros's own name, on the board, is **ΘΕΟΔΩΡΟΣ**. Sound it out.
    Which two of its letters would a Latin reader get wrong? And which two
-   words from the vocabulary are hiding inside it?
+   words from this lesson's lists are hiding inside it?
 9. Name the five letters of **ΑΘΗΝΑ** in order, using their Greek names.
 10. Aelia said she *knew* the word meant Athens; Theodoros said she had
     *remembered* it. What could a pupil who had never heard of Athens
@@ -312,7 +312,7 @@ alphabet.
    sigma became **Σ** — capitals have only one shape — and that no accent
    was carried up into the capitals: the stonecutter had none.
 10. **θ** is the eighth and **σ** the eighteenth: **ΘΕΟΔΩΡΟΣ**. A pupil who
-    says **ρ** for the eighteenth has forgotten **ξ** again and is one out
+    says **τ** for the eighteenth has forgotten **ξ** again and is one out
     all the way down.
 :::
 :::

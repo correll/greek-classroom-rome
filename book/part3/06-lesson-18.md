@@ -373,7 +373,10 @@ be told so in front of the class.
    subject of its own clause; **εἶδε** the aorist from Lesson 15 (accept
    **ἔβλεψε**, and ask whether they remember which word the lesson gave);
    **τὸν παῖδα** the third-declension accusative.
-9. **ὁ κριτὴς εἶπε τὸν μάρτυρα ψεύδεσθαι.** — the infinitive is present
+9. **ὁ κριτὴς ἔλεγε τὸν μάρτυρα ψεύδεσθαι.** — **ἔλεγε**, not **εἶπε**:
+   in Attic **εἶπε** with an accusative and infinitive usually means
+   *ordered*, and a statement after **εἶπε** goes with **ὅτι**. Accept
+   **ὁ κριτὴς εἶπεν ὅτι ὁ μάρτυς ψεύδεται**. The infinitive is present
    although the English has *was lying*, because the lying was going on
    at the time of the saying and the infinitive takes its time from the
    main verb. This is the same point as the sharp pupil's objection at
@@ -594,7 +597,7 @@ of it is already yours.
 τῷ λόγῳ ἦν ἡ ζωή, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων. τὸ δὲ φῶς ἐν τῷ σκότῳ
 φαίνει, καὶ ὁ σκότος τὸ φῶς οὐκ ἔλαβεν.
 
-οὕτως γράφει ὁ Ἰωάννης. λέγει οὖν τὸν λόγον ἐν ἀρχῇ εἶναι, καὶ πρὸς τὸν
+οὕτω γράφει ὁ Ἰωάννης. λέγει οὖν τὸν λόγον ἐν ἀρχῇ εἶναι, καὶ πρὸς τὸν
 θεὸν εἶναι, καὶ θεὸν εἶναι· λέγει δὲ καὶ τὴν ζωὴν ἐν τῷ λόγῳ εἶναι, καὶ
 τὴν ζωὴν τὸ φῶς τῶν ἀνθρώπων εἶναι.
 
@@ -656,11 +659,12 @@ Read the adapted version aloud, then John, slowly. Then answer.
    εἶναι** — which word has the article and which has not? Has the
    indirect statement kept the evidence the trial rested on?
 8. **τὸ φῶς … φαίνει** is the only present-tense verb in the five verses;
-   everything else is imperfect or aorist. What does the change of tense
+   everything else is imperfect or aorist, apart from the perfect
+   **γέγονεν**. What does the change of tense
    do to the sentence it is in?
-9. Find three things in John's Greek that an Attic writer would do
-   differently, using the gloss list. (One is a word, one is a pronoun
-   standing alone, one is punctuation of a kind Attic prose did not have.)
+9. Find two things in John's Greek that an Attic writer would do
+   differently, using the gloss list and Lesson 17. (One is a word; one is
+   the way the clauses are joined.)
 10. Sabina's trial asked which translation could be *defended*. Choose one
     sentence from John 1:1–5 other than **θεὸς ἦν ὁ λόγος**, give a
     translation, and name the feature of the Greek it rests on.
@@ -711,16 +715,16 @@ Read the adapted version aloud, then John, slowly. Then answer.
 8. It brings the sentence into the present: everything before it was
    *then* — in the beginning, came to be — and this is *now*: the light
    *shines*, still, as the writer writes. Then the aorist **κατέλαβεν**
-   drops back into the past for the one thing that did not happen. Three
+   drops back into the past for the one thing that did not happen. Two
    tenses in a verse, each placed.
-9. **σκοτία** for Attic **σκότος** (a word); **οὗτος** standing alone for
-   the Word, where Attic prose would more naturally repeat the noun (a
-   pronoun); and the full stop before **ὃ γέγονεν**, which is an editor's
-   mark on a text that originally had none (punctuation). Accept also the
-   rhythm of **καί … καί … καί**, joining clause to clause with no **δέ**
-   or **γάρ** anywhere — which is Hebrew habit showing through Greek, and
-   which a pupil who has just done Lesson 17 may feel as an absence before
-   they can name it.
+9. **σκοτία** for Attic **σκότος** (a word); and the rhythm of **καί …
+   καί … καί**, joining clause to clause with no **δέ** or **γάρ**
+   anywhere — which is Hebrew habit showing through Greek, and which a
+   pupil who has just done Lesson 17 may feel as an absence before they
+   can name it. A pupil who offers **οὗτος** standing alone should be
+   reminded that Attic does exactly that (question 3); one who offers the
+   full stop before **ὃ γέγονεν** should be told that Attic texts are
+   punctuated by their editors too.
 10. Answers will vary. For example: **ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων** — *the
     life was the light of men* — rests on both nouns having the article,
     so that neither is marked as predicate by its absence; the subject is

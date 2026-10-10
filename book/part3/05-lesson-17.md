@@ -372,7 +372,7 @@ These three sentences use the same eight words. Only the small word changes.
    **γάρ** and **οὖν** versions leave the promise unkept, and a Greek
    reader would wait for the second half and never get it.
 8. *I say this* / *I say these things*. Singular against plural, carried
-   entirely by **-ο** against **-α** — the neuter endings of Lesson 7. A
+   by **-ο** against **-α** (and the stem's **ου** against **αυ**) — the neuter endings of Lesson 7. A
    philosopher's **ταῦτα** is *all of the above*; **τοῦτο** is one point.
 9. That the boy's speaking *cancels* or *corrects* the man's silence — as
    if somebody expected the man to speak and the boy spoke instead. **δέ**
@@ -508,7 +508,7 @@ saving for it.
 :::
 :::
 
-::: {.reading time="20 min" title="The half Theodoros withheld" source="Plato, *Apology* 38a (Burnet's Oxford text), with an adapted version"}
+::: {.reading time="20 min" title="The half Theodoros withheld" source="Plato, *Apology* 37e–38a (Burnet's Oxford text), with an adapted version"}
 The Voice gave you seven words. Here is the sentence they sit in, and the
 one that follows it — twice. The first version was written for you, in
 Attic, with the words and forms you have; it is **adapted**, and labelled
@@ -530,8 +530,8 @@ them what every Athenian speaker called a jury. The second is Plato.
 
 **Plato, *Apology* 38a**
 
-ἐάν τε γὰρ λέγω ὅτι τῷ θεῷ ἀπειθεῖν τοῦτ᾽ ἐστὶν καὶ διὰ τοῦτ᾽ ἀδύνατον
-ἡσυχίαν ἄγειν, οὐ πείσεσθέ μοι ὡς εἰρωνευομένῳ· ἐάν τ᾽ αὖ λέγω ὅτι καὶ
+ἐάντε γὰρ λέγω ὅτι τῷ θεῷ ἀπειθεῖν τοῦτ᾽ ἐστὶν καὶ διὰ τοῦτ᾽ ἀδύνατον
+ἡσυχίαν ἄγειν, οὐ πείσεσθέ μοι ὡς εἰρωνευομένῳ· ἐάντ᾽ αὖ λέγω ὅτι καὶ
 τυγχάνει μέγιστον ἀγαθὸν ὂν ἀνθρώπῳ τοῦτο, ἑκάστης ἡμέρας περὶ ἀρετῆς τοὺς
 λόγους ποιεῖσθαι καὶ τῶν ἄλλων περὶ ὧν ὑμεῖς ἐμοῦ ἀκούετε διαλεγομένου καὶ
 ἐμαυτὸν καὶ ἄλλους ἐξετάζοντος, ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ,
@@ -551,7 +551,7 @@ them what every Athenian speaker called a jury. The second is Plato.
 - **ἐμαυτόν** — myself *(accusative)*
 - **ἔχει οὕτως** — it is so *(**ἔχω** with an adverb means *to be in a
   state*: **καλῶς ἔχει**, it is well)*
-- **ἐάν τε … ἐάν τ᾽ αὖ** — both if … and if again *(**ἐάν**, *if*, is
+- **ἐάντε … ἐάντ᾽ αὖ** — both if … and if again *(**ἐάν**, *if*, is
   followed by a verb in the subjunctive, Part VI; here **λέγω** is one and
   happens to look like the present)*
 - **τῷ θεῷ ἀπειθεῖν** — to disobey the god *(**ἀ-** + **πείθομαι**, I obey;
@@ -630,8 +630,9 @@ Read the adapted version aloud, then the Plato, slowly. Then answer.
    evidence for the claim just made. **δέ** in **ὁ δὲ βίος** — the next
    step, the famous one. **δέ … δέ** in **ταῦτα δὲ λέγω, ὑμεῖς δὲ** —
    next step and contrast. **οὖν** in **οὕτως οὖν ἔχει** — conclusion.
-   **δέ** in **χαλεπὸν δέ ἐστι** — contrast. Every one is second in its
-   clause. A pupil who finds them all has read the paragraph the way a
+   **δέ** in **χαλεπὸν δέ ἐστι** — contrast. Every one except **οὖν** in
+   **οὐ δύναμαι οὖν**, which follows the negative and its verb as a unit,
+   is second in its clause. A pupil who finds them all has read the paragraph the way a
    Greek did.
 3. What *I* say against what *you* say — Socrates's account of himself
    against the jury's. The pronouns are written out for the contrast, as
@@ -641,7 +642,7 @@ Read the adapted version aloud, then the Plato, slowly. Then answer.
    although **ὁ βίος** is nominative. It replaces **ἀνεξέταστος** — one
    adjective, *unexamined*, built out of **ἀ-** and **ἐξετάζω**, which the
    class has not had, so the adaptation unpacked it into a clause. Plato's
-   version is one word shorter and far heavier.
+   version is one word where the adaptation needs five, and far heavier.
 5. Because it means *for a human being as such*, any human being, not *for
    the man*. The absence is the point of the sentence, and the adaptation
    kept it on purpose.

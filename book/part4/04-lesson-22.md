@@ -360,8 +360,8 @@ From Lessons 18 to 21. Answer from memory.
    Lesson 19 gloss, is right and should be asked what it would mean here.
 8. **ὁ ποιήσας τὸ ἔλεος ὁ πλησίον ἐστίν.** — article plus participle as the
    subject; **ὁ πλησίον** with its article as the predicate. Accept
-   **πλησίον ἐστίν** without the article, which is the Gospel's own
-   phrase in verse 36.
+   **πλησίον ἐστίν** without the article, which is how the Gospel uses
+   **πλησίον** in verse 36.
 9. **ὁ Σαμαρίτης ἤνεγκε τῷ ἀνδρὶ οἶνον.** — **ἤνεγκε**, the aorist of
    **φέρω** from Lesson 14; the recipient in the dative. **τὸν ἄνδρα**
    is the error of a pupil translating *brought the man* as a direct
@@ -473,7 +473,8 @@ you the participle, and lets you decide.
 ::: teacheronly
 **Verify before teaching.** The text follows the standard Greek New
 Testament (see *Sources*), with verse 35 summarised rather than quoted;
-verse 32 is printed without the bracketed **γενόμενος** of some editions.
+verse 32 prints **γενόμενος** without the square brackets that NA28 puts
+round it (the Reading below keeps them).
 Check the passage against the edition in use; **Σαμαρίτης** is also spelt
 **Σαμαρείτης** in some editions, and the word order in verse 34 varies.
 
@@ -507,14 +508,14 @@ forms you have)*
 
 ὁ δὲ Ἰησοῦς εἶπεν· ἄνθρωπός τις ἦλθεν ἀπὸ Ἰερουσαλὴμ εἰς Ἰεριχώ, καὶ
 λῃσταὶ ἔλαβον αὐτὸν καὶ κακὰ ποιήσαντες ἀπῆλθον. ἱερεὺς δέ τις ἦλθεν ἐν
-τῇ ὁδῷ ἐκείνῃ, καὶ ἰδὼν αὐτὸν παρῆλθεν· οὕτως δὲ καὶ Λευίτης ἐλθὼν καὶ
+τῇ ὁδῷ ἐκείνῃ, καὶ ἰδὼν αὐτὸν παρῆλθεν· οὕτω δὲ καὶ Λευίτης ἐλθὼν καὶ
 ἰδὼν παρῆλθεν. Σαμαρίτης δέ τις ἐλθὼν καὶ ἰδὼν ἠλέησεν αὐτόν, καὶ ἔλαιον
 καὶ οἶνον ἐπὶ τὰ τραύματα αὐτοῦ ἔβαλεν, καὶ ἤγαγεν αὐτὸν εἰς πανδοχεῖον
 καὶ ἔμενε σὺν αὐτῷ. ἔπειτα δὲ ἔδωκε δύο δηνάρια τῷ πανδοχεῖ καὶ εἶπεν·
 ἐγὼ πάλιν ἔρχομαι, καὶ τότε τὰ ἄλλα δίδωμί σοι.
 
 τίς οὖν τούτων τῶν τριῶν πλησίον ἦν τοῦ ἀνθρώπου; ὁ δὲ εἶπεν· ὁ ποιήσας
-τὸ ἔλεος μετ᾽ αὐτοῦ. εἶπε δὲ αὐτῷ ὁ Ἰησοῦς· καὶ σὺ οὖν οὕτως ποιήσας
+τὸ ἔλεος μετ᾽ αὐτοῦ. εἶπε δὲ αὐτῷ ὁ Ἰησοῦς· καὶ σὺ οὖν οὕτω ποιήσας
 ζωὴν ἔχεις.
 
 **The original** *(Luke 10:25–37, NA28)*
@@ -574,7 +575,7 @@ forms you have)*
 - **[τῆς]** — the brackets are the editors': the word is doubtful
 - **ἡ ἰσχύς** — strength *(dative **ἰσχύϊ**)*
 - **ἡ διάνοια** — mind, understanding
-- **ὡς σεαυτόν** — as yourself *(**ὡς**, Lesson 23)*
+- **ὡς σεαυτόν** — as yourself *(**ὡς**, Lesson 17)*
 - **ὀρθῶς ἀπεκρίθης** — you answered rightly *(an aorist of
   **ἀποκρίνομαι**; take it whole)*
 - **τοῦτο ποίει καὶ ζήσῃ** — do this and you will live *(a command, Lesson
@@ -602,7 +603,7 @@ Read the adapted text aloud. Then read the original and mark every
 participle, as you did in The Investigation.
 
 1. The adapted text opens with the lawyer's **τί ποιήσας ζωὴν ἔχω;** and
-   closes with Jesus's **οὕτως ποιήσας ζωὴν ἔχεις.** What has the
+   closes with Jesus's **οὕτω ποιήσας ζωὴν ἔχεις.** What has the
    adaptation done with the beginning and the end? What does the original
    end with instead?
 2. **ὁ δὲ δίκαιος εἶναι ἐθέλων εἶπεν.** Which word is the participle, and

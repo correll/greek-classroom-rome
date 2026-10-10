@@ -131,12 +131,13 @@ helpful.
 - **ἡ δόξα** — opinion; reputation; glory *(the same word, moving)*
 - **καταλαμβάνω** — I seize, overtake; grasp, understand *(aorist
   **κατέλαβον**)*
-- **τὸ πλοῖον** — boat, ship *(the ordinary word; **ναῦς** is Homer's)*
+- **τὸ πλοῖον** — boat, ship *(the Gospels' word; **ναῦς** is the older word, Homer's and Attic's)*
 - **ὁ ἄνεμος** — wind
 - **ὁ φόβος** — fear
 - **ὁ ὄχλος** — crowd
-- **καθεύδω** — I sleep *(imperfect **ἐκάθευδον**: the augment goes inside
-  the compound)*
+- **καθεύδω** — I sleep *(imperfect **ἐκάθευδον**: the augment goes in front
+  of the prefix, as if the verb were not a compound; Attic also has
+  **καθηῦδον**)*
 - **ἐγείρω** — I wake *(someone)*, I raise *(aorist **ἤγειρα**)*
 - **ἐκεῖνος, ἐκείνη, ἐκεῖνο** — that, that one *(stands outside the article
   group, like **οὗτος**: **ἐκεῖνος ὁ ἀνήρ**, that man)*
@@ -188,8 +189,9 @@ From memory, and quickly. Lessons 23 to 26; nothing from today.
 6. Accusative: the person who must do the thing goes in the accusative
    after **δεῖ**, with the infinitive following (Lesson 26).
 7. *When?* / *at some time, once* (Lesson 25).
-8. **λέγει σοφὸς εἶναι** — or, with the subject stated, **λέγει τὸν ἄνδρα
-   σοφὸν εἶναι** (Lessons 16 and 23).
+8. **λέγει τὸν ἄνδρα σοφὸν εἶναι** (or **αὐτὸν σοφὸν εἶναι**) — accusative
+   and infinitive (Lessons 16 and 23). Accept **λέγει σοφὸς εἶναι** from a
+   pupil who takes *he* to be the speaker himself.
 9. Aorist: *come to know yourself*, once, completely — a thing to be done,
    not a habit (Lesson 26).
 10. Aorist; the article has made a noun of it, *the one who did* (Lesson
@@ -354,8 +356,8 @@ having been asked; **ὑπό** + genitive = by.)*
    accent. **ὄχλος** is singular and takes a singular verb, though it means
    many people.
 7. **ὁ διδάσκαλος ἐκάθευδεν ἐν τῷ πλοίῳ.** — imperfect, because the
-   sleeping went on; and the augment sits inside the compound, **ἐ-κάθ-**,
-   not in front of it. A pupil who writes **ἐκαθεύδησεν** has made an
+   sleeping went on; and the augment sits in front of the whole compound,
+   **ἐ-κάθευδ-**, not inside it (**καθ-ηῦδ-**). A pupil who writes **ἐκαθεύδησεν** has made an
    aorist and said the sleeping was over.
 8. **ἔγειρον τὸν διδάσκαλον.** — the aorist imperative of **ἐγείρω**,
    which has no **σ** because the stem ends in **ρ**; accept **ἔγειρε**,
@@ -580,10 +582,10 @@ Read both versions aloud before you answer anything.
    process. **ἐκόπασεν**: the wind *dropped* — once, complete, at a stroke.
    The imperfect builds the danger up and the aorist ends it; the aspects
    are the shape of the story.
-7. No — *why?* The neuter **τί** on its own serves as an adverb, where
-   Attic would more often say **διὰ τί**. A pupil who translates *what
-   cowards you are* has made it an exclamation, which is also possible;
-   the Greek is open and the translator must choose.
+7. No — *why?* The neuter **τί** on its own serves as an adverb, as in
+   Attic; **διὰ τί** is the fuller form. A pupil who translates *what
+   cowards you are* has made it an exclamation, which **τί** cannot be;
+   the question mark is right.
 8. *Not yet*. It implies that faith is expected, and coming, and has not
    arrived — the question is a rebuke with a future in it. **οὐκ** alone
    would be flat: *you have no faith*. One word, and the rebuke becomes

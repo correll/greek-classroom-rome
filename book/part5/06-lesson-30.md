@@ -300,7 +300,8 @@ feeling. For each feature, what the three sentences must contain:
    standing for a name that was not pronounced; that a Greek reader would
    have expected **ὁ κύριος**; that the absence is a Hebrew habit showing
    through (Lesson 20). Wrong if: the article were there, in which case
-   it would be *a* master, *the* master, any master.
+   **κύριος** would read as a common noun, *the* lord or master, not the
+   name.
 6. That **μακάριοι** has no verb and needs none; that **οἱ πτωχοί** is the
    subject with the article; that **ὅτι** gives the reason, not a report
    (Lesson 21). Wrong if: **ὅτι** followed a verb of saying.
@@ -358,8 +359,8 @@ feeling. For each feature, what the three sentences must contain:
    on it. Present for the shining, which goes on; aorist for the failure
    to overcome, which is over. **αὐτό** neuter, agreeing with **φῶς**.
 6. **τίς ἐστιν οὗτος; καὶ ὁ ἄνεμος καὶ ἡ θάλασσα ὑπακούει αὐτῷ.** — Mark
-   4:41, Lesson 27. **τίς** with its acute, first; **καί** before **ὁ
-   ἄνεμος** is *even*, not *and* (Lesson 2); singular verb with two
+   4:41, Lesson 27. **τίς** with its acute, first; **καὶ … καί**,
+   *both … and* (or *even*, Lesson 2); singular verb with two
    subjects, as the class saw. A pupil who writes **ὑπακούουσιν** has
    written correct Greek and not Mark's.
 7. **πρὸ μὲν πάντων εὔχομαι τὸν πατέρα ὑγιαίνειν.** — Apion's formula with a
@@ -488,8 +489,9 @@ is still here, and so is the question, and so, now, are they.
 ::: {.reading time="20 min" title="In the beginning" source="John 1:1–14 (adapted, then NA28)"}
 The Great Reading closes with the passage the course has been circling since
 Lesson 6: the opening of John, whole, to the verse where the Word becomes
-flesh. You have had its first sentence since Part I, its fifth verse since
-Lesson 27, and its last five words since Marcus got them wrong. The first
+flesh. You have had its first sentence since Part I, its first five verses
+since Lesson 18, and the last five words of its first verse since Marcus
+got them wrong. The first
 version is **adapted** — cut to its spine, with John the Baptist's verses
 reduced to one sentence and no form you have not met; it is there so that you
 can hear the shape of the whole in Greek you own, and it is short because the
@@ -588,7 +590,7 @@ four paragraphs; the questions follow them in order.
 3. **πάντα δι᾽ αὐτοῦ ἐγένετο.** Translate. Why is the verb singular?
 4. **φαίνει … κατέλαβεν.** Name the tense of each and say what the
    difference does. Then give the two meanings of **κατέλαβεν** and say
-   which the adapted version lost by keeping only the verb.
+   what the adapted version lost by keeping only that verb.
 5. **ὄνομα αὐτῷ Ἰωάννης.** No verb. What case is **αὐτῷ**, and what has the
    adapted version added to make the clause stand?
 6. **οὐκ ἦν ἐκεῖνος τὸ φῶς.** The predicate has the article. Set it beside
@@ -610,10 +612,10 @@ four paragraphs; the questions follow them in order.
 :::
 
 ::: answers
-1. The third: **θεὸς ἦν ὁ λόγος**. The article on **ὁ λόγος**. In the first
-   two the subject stands first and has the article as well, so the order
-   and the article agree; in the third they part company and the article
-   wins. This is Lesson 18 and Marcus's reading, and the class should be
+1. The third: **θεὸς ἦν ὁ λόγος**. The article on **ὁ λόγος**. In the
+   second clause the subject stands first with its article, and in the
+   first there is no predicate noun to confuse it with; in the third order
+   and article part company and the article wins. This is Lesson 18 and Marcus's reading, and the class should be
    able to say it in two sentences by now.
 2. **ὁ λόγος** — the pronoun picks up the last noun with the article. The
    verse gathers the first two clauses of verse 1 into one and says them
@@ -658,10 +660,10 @@ four paragraphs; the questions follow them in order.
    masculine is the people in it. English has one *his own* for both and
    the sentence's turn — he came home and the household shut the door —
    is carried in Greek by a vowel.
-9. **ὅσοι** has no verb of its own in the main clause: it is a nominative
-   that the sentence begins with and then abandons, picking it up again as
-   **αὐτοῖς** in the dative because **ἔδωκεν** needs a dative. Grammarians
-   call it a hanging nominative; the Hebrew behind the Greek did it all
+9. **ὅσοι** is the subject of **ἔλαβον**, its own clause; it has no place
+   in the main clause: the sentence begins with it and then abandons it,
+   picking it up again as **αὐτοῖς** in the dative because **ἔδωκεν**
+   needs a dative. Grammarians call it a hanging nominative; the Hebrew behind the Greek did it all
    the time (Lesson 20), and so does anyone talking: *the ones who took him
    in — he gave them the right …* Both verbs are the class's: **ἔλαβον**
    (Lesson 14) and **ἔδωκεν** (Lesson 16).
@@ -672,7 +674,7 @@ four paragraphs; the questions follow them in order.
     est*, kept it. For the translation to be wrong, the articles would
     have to change places — **ἡ σὰρξ λόγος ἐγένετο**, *the flesh became
     word*, which is nonsense and which the Greek does not say — or **ἐγένετο**
-    would have to be **ἦν**, *was*, which is what verse 1 says of God and
+    would have to be **ἦν**, *was*, which is what verse 1 says of the Word and
     what verse 14 pointedly does not say of flesh. It is not; it is
     **ἐγένετο**, Lesson 14's *it happened* — and that difference, between
     what the Word *was* and what it *became*, is carried in two verbs the
@@ -691,8 +693,8 @@ theology of the adaptation, which they may.
 **On the ending.** The Reading, not the courtyard, is where Part V ends:
 the same sentence that opened Lesson 6 read whole, in context, by a class
 that can now say what every word of it is doing. Let the last question
-land and do not add to it. Part VI begins with a verb form none of them
-has met — the middle voice — and the first thing the cat does in the
+land and do not add to it. Part VI begins with the voice they have been
+glossing past all year — the middle — and the first thing the cat does in the
 second term is get washed.
 :::
 :::
@@ -739,10 +741,11 @@ yourself. You have a fortnight to do it in, and then we begin again."
 
 "You have read everything that is done by somebody to something else.
 Every verb you know looks outward. The Greeks had a whole voice of the
-verb that looks back at the one who is speaking — *I wash*, meaning
-myself; *I am persuaded*, meaning I obey — and you have been reading round
-it all year without a name for it. **βούλομαι. δύναμαι. ἔρχομαι.** You
-know a dozen of its forms already and do not know that you do. That is
+verb that looks back at its own subject — *I wash*, meaning myself; *I
+am persuaded*, meaning I obey — and you have been reading round it all
+year, naming it and stepping round it. **βούλομαι. δύναμαι. ἔρχομαι.**
+You know a dozen of its forms already and have never been shown how they
+hang together. That is
 the second term, and the cat is in it." He put the last scroll on the
 shelf. "**ἔρρωσο** — for a fortnight. After that, **ἔρρωσθε**, all of you,
 and bring your tablets clean."

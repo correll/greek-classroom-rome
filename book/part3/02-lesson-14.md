@@ -508,8 +508,8 @@ Read it aloud first. Then go through it a second time marking every verb
 6. **ἐκ τῶν βιβλίων**, out of the books — genitive; **εἰς τὴν τράπεζαν**,
    onto the table — accusative. Lesson 8 and this lesson.
 7. The teacher's tablet, **ἡ δέλτος τοῦ διδασκάλου**, and on it **ἡ γραφὴ
-   περὶ τῶν μαθητῶν** — the writing about the pupils. That is, this very
-   story.
+   περὶ τῶν μαθητῶν** — the writing about the pupils: the earlier tablet's
+   story, as question 8 shows.
 8. Marcus; **ἐγὼ οὐκ ἔλεγον περὶ τῶν ἵππων** — *I was not talking about
    horses*. He means last week's tablet, which said he was; he has read
    the accusation and is answering it. The teacher's one-word reply,

@@ -158,7 +158,7 @@ the Greek is asking you.
 ::: note
 **δίδωμι** does not end in **-ω** like the verbs you know, and it does not
 conjugate like them. It belongs to a small, very old, very common family
-whose full set of endings this course does not teach. Learn **δίδωμι** and **δίδωσι** as two
+whose full set of endings comes in Lesson 36. Learn **δίδωμι** and **δίδωσι** as two
 whole words for now and do not try to build the rest.
 
 **ἡ ἐπιστολή** goes like **ἡ ψυχή** throughout: **τῆς ἐπιστολῆς**, **τῇ
@@ -286,7 +286,7 @@ job it is doing.
 9. *The judge does not give the tablet to the pupils, but to the teacher.*
 10. *By the voice we recognise the friend.* — dative of means with no
     preposition. A pupil who writes *to the voice* should be sent back to
-    exercise 1, item 10.
+    *Which case, and why?*, item 10.
 :::
 
 ::: {.exercise title="Into Greek"}
@@ -472,7 +472,8 @@ Read the whole tablet aloud before you answer anything.
 4. What does Felix call the cat? What in the Greek tells you he is speaking
    *to* it rather than *about* it?
 5. What does the cat know, and what does it not know?
-6. Follow the cat out. List its three verbs of going, and the two
+6. Follow the cat out. List its three verbs, from taking the letter to
+   running off, and the two
    prepositional phrases that go with them, each with its case.
 7. **ἐν τῇ οἰκίᾳ καθεύδει σὺν τῇ ἐπιστολῇ** — two datives. Why does each
    have the preposition it has?

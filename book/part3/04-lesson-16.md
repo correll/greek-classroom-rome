@@ -430,7 +430,8 @@ into a finite verb.
    way through, including the verb.
 6. **τὸ ὄνομα Οὖτίς ἐστιν.** — *The name is Nobody.* **Οὖτις** goes back
    to the nominative with the subject; it is what the Cyclops was told, and
-   the accent moves because **ἐστιν** leans on it.
+   **Οὖτις** takes a second accent, on its last syllable, because the
+   enclitic **ἐστιν** leans on it.
 7. **ἡ σοφία δῶρον τοῦ θεοῦ ἐστιν.** — *Wisdom is a gift of God.*
    **δῶρον** looks the same, as in the Into Greek exercise below, and
    **τοῦ θεοῦ** does not change at all: it was never part of the
@@ -596,7 +597,7 @@ story himself, so look for the first person. The second is Homer.
 
 **Homer, *Odyssey* 9.360–370**
 
-ὣς ἔφατ᾽, αὐτάρ οἱ αὖτις ἐγὼ πόρον αἴθοπα οἶνον.  
+ὣς φάτ᾽, ἀτάρ οἱ αὖτις ἐγὼ πόρον αἴθοπα οἶνον.  
 τρὶς μὲν ἔδωκα φέρων, τρὶς δ᾽ ἔκπιεν ἀφραδίῃσιν.  
 αὐτὰρ ἐπεὶ Κύκλωπα περὶ φρένας ἤλυθεν οἶνος,  
 καὶ τότε δή μιν ἔπεσσι προσηύδων μειλιχίοισι·  
@@ -605,7 +606,7 @@ story himself, so look for the first person. The second is Homer.
 Οὖτις ἐμοί γ᾽ ὄνομα· Οὖτιν δέ με κικλήσκουσι  
 μήτηρ ἠδὲ πατὴρ ἠδ᾽ ἄλλοι πάντες ἑταῖροι."  
 ὣς ἐφάμην, ὁ δέ μ᾽ αὐτίκ᾽ ἀμείβετο νηλέϊ θυμῷ·  
-"Οὖτιν ἐγὼ πύματον ἔδομαι μετὰ οἷς ἑτάροισι,  
+"Οὖτιν ἐγὼ πύματον ἔδομαι μετὰ οἷς ἑτάροισιν,  
 τοὺς δ᾽ ἄλλους πρόσθεν· τὸ δέ τοι ξεινήϊον ἔσται."
 
 ::: gloss
@@ -616,8 +617,9 @@ story himself, so look for the first person. The second is Homer.
   the rest)*
 - **με, μοι** — me, to me *(the accusative and dative of **ἐγώ**; both
   enclitic)*
-- **ὣς ἔφατ᾽** — so he spoke *(**ὥς** is epic for **οὕτως**; **ἔφατο** is
-  a past tense of **φημί**, I say — take it whole)*
+- **ὣς φάτ᾽** — so he spoke *(**ὥς** is epic for **οὕτως**; **φάτο**,
+  unaugmented, is a past tense of **φημί**, I say — take it whole)*
+- **ἀτάρ** — but *(a shorter form of **αὐτάρ**)*
 - **αὐτάρ** — but, and then *(as in Lesson 15)*
 - **οἱ** — to him *(a pronoun, not the article; Attic **αὐτῷ**)*
 - **αὖτις** — again *(Attic **αὖθις**; the adapted version has **πάλιν**)*
@@ -650,7 +652,8 @@ story himself, so look for the first person. The second is Homer.
 - **ὥς περ ὑπέστης** — just as you promised *(**ὑπέστης**, aorist; take it
   whole)*
 - *lines 366–367* — glossed in the Voice above
-- **ἐφάμην** — I spoke *(the first person of **ἔφατο**; take it whole)*
+- **ἐφάμην** — I spoke *(the first person of **ἔφατο**, the augmented
+  **φάτο**; take it whole)*
 - **ὁ δέ** — and he *(**ὁ** as a pronoun, as in Lesson 15)*
 - **αὐτίκ᾽** — **αὐτίκα**, at once *(= **εὐθύς**)*
 - **ἀμείβετο** — answered *(imperfect; take it whole)*
@@ -658,8 +661,8 @@ story himself, so look for the first person. The second is Homer.
   **ἔλεος** pity)*
 - **πύματον** — last *(agreeing with **Οὖτιν**)*
 - **ἔδομαι** — I will eat *(future of **ἐσθίω**; take it whole)*
-- **μετὰ οἷς ἑτάροισι** — after his companions *(**οἷς** here = his own;
-  **ἑτάροισι**, Homeric dative plural of the short stem)*
+- **μετὰ οἷς ἑτάροισιν** — after his companions *(**οἷς** here = his own;
+  **ἑτάροισιν**, Homeric dative plural of the short stem)*
 - **τοὺς δ᾽ ἄλλους** — and the others *(**τούς** as a pronoun)*
 - **πρόσθεν** — before them, first
 - **τὸ δέ** — and that *(**τό** as a pronoun)*
