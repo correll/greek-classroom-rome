@@ -1,6 +1,6 @@
 # How to Use This Grammar {.unnumbered}
 
-This is the companion volume to *The Greek Classroom of Rome, AD 400*. The
+This is the companion volume to *Schola Graeca*. The
 textbook teaches Greek in a sequence, through a story, one idea at a time.
 This book does not teach anything. It states what is true about the
 language, in order, so that you can look something up.

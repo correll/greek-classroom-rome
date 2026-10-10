@@ -1,5 +1,5 @@
 # ---------------------------------------------------------------
-#  The Greek Classroom of Rome, AD 400
+#  Schola Graeca
 #  make pdf | teacher | grammar | site | all | check | clean
 # ---------------------------------------------------------------
 

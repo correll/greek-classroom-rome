@@ -27,8 +27,8 @@ FROM = ("markdown+fenced_divs+bracketed_spans+pipe_tables+smart"
         "+implicit_figures+raw_tex")
 FILTER = os.path.join(ROOT, "scripts", "filters", "blocks.lua")
 
-TITLE = "The Greek Classroom of Rome, AD 400"
-SUBTITLE = "A Classical Greek course for grades 7-9"
+TITLE = "Schola Graeca"
+SUBTITLE = "A Classical Greek course"
 REPO = os.environ.get("REPO_URL", "https://github.com/correll/greek-classroom-rome")
 
 
@@ -311,12 +311,11 @@ def landing(groups):
 <p>Rome, autumn of AD 400. Eight Latin-speaking children in a household
 school on the Caelian Hill are made to study Greek by a grammarian from
 Antioch. They find the language old-fashioned, the declensions
-infuriating, and their teacher's expectations unreasonable. Over thirty
+infuriating, and their teacher's expectations unreasonable. Over thirty-six
 lessons they discover that the ancient authors are not dusty authorities
 but people who asked questions that still matter.</p>
 
-<p>This is a complete Classical Attic course for grades 7&ndash;9, built as a
-continuing story. Each lesson advances the pupils' Greek and their
+<p>This is a complete Classical Greek course, built as a continuing story. Each lesson advances the pupils' Greek and their
 relationships with one another. Their classroom mischief provides the
 comedy; the texts themselves provide the substance.</p>
 

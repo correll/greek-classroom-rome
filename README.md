@@ -1,6 +1,7 @@
-# The Greek Classroom of Rome, AD 400
+# Schola Graeca
 
-A Classical Greek course for grades 7–9, built as a continuing story.
+A Classical Greek course, built as a continuing story. The title is Latin
+for *The Greek Classroom*.
 
 **[Read it online](https://correll.github.io/greek-classroom-rome/)** ·
 [as a flip-book](https://correll.github.io/greek-classroom-rome/ebook.html) ·
@@ -9,7 +10,7 @@ A Classical Greek course for grades 7–9, built as a continuing story.
 Rome, autumn of AD 400. Eight Latin-speaking children in a household school
 on the Caelian Hill are made to study Greek by a grammarian from Antioch.
 They find the language old-fashioned, the declensions infuriating, and
-their teacher's expectations unreasonable. Over thirty lessons they
+their teacher's expectations unreasonable. Over thirty-six lessons they
 discover that the ancient authors are not dusty authorities but people who
 asked questions that still matter.
 
