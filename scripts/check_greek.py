@@ -32,7 +32,7 @@ NOCHECK = "<!--nocheck-->"
 KNOWN_BLOCKS = set([
     "story", "newgreek", "investigation", "voice", "question",
     "vocab", "exercise", "answers", "teacheronly", "note", "grammar", "latinbridge",
-    "paradigm", "part",
+    "paradigm", "part", "reading", "gloss",
 ])
 
 # Greek and Coptic + Greek Extended, plus combining marks

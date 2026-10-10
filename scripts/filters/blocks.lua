@@ -129,6 +129,52 @@ function Div(el)
     end
   end
 
+  -- the reading: Greek text with a running vocabulary beside it. The
+  -- blocks before the nested `gloss` div are the passage; the gloss div is
+  -- set in a narrow column to its right; anything after it (comprehension
+  -- questions, answers) runs full width underneath.
+  if cls == "reading" then
+    local title  = el.attributes["title"]  or ""
+    local source = el.attributes["source"] or ""
+    local right  = title
+    if source ~= "" then right = (title ~= "" and (title .. " · ") or "") .. source end
+    local before, gloss, after = {}, nil, {}
+    for _, b in ipairs(el.content) do
+      if gloss == nil and b.t == "Div" and b.classes:includes("gloss") then
+        gloss = b
+      elseif gloss == nil then
+        before[#before+1] = b
+      else
+        after[#after+1] = b
+      end
+    end
+    if FORMAT:match("latex") then
+      local out = { latex("\\lessonrubric{The Reading}{" .. escrich(right) .. "}") }
+      out[#out+1] = latex("\\begin{readingcols}")
+      for _, b in ipairs(before) do out[#out+1] = b end
+      if gloss then
+        out[#out+1] = latex("\\begin{readinggloss}")
+        for _, b in ipairs(gloss.content) do out[#out+1] = b end
+        out[#out+1] = latex("\\end{readinggloss}")
+      end
+      out[#out+1] = latex("\\end{readingcols}")
+      for _, b in ipairs(after) do out[#out+1] = b end
+      return out
+    else
+      local meta = right ~= "" and ('<span class="rubric-meta">'
+            .. right:gsub("%*([^%*]+)%*", "<em>%1</em>") .. "</span>") or ""
+      local out = { html('<section class="phase reading"><h4 class="rubric">The Reading'
+            .. meta .. '</h4><div class="readingcols"><div class="greek">') }
+      for _, b in ipairs(before) do out[#out+1] = b end
+      out[#out+1] = html('</div><div class="gloss">')
+      if gloss then for _, b in ipairs(gloss.content) do out[#out+1] = b end end
+      out[#out+1] = html("</div></div>")
+      for _, b in ipairs(after) do out[#out+1] = b end
+      out[#out+1] = html("</section>")
+      return out
+    end
+  end
+
   -- simple boxes
   local sm = SIMPLE[cls]
   if sm then

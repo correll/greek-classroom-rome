@@ -23,6 +23,7 @@ BODY_SRC    := $(sort $(wildcard book/part1/*.md)) \
                $(sort $(wildcard book/part3/*.md)) \
                $(sort $(wildcard book/part4/*.md)) \
                $(sort $(wildcard book/part5/*.md)) \
+               $(sort $(wildcard book/part6/*.md)) \
                $(sort $(wildcard book/back/*.md))
 
 BOOK_SRC    := $(FRONT_SRC) $(BODY_SRC)
