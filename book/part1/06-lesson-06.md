@@ -529,6 +529,100 @@ Marcus asked who wrote it. Theodoros told him, and then made him read it
 again.
 :::
 
+::: {.reading time="20 min" title="Theodoros's fourth tablet" source="composed"}
+The fourth tablet went round the next morning, when Marcus had stopped
+being pleased with himself. It was about the morning before.
+
+ὁ διδάσκαλος γράφει τὸν λόγον· «ἐν ἀρχῇ ἦν ὁ λόγος.» ὁ Μᾶρκος λέγει·
+«οὐκ ἀναγιγνώσκω. οὐ γιγνώσκω τὴν γραφήν.»
+
+ὁ διδάσκαλος λέγει· «οὐ βλέπεις, ὦ Μᾶρκε. λέγεις, ἀλλὰ οὐ βλέπεις. οὐχ ὁ
+Μᾶρκος βλέπει, ἀλλὰ ἡ Λιβία· ἡ Λιβία ἤδη ἀναγιγνώσκει, ὁ Μᾶρκος ἔτι
+λέγει.»
+
+ὁ Μᾶρκος βλέπει. βλέπει τὸν λόγον, τὴν ἀρχήν, τὸν θεόν, καὶ
+ἀναγιγνώσκει· «ἐν ἀρχῇ ἦν ὁ λόγος.»
+
+«ναί,» λέγει ὁ διδάσκαλος, «ἀναγιγνώσκεις.» ὁ Μᾶρκος θαυμάζει.
+
+ὁ αἴλουρος οὐκ ἀναγιγνώσκει οὐδὲ θαυμάζει· λείπει τὴν τράπεζαν καὶ
+διώκει τὸν παιδαγωγόν. ὁ δεσπότης οὐκ ἐνταῦθά ἐστιν.
+
+::: gloss
+- **ὁ Μᾶρκος, ἡ Λιβία** — Marcus, Livia; **ὦ Μᾶρκε** is the vocative
+- **ἐν ἀρχῇ** — in the beginning *(take the phrase whole, as in The
+  Ancient Voice)*
+- **ἦν** — was *(the past of **εἰμί**, glossed whole; its endings come in
+  Part III)*
+- **ἐνταῦθά ἐστιν** — is here; take the accents as printed: **ἐστιν**
+  leans on the word before it and lends it a second accent
+- **« »** — quotation marks, a modern editor's
+:::
+
+::: {.exercise title="Understanding the reading"}
+Read the whole tablet aloud before you answer anything.
+
+1. What does the teacher write, and where have you seen it before? How many
+   of its words does the tablet expect you to know?
+2. Marcus says two things he does not do. Translate both, and say why the
+   negative has a different shape in each.
+3. What does the teacher say Marcus is not doing? What does he say Marcus
+   *is* doing instead?
+4. **οὐχ ὁ Μᾶρκος βλέπει, ἀλλὰ ἡ Λιβία.** Why **οὐχ**? What exactly is
+   being denied — the looking, or the looker?
+5. **ἡ Λιβία ἤδη ἀναγιγνώσκει· ὁ Μᾶρκος ἔτι λέγει.** Which two small
+   words carry the contrast, and what does each mean?
+6. Marcus sees three things before he reads. Name them, give the case of
+   each, and say where on the board they come from.
+7. What does Marcus finally do, and what single word does the teacher
+   answer with? Which word in the vocabulary box is it answering?
+8. **ὁ Μᾶρκος θαυμάζει.** Translate it, and say what you think he is
+   amazed at.
+9. **οὐκ ἀναγιγνώσκει οὐδὲ θαυμάζει** — what does **οὐδέ** do that
+   **καὶ οὐ** would not? Who is the subject, and what does he do instead?
+10. The last sentence is about somebody who is not in the room. Translate
+    it, and explain the accent on **ἐνταῦθά**.
+:::
+
+::: answers
+1. **ἐν ἀρχῇ ἦν ὁ λόγος** — the first clause of the sentence on the board,
+   from The Ancient Voice. All of them: **ἐν ἀρχῇ** and **ἦν** are glossed,
+   and **ὁ λόγος** has been theirs since Lesson 1.
+2. **οὐκ ἀναγιγνώσκω** — *I do not read* (or *I cannot read*); **οὐ
+   γιγνώσκω τὴν γραφήν** — *I do not know the writing*. **οὐκ** before the
+   smooth breathing of **ἀ-**, plain **οὐ** before the consonant **γ**. The
+   meaning is the same; only the next sound has changed.
+3. That he is not looking: **οὐ βλέπεις**. That he is talking: **λέγεις,
+   ἀλλὰ οὐ βλέπεις** — *you are talking, but you are not looking*. Then
+   he says who *is* looking, which is the next question.
+4. Because the next word is **ὁ**, with a rough breathing. The looker:
+   **οὐχ** stands in front of **ὁ Μᾶρκος**, so it is Marcus who is denied,
+   and **ἀλλὰ ἡ Λιβία** supplies the one who is looking instead. The
+   looking itself is not denied — somebody is doing it.
+5. **ἤδη** — *already* — and **ἔτι** — *still*. Livia is already reading;
+   Marcus is still talking. Both verbs are third singular, so the endings
+   cannot tell the two apart; the adverbs do.
+6. **τὸν λόγον**, **τὴν ἀρχήν**, **τὸν θεόν** — all accusative, the
+   objects of **βλέπει**. They are the three nouns of the sentence on the
+   board, the ones the class already knew: *word*, *beginning*, *God*. He
+   sees the words he knows, and then he can read.
+7. He reads — **ἀναγιγνώσκει** — the very clause he said he could not.
+   **ναί**, *yes*: the answer to his **οὐκ**, and the word the vocabulary
+   box said was there for that purpose.
+8. *Marcus is amazed* — or *wonders*. At the sentence, or at himself;
+   accept either, and prefer a pupil who says both.
+9. **οὐδέ** carries the negative on into the second verb — *nor* — where
+   **καὶ οὐ** would start again from scratch; it is what Greek says. The
+   subject is the cat, **ὁ αἴλουρος**, and it leaves the table and chases
+   the paedagogus: **λείπει τὴν τράπεζαν καὶ διώκει τὸν παιδαγωγόν**.
+10. *The master is not here.* **ἐνταῦθα** has a circumflex on its middle
+    syllable; **ἐστιν**, which has no accent of its own, leans on it and
+    lends it an acute on the last syllable. A pupil who asks why the word
+    has two accents has noticed the right thing; the rule itself waits
+    until Lesson 25, and until then the gloss says *take it as printed*.
+:::
+:::
+
 ::: {.question time="5 min"}
 1. Livia read a sentence containing four words she did not know. What did
    she use instead of the words? Could you do the same with a sentence in a

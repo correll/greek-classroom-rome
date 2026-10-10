@@ -292,6 +292,35 @@ From Lessons 18 to 21. Answer from memory.
    **Σαμαρίτης τις**, nominative, and both participles are nominative and
    agree with him. Sabina's point exactly: the victim is in the accusative
    for the whole story.
+4. **ἀντιπαρῆλθεν**. Its subject is the priest, **ἱερεύς τις**, who is
+   named in the clause before — the sentence carries him over, and
+   **ἰδών**, nominative singular, points back at him. A pupil who makes
+   **αὐτόν** the subject has read the accusative as a nominative.
+5. The man on the ground, again — and yes, the same man. He is **αὐτόν**
+   every time anyone sees him. The story has one accusative and three
+   nominatives looking at it.
+6. **προσελθών** is aorist (*having come up* — first, one step);
+   **ἐπιχέων** is present (*pouring* — going on while he binds). Order:
+   he came up; then he bound, and the pouring went on through the binding.
+   A pupil who puts the pouring before the binding has read the present as
+   an aorist.
+7. The man's. Genitive, possession — *the wounds of him*. It is the first
+   time in the story that anything is *his*, and it is his wounds.
+8. There is none. It is the lawyer's answer to a question beginning
+   **τίς**, and a Greek answer to *who?* needs no verb — it is a noun
+   phrase. The article has turned **ποιήσας** into that noun: *the one
+   who did*. Without **ὁ** it would be a participle waiting for a verb
+   that never comes.
+9. Because they are about the bandits: **οἵ**, the relative, is plural
+   and picks up **λῃσταῖς**. **-ντες** is the nominative plural of the
+   participle (Lesson 21's rule of thumb, now built); **-ον** on
+   **ἀπῆλθον** is third plural, the same ending that in the first person
+   means *I* (Lesson 13's warning, again).
+10. The man on the ground. **ὁδεύοντα** is accusative, so it would agree
+    with **αὐτόν** and not with **Σαμαρίτης**: *a Samaritan came up to him
+    as he travelled*. The whole story would turn on that one ending — the
+    victim would have a verb of his own at last, and Sabina's reading
+    would be wrong.
 :::
 
 ::: {.exercise title="Into Greek"}
@@ -299,6 +328,12 @@ From Lessons 18 to 21. Answer from memory.
 2. The Samaritan, having come, showed mercy.
 3. The one who speaks the truth is a friend.
 4. And who is my neighbour?
+5. On that day two men came into the road.
+6. The bandit, having seen the priest, went away.
+7. The priest knew the law, but did not show mercy.
+8. The one who did the mercy is the neighbour.
+9. The Samaritan brought the man wine.
+10. The bandits, having said evil things, went away.
 :::
 
 ::: answers
@@ -312,6 +347,30 @@ From Lessons 18 to 21. Answer from memory.
    question, word for word. **τίς** with the accent: *who?*. If the class
    can produce this unprompted, they have written a sentence of the Gospel
    from nothing, and should be told so.
+5. **ἐν ἐκείνῃ τῇ ἡμέρᾳ δύο ἄνθρωποι ἦλθον εἰς τὴν ὁδόν.** — **ἐκείνῃ**
+   outside the article, **ἡμέρᾳ** inside it: the demonstrative takes the
+   predicate position, as **αὐτός** does. **δύο** unchanged. Watch for
+   **ἦλθεν** with a plural subject.
+6. **ὁ λῃστὴς ἰδὼν τὸν ἱερέα ἀπῆλθεν.** — **ἱερέα**, the accusative of
+   **ἱερεύς**; a pupil who writes **ἱερέον** has put a second-declension
+   ending on a third-declension noun.
+7. **ὁ ἱερεὺς τὸν νόμον ἐγίγνωσκεν, ἀλλὰ τὸ ἔλεος οὐκ ἐποίησεν.** —
+   imperfect for the standing knowledge, aorist for the act not done.
+   Accept **οὐκ ἠλέησεν**. **ἔγνω**, if anyone has picked it up from the
+   Lesson 19 gloss, is right and should be asked what it would mean here.
+8. **ὁ ποιήσας τὸ ἔλεος ὁ πλησίον ἐστίν.** — article plus participle as the
+   subject; **ὁ πλησίον** with its article as the predicate. Accept
+   **πλησίον ἐστίν** without the article, which is the Gospel's own
+   phrase in verse 36.
+9. **ὁ Σαμαρίτης ἤνεγκε τῷ ἀνδρὶ οἶνον.** — **ἤνεγκε**, the aorist of
+   **φέρω** from Lesson 14; the recipient in the dative. **τὸν ἄνδρα**
+   is the error of a pupil translating *brought the man* as a direct
+   object.
+10. **οἱ λῃσταὶ εἰπόντες κακὰ ἀπῆλθον.** — **εἰπόντες**, plural of
+    **εἰπών**. A pupil who writes **εἰπών** has forgotten that the
+    participle agrees in number too; a pupil who writes **εἶπον κακὰ καὶ
+    ἀπῆλθον** has written correct Greek and no participle, and should be
+    asked to try again.
 :::
 :::
 
@@ -426,6 +485,211 @@ underneath it, rather than the other way round.
 
 **On the lawyer's answer.** The reading offered in the last paragraph is one
 reading, and the text does not settle it. Say so if a pupil asks.
+:::
+:::
+
+::: {.reading time="20 min" title="Who is my neighbour?" source="Luke 10:25–37 (NA28), whole, with an adapted tier"}
+The Ancient Voice gave you the story. Here is the whole episode — the
+lawyer's question that starts it, the commandment he recites, the story,
+and the question that answers his. First in the Greek you have, then as
+Luke wrote it. In the adapted text every participle is one you can build
+from this lesson's table; in the original, count how many more there are.
+
+**Adapted** *(composed for this lesson from Luke 10:25–37, in the words and
+forms you have)*
+
+νομικός τις ἦλθε πρὸς τὸν Ἰησοῦν καὶ εἶπεν· ὦ διδάσκαλε, τί ποιήσας ζωὴν
+ἔχω εἰς τὸν αἰῶνα; ὁ δὲ εἶπεν αὐτῷ· τί λέγει ὁ νόμος; πῶς ἀναγιγνώσκεις;
+ὁ δὲ εἶπεν· ἀγαπᾷς τὸν κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ
+ἐξ ὅλης τῆς ψυχῆς σου, καὶ τὸν πλησίον σου ὥσπερ σεαυτόν. εἶπε δὲ αὐτῷ
+ὁ Ἰησοῦς· καλῶς λέγεις· τοῦτο ποιήσας ζωὴν ἔχεις. ὁ δὲ δίκαιος εἶναι
+ἐθέλων εἶπεν· καὶ τίς ἐστίν μου πλησίον;
+
+ὁ δὲ Ἰησοῦς εἶπεν· ἄνθρωπός τις ἦλθεν ἀπὸ Ἰερουσαλὴμ εἰς Ἰεριχώ, καὶ
+λῃσταὶ ἔλαβον αὐτὸν καὶ κακὰ ποιήσαντες ἀπῆλθον. ἱερεὺς δέ τις ἦλθεν ἐν
+τῇ ὁδῷ ἐκείνῃ, καὶ ἰδὼν αὐτὸν παρῆλθεν· οὕτως δὲ καὶ Λευίτης ἐλθὼν καὶ
+ἰδὼν παρῆλθεν. Σαμαρίτης δέ τις ἐλθὼν καὶ ἰδὼν ἠλέησεν αὐτόν, καὶ ἔλαιον
+καὶ οἶνον ἐπὶ τὰ τραύματα αὐτοῦ ἔβαλεν, καὶ ἤγαγεν αὐτὸν εἰς πανδοχεῖον
+καὶ ἔμενε σὺν αὐτῷ. ἔπειτα δὲ ἔδωκε δύο δηνάρια τῷ πανδοχεῖ καὶ εἶπεν·
+ἐγὼ πάλιν ἔρχομαι, καὶ τότε τὰ ἄλλα δίδωμί σοι.
+
+τίς οὖν τούτων τῶν τριῶν πλησίον ἦν τοῦ ἀνθρώπου; ὁ δὲ εἶπεν· ὁ ποιήσας
+τὸ ἔλεος μετ᾽ αὐτοῦ. εἶπε δὲ αὐτῷ ὁ Ἰησοῦς· καὶ σὺ οὖν οὕτως ποιήσας
+ζωὴν ἔχεις.
+
+**The original** *(Luke 10:25–37, NA28)*
+
+Καὶ ἰδοὺ νομικός τις ἀνέστη ἐκπειράζων αὐτὸν λέγων· διδάσκαλε, τί ποιήσας
+ζωὴν αἰώνιον κληρονομήσω; ὁ δὲ εἶπεν πρὸς αὐτόν· ἐν τῷ νόμῳ τί γέγραπται;
+πῶς ἀναγινώσκεις; ὁ δὲ ἀποκριθεὶς εἶπεν· ἀγαπήσεις κύριον τὸν θεόν σου ἐξ
+ὅλης [τῆς] καρδίας σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ ἰσχύϊ σου καὶ
+ἐν ὅλῃ τῇ διανοίᾳ σου, καὶ τὸν πλησίον σου ὡς σεαυτόν. εἶπεν δὲ αὐτῷ·
+ὀρθῶς ἀπεκρίθης· τοῦτο ποίει καὶ ζήσῃ. ὁ δὲ θέλων δικαιῶσαι ἑαυτὸν εἶπεν
+πρὸς τὸν Ἰησοῦν· καὶ τίς ἐστίν μου πλησίον;
+
+Ὑπολαβὼν ὁ Ἰησοῦς εἶπεν· ἄνθρωπός τις κατέβαινεν ἀπὸ Ἰερουσαλὴμ εἰς
+Ἰεριχὼ καὶ λῃσταῖς περιέπεσεν, οἳ καὶ ἐκδύσαντες αὐτὸν καὶ πληγὰς
+ἐπιθέντες ἀπῆλθον ἀφέντες ἡμιθανῆ. κατὰ συγκυρίαν δὲ ἱερεύς τις κατέβαινεν
+ἐν τῇ ὁδῷ ἐκείνῃ καὶ ἰδὼν αὐτὸν ἀντιπαρῆλθεν· ὁμοίως δὲ καὶ Λευίτης
+[γενόμενος] κατὰ τὸν τόπον ἐλθὼν καὶ ἰδὼν ἀντιπαρῆλθεν. Σαμαρίτης δέ τις
+ὁδεύων ἦλθεν κατ᾽ αὐτὸν καὶ ἰδὼν ἐσπλαγχνίσθη, καὶ προσελθὼν κατέδησεν τὰ
+τραύματα αὐτοῦ ἐπιχέων ἔλαιον καὶ οἶνον, ἐπιβιβάσας δὲ αὐτὸν ἐπὶ τὸ ἴδιον
+κτῆνος ἤγαγεν αὐτὸν εἰς πανδοχεῖον καὶ ἐπεμελήθη αὐτοῦ. καὶ ἐπὶ τὴν
+αὔριον ἐκβαλὼν ἔδωκεν δύο δηνάρια τῷ πανδοχεῖ καὶ εἶπεν· ἐπιμελήθητι
+αὐτοῦ, καὶ ὅ τι ἂν προσδαπανήσῃς ἐγὼ ἐν τῷ ἐπανέρχεσθαί με ἀποδώσω σοι.
+
+τίς τούτων τῶν τριῶν πλησίον δοκεῖ σοι γεγονέναι τοῦ ἐμπεσόντος εἰς τοὺς
+λῃστάς; ὁ δὲ εἶπεν· ὁ ποιήσας τὸ ἔλεος μετ᾽ αὐτοῦ. εἶπεν δὲ αὐτῷ ὁ
+Ἰησοῦς· πορεύου καὶ σὺ ποίει ὁμοίως.
+
+::: gloss
+- **νομικός** — a lawyer; an expert in the law *(**νόμος** inside it)*
+- **τί** — what? *(the accent makes it a question; Lesson 25)*
+- **πῶς** — how?
+- **ἀγαπᾷς** — you love *(a form of **ἀγαπάω**, Lesson 19; the adapted
+  text says the commandment as a plain present)*
+- **σου** — your; of you *(genitive of **σύ**, with no accent of its own)*
+- **σεαυτόν** — yourself
+- **καλῶς** — well, rightly *(**καλός** as an adverb)*
+- **Λευίτης** — a Levite: a man of the tribe that served in the temple
+- **τὸ ἔλαιον** — olive oil
+- **ἔβαλεν** — put, threw *(aorist of **βάλλω**, I throw)*
+- **δύο δηνάρια** — two denarii *(a Roman coin; two days' wages)*
+- **τῷ πανδοχεῖ** — to the innkeeper
+- **σοι** — to you *(dative of **σύ**, enclitic)*
+- **ἰδού** — look, behold *(Lesson 27)*
+- **ἀνέστη** — stood up *(aorist of **ἀνίστημι**, a verb of Lesson 36;
+  take it whole)*
+- **ἐκπειράζων** — testing, putting to the test *(present participle)*
+- **ζωὴν αἰώνιον** — eternal life *(**αἰώνιος**, the adjective of **αἰών**)*
+- **κληρονομήσω** — shall I inherit *(future; the Beatitudes' verb)*
+- **γέγραπται** — stands written *(a perfect passive of **γράφω**; Lesson
+  33)*
+- **ἀναγινώσκεις** — you read *(**ἀναγιγνώσκω**, Lesson 6, in its Koine
+  spelling)*
+- **ἀποκριθείς** — answering *(aorist participle of **ἀποκρίνομαι**, Lesson
+  25; take it whole)*
+- **ἀγαπήσεις** — you shall love *(future, as a command — the Septuagint's
+  way of saying the Hebrew *thou shalt*)*
+- **[τῆς]** — the brackets are the editors': the word is doubtful
+- **ἡ ἰσχύς** — strength *(dative **ἰσχύϊ**)*
+- **ἡ διάνοια** — mind, understanding
+- **ὡς σεαυτόν** — as yourself *(**ὡς**, Lesson 23)*
+- **ὀρθῶς ἀπεκρίθης** — you answered rightly *(an aorist of
+  **ἀποκρίνομαι**; take it whole)*
+- **τοῦτο ποίει καὶ ζήσῃ** — do this and you will live *(a command, Lesson
+  26, and a future)*
+- **θέλων δικαιῶσαι ἑαυτόν** — wanting to justify himself *(**θέλω**,
+  Lesson 23; **δικαιόω**, the verb of **δίκαιος**)*
+- **Ὑπολαβών** — taking him up, replying *(aorist participle of
+  **ὑπολαμβάνω**)*
+- **[γενόμενος]** — coming to be there, arriving *(an aorist participle of
+  **γίγνομαι**; the brackets are the editors')*
+- **ἐπὶ τὴν αὔριον** — on the next day *(**αὔριον**, tomorrow)*
+- **ἐκβαλών** — taking out *(aorist participle of **ἐκβάλλω**, I throw out)*
+- **ἐπιμελήθητι αὐτοῦ** — take care of him *(a command; the verb of
+  **ἐπεμελήθη** above)*
+- **ὅ τι ἂν προσδαπανήσῃς** — whatever you spend besides *(Lesson 35's
+  forms; take the phrase whole)*
+- **ἐν τῷ ἐπανέρχεσθαί με** — when I come back *(an infinitive with the
+  article, making a clause; take it whole)*
+- **ἀποδώσω σοι** — I will pay you back *(future of **ἀποδίδωμι**)*
+- For verses 30–34 and 36–37, see The Ancient Voice.
+:::
+
+::: {.exercise title="Understanding the reading"}
+Read the adapted text aloud. Then read the original and mark every
+participle, as you did in The Investigation.
+
+1. The adapted text opens with the lawyer's **τί ποιήσας ζωὴν ἔχω;** and
+   closes with Jesus's **οὕτως ποιήσας ζωὴν ἔχεις.** What has the
+   adaptation done with the beginning and the end? What does the original
+   end with instead?
+2. **ὁ δὲ δίκαιος εἶναι ἐθέλων εἶπεν.** Which word is the participle, and
+   what is it doing to the sentence? The original has **θέλων δικαιῶσαι
+   ἑαυτόν**: what has changed in the verb of wanting?
+3. **καὶ τίς ἐστίν μου πλησίον;** In Lesson 21 **ἐστιν** lost its accent
+   after **αὐτῶν**. Why does it keep one here?
+4. **λῃσταὶ ἔλαβον αὐτὸν καὶ κακὰ ποιήσαντες ἀπῆλθον.** Whom is
+   **ποιήσαντες** about, and which ending tells you? The original has two
+   participles in its place — find them.
+5. **νομικός τις ἀνέστη ἐκπειράζων αὐτὸν λέγων.** One main verb, two
+   participles. Name the main verb, and say what the two participles are
+   doing while it happens. Are they present or aorist, and does that fit?
+6. **ἀγαπήσεις κύριον τὸν θεόν σου.** The verb is a future. Why does a
+   commandment use a future, and what did the adapted text do with it?
+7. **ἐξ ὅλης [τῆς] καρδίας σου.** What do the square brackets mean? Does
+   the sense change with or without the word?
+8. **ὁ δὲ ἀποκριθεὶς εἶπεν.** The original says *answering, he said*; the
+   adapted text says only **εἶπεν**. Find the other place where Luke puts
+   a participle of answering in front of **εἶπεν**. What does this tell
+   you about how Koine narrative moves?
+9. **ἐκβαλὼν ἔδωκεν δύο δηνάρια τῷ πανδοχεῖ.** Name the case of each of the
+   last three words and say what it is doing. Why does **δύο** not change
+   its ending?
+10. **τοῦτο ποίει καὶ ζήσῃ** in the original; **τοῦτο ποιήσας ζωὴν ἔχεις**
+    in the adaptation. One is a command and a promise; the other is a
+    statement. What does the adaptation lose? Why might Luke have wanted
+    the story to end, as it does, on a command?
+:::
+
+::: answers
+1. It has made a ring: the answer repeats the question's words — **ποιήσας
+   ζωὴν ἔχ-** — with the person changed from *I* to *you*, so that the
+   lawyer gets back exactly what he asked for. The original ends with two
+   commands, **πορεύου καὶ σὺ ποίει ὁμοίως**, which the class cannot yet
+   produce (Lesson 26) and which do not look back to verse 25 at all.
+2. **ἐθέλων**, present participle, nominative, agreeing with **ὁ δέ** — the
+   lawyer: *wanting to be just, he said*. It hangs the motive from the
+   main verb **εἶπεν**. The original has **θέλων**, the Koine form of the
+   same verb (Lesson 23's first word), with an aorist infinitive; the
+   adaptation has **ἐθέλων** with **εἶναι**. Same participle, same job,
+   one letter's difference in the stem.
+3. Because another enclitic follows it. An enclitic standing before an
+   enclitic takes an acute on its last syllable so that **μου** has
+   something to lean on: **ἐστίν μου**. In **αὐτῶν ἐστιν** nothing follows
+   **ἐστιν**, so it has nothing to carry and leans on **αὐτῶν**. (A pupil
+   who answers "because it is a question" has guessed; the accent would be
+   the same in a statement.)
+4. The bandits — **ποιήσαντες** is nominative plural, **-αντες**, the plural
+   of **ποιήσας** from the box, and the only plural subject in reach is
+   **λῃσταί**. The original has **ἐκδύσαντες** and **ἐπιθέντες**, both
+   hanging from **ἀπῆλθον** as the Voice showed, with **ἀφέντες** as a
+   third.
+5. **ἀνέστη**, *stood up*. **ἐκπειράζων** (*testing him*) and **λέγων**
+   (*saying*) are both present participles, so both run alongside the
+   standing up: he stands up testing and speaking, all one movement. It
+   fits — the testing is not a step before the standing but the manner of
+   it. Aorists here would make three separate acts.
+6. Because the Hebrew of the commandment uses a form that Greek could best
+   match with a future — *you will love* — and the Septuagint carried it
+   over; the Gospel quotes the Septuagint. A future used as a command says
+   *this is what will be the case*, which is stronger than *do this*. The
+   adapted text, which may not use the future, flattened it to a present,
+   **ἀγαπᾷς**, and lost the command altogether.
+7. The editors are not sure the word belongs in the text: some good
+   manuscripts have it and some do not, and the brackets print it and
+   doubt it at once. The sense scarcely changes — *from your whole heart*
+   either way — which is why editors could leave the question open.
+8. **Ὑπολαβὼν ὁ Ἰησοῦς εἶπεν** in verse 30 — *taking him up, Jesus said*.
+   Koine narrative likes to put a participle of answering, replying or
+   seeing in front of its verb of saying, so that each speech is
+   introduced by a movement: *answering, he said*; *taking him up, he
+   said*. The adaptation dropped both because the participles added no
+   information the class needed — which is exactly the point: they add
+   rhythm, not information.
+9. **δύο δηνάρια** accusative, the thing given; **τῷ πανδοχεῖ** dative, the
+   person it is given to (Lesson 9); **ἐκβαλών** nominative, the Samaritan,
+   taking them out before he gives. **δύο** is one of the few Greek
+   numerals that does not decline in the ordinary way; the class has seen
+   it unchanged in the box and in **δύο ἄνθρωποι** in The Investigation.
+10. It loses the command, and with it the sense that the thing has not yet
+    been done. **ποιήσας … ἔχεις** says: do this and you already have
+    life; **ποίει καὶ ζήσῃ** says: do this, and life will follow. The
+    original ends on a command because the story was told to answer a man
+    who wanted a definition, and a command refuses to give him one. He
+    asked *who is my neighbour?* and was told *go and be one*. The grammar
+    of the last word is the answer to The Question's first question.
 :::
 :::
 

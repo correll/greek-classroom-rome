@@ -130,7 +130,22 @@ it will work there too.
 :::
 
 ::: vocab
-No fixed list; each of you builds your own from your own passage.
+No new words this week; each of you builds your own list from your own
+passage. These twelve are review — words the lesson's Reading leans on,
+with the lesson where you first met each. If any is not yours, it is now.
+
+- **θαυμάζω** — I wonder at, I am surprised *(Lesson 6)*
+- **καθεύδω** — I sleep *(Lesson 5)*
+- **ἐγείρω** — I wake *(someone)*; aorist **ἤγειρα** *(Lesson 27)*
+- **φέρω** — I carry, bear; *(of trouble)* I put up with *(Lesson 11)*
+- **μένω** — I stay, remain; I wait *(Lesson 5)*
+- **ὁ βίος** — life, a life as it is lived *(Lesson 17)*
+- **ὁ τρόπος** — way, manner; a person's way of taking things *(Lesson 1)*
+- **τὸ δῶρον** — gift *(Lesson 1)*
+- **δεῖ** — it is necessary *(+ accusative + infinitive; Lesson 26)*
+- **ἤδη** — already; by now *(Lesson 6)*
+- **ἔτι** — still, yet *(Lesson 6)*
+- **εὐθύς** — at once *(Lesson 14)*
 :::
 
 ::: note
@@ -146,9 +161,50 @@ Four columns. The last one tells you how much of your passage you already
 owned before you started.
 :::
 
-::: {.investigation time="15 min"}
+::: {.investigation time="20 min"}
 Theodoros gave them one sentence none of them had seen and made them do the
 seven steps on it, aloud, in turn.
+
+::: {.exercise title="Retrieval"}
+From memory, and quickly. Lessons 25 to 28; nothing from today.
+
+1. **ἔρρωσο** — to how many people? Give the form for several.
+2. Translate **λέγει τις.** Now translate **τίς λέγει;** What is the only
+   difference on the page?
+3. **γράψον μοι** — present or aorist? Why does a request for a letter take
+   that aspect?
+4. **ἐντὸς ὑμῶν** — give both translations, and say what settles it.
+5. **ἔσωσέ με** — tense, and translation. Why has **ἔσωσε** two accents?
+6. **πῶς** / **πως** — translate each.
+7. **μὴ ἐγείρετε τὸν διδάσκαλον.** — translate. Why **μή**?
+8. **κατέλαβεν** / **καταλαμβάνει** — name the tense of each.
+9. **εὔχομαί σε ὑγιαίνειν.** — what case is **σε**, and what is it doing?
+10. **ὅτε ἦλθεν** / **πότε ἦλθεν;** — translate each. What tells them apart?
+:::
+
+::: answers
+1. One; **ἔρρωσθε** (Lesson 28).
+2. *Someone is speaking* / *Who is speaking?* The accent on **τίς**, and
+   nothing else — the enclitic cannot stand first, so the order changes
+   with it (Lesson 25).
+3. Aorist: a letter is one deed, done once. **γράφε μοι** would be *keep
+   writing to me* (Lessons 26 and 28).
+4. *Within you* / *among you*. The page — who is being spoken to — not the
+   grammar; the hearers are Pharisees (Lesson 27).
+5. Aorist, *he saved me*. The enclitic **με** has thrown an accent onto the
+   last syllable of the word before it (Lessons 25 and 28).
+6. *How?* / *somehow* (Lesson 25).
+7. *Do not wake the teacher.* Prohibitions take **μή**, never **οὐ**
+   (Lessons 26 and 27).
+8. Aorist / present (Lesson 27). A pupil who says *past* for the first has
+   named the time and not the tense; ask for the aspect too.
+9. Accusative, the subject of the infinitive **ὑγιαίνειν**: *I pray you to
+   be well* (Lessons 16 and 28). The likely wrong answer is *object of
+   **εὔχομαι***.
+10. *When he came* / *When did he come?* The accent on the first syllable
+    and the question mark; **ὅτε** opens a clause, **πότε** asks (Lesson
+    28).
+:::
 
 ::: {.exercise title="The method, applied"}
 **ἐγώ εἰμι τὸ φῶς τοῦ κόσμου· ὁ ἀκολουθῶν ἐμοὶ οὐ μὴ περιπατήσῃ ἐν τῇ
@@ -161,6 +217,15 @@ seven steps on it, aloud, in turn.
 5. Step six: what is left to look up? *(**ἀκολουθέω** = I follow; **οὐ μὴ**
    + a verb = emphatically "never"; **περιπατέω** = I walk about.)*
 6. Translate.
+7. Step seven's other half: what would have to be true in the Greek for
+   *I am the light of the world* to be wrong?
+8. **ἐγώ εἰμι τὸ φῶς.** Both nouns are nominative and *both* have what
+   they need to be the subject — a pronoun and an article. Which is the
+   subject, and what tells you, since the article cannot this time?
+9. **οὐ μὴ** — two negatives together. Which family is each from, and why
+   is this not **οὐκ οὐ**?
+10. **τοῦ κόσμου**, **τῆς ζωῆς** — name the case, and say what each
+    genitive is doing to the noun before it.
 :::
 
 ::: answers
@@ -181,6 +246,26 @@ seven steps on it, aloud, in turn.
    twenty-one words — nineteen, if Lesson 27 has held.
 6. *I am the light of the world; the one who follows me will never walk in
    the darkness, but will have the light of life.*
+7. **εἰμι** would have to be a different person — **ἐστι**, say — or
+   **ἐγώ** would have to be some other case. Neither is so: the verb says
+   *I* by its ending and the pronoun says it again. A pupil who cannot
+   name what would have to change has not finished step seven.
+8. **ἐγώ**. A pronoun in the nominative is a subject before anything else
+   is; and **εἰμι** is first person, which **τὸ φῶς** cannot be. The
+   article on **τὸ φῶς** marks it as definite — *the* light, not *a* light
+   — and that is a different job from marking the subject; the class has
+   seen the article do the second job so often that they should notice
+   when it is doing only the first. (Lesson 30's Reading has **οὐκ ἦν
+   ἐκεῖνος τὸ φῶς**, the same shape.)
+9. **οὐ** is the family of statements, **μή** of commands and wishes
+   (Lesson 26); together before a verb they make the strongest *never* the
+   language has. **οὐκ οὐ** would cancel out; **οὐ μή** reinforces,
+   because the two negatives are not the same word.
+10. Genitive, both. *The light of the world*: the world is what the light
+    is for, or shines on — a genitive of belonging stretched. *The light
+    of life*: the light that life has, or that is life — the genitive is
+    open, as Lesson 27 taught, and a translator must choose. Either way
+    the genitive hangs from the noun before it, not from the verb.
 
 The point to make at the end is the count in step five. A sentence they had
 never seen was four-fifths theirs before they opened a lexicon. That is what
@@ -206,6 +291,14 @@ them revise the list before they spend it.
 3. We do not know what the word means.
 4. Read the passage aloud! *(to several people; use **ἀναγίγνωσκε**, "read",
    and **ἡ γραφή** from Lesson 3 for "passage")*
+5. Why did you come now, Crito? *(**Κρίτων**, vocative **Κρίτων**)*
+6. Is it still early? *(**πρῴ** = early)*
+7. Socrates was sleeping, and his friend did not wake him.
+8. I wonder that you bear it so easily. *(**ῥᾳδίως** = easily)*
+9. One must first learn the method. *(**ἡ ὁδός**, Lesson 2, will do for
+   "method": it is where the word comes from)*
+10. Ask three questions and no more. *(to one person, now; **τρεῖς** =
+    three)*
 :::
 
 ::: answers
@@ -220,6 +313,32 @@ them revise the list before they spend it.
 4. **ἀναγιγνώσκετε τὴν γραφήν.** — present imperative plural: the reading
    is an activity. **ἀνάγνωτε**, the aorist, would be *read it through*,
    once; either is defensible and the choice is worth a sentence.
+5. **διὰ τί νῦν ἦλθες, ὦ Κρίτων;** — the Reading's first question, in the
+   class's words; Plato's has **τί** alone for *why*. Aorist: one arrival.
+6. **ἆρα ἔτι πρῴ ἐστιν;** — or without **ἆρα**, on the voice alone. A pupil
+   who writes **πρῲ ἐστιν** has turned the acute to a grave before an
+   enclitic, which never happens: the word before an enclitic keeps its
+   acute.
+7. **ὁ Σωκράτης ἐκάθευδεν, ὁ δὲ φίλος αὐτοῦ οὐκ ἤγειρεν αὐτόν.** —
+   imperfect for the sleeping, which went on; for the not-waking, the
+   imperfect is what Plato wrote (**οὐκ ἤγειρον**, *I kept not waking
+   you*), and the aorist **οὐκ ἤγειρεν** is also correct and says
+   something slightly different: he did not do it, once.
+8. **θαυμάζω ὅτι οὕτω ῥᾳδίως αὐτὸ φέρεις.** — **ὅτι** reporting the fact
+   wondered at (Lesson 23); **φέρω** in the sense the box gives, *put up
+   with*. Attic could say **θαυμάζω σε ὡς ῥᾳδίως φέρεις**, which is what
+   Crito says; the class's **ὅτι** is correct and plainer.
+9. **δεῖ πρῶτον μανθάνειν τὴν ὁδόν.** — **δεῖ** + infinitive with no person
+   expressed: *it is necessary to learn*. A pupil who adds **σε** or
+   **ἡμᾶς** has said *you* or *we* must, which the English did not. (And
+   *method* is **μέθοδος**, *the way after* — **ὁδός** with **μετά** on the
+   front.)
+10. **ἐρώτησον τρεῖς ἐρωτήσεις καὶ μὴ πλείους** — is more than they have.
+    Accept **ἐρώτησον τρία καὶ μὴ ἄλλο** or, best, **ἐρώτησον τρία·
+    μηδὲν ἄλλο** — *ask three things; nothing else* — with the aorist
+    imperative of **ἐρωτάω** (one act of asking) and **μή**, not **οὐ**,
+    because it is a prohibition (Lesson 26). Mark the imperative and the
+    negative; the word for *more* is not theirs.
 :::
 :::
 
@@ -277,6 +396,248 @@ can. Hold the limit. Felix's cat question counts.
 leaves it so. Lesson 30 answers it. If a pupil in your own class is doing
 something similar — preparing, for the first time, and not saying so — the
 right response is Theodoros's: notice, say nothing, wait.
+:::
+:::
+
+::: {.reading time="20 min" title="Crito comes early" source="Plato, *Crito* 43a–b (adapted, then Burnet)"}
+This one is an **unseen**. Nobody has prepared it for you and nothing in it
+has been on the board. It is the first page of the *Crito*: Socrates is in
+prison, condemned, and wakes before dawn to find his oldest friend sitting
+beside him in the dark. Cover the gloss column. Read the **adapted**
+version — written for you, in the Greek you have, with the shape of the
+conversation kept and Crito's long speech shortened — and do steps one to
+five on it before you uncover anything. Then do the same with Plato's own
+text, from Burnet, and uncover the glosses only at step six.
+
+**Adapted.**
+
+**ΣΩ.** διὰ τί νῦν ἦλθες, ὦ Κρίτων; ἆρ᾽ οὐκ ἔτι πρῴ ἐστιν;
+
+**ΚΡ.** ναί· πρῴ ἐστιν.
+
+**ΣΩ.** πότε μάλιστα;
+
+**ΚΡ.** ὄρθρος βαθύς ἐστιν.
+
+**ΣΩ.** θαυμάζω ὅτι ὁ φύλαξ τοῦ δεσμωτηρίου ἤκουσέ σου.
+
+**ΚΡ.** φίλος μοί ἐστιν, ὦ Σώκρατες, ὅτι πολλάκις ἐνθάδε ἔρχομαι· καὶ
+δῶρόν τι ἔλαβε παρ᾽ ἐμοῦ.
+
+**ΣΩ.** νῦν δὲ ἦλθες ἢ πάλαι;
+
+**ΚΡ.** πάλαι.
+
+**ΣΩ.** διὰ τί οὐκ εὐθὺς ἤγειράς με, ἀλλὰ σιγῇ μένεις;
+
+
+**ΚΡ.** οὐ μὰ τὸν Δία, ὦ Σώκρατες, οὐκ ἤθελόν σε ἐγείρειν. ἐθαύμαζον γὰρ
+ὅτι οὕτως ἡδέως καθεύδεις. καὶ πολλάκις μὲν καὶ πρότερον ἐν παντὶ τῷ βίῳ
+ἐθαύμαζον τὸν τρόπον σου, μάλιστα δὲ νῦν ἐν τῷ κακῷ τούτῳ, ὅτι οὕτω
+ῥᾳδίως αὐτὸ φέρεις.
+
+**ΣΩ.** καὶ γάρ, ὦ Κρίτων, κακόν ἐστι τὸν γέροντα χαλεπῶς φέρειν, εἰ δεῖ
+ἤδη ἀποθνῄσκειν.
+
+**The original** (Burnet).
+
+ΣΩ. Τί τηνικάδε ἀφῖξαι, ὦ Κρίτων; ἢ οὐ πρῲ ἔτι ἐστίν;
+
+ΚΡ. Πάνυ μὲν οὖν.
+
+ΣΩ. Πηνίκα μάλιστα;
+
+ΚΡ. Ὄρθρος βαθύς.
+
+ΣΩ. Θαυμάζω ὅπως ἠθέλησέ σοι ὁ τοῦ δεσμωτηρίου φύλαξ ὑπακοῦσαι.
+
+ΚΡ. Συνήθης ἤδη μοί ἐστιν, ὦ Σώκρατες, διὰ τὸ πολλάκις δεῦρο φοιτᾶν, καί
+τι καὶ εὐεργέτηται ὑπ᾽ ἐμοῦ.
+
+ΣΩ. Ἄρτι δὲ ἥκεις ἢ πάλαι;
+
+ΚΡ. Ἐπιεικῶς πάλαι.
+
+ΣΩ. Εἶτα πῶς οὐκ εὐθὺς ἐπήγειράς με, ἀλλὰ σιγῇ παρακάθησαι;
+
+ΚΡ. Οὐ μὰ τὸν Δία, ὦ Σώκρατες, οὐδ᾽ ἂν αὐτὸς ἤθελον ἐν τοσαύτῃ τε
+ἀγρυπνίᾳ καὶ λύπῃ εἶναι, ἀλλὰ καὶ σοῦ πάλαι θαυμάζω αἰσθανόμενος ὡς
+ἡδέως καθεύδεις· καὶ ἐπίτηδές σε οὐκ ἤγειρον ἵνα ὡς ἥδιστα διάγῃς. καὶ
+πολλάκις μὲν δή σε καὶ πρότερον ἐν παντὶ τῷ βίῳ ηὐδαιμόνισα τοῦ τρόπου,
+πολὺ δὲ μάλιστα ἐν τῇ νῦν παρεστώσῃ συμφορᾷ, ὡς ῥᾳδίως αὐτὴν καὶ πρᾴως
+φέρεις.
+
+ΣΩ. Καὶ γὰρ ἄν, ὦ Κρίτων, πλημμελὲς εἴη ἀγανακτεῖν τηλικοῦτον ὄντα εἰ δεῖ
+ἤδη τελευτᾶν.
+
+::: gloss
+- **τί** — why? *(the neuter alone, as in Mark 4:40)*
+- **τηνικάδε** — at this hour
+- **ἀφῖξαι** — have you come *(a form you have not met; gloss it whole)*
+- **ὦ Κρίτων** — Crito *(vocative)*
+- **ἢ οὐ … ;** — or is it not …?
+- **πρῲ ἔτι** — still early *(**πρῴ**, early in the morning)*
+- **πάνυ μὲν οὖν** — certainly; very much so
+- **πηνίκα μάλιστα** — about what time? *(**πηνίκα** asks the hour;
+  **μάλιστα**, "most nearly")*
+- **ὄρθρος βαθύς** — deep dawn: the dark just before daybreak
+- **ὅπως ἠθέλησέ σοι … ὑπακοῦσαι** — how he was willing to answer you *(the
+  door; **ἠθέλησε**, aorist of **ἐθέλω**; **ὑπακούω** of a doorkeeper is
+  "answer a knock")*
+- **ὁ τοῦ δεσμωτηρίου φύλαξ** — the guard of the prison
+- **συνήθης** — used to me; on familiar terms
+- **διὰ τὸ πολλάκις δεῦρο φοιτᾶν** — because of my coming here often *(an
+  infinitive with the article, used as a noun: "the often coming here")*
+- **καί τι καὶ εὐεργέτηται ὑπ᾽ ἐμοῦ** — and he has had a kindness or two
+  from me *(a form you have not met; gloss it whole)*
+- **ἄρτι … ἢ πάλαι** — just now, or long since
+- **ἥκεις** — you have come *(present in form, perfect in sense)*
+- **ἐπιεικῶς** — fairly; pretty *(long)*
+- **εἶτα** — then; in that case
+- **ἐπήγειρας** — you woke *(**ἐγείρω** with a prefix; aorist)*
+- **σιγῇ** — in silence *(dative)*
+- **παρακάθησαι** — you sit beside me *(a form you have not met; gloss it
+  whole)*
+- **οὐ μὰ τὸν Δία** — no, by Zeus
+- **οὐδ᾽ ἂν αὐτὸς ἤθελον … εἶναι** — I would not myself have wished to be
+  *(**ἄν** turns the imperfect into "would")*
+- **ἐν τοσαύτῃ τε ἀγρυπνίᾳ καὶ λύπῃ** — in such sleeplessness and grief
+- **σοῦ … θαυμάζω αἰσθανόμενος** — I have been marvelling at you, seeing
+  *(**θαυμάζω** + genitive of the person; **αἰσθανόμενος** a participle,
+  gloss it whole)*
+- **ὡς ἡδέως καθεύδεις** — how sweetly you sleep
+- **ἐπίτηδες** — on purpose
+- **οὐκ ἤγειρον** — I was not waking you; I kept not waking you
+  *(imperfect)*
+- **ἵνα ὡς ἥδιστα διάγῃς** — so that you might pass the time as pleasantly
+  as possible *(a subjunctive after **ἵνα**; gloss it whole)*
+- **πολλάκις μὲν δή … πολὺ δὲ μάλιστα** — often indeed … but by far the
+  most
+- **πρότερον** — before now
+- **ἐν παντὶ τῷ βίῳ** — in all your life
+- **ηὐδαιμόνισα … τοῦ τρόπου** — I have counted you happy for your way of
+  taking things *(aorist; the genitive gives the ground)*
+- **ἐν τῇ νῦν παρεστώσῃ συμφορᾷ** — in the misfortune now upon you
+  *(**παρεστώσῃ**, a participle: standing beside)*
+- **ὡς ῥᾳδίως … καὶ πρᾴως φέρεις** — how easily and gently you bear it
+- **καὶ γὰρ ἄν … πλημμελὲς εἴη** — for indeed it would be out of tune
+  *(**εἴη**: would be; a form you have not met)*
+- **ἀγανακτεῖν** — to fret, be indignant
+- **τηλικοῦτον ὄντα** — being as old as I am *(**ὄντα**, the participle of
+  **εἰμί**, accusative)*
+- **εἰ δεῖ ἤδη τελευτᾶν** — if one must now die *(**εἰ**, if; **τελευτάω**,
+  to end — of a life, to die)*
+- *(adapted version only)* **πρῴ ἐστιν** — it is early; **ὁ φύλαξ** —
+  guard; **τὸ δεσμωτήριον** — prison; **πολλάκις** — often; **ἐνθάδε** —
+  here; **παρ᾽ ἐμοῦ** — from me; **ὁ γέρων** — old man; **χαλεπῶς φέρειν**
+  — to take hard; **ἀποθνῄσκειν** — to die
+:::
+
+::: {.exercise title="Understanding the reading"}
+The seven steps, on Crito's long speech in the original — **Οὐ μὰ τὸν Δία
+… φέρεις** — and then three questions about the whole.
+
+1. Step one. Read the speech aloud. Before construing anything: how many
+   times do you hear **καί**, and what does that tell you about how the
+   speech is built?
+2. Step two. Mark the finite verbs. How many clauses?
+3. Step three. The subject of each verb. Which are *I* and which are
+   *you*, and what tells you?
+4. Step four. Two participles and one infinitive. Find them and say which
+   verb each hangs from.
+5. Step five. **ἀλλά**, the **καί**s, **ἵνα**, **μὲν … δέ**, **ὡς** twice.
+   Say what each joins.
+6. Step six. Now uncover the glosses. Which words did you *need*? Which did
+   you look at and find you had already understood?
+7. Step seven. Translate the speech. Then: what would have to be true in
+   the Greek for *I kept not waking you on purpose* to be wrong?
+8. **Τί τηνικάδε ἀφῖξαι;** against the adapted **διὰ τί νῦν ἦλθες;** —
+   what did the adaptation change, and what did each change cost?
+9. **ὄρθρος βαθύς** has no verb in Plato and has **ἐστιν** in the
+   adaptation. Why is the verb missing, and where in this course have you
+   met a Greek sentence with no verb before?
+10. **καὶ γὰρ ἄν, ὦ Κρίτων, πλημμελὲς εἴη …** Socrates has just been told
+    he bears his misfortune well. What does his answer say about *why*?
+    And what has the adaptation's **κακόν ἐστι** lost from **πλημμελές**?
+:::
+
+::: answers
+1. Six, counting the one that joins **ἀγρυπνίᾳ** to **λύπῃ** — and the
+   speech runs on them: this is a man talking, not a man writing, and Plato lets him
+   add thought to thought as people do. A pupil who heard the **καί**s
+   before parsing anything has done step one properly.
+2. **ἤθελον**, **θαυμάζω**, **καθεύδεις**, **ἤγειρον**, **διάγῃς**,
+   **ηὐδαιμόνισα**, **φέρεις** — seven finite verbs, seven clauses, though
+   **διάγῃς** sits inside the **ἵνα** clause and **καθεύδεις** and
+   **φέρεις** inside **ὡς** clauses, so there are four main statements.
+3. *I*: **ἤθελον**, **θαυμάζω**, **ἤγειρον**, **ηὐδαιμόνισα** — all first
+   singular by their endings, and **αὐτός**, *myself*, leans on the first.
+   *You*: **καθεύδεις**, **διάγῃς**, **φέρεις** — second singular, and
+   **σοῦ**, **σε**, **σε** confirm it. Nobody else is in the room; the
+   speech is all *I* and *you*, which is what a conversation before dawn
+   between two old men should be.
+4. **αἰσθανόμενος** hangs from **θαυμάζω** — *I marvel, perceiving*;
+   **παρεστώσῃ** is attributive to **συμφορᾷ** inside the article group
+   — *the now-standing-by misfortune*; **εἶναι** hangs from **ἤθελον** —
+   *I would not have wished to be*.
+5. **ἀλλά** sets *I marvel at you* against *I would not wish to be awake
+   and grieving*; the **καί**s add; **ἵνα** gives the purpose of the
+   not-waking; **μὲν … δέ** balances *often before* against *most of all
+   now*; **ὡς** twice introduces what Crito perceives — *how sweetly*, *how
+   easily* — the exclamation turned into a report.
+6. Needed: **ἀγρυπνίᾳ**, **λύπῃ**, **αἰσθανόμενος**, **ἐπίτηδες**,
+   **διάγῃς**, **ηὐδαιμόνισα**, **παρεστώσῃ**, **συμφορᾷ**, **πρᾴως** —
+   about nine words. Already understood: **ἤθελον**, **εἶναι**,
+   **θαυμάζω**, **καθεύδεις**, **ἤγειρον**, **πολλάκις** from the adapted
+   tier, **βίῳ**, **τρόπου**, **φέρεις**, **πάλαι**, and every pronoun,
+   article and connector. Make them count it; the number will be close to
+   Lesson 29's four-fifths again.
+7. *No, by Zeus, Socrates; I would not myself have wished to be in such
+   sleeplessness and grief, but I have long been marvelling at you, seeing
+   how sweetly you sleep; and I was not waking you, on purpose, so that
+   you might pass the time as pleasantly as possible. And often before now,
+   all your life, I have counted you happy for your temper, but most of
+   all in the misfortune now upon you, seeing how easily and gently you
+   bear it.* For *I kept not waking you* to be wrong, **ἤγειρον** would
+   have to be aorist — **ἤγειρα** — and it is not: the imperfect says the
+   not-waking went on, for as long as Crito sat there.
+8. Plato's **τί** alone is *why* (the adapted tier spelled it out as **διὰ
+   τί**); **τηνικάδε** is *at this hour*, more pointed than **νῦν**;
+   **ἀφῖξαι** is *have you arrived* — a form the class has not met — where
+   the adapted **ἦλθες** is a plain aorist. The adaptation cost the hour
+   and the *have*: Socrates is not asking about an event but about a
+   state, *why are you here so early?*, and the original's verb carries
+   that.
+9. Greek leaves **ἐστί** out when the sentence is a bare answer or a
+   proverb — *deep dawn* is all Crito needs to say, and a verb would make
+   it a lecture. The class met the same thing in Lesson 17: **ὁ δὲ
+   ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ**, no verb, and in Lesson 27's
+   **πνεῦμα ὁ θεός**. The adaptation added **ἐστιν** so that step two
+   would find something.
+10. That there would be something *wrong* — out of tune, **πλημμελές**, a
+    word from music, a false note — in a man of seventy fretting because
+    he must die now rather than later. The reason is not courage but
+    proportion: at his age the thing was coming anyway. The adaptation's
+    **κακόν** keeps the judgement and loses the metaphor; Socrates does not
+    say it would be *bad* but that it would be *discordant*, which is a
+    different kind of objection, and the class should be able to say what
+    kind.
+:::
+
+::: teacheronly
+**Verify before teaching.** The original follows Burnet's Oxford text
+(see *Sources*); the points to check are **πρῲ** (some editions **πρῴ** or
+**πρῶι**), **πρᾴως** (some **πράως**), and the punctuation after
+**τηνικάδε ἀφῖξαι, ὦ Κρίτων;**.
+
+**On running it as an unseen.** The gloss column must actually be
+covered: a strip of paper will do. The pupils should do steps one to five
+on the adapted tier, uncover nothing, and do steps one to five again on
+Burnet's text, and only then read the glosses — item 6 asks them to report
+what they needed, and the report is worthless if they looked first. Expect
+the adapted tier to go almost entirely without glosses, and say that this
+is the point: it is Plato's conversation, in the class's Greek, and they
+read it cold.
 :::
 :::
 

@@ -409,6 +409,218 @@ the recipient had to be alive, and he will enjoy having found the gap.
 :::
 :::
 
+::: {.reading time="20 min" title="Apion's letter, whole" source="BGU II 423 (regularised, then the papyrus's own spellings)"}
+The Ancient Voice gave you the opening, down to the thanksgiving. Here is
+the whole letter, twice. The first version is **regularised**: it is in
+standard spelling, and where Apion uses a form you have not met it uses
+one you have, so that you can read it straight through. The second is the
+papyrus as it was published, with Apion's own spellings and the address on
+the back, glossed beside it. Read the regularised version first, aloud;
+then read the original and see what a sailor's ear did to his Greek.
+
+**Regularised.**
+
+Ἀπίων Ἐπιμάχῳ τῷ πατρὶ καὶ κυρίῳ πλεῖστα χαίρειν. πρὸ μὲν πάντων εὔχομαί σε
+ὑγιαίνειν καὶ ἀεὶ καλῶς ἔχειν μετὰ τῆς ἀδελφῆς μου καὶ τῆς θυγατρὸς αὐτῆς καὶ
+τοῦ ἀδελφοῦ μου. εὐχαριστῶ τῷ κυρίῳ Σεράπιδι ὅτι ἐκ τῆς θαλάσσης εὐθὺς ἔσωσέ
+με. ὅτε ἦλθον εἰς Μισηνούς, ἔλαβον βιάτικον παρὰ Καίσαρος χρυσοῦς τρεῖς· καλῶς
+μοί ἐστιν. ἐρωτῶ σε, κύριέ μου πάτερ, γράψον μοι ἐπιστολὴν πρῶτον μὲν περὶ τῆς
+σωτηρίας σου, δεύτερον περὶ τῆς τῶν ἀδελφῶν μου, τρίτον ὅτι ἐθέλω προσκυνεῖν
+τὴν χεῖρά σου, ὅτι καλῶς με ἐπαίδευσας· ἐλπίζω οὖν ταχὺ προκόπτειν σὺν τοῖς
+θεοῖς. ἄσπασαι Καπίτωνα πολλὰ καὶ τοὺς ἀδελφούς μου καὶ Σερηνίλλαν καὶ τοὺς
+φίλους μου. ἔπεμψά σοι εἰκόνιόν μου διὰ Εὐκτήμονος. ἔστι μου ὄνομα Ἀντώνιος
+Μάξιμος. ἔρρωσο.
+
+
+**The original** (the papyrus's own spellings; the brackets that mark
+restored letters have been removed).
+
+Ἀπίων Ἐπιμάχῳ τῶι πατρὶ καὶ κυρίῳ πλεῖστα χαίρειν. πρὸ μὲν πάντων εὔχομαί
+σε ὑγιαίνειν καὶ διὰ παντὸς ἐρωμένον εὐτυχεῖν μετὰ τῆς ἀδελφῆς μου καὶ
+τῆς θυγατρὸς αὐτῆς καὶ τοῦ ἀδελφοῦ μου. εὐχαριστῶ τῷ κυρίῳ Σεράπιδι, ὅτι
+μου κινδυνεύσαντος εἰς θάλασσαν ἔσωσε εὐθέως. ὅτε εἰσῆλθον εἰς Μησήνους,
+ἔλαβα βιάτικον παρὰ Καίσαρος χρυσοῦς τρεῖς καὶ καλῶς μοί ἐστιν. ἐρωτῶ σε
+οὖν, κύριέ μου πατήρ, γράψον μοι ἐπιστόλιον πρῶτον μὲν περὶ τῆς σωτηρίας
+σου, δεύτερον περὶ τῆς τῶν ἀδελφῶν μου, τρίτον, ἵνα σου προσκυνήσω τὴν
+χέραν, ὅτι με ἐπαίδευσας καλῶς, καὶ ἐκ τούτου ἐλπίζω ταχὺ προκόσαι τῶν
+θεῶν θελόντων. ἄσπασαι Καπίτωνα πολλὰ καὶ τοὺς ἀδελφούς μου καὶ Σερηνίλλαν
+καὶ τοὺς φίλους μου. ἔπεμψά σοι εἰκόνιν μου διὰ Εὐκτήμονος. ἔστι δέ μου
+ὄνομα Ἀντώνις Μάξιμος. ἐρρῶσθαί σε εὔχομαι. κεντυρία Ἀθηνονίκη.
+
+*On the back:* εἰς Φιλαδέλφιαν Ἐπιμάχῳ ἀπὸ Ἀπίωνος υἱοῦ.
+
+::: gloss
+*The opening, down to **εὐθέως**, is glossed in The Ancient Voice.*
+
+- **τῶι πατρί** — to his father *(the papyrus writes the dative's iota
+  on the line, **ωι**, where printed Greek tucks it under: **ῳ**)*
+- **ὅτε εἰσῆλθον** — when I came in, arrived *(**ἦλθον**, Lesson 14, with
+  **εἰς** on the front)*
+- **εἰς Μησήνους** — to Misenum *(the fleet's base on the bay of Naples;
+  Apion's spelling of **Μισηνούς**)*
+- **ἔλαβα** — I got *(**ἔλαβον**, Lesson 14, with the first-aorist ending
+  **-α** that ordinary speech was spreading to every aorist)*
+- **βιάτικον** — travelling money *(Latin* viaticum *in Greek letters)*
+- **παρὰ Καίσαρος** — from Caesar *(**παρά** + genitive: from the hands of)*
+- **χρυσοῦς τρεῖς** — three gold pieces
+- **καλῶς μοί ἐστιν** — it is well with me; I am all right
+- **κύριέ μου πατήρ** — my lord father *(Apion writes the nominative
+  **πατήρ** where the vocative is **πάτερ**; the regularised tier mends it)*
+- **γράψον μοι ἐπιστόλιον** — write me a little letter *(aorist imperative,
+  Lesson 26; **-ιον** makes a diminutive, as in **παιδίον**, Lesson 23)*
+- **πρῶτον μὲν … δεύτερον … τρίτον** — first … second … third
+- **περὶ τῆς τῶν ἀδελφῶν μου** — about that of my brothers *(supply
+  **σωτηρίας**: the article stands in for the noun)*
+- **ἵνα σου προσκυνήσω τὴν χέραν** — so that I may kiss your hand *(a
+  subjunctive after **ἵνα**; gloss it whole. **χέραν** is Apion's
+  spelling of **χεῖρα**)*
+- **ὅτι με ἐπαίδευσας καλῶς** — because you brought me up well *(aorist of
+  **παιδεύω**, the verb inside **παιδαγωγός**)*
+- **ἐκ τούτου** — from this; and so
+- **ἐλπίζω ταχὺ προκόσαι** — I hope to get on quickly *(**προκόψαι**, an
+  aorist infinitive of **προκόπτω**, make progress; **ἐλπίζω** + infinitive
+  as in the vocab box)*
+- **τῶν θεῶν θελόντων** — the gods willing *(a participle with its noun in
+  the genitive, standing apart from the sentence, as in the Voice;
+  **θέλω**, Lesson 23)*
+- **ἄσπασαι … πολλά** — greet … warmly *(**πολλά**, neuter plural as an
+  adverb: many greetings)*
+- **Καπίτωνα, Σερηνίλλαν** — Capito, Serenilla *(people at home)*
+- **ἔπεμψά σοι εἰκόνιν μου** — I have sent you my portrait *(aorist of
+  **πέμπω**, Lesson 9; **εἰκόνιν** is **εἰκόνιον**, a little picture, with
+  its ending clipped)*
+- **διὰ Εὐκτήμονος** — by Euctemon *(**διά** + genitive: through, by way
+  of; the man who carried it)*
+- **ἔστι δέ μου ὄνομα** — and my name is *(**ἔστι** at the head of its
+  clause, Lesson 25)*
+- **Ἀντώνις Μάξιμος** — Antonius Maximus *(**Ἀντώνιος**: the Roman name he
+  was given on enlisting)*
+- **ἐρρῶσθαί σε εὔχομαι** — I pray that you are well *(the **ἔρρωσο** of
+  the formula turned into an infinitive after **εὔχομαι**; gloss it whole)*
+- **κεντυρία Ἀθηνονίκη** — century Athenonike *(his unit; the papyrus
+  abbreviates the first word)*
+- **εἰς Φιλαδέλφιαν** — to Philadelphia *(the village in the Fayum;
+  standard spelling **Φιλαδέλφειαν**)*
+- **ἀπὸ Ἀπίωνος υἱοῦ** — from Apion his son
+- *(regularised tier only)* **καλῶς ἔχειν** — to be well; **Μισηνούς** —
+  Misenum; **προσκυνεῖν** — to kiss *(the hand)*; **προκόπτειν** — to get
+  on; **σὺν τοῖς θεοῖς** — with the gods' help; **εἰκόνιον** — portrait
+:::
+
+::: {.exercise title="Understanding the reading"}
+Read both versions aloud before you answer anything.
+
+1. Where does the text of The Ancient Voice stop, and what is the first
+   thing Apion tells his father after it? Which word opens that sentence,
+   and why is it not **πότε**?
+2. **ἔλαβα.** Which lesson's verb is this, and what has happened to its
+   ending? Does the regularised tier agree with him?
+3. **βιάτικον.** It is not a Greek word. What is it, and what does it tell
+   you about where Apion now lives?
+4. **γράψον μοι ἐπιστόλιον.** Which aspect, and why a letter takes it. What
+   has **-ιον** done to **ἐπιστολή**, and where have you met that ending?
+5. **πρῶτον μὲν … δεύτερον … τρίτον.** The **μέν** promises a **δέ**. Is it
+   paid? Where else in this letter is a **μέν** left waiting?
+6. **περὶ τῆς τῶν ἀδελφῶν μου.** A **τῆς** with no noun. What noun is
+   missing, and how does the article hold its place?
+7. **ἵνα σου προσκυνήσω τὴν χέραν.** What does Apion want to do, and to
+   what? Which spelling is his and which is the vocab box's? What did the
+   regularised tier put in place of **ἵνα** + **προσκυνήσω**, and why?
+8. **ἔστι δέ μου ὄνομα Ἀντώνις Μάξιμος.** A man called Apion says his name
+   is Antonius Maximus. Explain. And why does **ἔστι** carry its accent on
+   the first syllable?
+9. The regularised tier closes with **ἔρρωσο**; the papyrus closes with
+   **ἐρρῶσθαί σε εὔχομαι.** What construction has Apion used, and where in
+   the letter has he used it before?
+10. The address on the back: **εἰς Φιλαδέλφιαν Ἐπιμάχῳ ἀπὸ Ἀπίωνος υἱοῦ.**
+    Name the case of each noun and say what it is doing. Then list three
+    spellings the regularised tier corrected, and say for each what Apion's
+    ear had heard.
+:::
+
+::: answers
+1. After **ἔσωσε εὐθέως**. The first news is **ὅτε εἰσῆλθον εἰς Μησήνους,
+   ἔλαβα βιάτικον** — *when I arrived at Misenum I got my travelling
+   money*. **ὅτε** opens it: *when* as a clause-opener, not a question
+   (Lesson 28's box). A pupil who reads **πότε** has put an accent on the
+   first syllable that is not there and has asked a question Apion did not
+   ask.
+2. **ἔλαβον**, Lesson 14 — the aorist of **λαμβάνω** — with the first
+   person ending **-α** of the first aorist (**ἔγραψα**) in place of the
+   second aorist's **-ον**. Speech was levelling the two patterns, and the
+   Koine of the New Testament does it too (**εἶπαν**). The regularised tier
+   writes **ἔλαβον**, which is what the class has learned; both were
+   understood.
+3. Latin *viaticum*, travelling money, spelled by ear in Greek letters
+   (**β** for *v*: by now the letter sounded so). Apion is in the Roman
+   fleet, paid by Caesar in Roman coin, and the first Latin word in his
+   Greek is the word for his pay. Lesson 24's observation in miniature:
+   when a language borrows, it borrows the words for what is new.
+4. Aorist: *write — one letter, now*. A letter is a deed, not a habit
+   (Lesson 26); **γράφε μοι** would be *keep writing to me*, which a son
+   might also mean, but Apion wants one. **-ιον** makes a diminutive — a
+   *little letter*, a note — as **παιδίον** is a *little child* (Lesson 23).
+   The regularised tier has **ἐπιστολήν**; the diminutive is affectionate
+   and would need a gloss.
+5. It is not paid. **δεύτερον** and **τρίτον** follow without **δέ**; the
+   list carried the contrast and the particle was not needed. The same
+   happened in the opening: **πρὸ μὲν πάντων** never finds a **δέ**
+   either, as Lesson 28's New Greek warned. Real letters leave **μέν**
+   waiting all the time, and the class's own letters may.
+6. **σωτηρίας**: *about the [safety] of my brothers*. The article agrees
+   with the missing noun (feminine genitive singular) and so tells you
+   which noun it is; Greek can leave a noun out when the article points
+   back to it clearly enough. English does the same with *that of*.
+7. To kiss — do reverence to — his father's hand: a son's greeting, and
+   one he cannot give from Misenum, so he asks for a letter instead.
+   **χέραν** is Apion's; **χεῖρα** is the box's (Lesson 28). The
+   regularised tier wrote **ὅτι ἐθέλω προσκυνεῖν τὴν χεῖρά σου** — *because
+   I want to kiss your hand* — using **ἐθέλω** + infinitive (Lesson 11)
+   because **προσκυνήσω** is a subjunctive and the class has not met one;
+   the loss is the purpose. Apion did not say he *wanted* to; he said the
+   letter was *so that* he could.
+8. He has enlisted, and the fleet gave him a Roman name; Apion is who he
+   was at home, Antonius Maximus is who he is on the muster roll, and his
+   father needs the second to write back to him. (The second letter that
+   survives, years later, is signed with the Roman name only.) **ἔστι**
+   carries the accent on its first syllable because it stands at the head
+   of its clause, as in Lesson 25 — *there is, moreover, to me a name …*
+9. Accusative and infinitive after a verb of praying: **εὔχομαι** + **σε**
+   + **ἐρρῶσθαι**, exactly the shape of **εὔχομαί σε ὑγιαίνειν** in the
+   second line (Lessons 16 and 28). He has closed the letter with the
+   construction he opened it with, and the two sentences bracket the body.
+   The regularised tier's **ἔρρωσο** is the shorter formula of the vocab
+   box; both were in use.
+10. **Φιλαδέλφιαν** accusative after **εἰς**: where it is going.
+    **Ἐπιμάχῳ** dative: the person it is for — the letter's recipient in
+    the recipient's case, as on the front. **Ἀπίωνος** genitive after
+    **ἀπό**, with **υἱοῦ** in apposition: *from Apion, his son*. The back
+    is the envelope, and it tells you the letter went by hand across the
+    sea and up the Nile and was expected to be read by someone who did not
+    know Apion from any other sailor, which is why *his son* is there.
+    Spellings: **ἐρωμένον** for **ἐρρωμένον** — one **ρ** heard for two;
+    **Μησήνους** for **Μισηνούς** — **η** and **ι** had come to sound the
+    same; **χέραν** for **χεῖρα** — **ει** and **ε** likewise, and the
+    ending levelled to the first declension; **εἰκόνιν** for **εἰκόνιον**
+    — the unstressed **-ο-** swallowed; **Ἀντώνις** for **Ἀντώνιος** — the
+    same; **Φιλαδέλφιαν** for **Φιλαδέλφειαν** — **ει** and **ι** again.
+    Any three. Every one is the sound of Greek as it was spoken in AD 100,
+    and most of them are the sound of Greek as it is spoken now.
+:::
+
+::: teacheronly
+**Verify before teaching.** The text follows the first edition (BGU II
+423) as reprinted in the standard anthologies (Deissmann, *Light from the
+Ancient East*; Hunt and Edgar, *Select Papyri* I 112). Points to check
+against a printed text: the adscript **τῶι** in line 1 (printed **τῷ** in
+some reprints), the punctuation around **τρίτον**, and the abbreviated
+**κεντυρί(α)**, expanded here. The editorial brackets have been removed
+for the class's sake and the fragmentary greetings written sideways in the
+left margin (Serenus, Turbo and others send their greetings) are omitted;
+say so if a pupil asks whether this is *all* of it.
+:::
+:::
+
 ::: {.question time="5 min"}
 1. The papyrus letter was written by someone who never expected it to be
    read nineteen hundred years later. Does that change how you should read

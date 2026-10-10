@@ -16,7 +16,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ἀγαθός** | good | 10 |
 | **ἀγαπάω** | I love *(the verb of **ἀγάπη**; a contract verb — take these forms whole: **ἀγαπᾷ** he loves, **ἀγαπῶμεν** we love; aorist **ἠγάπησα**)* | 19 |
 | **ἡ ἀγάπη** | love *(Koine)* | 19 |
-| **ἀγαπητός** | beloved *(the adjective of **ἀγάπη**)* | 31 |
+| **ἀγαπητός** | beloved *(the adjective of **ἀγαπάω**, Lesson 19)* | 23 |
 | **ὁ ἄγγελος** | messenger | 9 |
 | **ὁ ἀγρός** | field; the countryside | 2 |
 | **ἄγω** | I lead, bring *(you saw it inside **παιδαγωγός** in Lesson 3)* | 20 |
@@ -38,9 +38,11 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ἡ ἁμαρτία** | a missing of the mark; a fault; sin *(the New Testament's word)* | 19 |
 | **ἀμήν** | truly *(Hebrew; the Gospels' way of beginning a solemn statement)* | 35 |
 | **ἄν** | *(a particle: with the subjunctive, opens a general or future clause; with a past indicative, marks "would have")* | 35 |
+| **ἀναβαίνω** | I go up *(aorist **ἀνέβη**, he went up — Matthew's verb in Lesson 21; participle **ἀναβαίνων**)* | 23 |
 | **ἀναγιγνώσκω** | I read *(literally *I know again*: **ἀνα-** + **γιγνώσκω**)* | 6 |
 | **ὁ ἄνεμος** | wind | 27 |
 | **ὁ ἀνήρ** | man *(as against a woman; third declension)* | 15 |
+| **ὁ ἀνήρ, ἀνδρός** | man *(Lesson 15)* | 18 |
 | **ὁ ἄνθρωπος** | human being, person | 1 |
 | **ἀνοίγω** | I open *(future passive **ἀνοιγήσομαι**, I will be opened)* | 36 |
 | **ἄνωθεν** | from above; again *(both at once, in John)* | 35 |
@@ -54,6 +56,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ἡ ἀρετή** | excellence, virtue | 2 |
 | **ὁ ἄρτος** | bread, a loaf | 36 |
 | **ἡ ἀρχή** | beginning; origin; rule, power | 6 |
+| **ὁ ἄρχων** | ruler, commander *(genitive **ἄρχοντος**; a participle of **ἄρχω**, I rule, turned into a noun — compare **ἡ ἀρχή**, Lesson 6)* | 23 |
 | **ἀσπάζομαι** | I greet | 28 |
 | **αὔριον** | tomorrow | 32 |
 | **αὐτός, αὐτή, αὐτό** | he, she, it; *(in the nominative)* emphatic: *they themselves* | 21 |
@@ -136,12 +139,14 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ἔλεγον** | I was saying *(imperfect of **λέγω**)* | 13 |
 | **ἐλεέω** | I show mercy *(the verb of **τὸ ἔλεος**, Lesson 20)* | 22 |
 | **τὸ ἔλεος** | mercy, compassion *(neuter, Koine; Attic has **ὁ ἔλεος**, masculine)* | 20 |
+| **ὁ Ἕλλην** | a Greek *(genitive **Ἕλληνος**; plural **οἱ Ἕλληνες**)* | 23 |
 | **ἐλπίζω** | I hope *(+ accusative + infinitive, like **εὔχομαι**)* | 28 |
 | **ἔμαθον** | I learned *(aorist of **μανθάνω**)* | 14 |
 | **ἐν** | in, among *(with the dative)* | 9 |
 | **ἐνταῦθα** | here; there | 6 |
 | **ἐντός** | inside; in the midst of *(with the genitive)* | 27 |
 | **ἔπαθον** | I suffered, I experienced *(aorist of **πάσχω**)* | 15 |
+| **ἐπεί** | when; since | 23 |
 | **ἔπειτα** | then, next, thereupon | 14 |
 | **ἔπεσον** | I fell *(aorist of **πίπτω**, I fall)* | 14 |
 | **ἐπί** | on, upon *(with the genitive)*; on to, against *(with the accusative)* | 20 |
@@ -213,13 +218,17 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **καθεύδω** | I sleep | 5 |
 | **καί** | and; also, even | 2 |
 | **κακός** | bad, evil | 10 |
+| **κακῶς** | badly | 11 |
 | **καλέω** | I call, I name *(aorist **ἐκάλεσα**; passive **καλοῦμαι**, I am called)* | 34 |
 | **καλός** | fine, beautiful, noble | 10 |
+| **καλῶς** | well, finely | 11 |
 | **ἡ καρδία** | heart | 21 |
 | **κατά** | according to *(with the accusative)*; down from, against *(with the genitive)* | 33 |
+| **καταβαίνω** | I go down *(imperfect **κατέβαινεν**, Lesson 22's first verb)* | 23 |
 | **καταλαμβάνω** | I seize, overtake; grasp, understand *(aorist **κατέλαβον**)* | 27 |
 | **κελεύω** | I order, I command | 26 |
 | **ἡ κεφαλή** | head | 20 |
+| **κλέπτω** | I steal | 11 |
 | **ὁ κόσμος** | order; ornament; the world *(three corners of one field)* | 27 |
 | **ὁ κριτής** | judge; one who decides | 4 |
 | **ὁ κύριος** | master, the one in charge; lord *(the Septuagint's word for God)* | 19 |
@@ -255,7 +264,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **μένω** | I stay, remain; I wait | 5 |
 | **μεριμνάω** | I worry, I am anxious *(future **μεριμνήσω**)* | 32 |
 | **μετά** | with *(with the genitive: **μετ᾽ ἐμοῦ**, with me)*; after *(with the accusative)* | 20 |
-| **τὸ μέτρον** | measure, standard | 12 |
+| **τὸ μέτρον** | measure, standard *(new)* | 12 |
 | **μή** | not *(with commands, wishes and prohibitions)* | 26 |
 | **ἡ μῆνις** | wrath, anger *(of a god or a hero; not ordinary temper)* | 15 |
 | **ἡ μήτηρ** | mother *(genitive **μητρός**)* | 28 |
@@ -297,6 +306,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ὅς, ἥ, ὅ** | who, which | 17 |
 | **ὅταν** | whenever, when *(with the subjunctive; **ὅτε** + **ἄν**)* | 35 |
 | **ὅτε** | when *(not a question; the word that opens *when I came …*)* | 28 |
+| **ὅτι** | that *(introducing what somebody says or knows — the second way of Lesson 16)*; because | 17 |
 | **οὐ (οὐκ, οὐχ)** | not | 2 |
 | **οὐδέ** | and not, nor; not even | 6 |
 | **οὐδείς** | no one; *(neuter **οὐδέν**)* nothing | 19 |
@@ -305,6 +315,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **οὐκέτι** | no longer | 14 |
 | **οὖν** | therefore, so *(postpositive)* | 17 |
 | **ὁ οὐρανός** | sky, heaven | 2 |
+| **οὗτος, αὕτη, τοῦτο** | this, this one; **ταῦτα** — these things *(it stands outside the article group: **οὗτος ὁ παῖς**, this boy)* | 17 |
 | **οὕτως** | thus, so, in this way | 7 |
 | **ὁ ὄχλος** | crowd | 21 |
 
@@ -340,9 +351,11 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **πολλοί** | many | 7 |
 | **πολύτροπος** | of many turns; much-travelled; resourceful | 15 |
 | **πονηρός** | wicked, bad; worthless | 36 |
+| **ὁ πόνος** | toil, hard work; trouble | 11 |
 | **ὁ ποταμός** | river | 3 |
 | **πότε** | when? | 25 |
 | **ποῦ** | where? | 25 |
+| **πράττω** | I do, act; I fare *(with **καλῶς** or **κακῶς**: I do well, I do badly)* | 11 |
 | **τὸ πρόβατον** | sheep | 34 |
 | **πρός** | towards, with, in the presence of *(with the accusative)* | 6 |
 | **ὁ προφήτης** | prophet; one who speaks for a god | 21 |
@@ -362,7 +375,9 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ἡ σκοτία** | darkness *(Koine; Attic usually **ὁ σκότος**)* | 27 |
 | **ἡ σοφία** | wisdom; skill | 16 |
 | **σοφός** | wise, skilled | 10 |
+| **σπεύδω** | I hurry, am eager | 11 |
 | **σπλαγχνίζομαι** | I am moved with compassion *(Koine; from **τὰ σπλάγχνα**, the inward parts — the place pity is felt)* | 22 |
+| **ὁ στρατηγός** | general, commander *(**στρατός**, army, + **ἄγω**)* | 23 |
 | **σύ** | you *(one person; emphatic, like **ἐγώ**)* | 11 |
 | **σύν** | together with *(with the dative)* | 9 |
 | **σῴζω** | I save, I keep safe *(aorist **ἔσωσα**)* | 28 |
@@ -397,7 +412,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ὑγιαίνω** | I am well, I am in health | 28 |
 | **τὸ ὕδωρ** | water *(third declension; genitive **ὕδατος**)* | 20 |
 | **ὁ υἱός** | son | 8 |
-| **ὑμεῖς** | you *(plural; **ὑμῶν, ὑμῖν, ὑμᾶς**)* | 32 |
+| **ὑμεῖς** | you *(plural; the dative **ὑμῖν** was in Lesson 11)* | 17 |
 | **ὑπάγω** | I go, I go away *(Koine)* | 23 |
 | **ὑπέρ** | on behalf of, for *(with the genitive)* | 33 |
 | **ὑπό** | by *(with the genitive: the agent of a passive)* | 31 |
@@ -441,7 +456,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 |:--|:--|:--:|
 | **ὦ** | O (used before a name or noun when addressing someone) | 4 |
 | **ἡ ὥρα** | hour; season; the right time | 2 |
-| **ὡς** | as, like | 31 |
+| **ὡς** | as, like; *(with a verb of saying)* how, that | 17 |
 | **ὥσπερ** | just like, as | 20 |
 | **ὥστε** | so that, with the result that | 35 |
 | **ὤφθη** | he was seen; he appeared *(aorist passive of **ὁράω**; with the dative of the person who saw)* | 33 |

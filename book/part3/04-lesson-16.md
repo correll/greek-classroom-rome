@@ -573,6 +573,182 @@ Er — and never settled it either.
 :::
 :::
 
+::: {.reading time="20 min" title="The naming of Nobody" source="Homer, *Odyssey* 9.360–370 (Allen's Oxford text), with an adapted version"}
+The Voice gave you the two lines the trick turns on. Here is the whole
+exchange — the wine, the bargain, the name, and the Cyclops's answer —
+twice. The first version was written for you, in Attic, with the words and
+forms you have; it is **adapted**, and labelled so. Odysseus is telling the
+story himself, so look for the first person. The second is Homer.
+
+**Adapted**
+
+οὕτως εἶπεν ὁ Κύκλωψ, καὶ ἐγὼ πάλιν ἔδωκα τὸν οἶνον. τρὶς ἔδωκα, καὶ τρὶς
+ἔπιεν ὁ Κύκλωψ· οὐκ ἦν σοφός. ἔπειτα ὁ οἶνος ἦλθεν εἰς τὸν θυμὸν τοῦ
+Κύκλωπος, καὶ τότε εἶπον τοὺς λόγους τοῦ δόλου·
+
+"ὦ Κύκλωψ, ἐθέλεις γιγνώσκειν τὸ ὄνομα. ἐγὼ βούλομαι λέγειν τὸ ὄνομα,
+ἀλλὰ βούλομαι καὶ τὸ δῶρον τοῦ ξένου ἔχειν. Οὖτις τὸ ὄνομά ἐστιν· ἡ μήτηρ
+καὶ ὁ πατὴρ καὶ οἱ ἄλλοι πάντες ἑταῖροι λέγουσί με Οὖτιν εἶναι."
+
+οὕτως εἶπον. κακὸς ἦν ὁ θυμὸς τοῦ Κύκλωπος, καὶ εὐθὺς εἶπεν· "ἐγὼ βούλομαι
+τοὺς ἄλλους ἑταίρους πρῶτον ἐσθίειν, Οὖτιν τέλος. οὕτως ἐγὼ τὸ δῶρον τοῦ
+ξένου δίδωμι."
+
+**Homer, *Odyssey* 9.360–370**
+
+ὣς ἔφατ᾽, αὐτάρ οἱ αὖτις ἐγὼ πόρον αἴθοπα οἶνον.  
+τρὶς μὲν ἔδωκα φέρων, τρὶς δ᾽ ἔκπιεν ἀφραδίῃσιν.  
+αὐτὰρ ἐπεὶ Κύκλωπα περὶ φρένας ἤλυθεν οἶνος,  
+καὶ τότε δή μιν ἔπεσσι προσηύδων μειλιχίοισι·  
+"Κύκλωψ, εἰρωτᾷς μ᾽ ὄνομα κλυτόν, αὐτὰρ ἐγώ τοι  
+ἐξερέω· σὺ δέ μοι δὸς ξείνιον, ὥς περ ὑπέστης.  
+Οὖτις ἐμοί γ᾽ ὄνομα· Οὖτιν δέ με κικλήσκουσι  
+μήτηρ ἠδὲ πατὴρ ἠδ᾽ ἄλλοι πάντες ἑταῖροι."  
+ὣς ἐφάμην, ὁ δέ μ᾽ αὐτίκ᾽ ἀμείβετο νηλέϊ θυμῷ·  
+"Οὖτιν ἐγὼ πύματον ἔδομαι μετὰ οἷς ἑτάροισι,  
+τοὺς δ᾽ ἄλλους πρόσθεν· τὸ δέ τοι ξεινήϊον ἔσται."
+
+::: gloss
+- **ὁ Κύκλωψ, Κύκλωπος** — the Cyclops *(third declension; vocative
+  **Κύκλωψ**)*
+- **τρίς** — three times
+- **ἡ μήτηρ, ὁ πατήρ** — mother, father *(third declension; Lesson 28 gives
+  the rest)*
+- **με, μοι** — me, to me *(the accusative and dative of **ἐγώ**; both
+  enclitic)*
+- **ὣς ἔφατ᾽** — so he spoke *(**ὥς** is epic for **οὕτως**; **ἔφατο** is
+  a past tense of **φημί**, I say — take it whole)*
+- **αὐτάρ** — but, and then *(as in Lesson 15)*
+- **οἱ** — to him *(a pronoun, not the article; Attic **αὐτῷ**)*
+- **αὖτις** — again *(Attic **αὖθις**; the adapted version has **πάλιν**)*
+- **πόρον** — I handed, I gave *(aorist; take it whole)*
+- **αἴθοπα οἶνον** — gleaming wine *(**αἶθοψ**, fire-faced; accusative)*
+- **μὲν … δ᾽** — **μέν … δέ**, balancing the two halves *(Lesson 17)*
+- **φέρων** — bringing it *(a participle of **φέρω**, Part IV; take it
+  whole)*
+- **ἔκπιεν** — he drank it off *(**ἐκ** + **ἔπιεν**, the aorist of **πίνω**,
+  without the augment)*
+- **ἀφραδίῃσιν** — in his folly *(dative plural, Homeric **-ῃσιν**)*
+- **ἐπεί** — when *(as in Lesson 15)*
+- **Κύκλωπα περὶ φρένας** — round the wits of the Cyclops *(**αἱ φρένες**,
+  the midriff, where Homer keeps the mind; **περί** here with the
+  accusative)*
+- **ἤλυθεν** — came *(= **ἦλθεν**, the longer epic form)*
+- **καὶ τότε δή** — and then indeed
+- **μιν** — him *(epic accusative pronoun; Attic **αὐτόν**)*
+- **ἔπεσσι … μειλιχίοισι** — with honeyed words *(dative plural; Attic
+  **ἔπεσι … μειλιχίοις**)*
+- **προσηύδων** — I addressed *(imperfect; take it whole)*
+- **εἰρωτᾷς** — you ask *(Attic **ἐρωτᾷς**; a contract verb, Part VI)*
+- **μ᾽** — **με**
+- **κλυτόν** — famous *(agreeing with **ὄνομα**)*
+- **τοι** — to you *(= **σοι**, dative of **σύ**)*
+- **ἐξερέω** — I will tell *(a future; take it whole)*
+- **δός** — give! *(aorist imperative of **δίδωμι**)*
+- **ξείνιον, ξεινήϊον** — guest-gift *(the gift a host owes a stranger —
+  **ὁ ξένος**, in its epic spelling **ξεῖνος**; Attic **ξένιον**)*
+- **ὥς περ ὑπέστης** — just as you promised *(**ὑπέστης**, aorist; take it
+  whole)*
+- *lines 366–367* — glossed in the Voice above
+- **ἐφάμην** — I spoke *(the first person of **ἔφατο**; take it whole)*
+- **ὁ δέ** — and he *(**ὁ** as a pronoun, as in Lesson 15)*
+- **αὐτίκ᾽** — **αὐτίκα**, at once *(= **εὐθύς**)*
+- **ἀμείβετο** — answered *(imperfect; take it whole)*
+- **νηλέϊ θυμῷ** — with pitiless heart *(**νηλεής**: **νη-** not +
+  **ἔλεος** pity)*
+- **πύματον** — last *(agreeing with **Οὖτιν**)*
+- **ἔδομαι** — I will eat *(future of **ἐσθίω**; take it whole)*
+- **μετὰ οἷς ἑτάροισι** — after his companions *(**οἷς** here = his own;
+  **ἑτάροισι**, Homeric dative plural of the short stem)*
+- **τοὺς δ᾽ ἄλλους** — and the others *(**τούς** as a pronoun)*
+- **πρόσθεν** — before them, first
+- **τὸ δέ** — and that *(**τό** as a pronoun)*
+- **ἔσται** — will be *(future of **εἰμί**; take it whole)*
+:::
+
+::: {.exercise title="Understanding the reading"}
+Read the adapted version aloud, then the Homer, slowly. Then answer.
+
+1. Who is telling the story? Find three first-person verbs in the adapted
+   version and one in the Homer.
+2. **τρὶς ἔδωκα, καὶ τρὶς ἔπιεν** — which tense are both verbs, and why is
+   it the right tense for *three times*?
+3. **ἐθέλεις γιγνώσκειν τὸ ὄνομα** — which of the infinitive's two jobs is
+   this?
+4. **λέγουσί με Οὖτιν εἶναι** — which job is this? Rebuild the direct words
+   the companions would say, and say what happens to **Οὖτιν**.
+5. Homer's Odysseus says **ἐξερέω**, *I will tell*, and the Cyclops says
+   **ἔδομαι**, *I will eat*, and **ἔσται**, *it will be*. The adapted
+   version has no futures at all. What did it use instead, and what was
+   lost?
+6. **βούλομαι τοὺς ἄλλους ἑταίρους πρῶτον ἐσθίειν, Οὖτιν τέλος.** Which
+   two cases are **τοὺς ἄλλους ἑταίρους** and **Οὖτιν** in, and what is
+   the infinitive doing with them?
+7. Find the Homeric forms of these Attic words in the original: **ἦλθεν**,
+   **πάλιν**, **αὐτόν**, **εὐθύς**. What kind of difference is each?
+8. **ὁ δέ μ᾽ αὐτίκ᾽ ἀμείβετο** — what does **ὁ** mean, and how do you know?
+9. The Cyclops promises a guest-gift and then says what it is. In the
+   adapted version, which verb carries the promise, and which tense is it?
+   What is grim about the word **δίδωμι** there?
+10. Count the articles in the adapted version; then count them in Homer. Then
+    find the one Homeric word that an Attic reader would take for an
+    article, and say what it actually is.
+:::
+
+::: answers
+1. Odysseus, in the first person: **ἔδωκα**, **εἶπον** (twice), **βούλομαι**
+   (in his own speech). In Homer, **πόρον**, **ἔδωκα**, **προσηύδων**,
+   **ἐφάμην** — any one. A pupil who offers **ἔδωκα** for both versions
+   has noticed that it is the one word the adaptation did not need to
+   change.
+2. Aorist. Each giving and each drinking is a single completed act, and
+   *three times* counts acts; the imperfect would make it a continuous
+   pouring with no number to it. Homer makes the same choice:
+   **ἔδωκα … ἔκπιεν**.
+3. Job one: **γιγνώσκειν** completes **ἐθέλεις**, *you want to know*. No
+   time in it.
+4. Job two: **με** is the accusative subject and **εἶναι** the infinitive,
+   *they say that I am Nobody*. The direct words are **Οὖτις εἶ** or
+   **Οὖτίς ἐστιν** — *you are Nobody*, *he is Nobody* — and **Οὖτιν**
+   goes back to the nominative **Οὖτις**, because it describes the subject
+   and follows it. This is the Rebuild exercise of the Investigation
+   applied to the lie itself.
+5. It used **βούλομαι** with an infinitive: *I want to tell*, *I want to
+   eat*, and for *that will be your gift* it used the present **δίδωμι**,
+   *so I give*. What was lost is the certainty. **ἔδομαι** is a promise
+   about the future; **βούλομαι ἐσθίειν** is a wish. The Cyclops in Homer
+   is not wishing. Accept any answer that sees that the adaptation had to
+   change the time because the class has not yet met the future.
+6. Both accusative: **τοὺς ἄλλους ἑταίρους** is the object of
+   **ἐσθίειν**, and **Οὖτιν** is a second object, with **ἐσθίειν**
+   understood again: *to eat the others first, Nobody last*. The
+   infinitive completes **βούλομαι**, job one. A pupil who calls **Οὖτιν**
+   the subject of the infinitive should be asked who is doing the eating.
+7. **ἤλυθεν** (a longer form of the same stem — a difference of form);
+   **αὖτις** (a different word, Attic **αὖθις**, with **τ** where Attic
+   has **θ** — a difference of sound); **μιν** (a wholly different pronoun —
+   a difference of vocabulary); **αὐτίκα** (the same word, which Attic also
+   has, where the adaptation chose **εὐθύς** — no difference at all, and a
+   pupil who says so has read carefully).
+8. *He*, the Cyclops. **ὁ** stands on its own, with no noun after it, and is
+   the subject of **ἀμείβετο**; **δέ** marks it as the next speaker. This
+   is the pronoun of Lesson 15's Reading again, and the same test applies:
+   an Attic article cannot stand alone.
+9. **βούλομαι … ἔχειν** carries the bargain on Odysseus's side — he wants
+   the gift; on the Cyclops's side there is no promise at all, only
+   **δίδωμι**, present: *so I give it*. The grim thing is that
+   **δίδωμι** is the verb of **τὸ δῶρον** and of Lesson 9's letters, and
+   here the gift is being eaten last. Homer's joke is the same —
+   **ξεινήϊον**, the sacred gift of hospitality, is the order in which the
+   guests are eaten.
+10. Adapted: twenty-one; the exact number matters less than that every
+    noun has one. Homer: none. The word is **ὁ** in line 368 (and
+    **τούς**, **τό** in 370): pronouns, *he*, *the others*, *that*. A pupil
+    who has done Lesson 15's Reading will find this quickly; make them say
+    *why* it cannot be an article in Attic, not just that it is not.
+:::
+:::
+
 ::: {.question time="5 min"}
 1. Odysseus says nothing false and deceives completely. Is that lying? Does
    your answer change if you imagine doing it to a friend rather than to a
