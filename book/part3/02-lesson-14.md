@@ -121,7 +121,7 @@ Marcus was right about the indicative and wrong about the language.
 
 Latin's *dixit* does double duty: it serves both as *he said* (a single
 event — the Greek aorist) and as *he has said* (a thing done, with a result
-standing — the Greek **perfect**, which this course leaves for later). Greek keeps
+standing — the Greek **perfect**, which you meet in Lesson 33). Greek keeps
 those two apart with different tenses.
 
 So the score is roughly even in the past and lopsided everywhere else.
@@ -156,7 +156,7 @@ that the aorist stem is usually the *shorter* one: **λαμβάν-** against
 the aorist is the verb stripped down.
 
 **ἐγένετο** is a third person singular aorist of a verb whose endings you
-have not met — the middle voice, which this course does not teach in full. Take it
+have not met — the middle voice, which you meet in full in Lesson 31. Take it
 whole. It
 is one of the commonest words in Greek narrative and it means *came to be*,
 in the strong sense: something that was not, now is.

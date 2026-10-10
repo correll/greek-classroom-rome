@@ -229,7 +229,7 @@ be able to build.
 end in **-ομαι**, not **-ω**. You have met two before:
 **ἔρχομαι** and **ἐγένετο** in Lesson 14. There is a whole second set of endings behind
 them, and it is not your business yet. Learn the two forms printed above for
-each verb and use them; the family they belong to is unpacked later.
+each verb and use them; the family they belong to is unpacked in Lesson 31.
 
 **ὁ νόστος** is one of the few Greek words with no English equivalent at all.
 It is not *return* and not *arrival*. It is the getting home — the whole of
