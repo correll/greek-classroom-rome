@@ -8,20 +8,21 @@ the standard any later lesson should meet.
 
 ## The lesson, in six movements
 
-Every lesson keeps the same order. A lesson now runs across two class
-periods of 45 minutes; the first period is movements 1–3, the second is
-4–6.
+Every lesson keeps the same order. Nothing is timed: the teacher sets the
+pace. Most classes will take two meetings for a lesson, movements 1–3 and
+4–6. Do not write wording that fixes the pace ("this afternoon", "last
+week", "five minutes"); refer back by lesson number.
 
 | | Movement | Block | What it holds |
 |:--|:--|:--|:--|
-| 1 | The Story | `::: {.story time="5 min"}` | A classroom scene. English. |
-| 2 | The New Greek | `::: {.newgreek time="10 min"}` | One grammatical idea, with examples; the `::: vocab` box. |
-| 3 | The Investigation | `::: {.investigation time="20 min"}` | Exercises. Each exercise has **ten** items. One of them is **Retrieval**. |
-| 4 | The Ancient Voice | `::: {.voice time="10 min" source="…"}` | A short authentic text, glossed line by line, with teacher notes. Unchanged. |
-| 5 | The Reading | `::: {.reading time="20 min" title="…" source="…"}` | A passage of connected Greek with a running vocabulary beside it, then comprehension questions. |
-| 6 | The Question | `::: {.question time="5 min"}` | Three reflection questions. |
+| 1 | The Story | `::: story` | A classroom scene. English. |
+| 2 | The New Greek | `::: newgreek` | One grammatical idea, with examples; the `::: vocab` box. |
+| 3 | The Investigation | `::: investigation` | Exercises. Each exercise has **ten** items. One of them is **Retrieval**. |
+| 4 | The Ancient Voice | `::: {.voice source="…"}` | A short authentic text, glossed line by line, with teacher notes. Unchanged. |
+| 5 | The Reading | `::: {.reading title="…" source="…"}` | A passage of connected Greek with a running vocabulary beside it, then comprehension questions. |
+| 6 | The Question | `::: question` | Three reflection questions. |
 
-A closing `::: {.story time="—"}` may follow The Question, as before.
+A closing `::: story` may follow The Question, as before.
 
 ## Block syntax
 
@@ -35,7 +36,7 @@ paradigm part reading gloss`.
 The Reading block:
 
 ```
-::: {.reading time="20 min" title="The cat and the tablet" source="composed"}
+::: {.reading title="The cat and the tablet" source="composed"}
 **ὁ Φῆλιξ** βλέπει τὸν αἴλουρον. ὁ αἴλουρος οὐ βλέπει τὸν Φήλικα …
 
 (more paragraphs of Greek; blank line between paragraphs)

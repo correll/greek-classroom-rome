@@ -256,3 +256,9 @@ Use this when planning, and when deciding how much of a scene to act out.
 | 28 | Aelia, Felix | letters home; Felix writes to the cat |
 | 29 | the class | three questions each; Marcus prepares and says nothing |
 | 30 | Marcus | reads last, prepared: the sentence he got wrong, got right |
+| 31 | Felix | washes the cat; three voices in one courtyard |
+| 32 | Marcus | six promises in the future tense, held to the grammar |
+| 33 | Julia | **τετέλεσται**: a past, or a present? |
+| 34 | Theodosius | **ἀγαπᾷς** and **φιλεῖς**: Jerome was copying, not being elegant |
+| 35 | Quintus, Livia | a question the indicative cannot ask |
+| 36 | Julia, Theodoros | the tablets given back; the letter ten years later |

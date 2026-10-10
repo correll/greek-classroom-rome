@@ -27,7 +27,7 @@ can **point at the evidence** for your reading.
 That is the prize, and it is worth being exact about it. When you read a
 Greek sentence correctly you have not had an impression — you have built an
 argument out of marks on a page, and you can be asked to defend it. One
-question will follow you through all thirty lessons: *what in the sentence
+question will follow you through all thirty-six lessons: *what in the sentence
 tells you that?* It is not a classroom mannerism. It is the whole
 transferable skill, and everything else in this book exists to make you ask
 it.
@@ -92,7 +92,7 @@ advance watches for the label instead of the behaviour, and has been given
 the answer to a question this book wants them to work out for themselves.
 
 The full character notes, including what each pupil is for and which lesson
-reveals what, are in the teacher's edition, together with the thirty-lesson
+reveals what, are in the teacher's edition, together with the thirty-six-lesson
 scope and sequence. A teacher planning a term should read the latter first.
 :::
 
@@ -126,14 +126,16 @@ drift apart.
 
 ## Where this will take you
 
-By the end of this book you will be able to read a short authentic passage
-with help. *What the Course Covers* sets out the thirty lessons and the shape
-of each one; read it when you want to know where you are.
+By the end of this book you will be able to read a page of real Greek —
+Plato, a Gospel, a letter on papyrus — with a vocabulary beside it, and say
+what every ending on the page is doing. *What the Course Covers* sets out
+the thirty-six lessons and the shape of each one; read it when you want to
+know where you are.
 
-That is less ground than a first-year university course covers. It is about
-right for thirty lessons at your age, carried alongside everything else you
-are doing, and it is enough to reach real Greek rather than sentences written
-to be easy.
+That is most of the grammar of Greek: nearly every part of the verb (the
+optative and a few rarer forms are left for later), all three declensions,
+and the constructions you will meet on almost any page. It is enough to reach real Greek rather than sentences written to be
+easy.
 
 ## Attic first, then the others
 

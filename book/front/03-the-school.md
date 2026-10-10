@@ -46,7 +46,7 @@ instruction, and the teacher who somehow sees through everything.
 
 You will meet them as they come.
 
-Eight pupils and one teacher share this room with you for thirty lessons, and
+Eight pupils and one teacher share this room with you for thirty-six lessons, and
 you will learn who they are the way you learn who anyone is — by watching
 what they do when something is difficult, and noticing who turns out to have
 been right.

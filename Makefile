@@ -27,7 +27,13 @@ BODY_SRC    := $(sort $(wildcard book/part1/*.md)) \
                $(sort $(wildcard book/back/*.md))
 
 BOOK_SRC    := $(FRONT_SRC) $(BODY_SRC)
-TEACHER_BOOK_SRC := $(FRONT_SRC) $(TEACH_SRC) $(BODY_SRC)
+# the teacher's edition puts its first chapter (how the book uses the
+# research on learning) straight after the preface
+TEACH_FIRST := $(sort $(wildcard book/teacher/00-*.md))
+TEACH_REST  := $(filter-out $(TEACH_FIRST),$(TEACH_SRC))
+TEACHER_BOOK_SRC := book/metadata.yaml book/front/01-preface.md $(TEACH_FIRST) \
+                    $(filter-out book/metadata.yaml book/front/01-preface.md,$(FRONT_SRC)) \
+                    $(TEACH_REST) $(BODY_SRC)
 
 GRAM_SRC    := grammar/metadata.yaml $(sort $(wildcard grammar/*.md))
 

@@ -1,22 +1,24 @@
 # What the Course Covers {.unnumbered}
 
-Thirty lessons, in five parts of six. Here is the shape of them, and the
+Thirty-six lessons, in six parts of six. Here is the shape of them, and the
 shape of a single lesson, so that you know where you are.
 
 ## The shape of a lesson
 
-Every lesson has the same five movements, so that you know what is coming
-even as the Greek gets harder. The timings assume a 45-minute period.
+Every lesson has the same six movements, in the same order, so that you know
+what is coming even as the Greek gets harder. How long each takes is for your
+teacher to decide; most lessons fill more than one class.
 
-| | Movement | Time | What happens |
-|:--|:--|:--|:--|
-| 1 | **The Story** | 5 min | A short scene in the classroom. |
-| 2 | **The New Greek** | 10 min | A few new words and **one** main grammatical idea. |
-| 3 | **The Investigation** | 15 min | You decode, translate, compare, or compose — and explain your reasoning. |
-| 4 | **The Ancient Voice** | 10 min | A passage by a real author. At first two words. By the end, whole passages — and, in the last lessons, the pupils' own choices from the book. |
-| 5 | **The Question** | 5 min | A short reflection. What does this mean? Why these words? Is the idea still live? |
+| | Movement | What happens |
+|:--|:--|:--|
+| 1 | **The Story** | A short scene in the classroom. |
+| 2 | **The New Greek** | New words and **one** main grammatical idea. |
+| 3 | **The Investigation** | Exercises: first a **Retrieval** from earlier lessons, done from memory, then decoding, translating, comparing and composing — and explaining your reasoning. |
+| 4 | **The Ancient Voice** | A short passage by a real author, glossed word by word. At first two words; later whole sentences. |
+| 5 | **The Reading** | A longer passage, with its vocabulary beside it. First a story about the class, written by Theodoros; from Lesson 15, real Greek — an adapted version first, then the original. |
+| 6 | **The Question** | A short reflection. What does this mean? Why these words? Is the idea still live? |
 
-The third movement is the one that matters. Producing an English sentence is
+The third movement is the one that matters most. Producing an English sentence is
 not the exercise; being able to say **what in the Greek makes it that
 sentence** is the exercise.
 
@@ -28,7 +30,7 @@ built that way on purpose, and Lesson 29 is nothing else. These cannot be
 answered from memory, only from understanding.
 :::
 
-## The five parts
+## The six parts
 
 ### Part I · The Strange Language — Lessons 1–6
 
@@ -64,4 +66,13 @@ hundred years.
 Questions, commands, and persuasion; the translator's dilemma, where two
 readings are both grammatically possible and only one is right; a short
 letter composed in Greek; and a passage of your own choosing, prepared alone
-and read aloud at the end.
+and read aloud in the courtyard.
+
+### Part VI · Writing What You Read — Lessons 31–36
+
+The rest of the verb: the middle and passive voices, the future, the
+perfect, the verbs whose vowels melt together, the subjunctive, and the
+oldest verbs in the language, **δίδωμι**, **τίθημι**, **ἵστημι**. Each comes
+with a longer real passage that could not be read without it, and the
+course ends where it began, with the tablets the class wrote in its first
+lessons.

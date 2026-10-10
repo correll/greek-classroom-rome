@@ -6,23 +6,27 @@ lesson and how it turns out. The student edition has the part-level overview
 instead, without the plots.
 :::
 
-Thirty lessons, in five parts of six. The course can run as one semester at
-two substantial lessons a week, or as a full year with time for practice,
-projects, and extra reading. A year is better.
+Thirty-six lessons, in six parts of six. The course is not tied to a
+calendar or to an age: it can be taught in middle school or high school,
+over one year or two, and the teacher sets the pace. Parts I–V make a
+complete first course in reading; Part VI completes the verb.
 
 ## The shape of a lesson
 
-Every lesson has the same five movements, so that students know what is
-coming even as the Greek gets harder. The timings assume a 45-minute
-period.
+Every lesson has the same six movements, in a fixed order, so that students
+know what is coming even as the Greek gets harder. Nothing is timed. Most
+classes will need two meetings for a lesson — the first three movements in
+one, the last three in the next — but the pace is yours; see *How This Book
+Uses What Is Known About Learning*.
 
-| | Movement | Time | What happens |
-|:--|:--|:--|:--|
-| 1 | **The Story** | 5 min | A short scene in the classroom. Someone has lost a tablet, misread an instruction, challenged Marcus, or provoked Theodoros into a digression. |
-| 2 | **The New Greek** | 10 min | A small number of new words and **one** main grammatical idea, with pronunciation and examples. |
-| 3 | **The Investigation** | 15 min | Students decode, translate, compare, or compose. They must explain their reasoning, not merely produce an answer. |
-| 4 | **The Ancient Voice** | 10 min | A passage from a real author. At first this is two words. By the end it is whole passages. |
-| 5 | **The Question** | 5 min | A short reflection. What does this mean? Why these words? Is the idea still live? What did the pupils get wrong, and why was it a reasonable mistake? |
+| | Movement | What happens |
+|:--|:--|:--|
+| 1 | **The Story** | A short scene in the classroom. Someone has lost a tablet, misread an instruction, challenged Marcus, or provoked Theodoros into a digression. |
+| 2 | **The New Greek** | New words (six to fourteen, plus some earlier words for review) and **one** main grammatical idea, with pronunciation and examples. |
+| 3 | **The Investigation** | A ten-item **Retrieval** exercise from the three or four previous lessons, done from memory; then exercises of ten items each — decode, translate, compare, compose. Students must explain their reasoning, not merely produce an answer. |
+| 4 | **The Ancient Voice** | A short passage from a real author, glossed word by word. At first two words; later whole sentences. |
+| 5 | **The Reading** | A longer passage with a running vocabulary beside it and ten comprehension questions. Lessons 3–14: *Theodoros's tablets*, a composed story about the class. Lessons 15–36: a real text in two tiers, adapted then original. |
+| 6 | **The Question** | A short reflection. What does this mean? Why these words? Is the idea still live? What did the pupils get wrong, and why was it a reasonable mistake? |
 
 ## Part I · The Strange Language (1–6)
 
@@ -119,7 +123,26 @@ something.*
 | 27 | The Translator's Dilemma | Ambiguity, idiom, semantic range | Two translations compete. Why a grammatically possible rendering can still be wrong. |
 | 28 | A Greek Letter from Rome | Composition: greetings, requests, familiar constructions | Each pupil writes a short letter in Greek using only forms already learned. |
 | 29 | The Great Reading | Independent preparation | Each pupil chooses a short passage and prepares to explain it. |
-| 30 | The Final Examination | Reading, grammar, translation, reflection | A public reading in the courtyard. Each pupil translates, explains one grammatical feature, and says what the text taught them. |
+| 30 | The Final Examination | Reading, grammar, translation, reflection | A public reading in the courtyard. Each pupil translates, explains one grammatical feature, and says what the text taught them. Marcus reads **καὶ θεὸς ἦν ὁ λόγος** and gets it right. Closes Part V. |
+
+## Part VI · Writing What You Read (31–36)
+
+*Goal: learn the rest of the verb — its voices, its future, its perfect,
+its contracted, subjunctive and oldest forms — and write Greek of one's
+own that a reader in the city would have accepted.*
+
+| | Lesson | Language | Story and text |
+|:--|:--|:--|:--|
+| 31 | The Voice That Looks Back | Middle and passive: present, imperfect, aorist middle, aorist passive; deponents | The cat walks through the ink and Felix must wash it: the cat is washed, washes itself, is washed by Felix. Mark 1:9–13. |
+| 32 | What Will Be | The future, active and middle; liquid futures; **εἶμι** | Marcus writes six promises for the end of the course in the future tense, and Theodoros holds him to the grammar. Matthew 6:25–34. |
+| 33 | What Stands Done | The perfect active and middle; reduplication; **οἶδα**; the pluperfect | The written papers come back and Julia says **τετέλεσται**: is a perfect a past or a present? 1 Corinthians 15:3–8. |
+| 34 | Verbs That Melt | Contract verbs in **-άω, -έω, -όω**, present and imperfect | Theodosius finds that Jesus asks Peter **ἀγαπᾷς με;** twice and **φιλεῖς με;** once, and the class argues whether it matters. John 21:15–17. |
+| 35 | What Might Be | The subjunctive: **ἵνα**, **ἐάν**, **οὐ μή**, deliberative and hortatory; conditions | Quintus asks a question that cannot be put in the indicative, and Livia shows him the mood that can. John 3:1–8. |
+| 36 | The Old Verbs | **δίδωμι, τίθημι, ἵστημι**; **εἰμί** and **εἶμι** in full; **φημί** | Theodoros gives back the tablets he has kept since the first lessons, Julia's among them. Matthew 7:7–11; Plato, *Apology* 29d. |
+
+Part VI assumes Parts I–V and is written for the same class, not a new one.
+Its Retrieval exercises range over the whole course, and its Readings are
+the longest in the book.
 
 ---
 
@@ -143,7 +166,7 @@ but cannot say why has not yet learned Greek; they have learned to guess well, a
 exactly the point the sentences get interesting.
 
 ::: note
-**Mystery sentences.** Include, perhaps once a fortnight, a sentence that
+**Mystery sentences.** Include, every few lessons, a sentence that
 combines familiar forms in an unfamiliar way — nothing new in it, but
 nothing memorised either. These reward understanding over recall and they
 are the best single diagnostic in the course. The Translate exercises are
