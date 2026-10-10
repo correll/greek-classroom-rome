@@ -79,6 +79,8 @@
 \usepackage[most]{tcolorbox}
 \usepackage{multicol}
 \usepackage{paracol}
+\raggedbottom
+\setlength{\emergencystretch}{2.5em}
 \usepackage{fancyvrb}
 
 \providecommand{\tightlist}{%
@@ -184,6 +186,19 @@
    \setlist[itemize,1]{leftmargin=0pt, label={}, itemsep=1pt, topsep=0pt,
                        partopsep=0pt, parsep=0pt}}
   {}
+
+%% the glossaries: two columns of compact entries
+\newenvironment{glossarycols}
+  {\par\begingroup\footnotesize\linespread{1.05}\selectfont
+   \setlength{\columnsep}{18pt}\raggedright
+   \setlist[itemize,1]{label={}, leftmargin=1.2em, itemindent=-1.2em,
+                       itemsep=1pt, topsep=0pt, partopsep=0pt, parsep=0pt}
+   \begin{multicols}{2}}
+  {\end{multicols}\endgroup\par}
+\newcommand{\glossletter}[1]{\par\addpenalty{-50}\vspace{8pt}%
+  {\normalsize\bfseries\color{terra}#1}\par\nopagebreak\vspace{2pt}}
+\newcommand{\glosslesson}[1]{\unskip\nobreak\hfill\penalty50\hskip1em\null\nobreak
+  \hfill{\color{greyink}#1}}
 
 %% section markers used inside lessons
 \newcommand{\lessonrubric}[2]{%

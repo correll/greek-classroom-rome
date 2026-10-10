@@ -170,18 +170,20 @@ def write_english_greek(entries):
         "",
     ]
     total = 0
+    out.append("::: glossary")
     for letter in sorted(groups):
-        out.append("## " + letter)
         out.append("")
-        out.append("| | | |")
-        out.append("|:--|:--|:--:|")
+        out.append("### " + letter)
+        out.append("")
         for _, vals in sorted(groups[letter]):
             disp = vals[0][0]
-            greek = ", ".join("**%s**" % v[1] for v in sorted(vals, key=lambda v: v[2]))
-            lessons = ", ".join(str(v[2]) for v in sorted(vals, key=lambda v: v[2]))
-            out.append("| %s | %s | %s |" % (disp, greek, lessons))
+            vals = sorted(vals, key=lambda v: v[2])
+            greek = ", ".join("**%s**" % v[1] for v in vals)
+            lessons = ", ".join(str(v[2]) for v in vals)
+            out.append("- %s — %s [%s]{.lesson}" % (disp, greek, lessons))
             total += 1
-        out.append("")
+    out.append("")
+    out.append(":::")
 
     io.open(OUT_EN, "w", encoding="utf-8").write("\n".join(out))
     return total
@@ -233,28 +235,17 @@ def main():
         "",
     ]
     total = 0
-    for letter in ALPHABET:
-        if letter not in groups:
-            continue
-        out.append("## " + letter)
-        out.append("")
-        out.append("| | | |")
-        out.append("|:--|:--|:--:|")
-        for _, lemma, gloss, lesson in sorted(groups[letter]):
-            out.append("| **%s** | %s | %d |" % (lemma, gloss, lesson))
-            total += 1
-        out.append("")
-
+    out.append("::: glossary")
     leftovers = sorted(k for k in groups if k not in ALPHABET)
-    for letter in leftovers:
-        out.append("## " + letter)
+    for letter in [l for l in ALPHABET if l in groups] + leftovers:
         out.append("")
-        out.append("| | | |")
-        out.append("|:--|:--|:--:|")
+        out.append("### " + letter)
+        out.append("")
         for _, lemma, gloss, lesson in sorted(groups[letter]):
-            out.append("| **%s** | %s | %d |" % (lemma, gloss, lesson))
+            out.append("- **%s** — %s [%d]{.lesson}" % (lemma, gloss, lesson))
             total += 1
-        out.append("")
+    out.append("")
+    out.append(":::")
 
     io.open(OUT, "w", encoding="utf-8").write("\n".join(out))
     print("wrote %s - %d entries from %d lessons"

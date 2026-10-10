@@ -252,3 +252,9 @@ body.single .gutter, .book.cover .gutter { display: none; }
 .reading .gloss ul { list-style: none; padding-left: 0; margin: 0; }
 .reading .gloss li { margin: 0 0 0.15em 0; }
 @media (max-width: 640px) { .reading .readingcols { flex-direction: column; } }
+
+/* glossaries */
+.glossary { column-count: 2; column-gap: 1.5rem; font-size: 0.9em; }
+.glossary ul { list-style: none; padding-left: 0; margin: 0 0 0.6em 0; }
+.glossary h3 { break-after: avoid; margin: 0.6em 0 0.2em; }
+.glossary .lesson { color: #777; }

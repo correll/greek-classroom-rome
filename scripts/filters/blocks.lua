@@ -175,6 +175,28 @@ function Div(el)
     end
   end
 
+  -- the glossaries at the back: two columns, letter headings that are not
+  -- sections (they stay out of the contents), one compact line per entry
+  if cls == "glossary" then
+    if FORMAT:match("latex") then
+      local out = { latex("\\begin{glossarycols}") }
+      for _, b in ipairs(el.content) do
+        if b.t == "Header" then
+          out[#out+1] = latex("\\glossletter{" .. pandoc.utils.stringify(b.content) .. "}")
+        else
+          out[#out+1] = b
+        end
+      end
+      out[#out+1] = latex("\\end{glossarycols}")
+      return out
+    else
+      local out = { html('<section class="glossary">') }
+      for _, b in ipairs(el.content) do out[#out+1] = b end
+      out[#out+1] = html("</section>")
+      return out
+    end
+  end
+
   -- simple boxes
   local sm = SIMPLE[cls]
   if sm then
@@ -242,6 +264,15 @@ function Span(el)
     out[#out+1] = pandoc.RawInline("latex", "}")
     return out
   end
+  if el.classes:includes("lesson") then
+    if FORMAT:match("latex") then
+      local out = { pandoc.RawInline("latex", "\\glosslesson{") }
+      for _, i in ipairs(el.content) do out[#out+1] = i end
+      out[#out+1] = pandoc.RawInline("latex", "}")
+      return out
+    end
+    return nil
+  end
   if el.classes:includes("gap") then
     if FORMAT:match("latex") then
       return pandoc.RawInline("latex", "{\\gap}")
@@ -292,13 +323,28 @@ function Table(el)
   end
   if wrapped and nrows > 6 then return nil end
   local ncols = #el.colspecs
+  -- a table whose cells are all short (a paradigm, a contraction chart)
+  -- sizes to its content; only tables with real prose in a cell wrap
+  local longest = 0
+  local function measure(rows)
+    for _, r in ipairs(rows) do
+      for _, c in ipairs(r.cells) do
+        local n = utf8.len(pandoc.utils.stringify(c.contents)) or 0
+        if n > longest then longest = n end
+      end
+    end
+  end
+  if el.head then measure(el.head.rows) end
+  for _, body in ipairs(el.bodies) do measure(body.body) end
+  local natural = longest <= 22
   local spec = {}
   for i, cs in ipairs(el.colspecs) do
     local align, width = cs[1], cs[2]
     local a = (align == "AlignRight") and "r" or (align == "AlignCenter") and "c" or "l"
-    if type(width) == "number" and width > 0 then
-      local w = width * 0.96
-      spec[#spec+1] = ">{\\raggedright\\arraybackslash}p{" .. string.format("%.3f", w) .. "\\linewidth}"
+    if (not natural) and type(width) == "number" and width > 0 then
+      -- the width is a share of the line; take the column padding out of it
+      spec[#spec+1] = ">{\\raggedright\\arraybackslash}p{\\dimexpr "
+        .. string.format("%.3f", width) .. "\\linewidth-2\\tabcolsep\\relax}"
     else
       spec[#spec+1] = a
     end
