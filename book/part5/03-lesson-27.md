@@ -133,14 +133,14 @@ helpful.
   **κατέλαβον**)*
 - **τὸ πλοῖον** — boat, ship *(the Gospels' word; **ναῦς** is the older word, Homer's and Attic's)*
 - **ὁ ἄνεμος** — wind
-- **ὁ φόβος** — fear
-- **ὁ ὄχλος** — crowd
+- **ὁ φόβος** — fear *(Lesson 1)*
+- **ὁ ὄχλος** — crowd *(Lesson 21)*
 - **καθεύδω** — I sleep *(imperfect **ἐκάθευδον**: the augment goes in front
   of the prefix, as if the verb were not a compound; Attic also has
-  **καθηῦδον**)*
+  **καθηῦδον**)* *(Lesson 5)*
 - **ἐγείρω** — I wake *(someone)*, I raise *(aorist **ἤγειρα**)*
 - **ἐκεῖνος, ἐκείνη, ἐκεῖνο** — that, that one *(stands outside the article
-  group, like **οὗτος**: **ἐκεῖνος ὁ ἀνήρ**, that man)*
+  group, like **οὗτος**: **ἐκεῖνος ὁ ἀνήρ**, that man)* *(Lesson 22)*
 
 ::: note
 **Words whose range is wider in Greek than in English.** You now have most

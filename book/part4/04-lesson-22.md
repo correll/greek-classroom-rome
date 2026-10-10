@@ -132,11 +132,11 @@ and it is the thing that lets Greek narrative move the way it does.
 - **ἰδών** — having seen *(aorist participle of **ὁράω**)*
 - **ἔρχομαι** — I come, I go *(3rd singular **ἔρχεται**; aorist **ἦλθον**,
   Lesson 14; participle **ἐλθών**)*
-- **ὁ νόμος** — law; custom
+- **ὁ νόμος** — law; custom *(Lesson 4)*
 - **ἐκεῖνος, ἐκείνη, ἐκεῖνο** — that; that one *(declined like **αὐτός**)*
 - **ὅλος** — whole, entire *(**ἐξ ὅλης τῆς καρδίας**, from the whole heart)*
 - **δύο** — two
-- **ὁ οἶνος** — wine
+- **ὁ οἶνος** — wine *(Lesson 2)*
 
 ::: note
 **σπλαγχνίζομαι** is the Gospels' word for the pity that grips you

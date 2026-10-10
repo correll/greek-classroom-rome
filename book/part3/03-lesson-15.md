@@ -152,17 +152,17 @@ who expected you to notice.
 ::: vocab
 - **ὁ ἀνήρ** — man *(as against a woman; third declension)*
 - **ἡ ναῦς** — ship *(irregular; recognise it)*
-- **ὁ οἶκος** — house, home; **οἶκόνδε** — homeward
+- **ὁ οἶκος** — house, home; **οἶκόνδε** — homeward *(Lesson 2)*
 - **πολύτροπος** — of many turns; much-travelled; resourceful
 - **ἄειδε** — sing! *(imperative; Attic would contract this)*
 - **ἡ μῆνις** — wrath, anger *(of a god or a hero; not ordinary temper)*
-- **ὁ ἑταῖρος** — companion, comrade
+- **ὁ ἑταῖρος** — companion, comrade *(Lesson 2)*
 - **ἡ πόλις** — city *(third declension, irregular: genitive **πόλεως**,
   accusative plural **πόλεις**; recognise it)*
 - **πᾶς, πᾶσα, πᾶν** — all, every; the whole *(third declension; genitive
   **παντός**; plural **πάντες, πάντα**)*
 - **ὁ θυμός** — spirit, heart; the seat of anger and courage
-- **ὁ ἥλιος** — sun; **ὁ Ἥλιος** — the Sun, as a god
+- **ὁ ἥλιος** — sun; **ὁ Ἥλιος** — the Sun, as a god *(Lesson 2)*
 - **ἐσθίω** — I eat *(imperfect **ἤσθιον**)*
 - **εἶδον** — I saw *(aorist; its present, **ὁράω**, is a verb of a kind
   you meet in Part VI — use **βλέπω** for *I see* until then)*

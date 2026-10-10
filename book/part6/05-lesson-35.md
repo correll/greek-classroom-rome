@@ -194,7 +194,7 @@ cannot do does not need an entry today. It gets one anyway: Latin has no
 - **ὅταν** — whenever, when *(with the subjunctive; **ὅτε** + **ἄν**)*
 - **ὥστε** — so that, with the result that
 - **οὐδείς, οὐδεμία, οὐδέν** — no one, nothing *(**μηδείς** with the **μή**
-  family)*
+  family)* *(Lesson 19)*
 - **ἀμήν** — truly *(Hebrew; the Gospels' way of beginning a solemn
   statement)*
 - **γεννάω** — I beget, I bear *(passive **γεννάομαι**, I am born; aorist
@@ -203,8 +203,8 @@ cannot do does not need an entry today. It gets one anyway: Latin has no
 - **τὸ σημεῖον** — sign
 - **ἡ νύξ** — night *(genitive **νυκτός**; **νυκτός** alone = by night)*
 - **ἡ σάρξ** — flesh *(genitive **σαρκός**)*
-- **τὸ ὕδωρ** — water *(genitive **ὕδατος**)*
-- **ἡ φωνή** — voice, sound
+- **τὸ ὕδωρ** — water *(genitive **ὕδατος**)* *(Lesson 20)*
+- **ἡ φωνή** — voice, sound *(Lesson 1)*
 - **λαμβάνω** — I take, I receive *(aorist **ἔλαβον**; Lesson 29's table)*
 - **αἰώνιος** — eternal, everlasting *(the adjective of **ὁ αἰών**, Lesson
   20)*

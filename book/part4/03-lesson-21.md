@@ -137,7 +137,7 @@ a translator's choices in it, and now you can see them.
 - **τὸ ὄρος** — mountain, hill *(third declension; dative **τῷ ὄρει**)*
 - **ὁ μαθητής** — pupil, learner; disciple *(from **μανθάνω**, Lesson 11)*
 - **ὁ προφήτης** — prophet; one who speaks for a god
-- **οὕτως** — thus, so, in this way
+- **οὕτως** — thus, so, in this way *(Lesson 7)*
 
 ::: note
 **μακάριος** comes from a word older than any religion in this room. In

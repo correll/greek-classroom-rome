@@ -127,13 +127,13 @@ Greek.
 - **ἀεί** — always, ever
 - **πάλιν** — again, back
 - **χθές** — yesterday
-- **ἔτι** — still, yet
-- **οὐδέ** — and not, nor; not even
-- **ὁ μαθητής** — pupil, learner *(declines like **ὁ κριτής**)*
-- **ἄλλος, ἄλλη, ἄλλο** — other, another; **οἱ ἄλλοι** — the others
-- **καθεύδω** — I sleep
-- **μένω** — I stay, remain, wait
-- **ἡ φωνή** — voice, sound
+- **ἔτι** — still, yet *(Lesson 6)*
+- **οὐδέ** — and not, nor; not even *(Lesson 6)*
+- **ὁ μαθητής** — pupil, learner *(declines like **ὁ κριτής**)* *(Lesson 7)*
+- **ἄλλος, ἄλλη, ἄλλο** — other, another; **οἱ ἄλλοι** — the others *(Lesson 10)*
+- **καθεύδω** — I sleep *(Lesson 5)*
+- **μένω** — I stay, remain, wait *(Lesson 5)*
+- **ἡ φωνή** — voice, sound *(Lesson 1)*
 
 ::: note
 **ἀεί** is the word in the motto of more schools than anyone has counted,

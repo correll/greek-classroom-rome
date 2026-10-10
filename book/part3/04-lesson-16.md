@@ -217,13 +217,13 @@ be able to build.
 - **ὁ νόστος** — homecoming, the journey home
 - **ὁ δόλος** — trick, guile, cunning
 - **ἡ σοφία** — wisdom; skill
-- **ὁ οἶνος** — wine
+- **ὁ οἶνος** — wine *(Lesson 2)*
 - **ὁ ξένος** — stranger; guest; host *(the same word for both sides of
-  hospitality)*
+  hospitality)* *(Lesson 1)*
 - **πίνω** — I drink *(aorist **ἔπιον**; infinitives **πίνειν**, **πιεῖν**)*
 - **ἔδωκα** — I gave *(aorist of **δίδωμι**; 3rd singular **ἔδωκε(ν)**)*
-- **οὕτως** — thus, so, in this way *(**οὕτω** before a consonant)*
-- **πρῶτος, πρώτη, πρῶτον** — first; **πρῶτον** — at first, first of all
+- **οὕτως** — thus, so, in this way *(**οὕτω** before a consonant)* *(Lesson 7)*
+- **πρῶτος, πρώτη, πρῶτον** — first; **πρῶτον** — at first, first of all *(Lesson 10)*
 
 ::: note
 **The infinitive of ψεύδομαι is ψεύδεσθαι**, and the three verbs above

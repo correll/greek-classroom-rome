@@ -253,13 +253,13 @@ same ancient root.
 - **γέγραπται** — it is written, it stands written *(perfect passive of
   **γράφω**; the active is **γέγραφα**)*
 - **οἶδα** — I know *(a perfect: I have seen, and so I know; **οἶσθα,
-  οἶδε, ἴσμεν, ἴστε, ἴσασι**; pluperfect **ᾔδη**, I knew)*
+  οἶδε, ἴσμεν, ἴστε, ἴσασι**; pluperfect **ᾔδη**, I knew)* *(Lesson 25)*
 - **ἀποθνῄσκω** — I die *(aorist **ἀπέθανον**; perfect **τέθνηκα**, I am
   dead)*
 - **ἐγείρω** — I raise, I wake *(passive **ἐγείρομαι**, I rise; perfect
-  passive **ἐγήγερμαι** — **ἐγήγερται**, he is risen)*
+  passive **ἐγήγερμαι** — **ἐγήγερται**, he is risen)* *(Lesson 27)*
 - **θάπτω** — I bury *(aorist passive **ἐτάφην**)*
-- **ἡ ἁμαρτία** — sin; a missing of the mark
+- **ἡ ἁμαρτία** — sin; a missing of the mark *(Lesson 19)*
 - **παραδίδωμι** — I hand over; I hand on *(aorist **παρέδωκα**)*
 - **παραλαμβάνω** — I receive, I take over *(aorist **παρέλαβον**)*
 - **ὤφθη** — he was seen; he appeared *(aorist passive of **ὁράω**;
@@ -269,7 +269,7 @@ same ancient root.
   *(with the genitive)*
 - **τρίτος** — third
 - **ὁ ἀπόστολος** — one sent out; messenger; apostle
-- **ἡμεῖς** — we *(**ἡμῶν, ἡμῖν, ἡμᾶς**)*
+- **ἡμεῖς** — we *(**ἡμῶν, ἡμῖν, ἡμᾶς**)* *(Lesson 19)*
 
 ::: note
 **τελέω** is a contract verb in the present (**τελεῖ**, Lesson 34), which

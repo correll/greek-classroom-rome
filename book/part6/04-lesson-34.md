@@ -183,21 +183,21 @@ words, is the question the class is about to spend ten minutes on.
 :::
 
 ::: vocab
-- **ἀγαπάω** — I love *(ἀγαπῶ; aorist **ἠγάπησα**)*
+- **ἀγαπάω** — I love *(ἀγαπῶ; aorist **ἠγάπησα**)* *(Lesson 19)*
 - **φιλέω** — I love, I am fond of; I kiss *(φιλῶ; aorist **ἐφίλησα**)*
 - **δηλόω** — I show, I make clear *(δηλῶ; aorist **ἐδήλωσα**)*
-- **ζητέω** — I seek, look for
+- **ζητέω** — I seek, look for *(Lesson 26)*
 - **καλέω** — I call, I name *(aorist **ἐκάλεσα**; passive **καλοῦμαι**, I am called)*
-- **ὁράω** — I see *(ὁρῶ; imperfect **ἑώρων**; aorist **εἶδον**)*
+- **ὁράω** — I see *(ὁρῶ; imperfect **ἑώρων**; aorist **εἶδον**)* *(Lesson 32)*
 - **τιμάω** — I honour
-- **αἰτέω** — I ask for, I request *(a thing; **ἐρωτάω** asks a question)*
+- **αἰτέω** — I ask for, I request *(a thing; **ἐρωτάω** asks a question)* *(Lesson 26)*
 - **τηρέω** — I keep, I guard, I observe
 - **λυπέω** — I grieve, I cause pain *(passive **λυποῦμαι**, I am grieved)*
 - **τὸ πρόβατον** — sheep
-- **πᾶς, πᾶσα, πᾶν** — all, every; *(neuter plural **πάντα**)* everything
-- **ναί** — yes
+- **πᾶς, πᾶσα, πᾶν** — all, every; *(neuter plural **πάντα**)* everything *(Lesson 15)*
+- **ναί** — yes *(Lesson 6)*
 - **δεύτερος** — second *(**τὸ δεύτερον**, a second time)*
-- **τρίτος** — third *(**τὸ τρίτον**, the third time)*
+- **τρίτος** — third *(**τὸ τρίτον**, the third time)* *(Lesson 33)*
 
 ::: note
 **ἀγαπάω and φιλέω.** In classical prose **φιλέω** is the ordinary word

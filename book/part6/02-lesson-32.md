@@ -259,20 +259,20 @@ participle or a subjunctive, and no tense at all for the *will have*.
 :::
 
 ::: vocab
-- **μένω** — I remain, I stay; I wait *(future **μενῶ**; aorist **ἔμεινα**)*
+- **μένω** — I remain, I stay; I wait *(future **μενῶ**; aorist **ἔμεινα**)* *(Lesson 5)*
 - **εἶμι** — I will go, I will come *(the Attic future of **ἔρχομαι**)*
 - **ἔσομαι** — I will be *(future of **εἰμί**; third singular **ἔσται**)*
-- **λαμβάνω** — I take, I receive *(future **λήψομαι**; aorist **ἔλαβον**)*
+- **λαμβάνω** — I take, I receive *(future **λήψομαι**; aorist **ἔλαβον**)* *(Lesson 5)*
 - **ὁράω** — I see *(future **ὄψομαι**; aorist **εἶδον**)*
-- **ζητέω** — I seek, I look for *(future **ζητήσω**)*
+- **ζητέω** — I seek, I look for *(future **ζητήσω**)* *(Lesson 26)*
 - **μεριμνάω** — I worry, I am anxious *(future **μεριμνήσω**)*
-- **ὑμεῖς** — you *(plural; **ὑμῶν, ὑμῖν, ὑμᾶς**)*
-- **πᾶς, πᾶσα, πᾶν** — all, every; *(plural)* everyone, everything
+- **ὑμεῖς** — you *(plural; **ὑμῶν, ὑμῖν, ὑμᾶς**)* *(Lesson 17)*
+- **πᾶς, πᾶσα, πᾶν** — all, every; *(plural)* everyone, everything *(Lesson 15)*
 - **σήμερον** — today
 - **αὔριον** — tomorrow
 - **πρῶτον** — first, first of all
 - **μᾶλλον** — more; rather
-- **οὕτως** — thus, so, in this way *(**οὕτω** before a consonant)*
+- **οὕτως** — thus, so, in this way *(**οὕτω** before a consonant)* *(Lesson 7)*
 - **τὸ σῶμα** — body *(genitive **σώματος**)*
 
 ::: note

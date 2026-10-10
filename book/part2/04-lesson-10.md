@@ -149,7 +149,7 @@ This is the clearest case in the course of the article earning its keep.
 - **ὀλίγος** — little, few
 - **μακρός** — long *(feminine **μακρά**; you met **μακραί** on the fifth tablet)*
 - **χαλεπός** — difficult, hard, harsh *(the proverb's word, at last with its endings)*
-- **ἡ γνώμη** — opinion, judgement; a mind made up
+- **ἡ γνώμη** — opinion, judgement; a mind made up *(Lesson 4)*
 
 ::: note
 **μικρός** has **μικρά** in the feminine, not **μικρή**: after **ε**, **ι**

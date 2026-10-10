@@ -155,11 +155,11 @@ one has the article, the one with the article is what you are talking
 - **πολλοί** — many
 - **μόνος** — only, alone
 - **ὁ μαθητής** — pupil, learner *(a masculine noun of the first declension, like **ὁ κριτής**: **οἱ μαθηταί**, **τοὺς μαθητάς**)*
-- **ἡ δέλτος** — writing tablet *(feminine, like **ἡ ὁδός**: **αἱ δέλτοι**, **τὰς δέλτους**)*
-- **ὁ δοῦλος** — slave
+- **ἡ δέλτος** — writing tablet *(feminine, like **ἡ ὁδός**: **αἱ δέλτοι**, **τὰς δέλτους**)* *(Lesson 3)*
+- **ὁ δοῦλος** — slave *(Lesson 2)*
 - **τὸ ζῷον** — animal, living thing
-- **μένω** — I stay, remain, wait
-- **ἔτι** — still, yet
+- **μένω** — I stay, remain, wait *(Lesson 5)*
+- **ἔτι** — still, yet *(Lesson 6)*
 - **οὕτως** — thus, so, in this way
 
 ::: note

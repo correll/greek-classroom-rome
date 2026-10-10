@@ -154,9 +154,9 @@ against the Greek and look for where they fail to overlap.
 - **ἡμεῖς** — we *(genitive **ἡμῶν**, dative **ἡμῖν**, accusative **ἡμᾶς**;
   emphatic, like **ἐγώ**)*
 - **πᾶς, πᾶσα, πᾶν** — all, every; *(with the article)* the whole *(genitive
-  **παντός**; neuter plural **πάντα**, all things)*
+  **παντός**; neuter plural **πάντα**, all things)* *(Lesson 15)*
 - **οὐδείς** — no one; *(neuter **οὐδέν**)* nothing
-- **μένω** — I remain, I stay *(aorist **ἔμεινα**)*
+- **μένω** — I remain, I stay *(aorist **ἔμεινα**)* *(Lesson 5)*
 - **ἀποστέλλω** — I send out, I send away *(aorist **ἀπέστειλα**; the word
   behind *apostle*)*
 - **ἡ ἁμαρτία** — a missing of the mark; a fault; sin *(the New Testament's

@@ -232,20 +232,20 @@ it, because the column was never really about Latin.
 - **φημί** — I say, I assert *(imperfect **ἔφην**; **ἔφη**, he said; **οὔ
   φημι**, I deny)*
 - **εἶμι** — I will go *(the future of **ἔρχομαι**; infinitive **ἰέναι**;
-  imperative **ἴθι**)*
+  imperative **ἴθι**)* *(Lesson 32)*
 - **ἀποδίδωμι** — I give back, I pay back *(aorist **ἀπέδωκα**)*
-- **εὑρίσκω** — I find *(aorist **εὗρον**; future **εὑρήσω**)*
+- **εὑρίσκω** — I find *(aorist **εὗρον**; future **εὑρήσω**)* *(Lesson 5)*
 - **ἀνοίγω** — I open *(future passive **ἀνοιγήσομαι**, I will be opened)*
 - **ὁ ἄρτος** — bread, a loaf
-- **ὁ λίθος** — stone
+- **ὁ λίθος** — stone *(Lesson 3)*
 - **τὸ τέκνον** — child *(as someone's son or daughter; **παῖς** is the
-  child as a young person)*
+  child as a young person)* *(Lesson 1)*
 - **πονηρός** — wicked, bad; worthless
-- **μᾶλλον** — more, rather *(**πόσῳ μᾶλλον**, how much more)*
+- **μᾶλλον** — more, rather *(**πόσῳ μᾶλλον**, how much more)* *(Lesson 32)*
 - **παύω** — I stop *(someone); middle **παύομαι**, I cease, I stop
   (myself)*
-- **ἡ πόλις** — city *(genitive **πόλεως**; third declension)*
-- **ἡ τιμή** — honour; price
+- **ἡ πόλις** — city *(genitive **πόλεως**; third declension)* *(Lesson 15)*
+- **ἡ τιμή** — honour; price *(Lesson 4)*
 
 ::: note
 **δίδωμι** has been in your vocabulary since Lesson 9 and **εἰμί** since

@@ -139,13 +139,13 @@ ending. There is not one.
 - **ἐκ**, **ἐξ** — out of *(with the genitive)*
 - **ἀπό** — from, away from *(with the genitive)*
 - **περί** — about, concerning *(with the genitive)*
-- **τὸ τέκνον** — child
-- **ὁ νόμος** — law, custom
-- **ἡ δίκη** — justice; a trial, a lawsuit
-- **εὑρίσκω** — I find
-- **λαμβάνω** — I take, receive
-- **λείπω** — I leave, leave behind
-- **οὐδέ** — and not, nor; not even
+- **τὸ τέκνον** — child *(Lesson 1)*
+- **ὁ νόμος** — law, custom *(Lesson 4)*
+- **ἡ δίκη** — justice; a trial, a lawsuit *(Lesson 4)*
+- **εὑρίσκω** — I find *(Lesson 5)*
+- **λαμβάνω** — I take, receive *(Lesson 5)*
+- **λείπω** — I leave, leave behind *(Lesson 6)*
+- **οὐδέ** — and not, nor; not even *(Lesson 6)*
 - **ἐκεῖ** — there
 
 ::: note

@@ -34,10 +34,10 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ἡ ἀλήθεια** | truth | 4 |
 | **ἀλλά** | but | 4 |
 | **ἄλλος** | other, another *(neuter **ἄλλο**, not **ἄλλον**)* | 10 |
-| **ἄλλος, ἄλλη, ἄλλο** | other, another; **οἱ ἄλλοι** — the others | 13 |
+| **ἄλλος, ἄλλη, ἄλλο** | other, another; **οἱ ἄλλοι** — the others *(Lesson 10)* | 13 |
 | **ἡ ἁμαρτία** | a missing of the mark; a fault; sin *(the New Testament's word)* | 19 |
 | **ἀμήν** | truly *(Hebrew; the Gospels' way of beginning a solemn statement)* | 35 |
-| **ἄν** | *(a particle: with the subjunctive, opens a general or future clause; with a past indicative, marks "would have")* | 35 |
+| **ἄν** | *(a particle: with the subjunctive, opens a general or future clause; with a past indicative, marks "would" or "would have")* | 35 |
 | **ἀναβαίνω** | I go up *(aorist **ἀνέβη**, he went up — Matthew's verb in Lesson 21; participle **ἀναβαίνων**)* | 23 |
 | **ἀναγιγνώσκω** | I read *(literally *I know again*: **ἀνα-** + **γιγνώσκω**)* | 6 |
 | **ὁ ἄνεμος** | wind | 27 |
@@ -246,7 +246,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ὁ λῃστής** | bandit, robber | 22 |
 | **ὁ λίθος** | stone | 3 |
 | **ὁ λόγος** | word, speech, account, reason | 1 |
-| **λούω** | I wash *(middle **λούομαι**, I wash myself; aorist **ἔλουσα**; aorist passive **ἐλούθην**)* | 31 |
+| **λούω** | I wash *(middle **λούομαι**, I wash myself; aorist **ἔλουσα**; aorist passive **ἐλούθην**, later **ἐλούσθην**)* | 31 |
 | **λυπέω** | I grieve, I cause pain *(passive **λυποῦμαι**, I am grieved)* | 34 |
 
 ## Μ
@@ -310,8 +310,8 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **οὐ (οὐκ, οὐχ)** | not | 2 |
 | **οὐδέ** | and not, nor; not even | 6 |
 | **οὐδείς** | no one; *(neuter **οὐδέν**)* nothing | 19 |
-| **οὐδείς, οὐδεμία, οὐδέν** | no one, nothing *(**μηδείς** with the **μή** family)* | 35 |
-| **οὐδείς, οὐδέν** | no one, nothing *(the **οὐ** word; it declines like **τίς**)* | 25 |
+| **οὐδείς, οὐδεμία, οὐδέν** | no one, nothing *(**μηδείς** with the **μή** family)* *(Lesson 19)* | 35 |
+| **οὐδείς, οὐδέν** | no one, nothing *(the **οὐ** word; **οὐδείς, οὐδεμία, οὐδέν**, genitive **οὐδενός** — **οὐδὲ εἷς**, not even one)* *(Lesson 19)* | 25 |
 | **οὐκέτι** | no longer | 14 |
 | **οὖν** | therefore, so *(postpositive)* | 17 |
 | **ὁ οὐρανός** | sky, heaven | 2 |
@@ -337,11 +337,12 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **πειράζω** | I test; I tempt *(passive **πειράζομαι**, I am tested)* | 31 |
 | **πέμπω** | I send | 9 |
 | **περί** | about, concerning *(with the genitive)* | 8 |
+| **ἡ περιστερά** | dove | 31 |
 | **πίνω** | I drink *(aorist **ἔπιον**; infinitives **πίνειν**, **πιεῖν**)* | 16 |
 | **πιστεύω** | I trust, I believe *(with the dative; in the New Testament also **πιστεύω εἰς** + accusative)* | 19 |
 | **ἡ πίστις** | trust, faith *(genitive **πίστεως**)* | 19 |
 | **ὁ πλησίον** | the neighbour *(an adverb, "nearby", with the article)* | 22 |
-| **τὸ πλοῖον** | boat, ship *(the ordinary word; **ναῦς** is Homer's)* | 27 |
+| **τὸ πλοῖον** | boat, ship *(the Gospels' word; **ναῦς** is the older word, Homer's and Attic's)* | 27 |
 | **τὸ πνεῦμα** | breath; wind; spirit *(neuter; dative **τῷ πνεύματι**)* | 21 |
 | **ποιέω** | I make, I do *(aorist **ἐποίησα**; participle **ποιήσας**)* | 22 |
 | **ποιμαίνω** | I shepherd, I tend | 20 |
@@ -361,7 +362,7 @@ This list is generated from the `vocab` blocks in the lesson files by
 | **ὁ προφήτης** | prophet; one who speaks for a god | 21 |
 | **πρῶτον** | first, first of all | 32 |
 | **πρῶτος** | first | 10 |
-| **πρῶτος, πρώτη, πρῶτον** | first; **πρῶτον** — at first, first of all | 16 |
+| **πρῶτος, πρώτη, πρῶτον** | first; **πρῶτον** — at first, first of all *(Lesson 10)* | 16 |
 | **ὁ πτωχός** | beggar; destitute *(not merely poor)* | 21 |
 | **πῶς** | how? | 25 |
 

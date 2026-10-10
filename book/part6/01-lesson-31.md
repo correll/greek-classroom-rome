@@ -260,16 +260,16 @@ may be *sē lavat*. Only the sentence, or the cat, can tell you.
   **ἐβαπτίσθην**)*
 - **γίγνομαι** — I become, I come to be; I happen *(deponent; aorist
   **ἐγενόμην** — you have had **ἐγένετο** since Lesson 14)*
-- **ἔρχομαι** — I come, I go *(deponent; aorist **ἦλθον**)*
+- **ἔρχομαι** — I come, I go *(deponent; aorist **ἦλθον**)* *(Lesson 22)*
 - **ὑπό** — by *(with the genitive: the agent of a passive)*
-- **μετά** — with *(with the genitive)*; after *(with the accusative)*
-- **ὡς** — as, like
-- **τὸ ὕδωρ** — water *(genitive **ὕδατος**)*
-- **ἡ φωνή** — voice; sound
-- **ὁ ἄγγελος** — messenger; angel
+- **μετά** — with *(with the genitive)*; after *(with the accusative)* *(Lesson 20)*
+- **ὡς** — as, like *(Lesson 17)*
+- **τὸ ὕδωρ** — water *(genitive **ὕδατος**)* *(Lesson 20)*
+- **ἡ φωνή** — voice; sound *(Lesson 1)*
+- **ὁ ἄγγελος** — messenger; angel *(Lesson 9)*
 - **ἡ ἔρημος** — desert, wilderness *(feminine, despite the **-ος** — like
   **ἡ ὁδός**)*
-- **ἀγαπητός** — beloved *(the adjective of **ἀγάπη**)*
+- **ἀγαπητός** — beloved *(the adjective of **ἀγάπη**)* *(Lesson 23)*
 - **πειράζω** — I test; I tempt *(passive **πειράζομαι**, I am tested)*
 - **ἐκβάλλω** — I throw out, I drive out *(aorist **ἐξέβαλον**)*
 - **ἡ περιστερά** — dove

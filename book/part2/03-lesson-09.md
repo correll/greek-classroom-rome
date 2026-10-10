@@ -148,12 +148,12 @@ the Greek is asking you.
 - **ἐν** — in, among *(with the dative)*
 - **σύν** — together with *(with the dative)*
 - **ὁ ἄγγελος** — messenger
-- **ἡ φωνή** — voice, sound
-- **ἡ εἰρήνη** — peace
-- **ἡ θύρα** — door
+- **ἡ φωνή** — voice, sound *(Lesson 1)*
+- **ἡ εἰρήνη** — peace *(Lesson 2)*
+- **ἡ θύρα** — door *(Lesson 3)*
 - **τρέχω** — I run
-- **φεύγω** — I flee, run away
-- **ἐνταῦθα** — here; there, at that point
+- **φεύγω** — I flee, run away *(Lesson 5)*
+- **ἐνταῦθα** — here; there, at that point *(Lesson 6)*
 
 ::: note
 **δίδωμι** does not end in **-ω** like the verbs you know, and it does not

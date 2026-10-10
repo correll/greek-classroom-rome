@@ -150,11 +150,11 @@ original.
 - **κελεύω** — I order, I command
 - **αἰτέω** — I ask for, I request *(a thing; **ἐρωτάω** asks a question)*
 - **ζητέω** — I seek, I look for
-- **εὑρίσκω** — I find *(aorist **εὗρον**)*
-- **λαμβάνω** — I take, I receive *(aorist **ἔλαβον**)*
+- **εὑρίσκω** — I find *(aorist **εὗρον**)* *(Lesson 5)*
+- **λαμβάνω** — I take, I receive *(aorist **ἔλαβον**)* *(Lesson 5)*
 - **πᾶς, πᾶσα, πᾶν** — all, every; *(with the article)* the whole
-  *(genitive **παντός**; **πάντες**, all people; **πάντα**, all things)*
-- **ὁ νόμος** — law; custom
+  *(genitive **παντός**; **πάντες**, all people; **πάντα**, all things)* *(Lesson 15)*
+- **ὁ νόμος** — law; custom *(Lesson 4)*
 
 ::: note
 **γνῶθι** is the one imperative in this lesson that does not fit the table.

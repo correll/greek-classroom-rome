@@ -155,10 +155,10 @@ Latin's *num* and *nonne* are **μή** and **ἆρ᾽ οὐ**: *surely not* and
 - **οἶδα** — I know *(a fact)*
 - **ἐρωτάω** — I ask *(a question)*
 - **ἀποκρίνομαι** — I answer
-- **ἡ ἀρετή** — excellence, virtue; being good at what you are
-- **ἡ πόλις** — city *(third declension; accusative **πόλιν**, genitive **πόλεως**)*
-- **οὐδείς, οὐδέν** — no one, nothing *(the **οὐ** word; **οὐδείς, οὐδεμία, οὐδέν**, genitive **οὐδενός** — **οὐδὲ εἷς**, not even one)*
-- **θαυμάζω** — I wonder at, I am amazed; I admire
+- **ἡ ἀρετή** — excellence, virtue; being good at what you are *(Lesson 2)*
+- **ἡ πόλις** — city *(third declension; accusative **πόλιν**, genitive **πόλεως**)* *(Lesson 15)*
+- **οὐδείς, οὐδέν** — no one, nothing *(the **οὐ** word; **οὐδείς, οὐδεμία, οὐδέν**, genitive **οὐδενός** — **οὐδὲ εἷς**, not even one)* *(Lesson 19)*
+- **θαυμάζω** — I wonder at, I am amazed; I admire *(Lesson 6)*
 
 ::: note
 **οἶδα** against **γιγνώσκω**. **γιγνώσκω** is to come to know, to
