@@ -518,8 +518,8 @@ where it is longer.
    add, and how many words did the participle save each time?
 6. The adapted text has **οἱ μικροί** for **οἱ πραεῖς**. Is that a
    translation or a substitution? What is lost?
-7. Where the original promises with futures (**παρακληθήσονται**,
-   **χορτασθήσονται**), the adapted text has **δίδωσιν**. What does a
+7. The original promises in futures, **παρακληθήσονται** and
+   **χορτασθήσονται**; the adapted text has **δίδωσιν**. What does a
    blessing lose when its *will* becomes *does*?
 8. **μακάριοί ἐστε.** Why does **μακάριοι** carry two accents here and one
    everywhere else?

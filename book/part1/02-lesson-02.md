@@ -243,16 +243,16 @@ rule rules out the others.
 Each of these words begins with a vowel or **ρ**, and the breathing has
 been left off. Supply it, and say how you knew.
 
-1. **_ανθρωπος** <!--nocheck-->
-2. **_οδός** <!--nocheck-->
-3. **_υπέρ** <!--nocheck-->
-4. **_ρήτωρ** <!--nocheck-->
-5. **_οῖκος** <!--nocheck-->
-6. **_ημι-** <!--nocheck-->
-7. **_ώρα** <!--nocheck-->
-8. **_οῖνος** <!--nocheck-->
-9. **_ειρήνη** <!--nocheck-->
-10. **_αγρός** <!--nocheck-->
+1. **\_ανθρωπος** <!--nocheck-->
+2. **\_οδός** <!--nocheck-->
+3. **\_υπέρ** <!--nocheck-->
+4. **\_ρήτωρ** <!--nocheck-->
+5. **\_οῖκος** <!--nocheck-->
+6. **\_ημι-** <!--nocheck-->
+7. **\_ώρα** <!--nocheck-->
+8. **\_οῖνος** <!--nocheck-->
+9. **\_ειρήνη** <!--nocheck-->
+10. **\_αγρός** <!--nocheck-->
 :::
 
 ::: answers

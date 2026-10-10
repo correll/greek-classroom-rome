@@ -75,10 +75,9 @@ function Div(el)
     if edition ~= "teacher" then return {} end
     local label = el.attributes["label"] or "For the teacher"
     if FORMAT:match("latex") then
-      local out = { latex("\\begin{teacherbox}\\noindent{\\footnotesize\\scshape\\color{olive}"
-            .. esc(label) .. "}\\par\\vspace{3pt}") }
+      local out = { latex("\\begin{flowbox}{olive}{" .. esc(label) .. "}") }
       for _, b in ipairs(el.content) do out[#out+1] = b end
-      out[#out+1] = latex("\\end{teacherbox}")
+      out[#out+1] = latex("\\end{flowbox}")
       return out
     else
       local out = { html('<section class="teacheronly"><h4 class="rubric">' .. label .. "</h4>") }
@@ -92,9 +91,9 @@ function Div(el)
   if el.classes:includes("answers") then
     if edition ~= "teacher" then return {} end
     if FORMAT:match("latex") then
-      local out = { latex("\\begin{notebox}[colback=white,colframe=olive]\\noindent{\\footnotesize\\scshape\\color{olive}Answer key}\\par\\vspace{3pt}") }
+      local out = { latex("\\begin{flowbox}{olive}{Answer key}") }
       for _, b in ipairs(el.content) do out[#out+1] = b end
-      out[#out+1] = latex("\\end{notebox}")
+      out[#out+1] = latex("\\end{flowbox}")
       return out
     else
       local out = { html('<section class="answers"><h4 class="rubric">Answer key</h4>') }
@@ -315,41 +314,66 @@ function Table(el)
   local nrows = 0
   for _, body in ipairs(el.bodies) do nrows = nrows + #body.body end
   if nrows > 30 then return nil end           -- a real list: leave longtable
-  -- a table with wrapped (relative-width) columns grows tall quickly and a
-  -- tabular cannot break; keep longtable once it has more than a few rows
-  local wrapped = false
-  for _, cs in ipairs(el.colspecs) do
-    if type(cs[2]) == "number" and cs[2] > 0 then wrapped = true end
-  end
-  if wrapped and nrows > 6 then return nil end
+  local toplevel = el.attr and el.attr.classes:includes("toplevel")
   local ncols = #el.colspecs
-  -- a table whose cells are all short (a paradigm, a contraction chart)
-  -- sizes to its content; only tables with real prose in a cell wrap
-  local longest = 0
-  local function measure(rows)
+  -- measure every column: longest cell and average cell length
+  local longest, colmax, colsum, colcnt, colword = 0, {}, {}, {}, {}
+  for i = 1, ncols do colmax[i], colsum[i], colcnt[i], colword[i] = 0, 0, 0, 0 end
+  local function measure(rows, count)
     for _, r in ipairs(rows) do
-      for _, c in ipairs(r.cells) do
+      for i, c in ipairs(r.cells) do
         local n = utf8.len(pandoc.utils.stringify(c.contents)) or 0
         if n > longest then longest = n end
+        if i <= ncols then
+          if n > colmax[i] then colmax[i] = n end
+          for w in pandoc.utils.stringify(c.contents):gmatch("%S+") do
+            local wl = utf8.len(w) or 0
+            if wl > colword[i] then colword[i] = wl end
+          end
+          if count then colsum[i] = colsum[i] + n; colcnt[i] = colcnt[i] + 1 end
+        end
       end
     end
   end
-  if el.head then measure(el.head.rows) end
-  for _, body in ipairs(el.bodies) do measure(body.body) end
+  if el.head then measure(el.head.rows, false) end
+  for _, body in ipairs(el.bodies) do measure(body.body, true) end
+  -- a table whose cells are all short (a paradigm, a contraction chart)
+  -- sizes to its content; a table with prose in it fills the line, and its
+  -- wrapping columns share the width by how much they hold
   local natural = longest <= 22
-  local spec = {}
-  for i, cs in ipairs(el.colspecs) do
-    local align, width = cs[1], cs[2]
-    local a = (align == "AlignRight") and "r" or (align == "AlignCenter") and "c" or "l"
-    if (not natural) and type(width) == "number" and width > 0 then
-      -- the width is a share of the line; take the column padding out of it
-      spec[#spec+1] = ">{\\raggedright\\arraybackslash}p{\\dimexpr "
-        .. string.format("%.3f", width) .. "\\linewidth-2\\tabcolsep\\relax}"
-    else
-      spec[#spec+1] = a
+  local spec, wide = {}, false
+  if natural then
+    for _, cs in ipairs(el.colspecs) do
+      local a = cs[1]
+      spec[#spec+1] = (a == "AlignRight") and "r" or (a == "AlignCenter") and "c" or "l"
     end
+  else
+    local weights, total, nx = {}, 0, 0
+    for i = 1, ncols do
+      if colmax[i] > 18 then
+        local avg = colcnt[i] > 0 and colsum[i] / colcnt[i] or colmax[i]
+        weights[i] = math.max(avg, 8) ^ 0.75
+        total = total + weights[i]; nx = nx + 1
+      end
+    end
+    for i = 1, ncols do
+      if weights[i] then
+        local share = math.max(weights[i] / total, 0.6 / nx)
+        weights[i] = share
+      end
+    end
+    local s = 0
+    for i = 1, ncols do if weights[i] then s = s + weights[i] end end
+    for i = 1, ncols do
+      if weights[i] then
+        spec[#spec+1] = string.format(
+          ">{\\raggedright\\arraybackslash\\hsize=%.3f\\hsize}X", nx * weights[i] / s)
+      else
+        spec[#spec+1] = "l"
+      end
+    end
+    wide = true
   end
-  local lines = { "\\par\\medskip\\noindent\\begin{tabular}{@{}" .. table.concat(spec) .. "@{}}", "\\toprule" }
   local head = el.head and el.head.rows or {}
   local headhas = false
   for _, r in ipairs(head) do
@@ -357,19 +381,102 @@ function Table(el)
       if #c.contents > 0 and pandoc.utils.stringify(c.contents) ~= "" then headhas = true end
     end
   end
+  -- a tall prose table inside a box: the box can break only between
+  -- paragraphs, so the table is set as a stack of two-row tabulars with
+  -- identical column widths, and the box may break between any two of them
+  if wide and (not toplevel) and nrows > 6 then
+    local shares, rest, wsum = {}, 1, 0
+    for i = 1, ncols do
+      if colmax[i] <= 18 then
+        local avg = colcnt[i] > 0 and colsum[i] / colcnt[i] or colmax[i]
+        shares[i] = (math.min(colmax[i], avg * 1.3) + 2) / 68; rest = rest - shares[i]
+      else
+        local avg = colcnt[i] > 0 and colsum[i] / colcnt[i] or colmax[i]
+        shares[i] = -(math.max(avg, 8) ^ 0.75); wsum = wsum - shares[i]
+      end
+    end
+    local cs, tot = {}, 0
+    for i = 1, ncols do
+      if shares[i] < 0 then shares[i] = rest * (-shares[i]) / wsum end
+      shares[i] = math.max(shares[i], (colword[i] + 3) / 62)
+      tot = tot + shares[i]
+    end
+    for i = 1, ncols do
+      shares[i] = shares[i] / tot
+      cs[#cs+1] = string.format(">{\\raggedright\\arraybackslash\\hsize=%.3f\\hsize}X", ncols * shares[i])
+    end
+    local colspec = "@{}" .. table.concat(cs) .. "@{}"
+    local body = {}
+    for _, b in ipairs(el.bodies) do
+      for _, l in ipairs(rows_tex(b.body, ncols)) do body[#body+1] = l end
+    end
+    local oddcol = headhas and "parch!60" or "white"
+    local evencol = headhas and "white" or "parch!60"
+    local out = { "\\par\\medskip" }
+    local i = 1
+    local first = true
+    while i <= #body do
+      local piece = {}
+      if first then
+        piece[#piece+1] = "\\noindent\\begin{tabularx}{\\linewidth}{" .. colspec .. "}"
+        piece[#piece+1] = "\\toprule"
+        if headhas then
+          for _, l in ipairs(rows_tex(head, ncols)) do piece[#piece+1] = l end
+          piece[#piece+1] = "\\midrule"
+        end
+      else
+        piece[#piece+1] = "\\par\\penalty0\\nointerlineskip\\noindent{\\rowcolors{1}{" .. oddcol .. "}{" .. evencol .. "}\\begin{tabularx}{\\linewidth}{" .. colspec .. "}"
+      end
+      for k = i, math.min(i + 1, #body) do piece[#piece+1] = body[k] end
+      i = i + 2
+      if i > #body then piece[#piece+1] = "\\bottomrule" end
+      piece[#piece+1] = first and "\\end{tabularx}" or "\\end{tabularx}}"
+      out[#out+1] = table.concat(piece, "\n")
+      first = false
+    end
+    out[#out+1] = "\\par\\medskip"
+    return latex(table.concat(out, "\n"))
+  end
+  -- prose tables at the top level may run over a page: xltabular breaks,
+  -- and repeats its header; inside a box a table must stay in one piece
+  local env, open
+  if wide and toplevel then
+    env = "xltabular"
+    open = "\\par\\medskip\\begingroup\\setlength{\\LTpre}{0pt}\\setlength{\\LTpost}{0pt}\\begin{xltabular}{\\linewidth}{@{}" .. table.concat(spec) .. "@{}}"
+  elseif wide then
+    env = "tabularx"
+    open = "\\par\\medskip\\noindent\\begin{tabularx}{\\linewidth}{@{}" .. table.concat(spec) .. "@{}}"
+  else
+    env = "tabular"
+    open = "\\par\\medskip\\noindent\\begin{adjustbox}{max width=\\linewidth}\\begin{tabular}{@{}" .. table.concat(spec) .. "@{}}"
+  end
+  local lines = { open, "\\toprule" }
   if headhas then
     for _, l in ipairs(rows_tex(head, ncols)) do lines[#lines+1] = l end
     lines[#lines+1] = "\\midrule"
   end
+  if env == "xltabular" then lines[#lines+1] = "\\endhead" end
   for _, body in ipairs(el.bodies) do
     for _, l in ipairs(rows_tex(body.body, ncols)) do lines[#lines+1] = l end
   end
   lines[#lines+1] = "\\bottomrule"
-  lines[#lines+1] = "\\end{tabular}\\par\\medskip"
+  if env == "xltabular" then
+    lines[#lines+1] = "\\end{xltabular}\\endgroup\\par\\medskip"
+  else
+    lines[#lines+1] = "\\end{" .. env .. "}" .. (env == "tabular" and "\\end{adjustbox}" or "") .. "\\par\\medskip"
+  end
   return latex(table.concat(lines, "\n"))
 end
 
+-- first pass: mark the tables that stand outside any box
+function Pandoc(doc)
+  for _, b in ipairs(doc.blocks) do
+    if b.t == "Table" then b.attr.classes:insert("toplevel") end
+  end
+  return doc
+end
+
 return {
-  { Meta = Meta },
+  { Meta = Meta, Pandoc = Pandoc },
   { Div = Div, Span = Span, Table = Table },
 }

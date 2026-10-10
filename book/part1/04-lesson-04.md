@@ -188,7 +188,7 @@ set the questions.
 From the first three lessons, and from memory.
 
 1. Sound out **ξένος**.
-2. Supply the breathing: **_ιππος** — *horse*. <!--nocheck-->
+2. Supply the breathing: **\_ιππος** — *horse*. <!--nocheck-->
 3. What case is **τὴν οἰκίαν**, and what two things tell you?
 4. What gender is **ἡ ὁδός**, and what told you?
 5. Give the Greek for *book*, with its article.

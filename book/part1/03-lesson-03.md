@@ -163,7 +163,7 @@ From the first two lessons, and from memory.
 
 1. Name the letter **ξ** and give its sound.
 2. What does **οὐ** mean?
-3. Supply the breathing: **_οδός** — *road*. <!--nocheck-->
+3. Supply the breathing: **\_οδός** — *road*. <!--nocheck-->
 4. How many syllables are there in **οὐρανός**?
 5. Give the Greek for *god*, with its article.
 6. What kind of accent is on **δῶρον**, and what does it tell the voice

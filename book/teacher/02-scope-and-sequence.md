@@ -146,7 +146,7 @@ the longest in the book.
 
 ---
 
-# Assessment {.unnumbered}
+## Assessment
 
 Nothing in this course depends on a particular grading scheme, and the
 student edition deliberately names none, so that a school can fit the course
@@ -175,7 +175,7 @@ nothing else; the easiest way to make more is to recombine the words of
 the last two vocab boxes.
 :::
 
-## A note on the characters as models
+### A note on the characters as models
 
 The eight pupils model different kinds of success: Julia excels at forms,
 Sabina at narrative, Felix at vocabulary, Quintus at reflection, Livia at

@@ -191,7 +191,7 @@ From Lessons 2 to 5, and from memory.
 5. Translate **οὐ βλέπεις τὴν θύραν.**
 6. What is **εἰσίν**, and why does it end in **-ν** here?
 7. What does **ἀλλά** mean, and what does it join?
-8. Supply the breathing: **_ώρα** — *hour*. <!--nocheck-->
+8. Supply the breathing: **\_ώρα** — *hour*. <!--nocheck-->
 9. Turn **ὁ αἴλουρος βλέπει τὸν ἵππον** round so that the horse sees the
    cat, changing endings only.
 10. What does **ἐγώ** add to **ἐγὼ γράφω** that **γράφω** does not have?

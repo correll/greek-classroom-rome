@@ -72,6 +72,8 @@
 \usepackage{longtable}
 \usepackage{array}
 \usepackage{tabularx}
+\usepackage{xltabular}
+\usepackage{adjustbox}
 \usepackage{graphicx}
 \usepackage{needspace}
 \usepackage{calc}
@@ -168,13 +170,14 @@
   left=10pt, right=10pt, top=8pt, bottom=8pt,
   before skip=10pt, after skip=10pt, #1}
 
-\newtcolorbox{teacherbox}[1][]{
-  enhanced, breakable, colback=white, colframe=olive,
-  boxrule=0pt, arc=0pt, outer arc=0pt,
-  borderline west={2.5pt}{0pt}{olive},
-  left=10pt, right=10pt, top=8pt, bottom=8pt,
-  fontupper=\small,
-  before skip=10pt, after skip=10pt, #1}
+%% teacher notes and answer keys: plain paragraphs between two olive rules,
+%% not a box, so they break across pages even inside another box
+\newenvironment{flowbox}[2]
+  {\par\addvspace{8pt}\begingroup\def\flowcolor{#1}\small\setlength{\parskip}{3pt}%
+   \noindent{\footnotesize\scshape\color{#1}#2}\enspace{\color{#1}\leaders\hrule height 0.4pt\hfill\null}\par\nopagebreak[4]\vspace{1pt}%
+   \csname @beginparpenalty\endcsname=10000
+   \list{}{\leftmargin=10pt\rightmargin=0pt\topsep=0pt\parsep=3pt\itemsep=0pt}\item\relax}
+  {\endlist\par\nopagebreak[4]\vspace{2pt}\noindent{\color{\flowcolor}\rule{\linewidth}{0.4pt}}\par\endgroup\addvspace{8pt}}
 
 %% the reading: Greek on the left, running glosses on the right
 \newenvironment{readingcols}
@@ -202,11 +205,11 @@
 
 %% section markers used inside lessons
 \newcommand{\lessonrubric}[2]{%
-  \Needspace{3\baselineskip}%
-  \par\vspace{12pt}%
+  \par\Needspace{8\baselineskip}%
+  \vspace{12pt}%
   {\noindent\footnotesize\scshape\color{terra}#1\hfill\color{greyink}#2\par}%
-  {\color{rule}\vspace{2pt}\hrule height 0.4pt}%
-  \vspace{6pt}}
+  \nopagebreak{\color{rule}\vspace{2pt}\hrule height 0.4pt}%
+  \nopagebreak\vspace{6pt}}
 
 %% vocabulary list: two columns, Greek flush left
 \newenvironment{vocablist}
