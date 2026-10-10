@@ -410,7 +410,8 @@ all — fine things are hard.
 
 ::: {.reading title="Theodoros's first tablet" source="composed"}
 After the first lessons Theodoros wrote a story on a tablet and
-passed it round. It was about them. Every word in it was on the wall.
+passed it round. It was about them. Nearly every word in it was on the wall,
+and the rest are beside it.
 
 ὁ αἴλουρος βλέπει τὸν ἵππον. ὁ ἵππος οὐ βλέπει τὸν αἴλουρον.
 

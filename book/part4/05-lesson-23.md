@@ -538,7 +538,7 @@ and forms you have)*
 - **ἡ μήτηρ** — his mother *(Lesson 28)*
 - **γίγνονται** — are born *(a present of **γίγνομαι**, whose aorist you
   know as **ἐγένετο**; a present tense telling a past story — see
-  exercise 2)*
+  *What tells you that?*)*
 - **πρεσβύτερος, νεώτερος** — the elder, the younger *(**-τερος** makes a
   comparison; **νέος** is Lesson 10's)*
 - **ἠσθένει** — was ill *(imperfect of **ἀσθενέω**, I am weak)*
@@ -658,7 +658,7 @@ Read each adapted text aloud, then its original. Keep the table open.
 4. Accusative and infinitive after a verb of wanting: *he wanted both his
    sons to be present*. Koine would be likely to write **ἤθελεν ἵνα οἱ δύο
    υἱοὶ αὐτοῦ παρῶσιν** — **θέλω ἵνα** with a verb — or keep the
-   infinitive, as the exercise above allowed. Either is possible; the
+   infinitive, as *Into Greek, twice* allowed. Either is possible; the
    dual is not.
 5. **ὡς φίλον** — *as a friend*; **ὡς περιστεράν** — *like a dove*. The
    other two take verb forms the class has not met: **ὡς ἐπιβουλεύοι** is

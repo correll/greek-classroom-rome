@@ -155,8 +155,8 @@ since Lesson 3.
 - **ὁ δεσπότης** — master *(of a household; of slaves)*
 
 The first two belong to the sentence on the board. The rest are what the
-fourth tablet needs: a verb for reading, a *yes* to answer the *no*, three
-small words that say where and when, and three more verbs for the endings
+fourth tablet needs: a verb for reading, a *yes* to answer the *no*, a
+*nor* to go with it, three small words that say where and when, and three more verbs for the endings
 you now own. Otherwise this lesson is review: the negative and the word
 for God come back from Lesson 2 for a closer look. Every other word in it
 has been met before, and the cumulative list at the back of this book is

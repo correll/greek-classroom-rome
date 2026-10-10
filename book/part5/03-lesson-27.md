@@ -281,11 +281,11 @@ having been asked; **ὑπό** + genitive = by.)*
    which of the two translations would gain?
 6. **ἰδοὺ γάρ** — what does **γάρ** claim about the clause it introduces?
    What is it the reason for?
-7. **ὧδε** and **ἐκεῖ** — which is *here*? Which of this lesson's new words
-   hides inside the other?
+7. **ὧδε** and **ἐκεῖ** — which is *here*? Which word in this lesson's box
+   has **ἐκεῖ** hiding inside it?
 8. **ἀπεκρίθη αὐτοῖς καὶ εἶπεν** — two verbs of saying for one act of
    speech. Which Greek does this, and where did you meet the habit before?
-9. **ὁ κόσμος αὐτὸν οὐκ ἔγνω** (from the first exercise). What tells you
+9. **ὁ κόσμος αὐτὸν οὐκ ἔγνω** (from *Two renderings, one reason*). What tells you
    that **αὐτόν** is not the one who failed to know?
 10. The Latin **intra vos**. What has the Latin translator kept, and what
     tells you he faced the same choice as Julia and Livia?

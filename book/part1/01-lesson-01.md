@@ -143,7 +143,9 @@ ending. Lesson 3 explains why this matters.
 - **ὁ τρόπος** — way, manner; a person's character
 
 ::: note
-The first five are the ones Theodoros set. The other seven are here
+The first five — **ὁ λόγος**, **ὁ φίλος**, **ὁ ἄνθρωπος**, **ἡ ψυχή**,
+**τὸ δῶρον** — are the five Theodoros sets at the end of the lesson. The
+other seven are here
 because you will be sounding them out and putting them in order this
 lesson, and because every one of them is among the few hundred words that
 make up most of any Greek page. You do not need to know yet what to do
@@ -373,7 +375,12 @@ does not become Greek merely because you disguise it."
 
 Felix asked immediately whether the same principle applied to homework.
 
-"It does," said Theodoros. "Five words."
+"It does," said Theodoros. "Five words." He wrote them on the board, one
+under another, each with its little word in front:
+
+> **ὁ λόγος · ὁ φίλος · ὁ ἄνθρωπος · ἡ ψυχή · τὸ δῶρον**
+
+"Copy them. Say them. Learn them with the little word, never without it."
 :::
 
 ::: latinbridge
