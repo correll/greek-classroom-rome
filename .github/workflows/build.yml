@@ -61,7 +61,7 @@ jobs:
           for p in geometry fontspec microtype xcolor titlesec fancyhdr \
                    enumitem booktabs longtable array tabularx graphicx \
                    needspace calc caption tcolorbox multicol fancyvrb \
-                   hyperref bookmark colortbl pgf; do
+                   hyperref bookmark colortbl pgf paracol xltabular adjustbox; do
             printf '%-12s %s\n' "$p" "$(kpsewhich $p.sty || echo MISSING)"
           done
           echo "::endgroup::"

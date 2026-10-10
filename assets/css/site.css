@@ -267,3 +267,31 @@ footer.site .repo-line a:hover { text-decoration: underline; }
   .rubric-meta { text-align: left; }
   table { display: block; overflow-x: auto; }
 }
+
+/* ---- the reading: Greek beside its running glosses ---- */
+section.reading { margin: 0 0 1.25rem; }
+section.reading .readingcols {
+  display: grid; grid-template-columns: 3fr 2fr; gap: 1.5rem; align-items: start;
+}
+section.reading .greek { line-height: 1.75; }
+section.reading .gloss {
+  font-size: 0.88rem; line-height: 1.4; color: var(--grey);
+  border-left: 1px solid var(--rule); padding-left: 1rem;
+}
+section.reading .gloss ul { list-style: none; padding-left: 0; margin: 0; }
+section.reading .gloss li { margin: 0 0 0.25rem; }
+section.reading .gloss strong { color: var(--ink); }
+@media (max-width: 40rem) {
+  section.reading .readingcols { grid-template-columns: 1fr; }
+  section.reading .gloss { border-left: 0; padding-left: 0;
+                           border-top: 1px solid var(--rule); padding-top: 0.6rem; }
+}
+
+/* ---- the glossaries at the back: each letter in two columns ---- */
+section.glossary { font-size: 0.95rem; }
+section.glossary h3 { margin: 1.2rem 0 0.3rem; }
+section.glossary ul { list-style: none; padding-left: 0; margin: 0 0 0.6rem;
+                      column-count: 2; column-gap: 2rem; }
+section.glossary li { margin: 0 0 0.2rem; break-inside: avoid; }
+section.glossary .lesson { color: var(--grey); font-size: 0.85em; margin-left: 0.4em; }
+@media (max-width: 40rem) { section.glossary ul { column-count: 1; } }

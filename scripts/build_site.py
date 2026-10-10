@@ -82,12 +82,13 @@ def collect():
     if teach:
         out.append(("For the teacher", teach))
 
-    for i in range(1, 6):
+    for i in range(1, 20):
         d = os.path.join(ROOT, "book", "part%d" % i)
         if not os.path.isdir(d):
             continue
         items = []
-        label = "Part %d" % i
+        roman = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"][i] if i <= 10 else str(i)
+        label = "Part %s" % roman
         for n in sorted(os.listdir(d)):
             if not n.endswith(".md"):
                 continue
@@ -96,7 +97,7 @@ def collect():
                 with io.open(p, encoding="utf-8") as f:
                     m = re.search(r'name="([^"]+)"', f.read())
                 if m:
-                    label = "Part %d · %s" % (i, m.group(1))
+                    label = "Part %s · %s" % (roman, m.group(1))
                 continue
             items.append(("part%d-%s" % (i, os.path.splitext(n)[0]),
                           heading_of(p), p))
@@ -247,7 +248,7 @@ EBOOK_PAGE = u"""<!doctype html>
   <h2>Elsewhere</h2>
   <p class="r-links">
     <a href="index.html">The scrolling edition</a><br>
-    <a href="front-05-scope-and-sequence.html">Scope and sequence</a><br>
+    <a href="front-05-what-the-course-covers.html">What the course covers</a><br>
     <a href="part1-01-lesson-01.html">Lesson 1 as text</a><br>
     <a href="{repo}">Source on GitHub</a>
   </p>
@@ -315,17 +316,17 @@ infuriating, and their teacher's expectations unreasonable. Over thirty-six
 lessons they discover that the ancient authors are not dusty authorities
 but people who asked questions that still matter.</p>
 
-<p>This is a complete Classical Greek course, built as a continuing story. Each lesson advances the pupils' Greek and their
-relationships with one another. Their classroom mischief provides the
+<p>This is a complete Classical Greek course, built as a continuing story.
+Each lesson advances the pupils' Greek and their relationships with one another. Their classroom mischief provides the
 comedy; the texts themselves provide the substance.</p>
 
 <div class="cards">
   <div class="card">
     <h3>Start here</h3>
-    <p>The course in five movements a lesson, and what it assumes you know.</p>
+    <p>The course in six movements a lesson, and what it assumes you know.</p>
     <p><a href="front-01-preface.html">Preface</a> &middot;
        <a href="front-02-to-students.html">To the student</a> &middot;
-       <a href="front-05-scope-and-sequence.html">Scope and sequence</a></p>
+       <a href="front-05-what-the-course-covers.html">What the course covers</a></p>
   </div>
   <div class="card">
     <h3>Lesson 1</h3>
@@ -351,7 +352,7 @@ comedy; the texts themselves provide the substance.</p>
 <h2>Download</h2>
 {p}
 
-<h2>The thirty lessons</h2>
+<h2>The thirty-six lessons</h2>
 <ol>
 {l}
 </ol>
