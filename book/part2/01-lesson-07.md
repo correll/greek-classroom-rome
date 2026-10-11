@@ -526,5 +526,5 @@ She said she knew.
 :::
 
 ::: {.illustration src="assets/illustrations/scene16.jpg" max="3.6in"}
-“The article is decoration.” Julia does not look up from her tally.
+“The article is just decoration!” Marcus argues so hard that his tablet takes off. His sister Julia, who has been counting his wrong articles, quietly adds one more.
 :::
