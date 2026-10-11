@@ -18,7 +18,17 @@ something mischievous at the same moment.
 4. **Aspect ratio** is given for each prompt to fit its space on the page.
    The page is 5.3 inches wide, so 3:2 prints about 3.5 inches high, 2:1
    about 2.6 inches, and 4:3 about 4 inches.
-5. **If the gag takes over**, add *"The main action is in the centre; the
+5. **Working in one Gemini chat.** After the character sheet, start each
+   scene prompt with: *"Make a completely new drawing with its own
+   composition and viewpoint; do not edit or reuse any earlier picture or
+   its room layout. Same hand-drawn pencil style, and the people look as on
+   the character sheet at the top of this chat. Black and white only. No
+   desks or tables, no text, letters or zzz anywhere."* Without the first
+   sentence Gemini tends to redraw the previous room; without the last it
+   adds a table and a "zzz". The style block then only needs to be pasted
+   once, with the character sheet. The account allows about twenty images
+   a day.
+6. **If the gag takes over**, add *"The main action is in the centre; the
    joke is small and to one side."* The reader should see the scene first
    and find the joke second.
 
