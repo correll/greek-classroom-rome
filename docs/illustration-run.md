@@ -17,7 +17,15 @@ that file still explains the reasoning, the jokes and the sizes.
    *"Edit this last image only: … Keep everything else exactly the same."*
    That fixed the wrong boy in scene 3 at the first try.
 5. Never press Escape while Gemini is drawing: it cancels the picture.
-6. A Pro account allowed about five or six pictures a day; plan on several
+6. The sheet's poses travel with the characters: Felix tends to arrive with
+   a tablet on his head and Theodosius with a drop of sweat. Say so in the
+   scene ("Felix has nothing on his head") when the joke does not need it,
+   or let the caption account for it.
+7. Ask for believable physics: a pupil tipping his stool back should have
+   his shoulders against the wall, or he reads as falling over.
+8. Greek on the board is possible if it is short and named exactly
+   ("the two words ὁ λόγος, clearly legible"); check the accents.
+9. A Pro account allowed about five or six pictures a day; plan on several
    days, or several accounts.
 
 ## Done so far
@@ -31,7 +39,8 @@ be redrawn and dropped in under the same file name.
 | Scene | Account | Chat | Note |
 |:--|:--|:--|:--|
 | 1 | /u/2 | Roman Schoolroom Cartoon Illustration | |
-| 2–5 | /u/2 | Roman Classroom Cartoon Illustration | scene 3 is the corrected second picture |
+| 2, 3, 5 | /u/2 | Roman Classroom Cartoon Illustration | scene 3 is the corrected second picture |
+| 4 | /u/1 | Roman Schoolroom Comedy Scene (the newer of two) | redrawn: Marcus leans back against the wall instead of falling |
 | — | /u/2 | Roman School Character Sheet | old style, before the sheet; not used |
 | 6 | /u/1 | Roman Schoolroom Scene Generation | corrected once |
 | 7 | /u/1 | Roman Classroom Book Gag | |
@@ -41,8 +50,8 @@ be redrawn and dropped in under the same file name.
 | 11 | /u/1 | Roman Schoolroom Cat Gag Illustration | |
 | 12 | /u/1 | Roman Classroom Labeling Gag Illustration | |
 | 13 | /u/1 | Roman Classroom Mock Trial Illustration | |
-| 14 | /u/1 | Roman Classroom Character Scene Generation | |
-| 15 | /u/1 | Roman Schoolroom Lesson End | |
+| 14 | /u/1 | Roman Schoolroom Comedic Scene Illustration | redrawn for Aelia's ἐγώ εἰμι ἡ ὁδός: Felix lies on the floor as the road |
+| 15 | /u/1 | Guarding the Logos | redrawn: ὁ λόγος on the board, the cat's tail round it |
 | 16 | /u/1 | Marcus's Classroom Argument Illustration | |
 | 17 | /u/1 | Roman Classroom Letter Presentation | |
 | 18 | /u/1 | Marcus Teaching in Ancient Rome | first try: the class repeats the sheet pupils; see the redo below |

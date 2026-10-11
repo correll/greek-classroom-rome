@@ -614,5 +614,5 @@ He left it there.
 :::
 
 ::: {.illustration src="assets/illustrations/scene13.jpg" max="3.6in"}
-The court is not interested in the shelf.
+Order in court. Judge Sabina presides from two stools, Felix testifies with feeling, and Marcus protests his innocence. The endings will decide who did what.
 :::

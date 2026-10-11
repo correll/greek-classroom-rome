@@ -394,5 +394,5 @@ nearly right than he intended.
 :::
 
 ::: {.illustration src="assets/illustrations/scene10.jpg" max="3.6in"}
-ΒΙΡΓΙΛΙΟΣ. A word does not become Greek merely because you disguise it.
+ΒΙΡΓΙΛΙΟΣ. A long and terrible silence: Felix cannot bear to watch, and Theodosius is sweating on Marcus’s behalf.
 :::
