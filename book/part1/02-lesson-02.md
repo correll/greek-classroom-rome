@@ -435,4 +435,5 @@ There was a pause.
 :::
 
 ::: {.illustration src="assets/illustrations/scene11.jpg" max="3.6in"}
+“Did you smudge them yourself, sir?” Meanwhile, the usual suspect carries on smudging.
 :::

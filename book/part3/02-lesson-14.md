@@ -548,4 +548,5 @@ around the fourth.
 :::
 
 ::: {.illustration src="assets/illustrations/scene21.jpg" max="3.6in"}
+The aorist: one event, seen whole. The tablet will hit the floor exactly once.
 :::

@@ -125,9 +125,11 @@
 %% part pages
 \newcommand{\partgoal}{}
 \def\partpicture{}
+\def\partcaption{}
 \newcommand{\showpartpicture}{%
   \ifx\partpicture\empty\else
-    \par\vspace{0.45in}\includegraphics[width=\textwidth,height=3.4in,keepaspectratio]{\partpicture}%
+    \par\vspace{0.4in}\includegraphics[width=\textwidth,height=3.1in,keepaspectratio]{\partpicture}%
+    \par\vspace{5pt}{\footnotesize\itshape\color{greyink}\partcaption\par}%
   \fi}
 % pictures are named from the repository root; LaTeX runs in build/tex
 \graphicspath{{../../}}
@@ -143,18 +145,27 @@
     \end{minipage}\showpartpicture}]
 
 %% ---- pictures in the space at the end of a chapter ------------
-%% \fillpicture{file}{max height}: sized to what is left of the page,
-%% never taller than the maximum, and dropped if under 1.4in would remain
-%% (or if the chapter ended exactly at the foot of a page).
+%% \fillpicture{file}{max height}{caption}: the picture and its caption go
+%% only into space the chapter has left empty. The picture is sized to what
+%% is left of the page once the caption is allowed for, never taller than the
+%% maximum, and the whole thing is dropped if the picture would be under
+%% 1.2in (or if the chapter ended exactly at the foot of a page). It cannot
+%% move a line of text and cannot start a page of its own.
 \newlength{\picroom}
-\newcommand{\fillpicture}[2]{%
+\newsavebox{\piccapbox}
+\newcommand{\fillpicture}[3]{%
   \par
+  \sbox{\piccapbox}{\parbox{\linewidth}{\centering\footnotesize\itshape\color{greyink}#3}}%
   \ifdim\pagegoal=\maxdimen\else
-    \setlength{\picroom}{\dimexpr\pagegoal-\pagetotal-\pagedepth-0.3in\relax}%
+    \setlength{\picroom}{\dimexpr\pagegoal-\pagetotal-\pagedepth-0.35in
+        -\ht\piccapbox-\dp\piccapbox-6pt\relax}%
     \ifdim\picroom>#2\relax\setlength{\picroom}{#2}\fi
-    \ifdim\picroom>1.4in
+    \ifdim\picroom>1.2in
       \vfill
-      \noindent\makebox[\linewidth]{\includegraphics[width=\linewidth,height=\picroom,keepaspectratio]{#1}}\par
+      \noindent\begin{minipage}{\linewidth}\centering
+        \includegraphics[width=\linewidth,height=\picroom,keepaspectratio]{#1}\par
+        \vspace{6pt}\usebox{\piccapbox}%
+      \end{minipage}\par
     \fi
   \fi}
 

@@ -654,4 +654,5 @@ next best thing, and in some ways the better one."
 :::
 
 ::: {.illustration src="assets/illustrations/scene32.jpg" max="3.6in"}
+Φῆλιξ τῷ αἰλούρῳ χαίρειν. The joke is in the recipient; the Greek is in the letter.
 :::

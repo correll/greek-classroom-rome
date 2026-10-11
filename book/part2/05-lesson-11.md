@@ -541,4 +541,5 @@ window for a moment.
 :::
 
 ::: {.illustration src="assets/illustrations/scene18.jpg" max="3.6in"}
+Years later, a pupil asks the first genuinely good question. The teacher needs a moment at the window.
 :::

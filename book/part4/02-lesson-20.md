@@ -612,4 +612,5 @@ them."
 :::
 
 ::: {.illustration src="assets/illustrations/scene26.jpg" max="3.6in"}
+καί, καί, καί. Aelia's grandmother needs more fingers than Aelia has.
 :::

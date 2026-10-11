@@ -394,4 +394,5 @@ nearly right than he intended.
 :::
 
 ::: {.illustration src="assets/illustrations/scene10.jpg" max="3.6in"}
+ΒΙΡΓΙΛΙΟΣ. A word does not become Greek merely because you disguise it.
 :::

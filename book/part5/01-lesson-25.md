@@ -634,4 +634,5 @@ this time she did not mind.
 :::
 
 ::: {.illustration src="assets/illustrations/scene30.jpg" max="3.6in"}
+The students are thrilled to learn that one accent turns a fact into a question. Marcus is appalled that anyone is being thanked.
 :::

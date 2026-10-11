@@ -698,4 +698,5 @@ volunteered.
 :::
 
 ::: {.illustration src="assets/illustrations/scene34.jpg" max="3.6in"}
+ὁ αἴλουρος ἐλούθη ὑπ᾽ ἐμοῦ. The passive, as Felix experienced it.
 :::

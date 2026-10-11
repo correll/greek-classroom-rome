@@ -17,8 +17,9 @@
     ::: paradigm                         a paradigm table
     ::: latinbridge                      "you already know this from Latin"
     ::: {.illustration src="..." max="3.6in"}
-                                         a picture for the empty space at the
-                                         end of a chapter (student edition only)
+    Caption text.                        a picture (and its italic caption) for
+    :::                                  the empty space at the end of a chapter
+                                         (student edition only)
 
   Inline:
     [λόγος]{.gk}   Greek with display letterspacing
@@ -74,13 +75,15 @@ function Div(el)
 
   -- A cartoon for the empty space at the end of a chapter. Printed in the
   -- student edition only. \fillpicture sizes it to the space left on the
-  -- page (never more than "max") and leaves it out if under ~1.4 in remain,
+  -- page (never more than "max") and leaves it out if under ~1.2 in would remain,
   -- so a change to the text can never push a picture onto a page of its own.
   if cls == "illustration" then
     if edition ~= "student" or not FORMAT:match("latex") then return {} end
     local src = el.attributes["src"] or ""
     local max = el.attributes["max"] or "3.6in"
-    return { latex("\\fillpicture{" .. src .. "}{" .. max .. "}") }
+    -- the div's text is the caption, set small and italic under the picture
+    local cap = pandoc.write(pandoc.Pandoc(el.content), "latex"):gsub("%s+$", "")
+    return { latex("\\fillpicture{" .. src .. "}{" .. max .. "}{" .. cap .. "}") }
   end
 
   -- teacher-only material: character notes, staging, what to reveal when.
@@ -258,7 +261,9 @@ function Div(el)
       local pic = el.attributes["picture"]
       local out = {}
       if pic and edition == "student" then
-        out[#out+1] = latex("\\def\\partpicture{" .. pic .. "}")
+        local cap = el.attributes["caption"] or ""
+        cap = pandoc.write(pandoc.read(cap, "markdown"), "latex"):gsub("%s+$", "")
+        out[#out+1] = latex("\\def\\partpicture{" .. pic .. "}\\long\\def\\partcaption{" .. cap .. "}")
       else
         out[#out+1] = latex("\\def\\partpicture{}")
       end

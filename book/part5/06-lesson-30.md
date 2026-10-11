@@ -753,4 +753,5 @@ for it.
 :::
 
 ::: {.illustration src="assets/illustrations/scene33.jpg" max="3.6in"}
+The examination is over. The last place on the shelf has been claimed by the κύριος.
 :::

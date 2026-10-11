@@ -590,4 +590,5 @@ recognised all three.
 :::
 
 ::: {.illustration src="assets/illustrations/scene25.jpg" max="3.6in"}
+ὁ κύριος: of the kitchen, the courtyard, and Felix, in that order.
 :::

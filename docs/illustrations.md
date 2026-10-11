@@ -31,15 +31,23 @@ The pictures are in the student edition. A lesson or front-matter chapter
 ends with
 
     ::: {.illustration src="assets/illustrations/scene10.jpg" max="3.6in"}
+    ΒΙΡΓΙΛΙΟΣ. A word does not become Greek merely because you disguise it.
     :::
 
-and a Part page carries `picture="..."` on its `.part` block. The LaTeX
-macro `\fillpicture` sizes each picture to the space actually left at the
-foot of the page (never taller than `max`) and leaves it out if less than
-about 1.4 in remains, so later changes to the text cannot push a picture
-onto a page of its own. The teacher's edition and the website leave them
-out. The figures in the tables below are the October 2026 measurements the
-scenes were chosen from.
+where the text is the italic caption, a deadpan line that ties the picture
+to the lesson. A Part page carries `picture="..."` and `caption="..."` on
+its `.part` block.
+
+The LaTeX macro `\fillpicture` only ever uses space the chapter has left
+empty: it measures what remains on the page, subtracts the caption, sizes
+the picture to fit (never taller than `max`), and leaves picture and caption
+out altogether if less than about 1.2 in of picture would remain. Text
+changes therefore cannot push a picture onto a page of its own, and a
+picture cannot move a line of text. This was checked by building the book
+with and without the pictures: every page carries the same text in both,
+the only difference being the captions. The teacher's edition and the
+website leave the pictures out. The figures in the tables below are the
+October 2026 measurements the scenes were chosen from.
 
 ## Front matter
 

@@ -646,4 +646,5 @@ He said that it did, and that this was precisely the trouble with it.
 :::
 
 ::: {.illustration src="assets/illustrations/scene22.jpg" max="3.6in"}
+Sabina asks, once again, to learn Homeric instead. The scroll is not available.
 :::

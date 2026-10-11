@@ -543,4 +543,5 @@ She was wrong about the case ending, and she got them home.
 :::
 
 ::: {.illustration src="assets/illustrations/scene14.jpg" max="3.6in"}
+One thing about yourself, in Greek. Felix has chosen to be tall.
 :::

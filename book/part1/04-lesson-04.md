@@ -614,4 +614,5 @@ He left it there.
 :::
 
 ::: {.illustration src="assets/illustrations/scene13.jpg" max="3.6in"}
+The court is not interested in the shelf.
 :::

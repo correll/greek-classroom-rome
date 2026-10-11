@@ -502,4 +502,5 @@ eleven years.
 :::
 
 ::: {.illustration src="assets/illustrations/scene12.jpg" max="3.6in"}
+Labelling the room in Greek. Quintus is ὁ ἄνθρωπος: accurate, says Theodoros, and it is coming off.
 :::

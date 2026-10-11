@@ -712,4 +712,5 @@ scroll."
 :::
 
 ::: {.illustration src="assets/illustrations/scene29.jpg" max="3.6in"}
+A reader and a believer may share one scroll. So, it appears, may a cat.
 :::

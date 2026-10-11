@@ -777,4 +777,5 @@ it keeps better."
 :::
 
 ::: {.illustration src="assets/illustrations/scene24.jpg" max="3.6in"}
+The elegant argument and the correct one. For once, the room is listening to the quiet one.
 :::

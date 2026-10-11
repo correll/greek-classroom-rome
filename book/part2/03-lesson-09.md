@@ -547,4 +547,5 @@ omega where it belongs, and you will notice that I am still here."
 :::
 
 ::: {.illustration src="assets/illustrations/scene17.jpg" max="3.6in"}
+πέμπω τὴν ἐπιστολὴν τῷ διδασκάλῳ. The message is that he is sending it.
 :::

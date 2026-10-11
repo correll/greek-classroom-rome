@@ -775,4 +775,5 @@ and I have met your mother."
 :::
 
 ::: {.illustration src="assets/illustrations/scene23.jpg" max="3.6in"}
+“Sir, if I told my mother my name was Nobody —”
 :::

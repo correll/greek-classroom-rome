@@ -526,4 +526,5 @@ She said she knew.
 :::
 
 ::: {.illustration src="assets/illustrations/scene16.jpg" max="3.6in"}
+“The article is decoration.” Julia does not look up from her tally.
 :::
