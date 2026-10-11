@@ -51,25 +51,28 @@ something mischievous at the same moment.
 
 ## Style block
 
-> A hand-drawn pencil cartoon on slightly textured off-white drawing paper,
-> black and white only. It should look drawn by a person with a soft
-> graphite pencil, not by a computer: slightly wobbly, uneven lines that
-> vary in pressure and thickness, a few visible construction lines and
-> small corrections left in, loose quick hatching for shadow, smudged
-> graphite in the darker places, some lines that stop short or overlap.
-> No clean vector outlines, no digital shading, no gradients, no
-> perfect symmetry, no colour. Expressive, slightly exaggerated faces and
-> poses, warm and witty, in the tradition of school-story cartoons; the
-> humour is gentle and never cruel. A simple composition with few figures,
-> little background, and plenty of untouched paper around them. Setting: a
-> small schoolroom in a private house in Rome in AD 400, opening onto a
-> courtyard with plain columns. Late-Roman details: knee-length
-> long-sleeved tunics with two narrow vertical stripes, sandals, low wooden
-> stools, wax tablets made of two hinged wooden leaves held on the knees,
-> slim styluses, a whitened wooden board on an easel, scrolls on a wall
-> shelf. No desks, no blackboard, no paper books, no togas, nothing
-> medieval or monastic. No text, letters or writing anywhere: tablets and
-> board are blank or show only faint indistinct marks.
+> Black-and-white cartoon in a modern animated-sitcom look: hand-inked
+> outlines of even, slightly wobbly thickness, flat white fills, a few flat
+> grey shadows, no hatching or shading. Characters have large heads on
+> thin, loose limbs and simple bodies. The faces carry the joke: big white
+> eyes with tiny pinprick pupils, often half-lidded or mismatched; flat
+> deadpan stares; one raised eyebrow; wide wobbly mouths that show gritted
+> teeth in a horrified grin; sweat drops; slack-jawed disbelief; smug
+> side-eyes. The pupils are lanky, awkward teenagers aged 12 to 14,
+> slouching and eye-rolling, never cute or babyish. The teacher is tired,
+> dry and unimpressed. The tone is deadpan, never sweet. Original character
+> designs, not resembling any existing cartoon characters. Setting: a small
+> schoolroom in a private house in Rome in AD 400, opening onto a courtyard
+> with plain columns. Late-Roman details: knee-length long-sleeved tunics
+> with two narrow vertical stripes, sandals, low wooden stools, wax tablets
+> made of two hinged wooden leaves held on the knees, slim styluses, a
+> whitened wooden board on an easel, scrolls on a wall shelf. No desks, no
+> blackboard, no paper books, no togas, nothing medieval or monastic. No
+> text, letters or writing anywhere: tablets and board are blank or show
+> only faint indistinct marks.
+
+Do not name any existing show or cartoon in the prompt: Gemini then draws
+lookalikes of its characters. Describe the look, as above, instead.
 
 ## The people (and the cat)
 
