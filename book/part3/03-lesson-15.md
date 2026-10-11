@@ -644,3 +644,6 @@ She said that forty lines sounded quite good.
 
 He said that it did, and that this was precisely the trouble with it.
 :::
+
+::: {.illustration src="assets/illustrations/scene22.jpg" max="3.6in"}
+:::

@@ -106,3 +106,6 @@ You will meet, fairly early, a sentence you can read without help. It will be
 short. It will probably be something a Greek child also had to read.
 
 When it happens, notice it. That is the thing this whole book is for.
+
+::: {.illustration src="assets/illustrations/scene01.jpg" max="3.6in"}
+:::

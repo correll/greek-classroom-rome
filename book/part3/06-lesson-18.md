@@ -775,3 +775,6 @@ Felix considered this.
 "Julia was *right*," said Theodoros. "It is a smaller prize than winning and
 it keeps better."
 :::
+
+::: {.illustration src="assets/illustrations/scene24.jpg" max="3.6in"}
+:::

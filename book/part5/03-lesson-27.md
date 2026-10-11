@@ -626,3 +626,6 @@ that you did not, and it is the thing that will matter most for the rest of
 your life, in Greek and out of it. Nothing you are ever handed is the whole
 of it. Ask for the page."
 :::
+
+::: {.illustration src="assets/illustrations/scene31.jpg" max="3.6in"}
+:::

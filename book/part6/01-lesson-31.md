@@ -696,3 +696,6 @@ copy it out."
 Felix looked at the wall. The cat looked at the courtyard. Neither of them
 volunteered.
 :::
+
+::: {.illustration src="assets/illustrations/scene34.jpg" max="3.6in"}
+:::

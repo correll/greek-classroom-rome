@@ -718,3 +718,6 @@ every time I forgot myself. What you could not do, until now, was
 tell that it was different. Now you can. That is the only thing I have ever
 been trying to teach any of you, about anything."
 :::
+
+::: {.illustration src="assets/illustrations/scene28.jpg" max="3.6in"}
+:::

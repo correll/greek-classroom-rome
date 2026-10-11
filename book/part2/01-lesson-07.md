@@ -524,3 +524,6 @@ He said that was because he had started being careful.
 
 She said she knew.
 :::
+
+::: {.illustration src="assets/illustrations/scene16.jpg" max="3.6in"}
+:::

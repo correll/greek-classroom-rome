@@ -632,3 +632,6 @@ first. Thank you."
 Livia, who did not usually enjoy being thanked for mistakes, found that
 this time she did not mind.
 :::
+
+::: {.illustration src="assets/illustrations/scene30.jpg" max="3.6in"}
+:::

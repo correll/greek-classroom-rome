@@ -612,3 +612,6 @@ somebody came close.
 
 He left it there.
 :::
+
+::: {.illustration src="assets/illustrations/scene13.jpg" max="3.6in"}
+:::

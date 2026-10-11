@@ -545,3 +545,6 @@ have not sent anything else."
 "No," Theodoros agreed. "But the case is correct, and the iota is under the
 omega where it belongs, and you will notice that I am still here."
 :::
+
+::: {.illustration src="assets/illustrations/scene17.jpg" max="3.6in"}
+:::

@@ -1,2 +1,2 @@
-::: {.part name="The Strange Language" goal="Read the Greek letters, recognise basic forms, and discover that Greek is learnable."}
+::: {.part picture="assets/illustrations/scene04.jpg" name="The Strange Language" goal="Read the Greek letters, recognise basic forms, and discover that Greek is learnable."}
 :::

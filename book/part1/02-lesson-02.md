@@ -433,3 +433,6 @@ There was a pause.
 
 "Five words," said Theodoros.
 :::
+
+::: {.illustration src="assets/illustrations/scene11.jpg" max="3.6in"}
+:::

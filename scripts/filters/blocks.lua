@@ -16,6 +16,9 @@
     ::: note                             an aside
     ::: paradigm                         a paradigm table
     ::: latinbridge                      "you already know this from Latin"
+    ::: {.illustration src="..." max="3.6in"}
+                                         a picture for the empty space at the
+                                         end of a chapter (student edition only)
 
   Inline:
     [λόγος]{.gk}   Greek with display letterspacing
@@ -68,6 +71,17 @@ end
 function Div(el)
   local cls = el.classes[1]
   if not cls then return nil end
+
+  -- A cartoon for the empty space at the end of a chapter. Printed in the
+  -- student edition only. \fillpicture sizes it to the space left on the
+  -- page (never more than "max") and leaves it out if under ~1.4 in remain,
+  -- so a change to the text can never push a picture onto a page of its own.
+  if cls == "illustration" then
+    if edition ~= "student" or not FORMAT:match("latex") then return {} end
+    local src = el.attributes["src"] or ""
+    local max = el.attributes["max"] or "3.6in"
+    return { latex("\\fillpicture{" .. src .. "}{" .. max .. "}") }
+  end
 
   -- teacher-only material: character notes, staging, what to reveal when.
   -- Dropped from the student edition exactly as the answer keys are.
@@ -241,7 +255,14 @@ function Div(el)
     local name = el.attributes["name"] or ""
     local goal = el.attributes["goal"] or ""
     if FORMAT:match("latex") then
-      local out = { latex("\\coursepart{" .. esc(name) .. "}{" .. esc(goal) .. "}") }
+      local pic = el.attributes["picture"]
+      local out = {}
+      if pic and edition == "student" then
+        out[#out+1] = latex("\\def\\partpicture{" .. pic .. "}")
+      else
+        out[#out+1] = latex("\\def\\partpicture{}")
+      end
+      out[#out+1] = latex("\\coursepart{" .. esc(name) .. "}{" .. esc(goal) .. "}")
       for _, b in ipairs(el.content) do out[#out+1] = b end
       return out
     else

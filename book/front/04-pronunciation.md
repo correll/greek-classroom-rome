@@ -204,3 +204,6 @@ Read these aloud, slowly. All are real words you will meet.
 Check yourself on four things: **θ** and **φ** puffed, not hissed; **υ**
 rounded like French *u*; the rough breathing on **ὁδός** and **ῥήτωρ**
 sounded as *h*; and **ἀγγέλλω** beginning *ang-*, not *ag-g*.
+
+::: {.illustration src="assets/illustrations/scene03.jpg" max="3.6in"}
+:::

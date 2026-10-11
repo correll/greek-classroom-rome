@@ -643,3 +643,6 @@ a slave cleaning the room wiped it off without knowing what
 it was, which Theodoros said afterwards was the most appropriate thing that
 had ever happened in that house.
 :::
+
+::: {.illustration src="assets/illustrations/scene15.jpg" max="3.6in"}
+:::

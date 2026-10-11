@@ -588,3 +588,6 @@ Theodoros said that the cat was the **κύριος** of the kitchen, the
 courtyard, and Felix, in that order, and that the law of Athens would have
 recognised all three.
 :::
+
+::: {.illustration src="assets/illustrations/scene25.jpg" max="3.6in"}
+:::

@@ -546,3 +546,6 @@ It had one entry to begin with. By the end of Part V it had grown to a
 column, and he had stopped writing it in a tone of complaint some time
 around the fourth.
 :::
+
+::: {.illustration src="assets/illustrations/scene21.jpg" max="3.6in"}
+:::

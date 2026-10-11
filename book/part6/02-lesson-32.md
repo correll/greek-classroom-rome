@@ -770,3 +770,6 @@ Marcus hesitated. "*You are*? Or *you will go*?"
 
 "Yes," said Theodoros, and went back to his scrolls.
 :::
+
+::: {.illustration src="assets/illustrations/scene35.jpg" max="3.6in"}
+:::

@@ -500,3 +500,6 @@ that was unmistakably Julia's, a third:
 Theodoros put all three in his sleeve and said nothing about them for
 eleven years.
 :::
+
+::: {.illustration src="assets/illustrations/scene12.jpg" max="3.6in"}
+:::

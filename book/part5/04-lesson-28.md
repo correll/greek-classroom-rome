@@ -652,3 +652,6 @@ will think you have been living there."
 "No. But you have been reading its letters all through this course, and that is the
 next best thing, and in some ways the better one."
 :::
+
+::: {.illustration src="assets/illustrations/scene32.jpg" max="3.6in"}
+:::

@@ -582,3 +582,6 @@ before anyone asked her to.
 Sabina thought about this for most of the walk home, and then went back
 and asked about the dative.
 :::
+
+::: {.illustration src="assets/illustrations/scene19.jpg" max="3.6in"}
+:::

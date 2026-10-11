@@ -124,6 +124,13 @@
 
 %% part pages
 \newcommand{\partgoal}{}
+\def\partpicture{}
+\newcommand{\showpartpicture}{%
+  \ifx\partpicture\empty\else
+    \par\vspace{0.45in}\includegraphics[width=\textwidth,height=3.4in,keepaspectratio]{\partpicture}%
+  \fi}
+% pictures are named from the repository root; LaTeX runs in build/tex
+\graphicspath{{../../}}
 \newcommand{\coursepart}[2]{\renewcommand{\partgoal}{#2}\part{#1}}
 \titleformat{\part}[display]
   {\normalfont\centering\color{inkblue}}
@@ -133,7 +140,23 @@
   [{\normalsize\normalfont\itshape\color{greyink}%
     \begin{minipage}{0.72\textwidth}\centering
       {\color{rule}\rule{0.45\textwidth}{0.8pt}}\\ \vspace{14pt}\partgoal
-    \end{minipage}}]
+    \end{minipage}\showpartpicture}]
+
+%% ---- pictures in the space at the end of a chapter ------------
+%% \fillpicture{file}{max height}: sized to what is left of the page,
+%% never taller than the maximum, and dropped if under 1.4in would remain
+%% (or if the chapter ended exactly at the foot of a page).
+\newlength{\picroom}
+\newcommand{\fillpicture}[2]{%
+  \par
+  \ifdim\pagegoal=\maxdimen\else
+    \setlength{\picroom}{\dimexpr\pagegoal-\pagetotal-\pagedepth-0.3in\relax}%
+    \ifdim\picroom>#2\relax\setlength{\picroom}{#2}\fi
+    \ifdim\picroom>1.4in
+      \vfill
+      \noindent\makebox[\linewidth]{\includegraphics[width=\linewidth,height=\picroom,keepaspectratio]{#1}}\par
+    \fi
+  \fi}
 
 %% ---- the pedagogical boxes --------------------------------------
 \newtcolorbox{storybox}[1][]{

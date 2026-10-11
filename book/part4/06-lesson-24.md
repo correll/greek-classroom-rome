@@ -710,3 +710,6 @@ is the whole difference between a reader and a believer, and you can be
 both, so long as you know at every moment which one is holding the
 scroll."
 :::
+
+::: {.illustration src="assets/illustrations/scene29.jpg" max="3.6in"}
+:::

@@ -392,3 +392,6 @@ A word enters a language properly only when the language can bend it.
 Marcus gave Virgil a Greek ending as a joke, and did something more
 nearly right than he intended.
 :::
+
+::: {.illustration src="assets/illustrations/scene10.jpg" max="3.6in"}
+:::

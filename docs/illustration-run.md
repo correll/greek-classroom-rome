@@ -22,18 +22,21 @@ that file still explains the reasoning, the jokes and the sizes.
 
 ## Done so far
 
-All 37 scenes have a picture. Each one is in its own Gemini chat (the chat
-titles were chosen by Gemini). To download, open the chat and use the
-download button on the picture.
+All 37 scenes have a picture, and all 37 are in the student edition
+(`assets/illustrations/sceneNN.jpg`, greyscale, placed as described in
+`illustrations.md`). Each one came from its own Gemini chat (the chat
+titles were chosen by Gemini); the table records which, so a picture can
+be redrawn and dropped in under the same file name.
 
 | Scene | Account | Chat | Note |
 |:--|:--|:--|:--|
 | 1 | /u/2 | Roman Schoolroom Cartoon Illustration | |
-| 2–5 | /u/2 | Roman Classroom Cartoon Illustration | |
-| 4, 9, 34 | /u/2 | Roman School Character Sheet | test pictures made with the sheet |
+| 2–5 | /u/2 | Roman Classroom Cartoon Illustration | scene 3 is the corrected second picture |
+| — | /u/2 | Roman School Character Sheet | old style, before the sheet; not used |
 | 6 | /u/1 | Roman Schoolroom Scene Generation | corrected once |
 | 7 | /u/1 | Roman Classroom Book Gag | |
 | 8 | /u/1 | Roman Courtyard Reading Scene Creation | |
+| 9 | /u/1 | Roman Classroom Cat Paw Print | |
 | 10 | /u/1 | Roman Classroom Silent Disapproval | corrected once |
 | 11 | /u/1 | Roman Schoolroom Cat Gag Illustration | |
 | 12 | /u/1 | Roman Classroom Labeling Gag Illustration | |
@@ -49,19 +52,20 @@ download button on the picture.
 | 21 | /u/1 | Roman Classroom Cat Chaos | |
 | 22 | /u/1 | Roman Classroom Scroll Scene Generation | |
 | 23 | /u/1 | Roman Classroom Charcoal Prank | corrected: a duplicated Livia became Sabina |
-| 24 | /u/1 | Roman Classroom Trial Scene | the heads do not quite turn to Julia |
+| 24 | /u/1 | Roman Classroom Trial Scene (the newer of two) | redrawn: the class faces Julia, Marcus is left gesturing |
 | 25 | /u/1 | Roman Schoolroom Cat Bow | |
 | 26 | /u/1 | Roman Classroom Finger Counting Gag | |
-| 27 | /u/1 | Roman Classroom Counting Lesson | background girls with buns repeat |
+| 27 | /u/1 | Roman Schoolroom Counting Lesson | redrawn: Felix counts on his toes; only Livia and Theodosius watch |
 | 28 | /u/1 | Roman Classroom Lesson Ending | |
 | 29 | /u/1 | Roman Schoolroom Scroll Scene | |
 | 30 | /u/1 | Roman Schoolroom Image Request | |
-| 31 | /u/1 | Roman Classroom Scroll Mishap | came out about 3:2; crop to 3:1 |
+| 31 | /u/1 | Roman Classroom Scroll Mishap | cropped to 2.6:1 for the book |
 | 32 | /u/1 | Roman Classroom Comedy Scene | |
 | 33 | /u/1 | Cat Blocks Scroll Storage | |
+| 34 | /u/1 | Felix's Soggy Roman Schoolroom Lesson | cropped to 2.2:1 |
 | 35 | /u/1 | Classroom Mischief in Ancient Rome | |
 | 36 | /u/1 | Balancing Act in School | |
-| 37 | /u/1 | Julia's New Roman Classroom | corrected: Julia appeared twice; about 3:2 after the edit |
+| 37 | /u/1 | Julia's New Roman Classroom | corrected: Julia appeared twice; cropped to 2.4:1 |
 
 The chat "Nikolaus Correll Book Cover Design" on /u/1 was started by mistake
 and stopped; it can be deleted.

@@ -539,3 +539,6 @@ Somebody did, in one of the first lessons. He said it was the first genuinely
 good question anybody had asked so far, and then had to go and stand by the
 window for a moment.
 :::
+
+::: {.illustration src="assets/illustrations/scene18.jpg" max="3.6in"}
+:::

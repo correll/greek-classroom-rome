@@ -505,3 +505,6 @@ had turned out to be grammar.
 Theodoros said that was the usual fate of good thoughts, and that he should
 expect it to keep happening.
 :::
+
+::: {.illustration src="assets/illustrations/scene20.jpg" max="3.6in"}
+:::

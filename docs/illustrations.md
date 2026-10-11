@@ -25,6 +25,22 @@ illustrator's style. Where a real object is named below (a coin, a papyrus,
 a fresco), it is in the public domain and can be drawn from a museum
 photograph.
 
+## In the book
+
+The pictures are in the student edition. A lesson or front-matter chapter
+ends with
+
+    ::: {.illustration src="assets/illustrations/scene10.jpg" max="3.6in"}
+    :::
+
+and a Part page carries `picture="..."` on its `.part` block. The LaTeX
+macro `\fillpicture` sizes each picture to the space actually left at the
+foot of the page (never taller than `max`) and leaves it out if less than
+about 1.4 in remains, so later changes to the text cannot push a picture
+onto a page of its own. The teacher's edition and the website leave them
+out. The figures in the tables below are the October 2026 measurements the
+scenes were chosen from.
+
 ## Front matter
 
 | Where | Page | Space (student / teacher) | Suggestion |
