@@ -4,10 +4,15 @@
 "You all know this," said Theodoros. "Every one of you. You have known it
 since before you could read."
 
-He wrote the first line on the board, in Greek, and eight people said the
-Latin under their breath before they had finished reading it.
+He wrote the first line on the board, in Greek:
 
-*Beati pauperes spiritu.*
+> **μακάριοι οἱ πτωχοὶ τῷ πνεύματι, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν
+> οὐρανῶν.**
+
+Eight people said the Latin under their breath before they had finished
+reading it.
+
+*Beati pauperes spiritu, quoniam ipsorum est regnum caelorum.*
 
 "Good. Now read the Greek. Not the Latin that is already in your head —
 the Greek. And tell me what is different."
