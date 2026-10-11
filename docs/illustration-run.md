@@ -22,8 +22,56 @@ that file still explains the reasoning, the jokes and the sizes.
 
 ## Done so far
 
-Scenes 1–5 are finished in this style (account /u/2, chats "Roman
-Schoolroom Cartoon Illustration" and "Roman Classroom Cartoon Illustration").
+All 37 scenes have a picture. Each one is in its own Gemini chat (the chat
+titles were chosen by Gemini). To download, open the chat and use the
+download button on the picture.
+
+| Scene | Account | Chat | Note |
+|:--|:--|:--|:--|
+| 1 | /u/2 | Roman Schoolroom Cartoon Illustration | |
+| 2–5 | /u/2 | Roman Classroom Cartoon Illustration | |
+| 4, 9, 34 | /u/2 | Roman School Character Sheet | test pictures made with the sheet |
+| 6 | /u/1 | Roman Schoolroom Scene Generation | corrected once |
+| 7 | /u/1 | Roman Classroom Book Gag | |
+| 8 | /u/1 | Roman Courtyard Reading Scene Creation | |
+| 10 | /u/1 | Roman Classroom Silent Disapproval | corrected once |
+| 11 | /u/1 | Roman Schoolroom Cat Gag Illustration | |
+| 12 | /u/1 | Roman Classroom Labeling Gag Illustration | |
+| 13 | /u/1 | Roman Classroom Mock Trial Illustration | |
+| 14 | /u/1 | Roman Classroom Character Scene Generation | |
+| 15 | /u/1 | Roman Schoolroom Lesson End | |
+| 16 | /u/1 | Marcus's Classroom Argument Illustration | |
+| 17 | /u/1 | Roman Classroom Letter Presentation | |
+| 18 | /u/1 | Marcus Teaching in Ancient Rome | first try: the class repeats the sheet pupils; see the redo below |
+| 18 (redo) | /u/1 | Marcus Becomes a Teacher | adult Marcus, new children; corrected once (younger children, stylus on nose) |
+| 19 | /u/1 | Roman Schoolroom Cheating Gag | |
+| 20 | /u/1 | Roman Schoolroom Cat Nap | |
+| 21 | /u/1 | Roman Classroom Cat Chaos | |
+| 22 | /u/1 | Roman Classroom Scroll Scene Generation | |
+| 23 | /u/1 | Roman Classroom Charcoal Prank | corrected: a duplicated Livia became Sabina |
+| 24 | /u/1 | Roman Classroom Trial Scene | the heads do not quite turn to Julia |
+| 25 | /u/1 | Roman Schoolroom Cat Bow | |
+| 26 | /u/1 | Roman Classroom Finger Counting Gag | |
+| 27 | /u/1 | Roman Classroom Counting Lesson | background girls with buns repeat |
+| 28 | /u/1 | Roman Classroom Lesson Ending | |
+| 29 | /u/1 | Roman Schoolroom Scroll Scene | |
+| 30 | /u/1 | Roman Schoolroom Image Request | |
+| 31 | /u/1 | Roman Classroom Scroll Mishap | came out about 3:2; crop to 3:1 |
+| 32 | /u/1 | Roman Classroom Comedy Scene | |
+| 33 | /u/1 | Cat Blocks Scroll Storage | |
+| 35 | /u/1 | Classroom Mischief in Ancient Rome | |
+| 36 | /u/1 | Balancing Act in School | |
+| 37 | /u/1 | Julia's New Roman Classroom | corrected: Julia appeared twice; about 3:2 after the edit |
+
+The chat "Nikolaus Correll Book Cover Design" on /u/1 was started by mistake
+and stopped; it can be deleted.
+
+**For scenes without Theodoros (18, 37)**, replace the last sentence of the
+cast paragraph with: *"Only Julia [or Marcus] is taken from the sheet,
+drawn ten years older; Theodoros and the other pupils from the sheet do not
+appear. The children in her class are new, different children, younger and
+smaller than the sheet pupils."* Without it Gemini fills the room with the
+sheet pupils and draws the grown-up twice.
 
 ## Cast (paste first)
 
