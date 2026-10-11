@@ -21,7 +21,7 @@ something mischievous at the same moment.
 5. **Working in one Gemini chat.** After the character sheet, start each
    scene prompt with: *"Make a completely new drawing with its own
    composition and viewpoint; do not edit or reuse any earlier picture or
-   its room layout. Same hand-drawn pencil style, and the people look as on
+   its room layout. Same drawing style, and the people look as on
    the character sheet at the top of this chat. Black and white only. No
    desks or tables, no text, letters or zzz anywhere."* Without the first
    sentence Gemini tends to redraw the previous room; without the last it
