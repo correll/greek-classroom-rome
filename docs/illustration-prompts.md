@@ -41,20 +41,25 @@ something mischievous at the same moment.
 
 ## Style block
 
-> Black-and-white pencil cartoon: a lively graphite line drawing with
-> expressive, slightly exaggerated faces and poses, clean outlines, light
-> hatching for shadow, no colour, plain white background, generous white
-> space around the figures. Warm and witty, in the tradition of
-> school-story cartoons; the humour is gentle and never cruel. A simple
-> composition with few figures and little background. Setting: a small
-> schoolroom in a private house in Rome in AD 400, opening onto a courtyard
-> with plain columns. Late-Roman details: knee-length long-sleeved tunics
-> with two narrow vertical stripes, sandals, low wooden stools, wax tablets
-> made of two hinged wooden leaves held on the knees, slim styluses, a
-> whitened wooden board on an easel, scrolls on a wall shelf. No desks, no
-> blackboard, no paper books, no togas, nothing medieval or monastic. No
-> text, letters or writing anywhere: tablets and board are blank or show
-> only faint indistinct marks.
+> A hand-drawn pencil cartoon on slightly textured off-white drawing paper,
+> black and white only. It should look drawn by a person with a soft
+> graphite pencil, not by a computer: slightly wobbly, uneven lines that
+> vary in pressure and thickness, a few visible construction lines and
+> small corrections left in, loose quick hatching for shadow, smudged
+> graphite in the darker places, some lines that stop short or overlap.
+> No clean vector outlines, no digital shading, no gradients, no
+> perfect symmetry, no colour. Expressive, slightly exaggerated faces and
+> poses, warm and witty, in the tradition of school-story cartoons; the
+> humour is gentle and never cruel. A simple composition with few figures,
+> little background, and plenty of untouched paper around them. Setting: a
+> small schoolroom in a private house in Rome in AD 400, opening onto a
+> courtyard with plain columns. Late-Roman details: knee-length
+> long-sleeved tunics with two narrow vertical stripes, sandals, low wooden
+> stools, wax tablets made of two hinged wooden leaves held on the knees,
+> slim styluses, a whitened wooden board on an easel, scrolls on a wall
+> shelf. No desks, no blackboard, no paper books, no togas, nothing
+> medieval or monastic. No text, letters or writing anywhere: tablets and
+> board are blank or show only faint indistinct marks.
 
 ## The people (and the cat)
 
