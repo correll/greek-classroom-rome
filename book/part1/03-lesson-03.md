@@ -501,6 +501,5 @@ Theodoros put all three in his sleeve and said nothing about them for
 eleven years.
 :::
 
-::: {.illustration src="assets/illustrations/scene12.jpg" max="3.6in"}
-Labelling the room in Greek. Quintus is ὁ ἄνθρωπος: accurate, says Theodoros, and it is coming off.
+::: {.illustration src="assets/illustrations/c-asleep.png" max="1.5in"}
 :::

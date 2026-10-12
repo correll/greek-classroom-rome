@@ -613,7 +613,3 @@ works. And I shall give something back."
 "**δίδωμι**," said Theodoros, "is the verb. Learn to ask about the rest in
 it, and I shall tell you."
 :::
-
-::: {.illustration src="assets/illustrations/scene36.jpg" max="3.6in"}
-δίδωμι: there is a great deal to give back. The cat is not part of it.
-:::

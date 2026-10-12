@@ -610,7 +610,3 @@ seventy years without a Hebrew text in front of her, which tells you that
 the Septuagint did not only come out of the streets. It went back into
 them."
 :::
-
-::: {.illustration src="assets/illustrations/scene26.jpg" max="3.6in"}
-καί, καί, καί. Aelia's grandmother needs more fingers than Aelia has.
-:::

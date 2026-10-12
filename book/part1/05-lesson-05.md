@@ -541,7 +541,3 @@ stopped at a junction and considered the three streets available to her.
 
 She was wrong about the case ending, and she got them home.
 :::
-
-::: {.illustration src="assets/illustrations/scene14.jpg" max="3.6in"}
-ἐγώ εἰμι ἡ ὁδός. Aelia meant “I know the way.” Felix is demonstrating what she actually said.
-:::

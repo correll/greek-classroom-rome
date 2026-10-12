@@ -332,7 +332,13 @@ $if(subtitle)$
 $endif$
 {\color{rule}\rule{0.55\textwidth}{0.8pt}}\\[30pt]
 {\gkd{\color{terra}\fontsize{30}{34}\selectfont ΤΟ ΔΙΔΑΣΚΑΛΕΙΟΝ}\par}
+$if(cover-image)$
+\vspace{24pt}
+\includegraphics[width=0.92\textwidth,height=0.42\textheight,keepaspectratio]{$cover-image$}\par
+\vfill
+$else$
 \vspace{0.22\textheight}
+$endif$
 $if(author)$
 {\large $for(author)$$author$$sep$\\$endfor$\par}
 $endif$
@@ -359,4 +365,17 @@ $body$
 $for(include-after)$
 $include-after$
 $endfor$
+$if(back-cover-image)$
+%% ---- back cover: the cast, on the last (left-hand) page ----------
+\clearpage
+\ifodd\value{page}\thispagestyle{empty}\hbox{}\clearpage\fi
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth]{$back-cover-image$}\par
+\vspace{14pt}
+{\color{greyink}\small\itshape Theodoros, Marcus, Julia, Felix, Sabina, Quintus, Livia, Theodosius, Aelia\\ and the cat, who is the κύριος of all of them.\par}
+\end{center}
+\vspace*{\fill}
+$endif$
 \end{document}

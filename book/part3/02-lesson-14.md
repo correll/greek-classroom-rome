@@ -547,6 +547,5 @@ column, and he had stopped writing it in a tone of complaint some time
 around the fourth.
 :::
 
-::: {.illustration src="assets/illustrations/scene21.jpg" max="3.6in"}
-The aorist: one event, seen whole. The tablet will hit the floor exactly once.
+::: {.illustration src="assets/illustrations/c-stretch.png" max="1.5in"}
 :::

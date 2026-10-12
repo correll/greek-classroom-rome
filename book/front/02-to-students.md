@@ -107,6 +107,5 @@ short. It will probably be something a Greek child also had to read.
 
 When it happens, notice it. That is the thing this whole book is for.
 
-::: {.illustration src="assets/illustrations/scene01.jpg" max="3.6in"}
-The first sentence you can read without help. Livia has just found hers. Felix is still looking for his, with his eyes closed.
+::: {.illustration src="assets/illustrations/p-sleeper.png" max="1.5in"}
 :::

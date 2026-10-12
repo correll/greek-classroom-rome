@@ -658,6 +658,5 @@ he had known.
 She did not need the grammar explained. That was the point of the grammar.
 :::
 
-::: {.illustration src="assets/illustrations/scene37.jpg" max="3.6in"}
-χαίρειν … ἔβλεπον … ἔρρωσο. Behind her, a curly-haired boy studies the ceiling.
+::: {.illustration src="assets/illustrations/c-leaving.png" max="1.5in"}
 :::

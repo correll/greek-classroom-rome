@@ -28,6 +28,11 @@ that file still explains the reasoning, the jokes and the sizes.
 9. A Pro account allowed about five or six pictures a day; plan on several
    days, or several accounts.
 
+> **Retired, October 2026.** The full-scene cartoons below are no longer in
+> the book; only scene 2 survives, as the front cover. See
+> `illustrations.md` for the spot drawings that replaced them. This file is
+> kept as the record of how the scenes were made.
+
 ## Done so far
 
 All 37 scenes have a picture, and all 37 are in the student edition

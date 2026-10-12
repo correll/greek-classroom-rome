@@ -711,6 +711,5 @@ both, so long as you know at every moment which one is holding the
 scroll."
 :::
 
-::: {.illustration src="assets/illustrations/scene29.jpg" max="3.6in"}
-A reader and a believer may share one scroll. So, it appears, may a cat.
+::: {.illustration src="assets/illustrations/p-scroll.png" max="1.5in"}
 :::

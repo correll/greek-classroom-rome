@@ -58,7 +58,3 @@ explanations are given in English, for you. Their target language — and
 yours — is Classical Attic Greek, with short Koine sentences from the New
 Testament from Lesson 4 on, and the Septuagint and the Gospels studied in
 their own right in Part IV.
-
-::: {.illustration src="assets/illustrations/scene02.jpg" max="3.6in"}
-Eight pupils, one teacher, one cat. Only the cat is giving the lesson its full attention.
-:::

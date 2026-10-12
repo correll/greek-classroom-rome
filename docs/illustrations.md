@@ -27,27 +27,48 @@ photograph.
 
 ## In the book
 
-The pictures are in the student edition. A lesson or front-matter chapter
-ends with
+**What is used now (October 2026).** The full-scene cartoons were retired.
+The book carries only:
 
-    ::: {.illustration src="assets/illustrations/scene10.jpg" max="3.6in"}
-    ΒΙΡΓΙΛΙΟΣ. A word does not become Greek merely because you disguise it.
+- **Front cover:** the whole class seen from the doorway, with the cat about
+  to pounce on Felix's stylus (`assets/illustrations/cover.jpg`).
+- **Back cover:** the character sheet, captioned with the cast
+  (`character-sheet.jpg`, on the last, left-hand page).
+- **Twelve small spot drawings** on white, one or two figures or the cat
+  alone, placed sparingly at the end of a chapter where the page has room:
+
+| Where | Spot |
+|:--|:--|
+| *To the Student* | Felix asleep on his tablet, Theodoros watching (`p-sleeper`) |
+| Lesson 1 | Theodoros drawing on the board (`p-board`) |
+| Lesson 3 | the cat asleep on a tablet (`c-asleep`) |
+| Lesson 6 | Felix dragging a stool (`p-stool`) |
+| Lesson 9 | the cat batting at a pen on a thread (`c-play`) |
+| Lesson 11 | Quintus holds a tablet up, Theodosius on tiptoe (`p-tiptoe`) |
+| Lesson 14 | the cat stretching (`c-stretch`) |
+| Lesson 15 | Sabina in a bowl helmet with a pen for a spear (`p-helmet`) |
+| Lesson 19 | the cat glaring: the **κύριος** (`c-glare`) |
+| Lesson 24 | Livia reading a long scroll (`p-scroll`) |
+| Lesson 31 | the cat washing itself: the middle voice (`c-wash`) |
+| Lesson 36 | the cat walking away: the end (`c-leaving`) |
+
+Covers appear in both editions; the spots in the student edition only. A
+spot is written at the end of a chapter as
+
+    ::: {.illustration src="assets/illustrations/c-wash.png" max="1.5in"}
     :::
 
-where the text is the italic caption, a deadpan line that ties the picture
-to the lesson. A Part page carries `picture="..."` and `caption="..."` on
-its `.part` block.
-
 The LaTeX macro `\fillpicture` only ever uses space the chapter has left
-empty: it measures what remains on the page, subtracts the caption, sizes
-the picture to fit (never taller than `max`), and leaves picture and caption
-out altogether if less than about 1.2 in of picture would remain. Text
-changes therefore cannot push a picture onto a page of its own, and a
-picture cannot move a line of text. This was checked by building the book
-with and without the pictures: every page carries the same text in both,
-the only difference being the captions. The teacher's edition and the
-website leave the pictures out. The figures in the tables below are the
-October 2026 measurements the scenes were chosen from.
+empty: it measures what remains on the page, sizes the drawing to fit (never
+taller than `max`), and leaves it out if less than about 1.2 in would
+remain. A drawing therefore cannot move a line of text or start a page of
+its own; this was checked by building the book with and without them and
+comparing the text of every page. The spot drawings were made as two sheets
+of six in Gemini (chats "Tabby Cat Character Sheet" and "Roman School Life
+Spot Illustrations" on account /u/1) and cut apart by script.
+
+The tables below are the October 2026 survey of empty space, kept as a guide
+to where more spots could go.
 
 ## Front matter
 

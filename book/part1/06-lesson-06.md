@@ -644,6 +644,5 @@ it was, which Theodoros said afterwards was the most appropriate thing that
 had ever happened in that house.
 :::
 
-::: {.illustration src="assets/illustrations/scene15.jpg" max="3.6in"}
-Fifteen words wiped away. ὁ λόγος stays, for now: the cat has seen to that.
+::: {.illustration src="assets/illustrations/p-stool.png" max="1.5in"}
 :::

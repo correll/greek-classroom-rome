@@ -582,7 +582,3 @@ before anyone asked her to.
 Sabina thought about this for most of the walk home, and then went back
 and asked about the dative.
 :::
-
-::: {.illustration src="assets/illustrations/scene19.jpg" max="3.6in"}
-No marks for the translation, all the marks for the defence. Copying is not a defence.
-:::

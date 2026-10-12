@@ -773,7 +773,3 @@ Felix put his hand up.
 "Your mother," said Theodoros, "is not a Cyclops, and you are not in a cave,
 and I have met your mother."
 :::
-
-::: {.illustration src="assets/illustrations/scene23.jpg" max="3.6in"}
-“Sir, if I told my mother my name was Nobody —”
-:::

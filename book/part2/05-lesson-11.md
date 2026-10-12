@@ -540,6 +540,5 @@ good question anybody had asked so far, and then had to go and stand by the
 window for a moment.
 :::
 
-::: {.illustration src="assets/illustrations/scene18.jpg" max="3.6in"}
-Years later, a pupil asks the first genuinely good question. The teacher needs a moment at the window.
+::: {.illustration src="assets/illustrations/p-tiptoe.png" max="1.5in"}
 :::

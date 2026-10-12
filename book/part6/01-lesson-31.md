@@ -697,6 +697,5 @@ Felix looked at the wall. The cat looked at the courtyard. Neither of them
 volunteered.
 :::
 
-::: {.illustration src="assets/illustrations/scene34.jpg" max="3.6in"}
-ὁ αἴλουρος ἐλούθη ὑπ᾽ ἐμοῦ. The passive, as Felix experienced it.
+::: {.illustration src="assets/illustrations/c-wash.png" max="1.5in"}
 :::

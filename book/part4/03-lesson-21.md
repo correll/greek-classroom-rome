@@ -604,7 +604,3 @@ next exercise."
 Felix thought about it for the rest of the lesson and was not let
 off.
 :::
-
-::: {.illustration src="assets/illustrations/scene27.jpg" max="3.6in"}
-μακάριοι, eight times. Felix has checked twice. He has still not found a Latin word for it.
-:::

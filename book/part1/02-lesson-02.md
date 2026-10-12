@@ -433,7 +433,3 @@ There was a pause.
 
 "Five words," said Theodoros.
 :::
-
-::: {.illustration src="assets/illustrations/scene11.jpg" max="3.6in"}
-“Did you smudge Felix’s letters yourself, sir, on purpose?” For once Theodoros has no answer ready. The cat, sitting on another tablet, says nothing either.
-:::

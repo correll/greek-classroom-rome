@@ -393,6 +393,5 @@ Marcus gave Virgil a Greek ending as a joke, and did something more
 nearly right than he intended.
 :::
 
-::: {.illustration src="assets/illustrations/scene10.jpg" max="3.6in"}
-ΒΙΡΓΙΛΙΟΣ. A long and terrible silence: Felix cannot bear to watch, and Theodosius is sweating on Marcus’s behalf.
+::: {.illustration src="assets/illustrations/p-board.png" max="1.5in"}
 :::
