@@ -1,5 +1,10 @@
 # Schola Graeca
 
+<p align="center">
+<img src="assets/illustrations/cover.jpg" width="640"
+     alt="Eight pupils, one teacher and one cat in a Roman schoolroom. Only the cat is giving the lesson its full attention.">
+</p>
+
 A Classical Greek course, built as a continuing story. The title is Latin
 for *The Greek Classroom*.
 
@@ -10,18 +15,24 @@ for *The Greek Classroom*.
 Rome, autumn of AD 400. Eight Latin-speaking children in a household school
 on the Caelian Hill are made to study Greek by a grammarian from Antioch.
 They find the language old-fashioned, the declensions infuriating, and
-their teacher's expectations unreasonable. Over thirty-six lessons they
-discover that the ancient authors are not dusty authorities but people who
-asked questions that still matter.
+their teacher's expectations unreasonable. Over thirty-six lessons, in six
+parts, they discover that the ancient authors are not dusty authorities but
+people who asked questions that still matter.
 
 One source tree produces four things:
 
 | | |
 |:--|:--|
-| `build/greek-classroom.pdf` | the textbook, student edition |
-| `build/greek-classroom-teacher.pdf` | the same book plus answer keys, character notes, and the full scope and sequence |
+| `build/greek-classroom.pdf` | the textbook, student edition (about 390 pages) |
+| `build/greek-classroom-teacher.pdf` | the same book plus answer keys, teaching notes, character notes, a chapter on how the book uses what is known about learning, and the full scope and sequence |
 | `build/greek-grammar.pdf` | the companion reference grammar |
 | `site/` | a GitHub Pages site: the chapters as web pages, a flip-book reader, and the PDFs |
+
+The student edition carries the class scene above on its cover, the
+character sheet on the back, and a dozen small drawings of the cat and the
+pupils at the ends of lessons, where there is room. The drawings fill
+space that was already blank and never move the text; `docs/illustrations.md`
+says how.
 
 ## Quick start
 
@@ -90,27 +101,36 @@ pip3 install fonttools brotli
 
 ```
 book/                 the textbook
-  metadata.yaml       title, author, defaults
+  metadata.yaml       title, author, cover images, defaults
   front/              preface, note to students, the setting, pronunciation,
                       what the course covers
-  teacher/            teacher's edition only: character notes, full scope
+  teacher/            teacher's edition only: how the book uses what is
+                      known about learning, character notes, full scope
                       and sequence
-  part1/ … part5/     00-part.md is the part divider; the rest are lessons
-  back/               editions note, generated glossary, sources
+  part1/ … part6/     00-part.md is the part divider; the rest are lessons
+  back/               generated Greek–English and English–Greek
+                      vocabularies, sources
 grammar/              the reference grammar, §1–§17
-templates/book.latex  the XeLaTeX template: page design, boxes, title page
+templates/book.latex  the XeLaTeX template: page design, boxes, covers
 scripts/
   filters/blocks.lua  maps the authoring blocks to LaTeX and HTML
+  filters/studentpages.lua
+                      puts the student edition's page numbers under each
+                      heading of the teacher's edition
+  student_pages.py    harvests those page numbers from the student build
   build_site.py       builds site/ from the same Markdown
-  build_glossary.py   regenerates book/back/02-vocabulary.md
+  build_glossary.py   regenerates the two vocabularies in book/back/
   check_greek.py      validates Greek text and block syntax
   fetch_fonts.sh      re-downloads the vendored OFL fonts
 assets/
   fonts/              Gentium Book Plus, GFS Didot, and their licences
+  illustrations/      cover, character sheet, and the spot drawings
   css/site.css        the scrolling site's styles
   css/ebook.css       the flip-book reader's styles
   js/ebook.js         the flip-book reader
   vendor/pdfjs/       PDF.js, vendored (Apache 2.0)
+docs/                 the writing guide, the voice of the book, the
+                      didactics review, and notes on the illustrations
 .github/workflows/    CI: validate, build, deploy to Pages
 ```
 
@@ -169,9 +189,15 @@ What exactly did you do when you read that?
 | `.exercise` | numbered automatically per lesson; `title=` is optional |
 | `answers` | **teacher's edition only**; hidden in the student PDF |
 | `teacheronly` | teaching notes, also teacher's edition only; takes `label=` |
+| `.reading` | a longer passage with its `gloss` list set beside it; takes `title=` and `source=` |
+| `gloss` | the running vocabulary of a `.reading`, one word per line |
+| `paradigm` | a declension or conjugation table |
+| `grammar` | a grammar panel outside a `.newgreek` section |
 | `note` | an aside |
 | `latinbridge` | a *From Latin* box |
+| `.illustration` | **student edition, print only**: a spot drawing that appears only if the page has room; takes `src=` and `max=`, the text is the caption |
 | `.part` | a part divider; takes `name=` and `goal=` |
+| `glossary` | the two-column word lists at the back |
 
 ### Inline
 
@@ -223,14 +249,18 @@ edition, where they are written as staging guidance rather than biography.
 | | |
 |:--|:--|
 | Front matter | complete |
-| Lessons 1–3 | written in full, with exercises and answer keys |
-| Lessons 4–30 | outlined — grammar focus, story premise, text target, and vocabulary planned for each |
+| Lessons 1–36 | written in full, with exercises, answer keys, and teaching notes on every closing question |
+| Teacher's chapters | complete: how the book uses what is known about learning, the characters, scope and sequence |
+| Vocabularies | generated from the lessons by `make glossary` |
+| Illustrations | cover, back cover, and twelve spot drawings in place |
 | Grammar §1–§5 | complete: writing and sound, accentuation, the article, the first and second declensions |
 | Grammar §6–§16 | outlined, with numbering already stable |
 | Grammar §17 | paradigm appendix, populated for everything taught so far |
 
 Cross-references to the outlined grammar sections are already valid, so
-drafting can proceed in any order without renumbering.
+the grammar can be written in any order without renumbering. `docs/`
+holds the writing guide and the description of the book's voice for
+anyone adding to it.
 
 ## Decisions worth knowing about
 
