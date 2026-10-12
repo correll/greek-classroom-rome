@@ -319,34 +319,52 @@ $endfor$
 %% ---- front cover -------------------------------------------------
 \begin{document}
 \frontmatter
-\thispagestyle{empty}
-\begin{titlepage}
-\centering
-\vspace*{0.14\textheight}
-{\color{rule}\rule{0.55\textwidth}{0.8pt}}\\[22pt]
-{\greekdisplay\color{inkblue}\fontsize{34}{40}\selectfont $title$\par}
-\vspace{14pt}
+%% the title block, shared by the cover page and the title page
+\newcommand{\booktitleblock}{%
+  {\color{rule}\rule{0.55\textwidth}{0.8pt}}\\[22pt]
+  {\greekdisplay\color{inkblue}\fontsize{34}{40}\selectfont $title$\par}
+  \vspace{14pt}
 $if(subtitle)$
-{\color{greyink}\large\itshape $subtitle$\par}
-\vspace{10pt}
+  {\color{greyink}\large\itshape $subtitle$\par}
+  \vspace{10pt}
 $endif$
-{\color{rule}\rule{0.55\textwidth}{0.8pt}}\\[30pt]
-{\gkd{\color{terra}\fontsize{30}{34}\selectfont ΤΟ ΔΙΔΑΣΚΑΛΕΙΟΝ}\par}
-$if(cover-image)$
-\vspace{24pt}
-\includegraphics[width=0.92\textwidth,height=0.42\textheight,keepaspectratio]{$cover-image$}\par
-\vfill
-$else$
-\vspace{0.22\textheight}
-$endif$
+  {\color{rule}\rule{0.55\textwidth}{0.8pt}}\\[30pt]
+  {\gkd{\color{terra}\fontsize{30}{34}\selectfont ΤΟ ΔΙΔΑΣΚΑΛΕΙΟΝ}\par}}
+\newcommand{\bookauthorblock}{%
 $if(author)$
-{\large $for(author)$$author$$sep$\\$endfor$\par}
+  {\large $for(author)$$author$$sep$\\$endfor$\par}
 $endif$
-\vspace{10pt}
+  \vspace{10pt}
 $if(date)$
-{\color{greyink}\small $date$\par}
+  {\color{greyink}\small $date$\par}
 $endif$
-\end{titlepage}
+}
+%% Page order, so that a printer (Lulu, say) gets right-hand pages where
+%% a book has them: i cover, ii blank, iii title page, iv blank, v contents.
+%% Without a cover image the title page comes first, as before.
+%% (plain empty-style pages rather than the titlepage environment, which
+%% resets the page counter and would break the page-parity checks below)
+\newcommand{\blankpage}{\thispagestyle{empty}\null\clearpage}
+$if(cover-image)$
+{\centering\thispagestyle{empty}
+\vspace*{0.06\textheight}
+\booktitleblock
+\vspace{28pt}
+\includegraphics[width=\textwidth,height=0.52\textheight,keepaspectratio]{$cover-image$}\par
+\vfill
+\bookauthorblock\par}
+\clearpage
+\blankpage
+$endif$
+{\centering\thispagestyle{empty}
+\vspace*{0.14\textheight}
+\booktitleblock
+\vspace{0.22\textheight}
+\bookauthorblock\par}
+\clearpage
+$if(cover-image)$
+\blankpage
+$endif$
 
 $for(include-before)$
 $include-before$
@@ -377,5 +395,11 @@ $if(back-cover-image)$
 {\color{greyink}\small\itshape Theodoros, Marcus, Julia, Felix, Sabina, Quintus, Livia, Theodosius, Aelia\\ and the cat, who is the κύριος of all of them.\par}
 \end{center}
 \vspace*{\fill}
+$else$
+%% ---- end on a left-hand page: printers want an even page count -----
+%% (the main matter starts on a right-hand page, so the page counter's
+%% parity is the physical one)
+\clearpage
+\ifodd\value{page}\else\thispagestyle{empty}\null\clearpage\fi
 $endif$
 \end{document}

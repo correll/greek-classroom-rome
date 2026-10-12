@@ -73,7 +73,7 @@ cd $(TEXDIR) && $(XELATEX) $(2).tex >/dev/null 2>&1 || \
 @echo "  -> $@"
 endef
 
-.PHONY: all pdf teacher grammar site check glossary clean distclean fonts help
+.PHONY: all pdf teacher grammar site lulu check glossary clean distclean fonts help
 
 all: pdf teacher grammar site
 
@@ -82,6 +82,7 @@ help:
 	@echo "make teacher  - teacher edition PDF      -> $(BUILD)/greek-classroom-teacher.pdf"
 	@echo "make grammar  - reference grammar PDF    -> $(BUILD)/greek-grammar.pdf"
 	@echo "make site     - GitHub Pages site        -> $(SITE)/"
+	@echo "make lulu     - Lulu hardcover upload: interiors and wrap covers -> $(BUILD)/lulu/"
 	@echo "make check    - validate Greek text and block syntax"
 	@echo "make glossary - regenerate the cumulative vocabulary from the lessons"
 	@echo "make fonts    - (re)download the vendored OFL fonts"
@@ -108,6 +109,19 @@ $(BUILD)/greek-grammar.pdf: $(GRAM_SRC) templates/book.latex scripts/filters/blo
 site: pdf teacher grammar
 	python3 scripts/build_site.py
 	@echo "  -> $(SITE)/index.html"
+
+# Lulu hardcover (casewrap): the interior is the edition PDF as it stands
+# (cover page, title page and blank backs in front; an even page count);
+# the wrap cover is generated to Lulu's template, its spine sized from the
+# interior's page count. See scripts/lulu_cover.py.
+LULU := $(BUILD)/lulu
+lulu: $(BUILD)/greek-classroom.pdf $(BUILD)/greek-classroom-teacher.pdf scripts/lulu_cover.py
+	@mkdir -p $(LULU)
+	cp $(BUILD)/greek-classroom.pdf $(LULU)/greek-classroom-interior.pdf
+	cp $(BUILD)/greek-classroom-teacher.pdf $(LULU)/greek-classroom-teacher-interior.pdf
+	python3 scripts/lulu_cover.py $(LULU)/greek-classroom-interior.pdf $(LULU)/greek-classroom-cover.pdf
+	python3 scripts/lulu_cover.py $(LULU)/greek-classroom-teacher-interior.pdf $(LULU)/greek-classroom-teacher-cover.pdf \
+	  --subtitle "Teacher's Edition · with answer keys"
 
 check:
 	python3 scripts/check_greek.py

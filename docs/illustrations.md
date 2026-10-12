@@ -31,9 +31,18 @@ photograph.
 The book carries only:
 
 - **Front cover:** the whole class seen from the doorway, with the cat about
-  to pounce on Felix's stylus (`assets/illustrations/cover.jpg`).
+  to pounce on Felix's stylus (`assets/illustrations/cover.jpg`). It has
+  a page of its own (page i, blank behind it), before the title page.
 - **Back cover:** the character sheet, captioned with the cast
   (`character-sheet.jpg`, on the last, left-hand page).
+- **The Lulu wrap cover** (`make lulu`, `scripts/lulu_cover.py`) uses the
+  same two pictures as framed plates on a dark blue cloth colour: the
+  class scene on the front, the cast and the blurb on the back.
+
+All the pictures were upscaled (Lanczos, light unsharp mask) so that none
+prints below 400 PPI; Lulu warns below 200. The drawings came out of Gemini
+at screen resolution, so the upscale makes the printer's check pass and the
+lines smooth, but it adds no detail that was not there.
 - **Twelve small spot drawings** on white, one or two figures or the cat
   alone, placed sparingly at the end of a chapter where the page has room:
 

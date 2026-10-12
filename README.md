@@ -28,8 +28,8 @@ One source tree produces four things:
 | `build/greek-grammar.pdf` | the companion reference grammar |
 | `site/` | a GitHub Pages site: the chapters as web pages, a flip-book reader, and the PDFs |
 
-The student edition carries the class scene above on its cover, the
-character sheet on the back, and a dozen small drawings of the cat and the
+The student edition opens with the class scene above as its cover page,
+ends with the character sheet, and a dozen small drawings of the cat and the
 pupils at the ends of lessons, where there is room. The drawings fill
 space that was already blank and never move the text; `docs/illustrations.md`
 says how.
@@ -118,6 +118,7 @@ scripts/
                       puts the student edition's page numbers under each
                       heading of the teacher's edition
   student_pages.py    harvests those page numbers from the student build
+  lulu_cover.py       the wrap cover for a Lulu hardcover
   build_site.py       builds site/ from the same Markdown
   build_glossary.py   regenerates the two vocabularies in book/back/
   check_greek.py      validates Greek text and block syntax
@@ -279,6 +280,20 @@ student should never be in doubt which is which.
 **Two editions, one source.** The answer keys live beside their exercises
 in the same file. The student PDF drops them at build time, so the two
 editions cannot drift apart.
+
+## Printing with Lulu
+
+`make lulu` writes, for each edition, an interior PDF and a one-piece wrap
+cover to `build/lulu/`, laid out to Lulu's template for a 7 × 10 in
+casewrap hardcover: 0.625 in wrap and safety margins, the barcode area on
+the back left clear, and the spine width taken from Lulu's table for the
+interior's page count. If Lulu's template for an upload gives a different
+spine, pass it with `scripts/lulu_cover.py … --spine 1.1875`.
+
+The interiors meet Lulu's checks as built: fonts embedded, every picture
+at 400–450 PPI, an even page count, and the front matter in book order
+(i cover page, iii title page, v contents) so right-hand pages fall on the
+right.
 
 ## Deploying
 
