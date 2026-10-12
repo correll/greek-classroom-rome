@@ -110,15 +110,15 @@ site: pdf teacher grammar
 	python3 scripts/build_site.py
 	@echo "  -> $(SITE)/index.html"
 
-# Lulu hardcover (casewrap): the interior is the edition PDF as it stands
-# (cover page, title page and blank backs in front; an even page count);
+# Lulu hardcover (casewrap): the interior is the edition PDF with 0.125 in
+# of white bleed added all round (7.25 x 10.25 in, trim box at 7 x 10);
 # the wrap cover is generated to Lulu's template, its spine sized from the
 # interior's page count. See scripts/lulu_cover.py.
 LULU := $(BUILD)/lulu
-lulu: $(BUILD)/greek-classroom.pdf $(BUILD)/greek-classroom-teacher.pdf scripts/lulu_cover.py
+lulu: $(BUILD)/greek-classroom.pdf $(BUILD)/greek-classroom-teacher.pdf scripts/lulu_cover.py scripts/lulu_bleed.py
 	@mkdir -p $(LULU)
-	cp $(BUILD)/greek-classroom.pdf $(LULU)/greek-classroom-interior.pdf
-	cp $(BUILD)/greek-classroom-teacher.pdf $(LULU)/greek-classroom-teacher-interior.pdf
+	python3 scripts/lulu_bleed.py $(BUILD)/greek-classroom.pdf $(LULU)/greek-classroom-interior.pdf
+	python3 scripts/lulu_bleed.py $(BUILD)/greek-classroom-teacher.pdf $(LULU)/greek-classroom-teacher-interior.pdf
 	python3 scripts/lulu_cover.py $(LULU)/greek-classroom-interior.pdf $(LULU)/greek-classroom-cover.pdf
 	python3 scripts/lulu_cover.py $(LULU)/greek-classroom-teacher-interior.pdf $(LULU)/greek-classroom-teacher-cover.pdf \
 	  --subtitle "Teacher's Edition · with answer keys"

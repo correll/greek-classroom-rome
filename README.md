@@ -290,7 +290,9 @@ the back left clear, and the spine width taken from Lulu's table for the
 interior's page count. If Lulu's template for an upload gives a different
 spine, pass it with `scripts/lulu_cover.py … --spine 1.1875`.
 
-The interiors meet Lulu's checks as built: fonts embedded, every picture
+The interiors are 7.25 × 10.25 in, the 7 × 10 page with Lulu's 0.125 in
+bleed added all round (white, since nothing runs to the edge; the trim
+box is set). They meet Lulu's other checks too: fonts embedded, every picture
 at 400–450 PPI, an even page count, and the front matter in book order
 (i cover page, iii title page, v contents) so right-hand pages fall on the
 right.
