@@ -520,6 +520,30 @@ Read the whole tablet aloud before you answer anything.
    failing to make a distinction English has gained?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. A sentence needs something to be about and something said about it; a
+   verb is one way of saying it, not the requirement. **ἀγαθὸς ὁ
+   ἄνθρωπος** has both, and the article marks which is which. The reading's
+   last answer gives the sharper test: only a claim can be true or false.
+   Many pupils will say "a verb", reasonably, since English almost always
+   insists on one. Matthew 1:1 in Lesson 8 is a useful contrast: no verb,
+   and no claim either, because it is a title.
+2. Open. He answered the question he was asked, truthfully, and tried to
+   separate grammar from endorsement before he was cut off. A strong answer
+   uses the lesson's point that **ὁ κακὸς υἱός** is only a label, the
+   weaker form, and that Felix had to turn it into **οὐ κακὸς ὁ υἱός**
+   before he could object at all. Listen for the pupil who hears *correct*
+   as *agreed with*: that is the confusion Theodoros was heading off. The
+   closing story shows him choosing a form for himself.
+3. Open, and the same shape as the **λόγος** question in Lesson 6. The case
+   for *seeing* is that **καλός** joins beauty and goodness, which the
+   lesson says a Greek would not have counted as separate things. The case
+   for *gaining* is that English can call a thing well-made without
+   praising its character. John 10:11 is the test: the translator of **ὁ
+   ποιμὴν ὁ καλός** has to choose *good*; a strong answer asks what
+   *beautiful* or *fine* would have kept.
+:::
+
 ::: story
 The list was eventually returned to Sabina, folded, with one
 addition in Theodoros's hand at the bottom.

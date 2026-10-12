@@ -741,6 +741,31 @@ Read both tiers aloud before you answer anything.
    only differently worded?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open. Writing it down does not make it truer; it fixes the words so
+   they can be checked, which is Theodoros's point: the future is "the only
+   tense whose sentences can be marked twice". A strong answer separates
+   being true from being held to account, and uses the closing story:
+   **μένω ἐν τῷ διδασκαλείῳ** will be checked, will probably come out
+   true, and was still not a promise. A pupil who says a written promise is
+   more likely to be kept has a good point; it is about the promiser.
+2. The lesson states the fact and gives no reason, so this is open. The
+   likely answer is that an action not yet done has no shape to look at.
+   It is a reasonable thought, and the lesson itself tests it: a command
+   is also about what has not happened, and **λέγε** and **εἰπέ** still
+   differ in aspect. A strong answer explains why the imperative keeps what
+   the future drops, or admits that the guess fails. Marcus, who wanted
+   every tense to ask only *when*, may be asked whether this proves him
+   right.
+3. Open, and most strong answers land on *differently worded*. The
+   Athenian who said **εἶμι** was using the ordinary future of his
+   language, and the lesson says Latin's *eō* is the same verb. A strong
+   answer says what makes a promise binding (the person, the hearer, the
+   occasion) and asks whether the tense touches any of them. Marcus's
+   "a present with its mind made up" is the case for the other side, and
+   worth hearing out. The closing **εἶ**, answered "Yes", keeps it alive.
+:::
+
 ::: story
 Marcus stayed behind.
 

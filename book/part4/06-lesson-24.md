@@ -701,6 +701,30 @@ places where it is doing something the adaptation could not.
    are one tradition. Can a person do the same thing inside one mind?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open. The lesson's first answer is that you learn to tell them apart,
+   which Lesson 23 says needs a standard to compare against. The pairs
+   show more: Julia's first lines show what each opening chooses, by
+   contrast with the other, and **Κύριος ποιμαίνει με** beside **ἐγώ εἰμι
+   ὁ ποιμὴν ὁ καλός** is a text that knows an earlier one. A strong answer
+   names one thing a pair showed that neither text showed alone. *They
+   agree underneath* is the answer the rule exists to stop.
+2. The lesson gives the reason under *The rule, and why it is a grammar
+   rule*: texts that seem to agree have usually been turned into a third
+   thing, a summary, and the summaries compared. Near-agreement invites
+   that; flat disagreement does not, because no summary covers both.
+   Strictly, Theodosius's pair did not disagree but failed to meet
+   ("different rooms"); *Do they agree?* keeps those apart, and so should
+   a strong answer.
+3. Theodoros says yes in the closing story: a reader and a believer can
+   be one person, "so long as you know at every moment which one is
+   holding the scroll". The Latin bridge supplies the distinction: holding
+   both is a real achievement and "not the same as the two texts
+   agreeing". Quintus is the worked example: he wanted Socrates and John
+   to agree, checked, and conceded that they did not. Pupils of any belief
+   or none can answer; a strong answer shows how two things are kept apart.
+:::
+
 ::: story
 Afterwards Quintus asked whether it had been wrong of him to want Socrates
 and John to agree.

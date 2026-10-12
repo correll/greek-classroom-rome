@@ -634,6 +634,30 @@ Read both tiers aloud before you answer anything.
    and ask it.
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open, and the strongest answers find two kinds of asking. **αἰτεῖτε**
+   is asking *for* something (Lesson 34's vocabulary separates it from
+   asking a question), and Socrates asked the Athenians nothing for
+   himself: **διὰ τί τὰ μὲν χρήματα ζητεῖς** is a reproach. The Gospel
+   also promises **ἀγαθά**, left undefined, not the thing requested. A
+   pupil who says one sentence is wrong is arguing in good faith; ask what
+   Socrates says he will do regardless, **οὐ μὴ παύσωμαι**.
+2. The lesson's reason is frequency: "the words people use most are the
+   ones that change least." Beyond that it is open. A strong answer looks
+   for what the six share (arguably little content of their own, and a
+   part in framing most other sentences) and names what is missing:
+   seeing, eating, dying. The verb for *see* is common and did not stay
+   regular either; its aorist and its *know* come from another stem
+   (Lessons 32 and 33). Theodoros says six "you need", not six in all.
+3. Open by design; the point is that pupils ask it. The lesson asks it a
+   last time of **εἶ** and **εἰσί** and gets "the accent, and nothing
+   else". A strong answer picks a real sentence (a speech, an
+   advertisement, a translation, a headline) and separates what its words
+   say from what the reader is left to supply, as the Voice did with the
+   unnamed giver of **δοθήσεται**. The closing story is the last example:
+   Julia reads one imperfect and needs nothing explained.
+:::
+
 ::: story
 The tags stayed on Julia's bench until the lesson ended, and she did not
 touch them until everyone else had gone, and then she untied the thread and

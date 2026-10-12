@@ -580,6 +580,30 @@ Read the adapted text aloud twice before you touch the original.
    *the* right one — or only a defensible one?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open, and the lesson leans to the second, because a word you think you
+   know produces errors you do not notice. Theodosius said **κύριος** "the
+   way a person says their own name" and did not know what it meant first.
+   The Latin bridge gives the rule, "Knowing the Latin is a help. Trusting
+   it is a mistake", and *caritas* is its case. A pupil who says the new
+   word is harder is right about the effort; ask which kind of word lets
+   you go on being wrong without knowing it.
+2. Both, and a strong answer says what each consisted of. The risk is the
+   one Theodosius felt: an ordinary word brings the landlord and the lease
+   with it. The reverence, as Theodoros tells it, is that the translators
+   did not say the name aloud, did not borrow from the temples, and chose
+   *the one in charge* on purpose. That is the traditional view; the note
+   in the story says it is disputed, and a pupil who asks should be told
+   so. The question stands either way: it is about what the word does.
+3. Only a defensible one, on this lesson's evidence. Every translator
+   chooses "one corner of a large field", and John 1:1 is the extreme
+   case: the writer chose **λόγος** because it is both the Psalm's word
+   and the Athenian's, and no translation has kept both. *Which corner of
+   the field?* has "no wrong answers and several bad ones", which is the
+   distinction the question needs: one rendering can be worse than
+   another without any being *the* one. Ask for a reason, not a verdict.
+:::
+
 ::: story
 Felix wanted to know whether the household cat, which he had labelled with a
 noun in Lesson 3, was the **κύριος** of anything.

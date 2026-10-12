@@ -531,6 +531,30 @@ speakers and a cat.
    where another has two?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Gains, from the lesson: economy (**λέγομεν** is a whole sentence), and a
+   pronoun left free for emphasis, so that **ἐγὼ λέγω** says something
+   **λέγω** does not; English, which must always say *I*, has to use stress
+   instead. Losses: the ending gives the person but not who, and **λέγει**
+   is *he, she, or it says* without saying which, so a bare verb needs the
+   sentence before it. A strong answer weighs both. Latin made the same
+   bargain.
+2. Everything outside the grammar: the speaker, the setting, the
+   intention. Aelia meant *I know the way* and said something else; the
+   words in John were written down "and meant them". Theodoros also chose
+   to hear **ἡ ὁδός** as a road to Ostia, while in John it stands beside
+   **ἡ ἀλήθεια** and **ἡ ζωή**, which are not places. Keep the discussion
+   on what the words claim and who claims them; whether the claim is true,
+   as the lesson says, is not a question Greek can settle.
+3. Open; Lesson 6 asks it again with *logos*. One word lets a sentence
+   carry both senses, and lets a listener pick the wrong one, as Theodoros
+   did with *road*; two words force a choice, which is clearer and means
+   somebody must decide. The trade runs both ways: the note on
+   **γιγνώσκω** says English keeps one *know* where Greek keeps two. A
+   pupil who says two words are more precise has a fair point; ask whether
+   English is worse for its single *know*.
+:::
+
 ::: story
 Later, lost in the Subura with Felix and a basket of fish, Aelia
 stopped at a junction and considered the three streets available to her.

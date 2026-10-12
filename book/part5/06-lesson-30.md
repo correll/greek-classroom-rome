@@ -706,6 +706,30 @@ does in Part VI is get washed.
    judging?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Personal; push for one specific thing rather than *anything is possible*.
+   The lesson's table is the evidence: nothing on it could be done at the
+   start, and each line came a few lessons at a time. A strong answer asks
+   whether its own example would yield to the same treatment. The closing
+   story offers one: the middle voice, of which the class knows a dozen
+   forms without having been shown how they hang together. A pupil who
+   questions *merely* has read the question carefully.
+2. Open, and Marcus's speech supports all three. Courage: he said it in
+   public, and named Julia as the one who had been right. Penance: he chose
+   the sentence "so that I would have to say so". Learning: in Lesson 29 he
+   prepared for the first time. A strong answer quotes him rather than
+   guessing, and sees that the three are not exclusive. On *does it matter*:
+   the grammar is the same whatever the motive, and a pupil who says it
+   matters only to Marcus has a good answer.
+3. Open, but the lesson gives the material. The Voice names the standard:
+   every reading was "explained — not performed, explained", with a feature
+   of the grammar named aloud. That much the courtyard could judge: Livia's
+   explanation was "the clearest thing anyone said in the courtyard". Marcus
+   pointed his listeners to the evidence: "You will have to take it from the
+   grammar." A strong answer adds the reader, through the fifth question,
+   and Theodoros, whose silence was "the highest mark he ever gave anyone".
+:::
+
 ::: story
 Afterwards, when the benches had been carried back in and the courtyard was
 a courtyard again, Felix found Theodoros putting the scrolls away.

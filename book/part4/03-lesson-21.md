@@ -588,6 +588,30 @@ where it is longer.
    or weaker without their reasons?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open. *Blessed* keeps the solemnity and sounds religious; *fortunate*
+   keeps the everyday sense and brings in luck, which the note rules out
+   because luck can turn. The note's own definition is the test: the word
+   for the gods in Homer, used of the dead, *in a state that trouble
+   cannot reach*. A strong answer measures each English word against that
+   and may offer a phrase instead. Felix's *happy* in the closing story is
+   a third candidate, and Theodoros's reply says what it misses.
+2. Not a limit: the Latin bridge says the translator had *mendicus*, used
+   it of Lazarus, and chose not to use it here. So it was a choice, and
+   the lesson calls it gentler, not wrong. A strong answer says what
+   *pauper* lets a Latin hearer picture (Theodosius's uncle's clerk, with
+   a room and a bed) and what **πτωχός**, the man at the gate, does not.
+   A pupil who calls it a mercy should say who was spared, the beggar or
+   the comfortable listener; Theodoros's word for it is softening.
+3. Open. Without the reasons each line is the bare formula, **μακάριοι οἱ
+   πτωχοί**, a pronouncement with no verb. With them each line is a
+   promise, carried by the futures; item 7 of *Understanding the reading*
+   says the future is where the text admits it is not yet so. A strong
+   answer weighs both: without reasons the blessing rests on the speaker's
+   word alone; with them it gives grounds, makes the ring of **αὐτῶν
+   ἐστιν** at each end, and points to a future the hearers have not seen.
+:::
+
 ::: story
 Felix, who had been counting, announced that **μακάριοι** appeared eight
 times and that he could now say it in his sleep.

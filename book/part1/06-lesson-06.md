@@ -635,6 +635,37 @@ Read the whole tablet aloud before you answer anything.
    Was that fair?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. She used the grammar: **ὁ λόγος** three times with its article and
+   **θεός** in the last clause without one, which told her which was the
+   subject and which was said about it. She also used the words she knew,
+   the repetition, and the method (read to the end, mark what is certain).
+   The second half has a true answer of *only partly*. The method travels to
+   any language; the evidence does not. In an unknown language a pupil can
+   see that a word repeats or lacks a small companion, but cannot know
+   whether that difference signals anything. Listen for a pupil who says
+   that Livia's reading rested on Lesson 3, not on luck.
+2. Neither. **λόγος** covers a region of meaning that English has divided
+   into several words; the six translations are six places inside it, and
+   context picks one (Lesson 19 returns to this). John 1:1 is hard to
+   translate partly because it uses the whole region at once. A pupil who
+   says Greek is vague has the right instinct and the wrong conclusion:
+   press for a sentence where **λόγος** is not ambiguous at all.
+3. English uses stress in speech, italics in print, a cleft sentence
+   (*it was God that the Word was*), or a stronger word (*nothing less than
+   God*). Each costs something: stress vanishes on the page, italics shout,
+   the cleft is clumsy, and the stronger word adds meaning the Greek does not
+   have. Greek's way is free because the ending, not the position, carries
+   the grammar. Whether that is better is open; a good answer weighs what
+   each language gives up.
+4. A strong answer turns on what was asked. The class could not translate
+   every word, but they could answer the question Theodoros put, and Livia
+   did, with nothing they had not been taught. That is the test of a fair
+   unseen: it is answerable from the evidence and the grammar already
+   learned. Marcus called it a trick; let the class decide whether his last
+   question, "Who wrote it?", shows that he had stopped thinking so.
+:::
+
 ::: story
 At the end of the lesson Theodoros rubbed out fifteen of the seventeen words.
 

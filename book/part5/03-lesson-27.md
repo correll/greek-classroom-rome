@@ -612,6 +612,30 @@ Read both versions aloud before you answer anything.
    word the same?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. From the page, not the sentence: range, context and usage, the three
+   things the lesson names that are not grammar. Julia's *within you* passed
+   every grammatical test and was caught by the verse before it. Listen for
+   *because it would sound absurd*: Marcus's translations did, which made
+   them harmless; the accidental ones read smoothly, as Julia's does. A
+   strong answer adds that a reader without the Greek usually cannot know,
+   which is why the Voice says the translator owes the reader an account.
+2. Open; the lesson calls passing the dilemma on "sometimes the most
+   faithful choice" and "always the least helpful". A strong answer asks
+   whether the Greek was open on purpose. Where the writer may have meant
+   both, as the Voice allows for **ἐντὸς ὑμῶν**, keeping both is faithful;
+   where the context decides, it hands the reader a choice the translator
+   was better placed to make. The lesson argues that the Latin translator
+   saw the fork: he had *in vobis* and *inter vos* and used neither.
+3. Open, and both sides have a case. A pupil who says *no, the words are the
+   same* is judging the translation as a product, which is reasonable. A
+   strong answer notices that knowing usually leaves a mark: the lesson's
+   advice is to pick one and "say in a note that the other was there".
+   Without a note the difference is in the translator, not the page: whether
+   they can defend the choice, as Theodoros asked for two translations and a
+   reason for preferring one.
+:::
+
 ::: story
 Julia asked, at the end, whether she should have looked at the verse
 before.

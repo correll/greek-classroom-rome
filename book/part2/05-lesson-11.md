@@ -528,6 +528,30 @@ the sheet; the rest is the class.
    Does the Greek word help?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. For contrast: the ending already gives the subject, so the pronoun is
+   spent on setting the speaker against someone else. **ἐγὼ δὲ λέγω ὑμῖν**
+   is the clearest case in the lesson, answering *you have heard that it
+   was said*. The reading adds a second use: in **οὐκ ἐγώ** there is no
+   verb, so the pronoun has to carry the *I*. Pupils may say "for clarity",
+   which is reasonable from English, where the pronoun is compulsory; ask
+   what **-ω** could possibly leave unclear.
+2. Open, and the case runs the opposite way from the usual worry: Marcus
+   knew the endings and believed he did not. A strong answer says the
+   knowledge was in use before he could see it, which is the state the
+   drill section aims at, "without stopping to think". It may set him
+   against Felix in Lesson 9, who believed he had written *to the teacher*
+   and had not. Press for what would have shown Marcus what he knew; Livia
+   did it by counting.
+3. Open. The lesson glosses **ἀγαπάω** only as *I love*, so it cannot settle
+   whether the word means something more willed than felt; a pupil who has
+   heard that it does should be asked what on the page supports it. What
+   the lesson does give is the note on **ἐθέλω**, *willing* rather than
+   *wanting*, and the rest of the verse, which pairs the command with an
+   action, praying for persecutors. A strong answer asks whether the
+   command is for a feeling or for what is done.
+:::
+
 ::: story
 Marcus kept the sheet.
 

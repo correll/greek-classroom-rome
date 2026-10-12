@@ -584,6 +584,30 @@ Read both tiers aloud before you answer anything.
    rather read?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open, and the teacher's note on the Voice says not to settle it. The
+   lesson gives both halves: **ναί** is not the answer to a question whose
+   verb has been refused, and Peter changes the verb anyway. Press on the
+   analogy, which loads the dice: *friend* and *like* come ranked, and
+   whether **φιλέω** is the smaller word is what is in dispute. The
+   vocabulary note says classical prose had it the other way round, and
+   that by John's day the two overlapped a great deal.
+2. Open, but test the premise first. Most forms in the tables stay
+   distinct, because the endings survive the melt: **ποιοῦμεν** still has
+   its **-μεν**. Some clashes were there before any melting: **ἠγάπων** is
+   *I* and *they*, as **ἔλεγον** was. The obvious gain is a shorter word,
+   two syllables for three in **ποιῶ**. Whether that is worth an occasional
+   **ἀγαπᾷ** is a judgement; a strong answer asks how often the sentence
+   fails to settle it.
+3. Open. The evidence is Jerome, who kept **ἀγαπᾷς** as *dīligis* and
+   **φιλεῖς** as *amās*; the teacher's note calls that evidence that it
+   mattered to one careful reader and no evidence of what it meant. A
+   strong answer notices the two errors are not symmetrical: a kept
+   difference can still be read as style, as Theodosius read Jerome's, but
+   a smoothed one cannot be recovered by a reader without the Greek. Which
+   to make and which to read may differ; let pupils who split them say why.
+:::
+
 ::: story
 Theodosius asked, at the end, whether — if the two verbs were the same —
 John had wasted a word.

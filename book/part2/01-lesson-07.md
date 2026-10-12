@@ -513,6 +513,30 @@ Read the whole tablet aloud before you answer anything.
    a rule you only need occasionally still a rule worth learning?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. The lesson lists what it buys: gender, case, definiteness, and the one
+   that decided the proverb, which of two words is the subject when there
+   is no verb. The price is the table at the head of the lesson and
+   agreement in gender, number and case every time. Whether it is worth it
+   is open. A strong answer says what Latin does instead (its reader
+   settles *the* or *a* from context) and finds where the article says what
+   the noun cannot: only **τάς** shows that **τὰς ὁδούς** is feminine.
+2. Open, and the class should first see that the two are not the same
+   claim: *fine things are hard* does not say that every hard thing is fine.
+   That is the danger a strong answer finds in the second — it makes
+   difficulty itself a sign of worth, and so can be used to justify any
+   pointless hardship. The first can be turned into an excuse for giving up.
+   Theodoros calls the second "arguably a better one"; let a pupil who
+   disagrees with him say why.
+3. Open, but press on the premise. Marcus was right that the endings and the
+   context often carry the sense; he was wrong that the article only
+   matters now and then. The lesson gives it four jobs, and gender and case
+   are being done in every sentence: **τάς** is how a pupil knows **τὰς
+   δέλτους** is not a nominative. The stronger point is that you cannot tell
+   in advance which sentence is the one where it decides the meaning. The
+   closing story has Marcus concede it without saying so.
+:::
+
 ::: story
 Julia's list ended at fourteen.
 

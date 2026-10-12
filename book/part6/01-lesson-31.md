@@ -670,6 +670,31 @@ Read both tiers aloud before you answer anything.
    who carries the burden — the writer, the reader, or the cat?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open. For washing, English says the same thing another way: *the cat
+   washes itself* is **λούεται** with a reflexive, as the lesson says. For
+   **εὔχομαι** or **βούλομαι** there is nothing for a reflexive to point
+   back at, and English uses a plain active and feels no gap. A strong
+   answer tests both kinds and uses the lesson's own account of why Greek
+   bothered: to a Greek ear, wanting and praying are things the subject is
+   *in*. Ask whether English speakers fail to hear that or to think it.
+2. Open, and the lesson's own keys pull both ways. *Which voice* item 9
+   calls *were persuaded* and *obeyed* "one fact"; *Turn it round* item 9
+   calls *Sabina obeys Marcus* "a different claim about Sabina". Let the
+   class find the pair. As a claim, it says obedience is a kind of being
+   convinced, which pupils can test against obeying out of fear. The second
+   half is the sharper one: a speaker who says **πείθομαι** makes the claim
+   every time without choosing to, which is how a language claims unnoticed.
+3. In the present the reader carries it: **-εται** says only that the cat
+   is the subject and the washing is happening to it, and Theodoros sends
+   the class to the world, to what cats do. The writer can lift it by
+   adding **ὑπό** or by moving to the aorist, where **ἐλούθη** and
+   **ἐλούσατο** cannot be confused. The cat stands for the world. Who
+   *should* carry it is open; a strong answer asks how often the shared
+   form costs a reader anything. *Which voice* item 2 rewards *I cannot
+   tell yet*.
+:::
+
 ::: story
 By the end of the lesson the cat was clean, dry, on the wall, and
 washing itself, and Felix had written three sentences on his tablet
@@ -682,7 +707,8 @@ without being asked.
 **ὁ αἴλουρος οὐ πείθεται.**
 
 "The first is passive," said Theodoros, reading over his shoulder. "The
-second is middle. The third is a deponent, and it is also the truest
+second is middle. The third is middle too, a middle that has stopped
+meaning *persuade yourself* and means *obey*, and it is also the truest
 sentence anyone has written yet. **ὑπ᾽ ἐμοῦ** — *by me* — you have
 put yourself in the genitive, at the end, after the cat. That is where the
 agent goes."

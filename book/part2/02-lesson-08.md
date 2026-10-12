@@ -499,6 +499,29 @@ Read the whole tablet aloud before you answer anything.
    might that be? See how far you can get.
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Greek is shorter: Matthew 1:1 does with four endings what English needs
+   four *of*s for. Clearer is open. Felix misread **ΤΟΥ ΔΙΔΑΣΚΑΛΟΥ**
+   because the noun differs from its nominative by one final letter, and a
+   separate *of* is harder to miss; in **ἐκ τῆς οἰκίας τοῦ κριτοῦ** one
+   ending does two jobs. A strong answer sees that the questions pull
+   apart: what makes a sign short is often what makes it easy to overlook.
+2. Open. A title starts with whom the book is about, **Ἰησοῦ Χριστοῦ**, and
+   then says who he is; each genitive hangs on the noun before it, so the
+   grammar itself builds outward from him. A strong answer also asks why
+   these two ancestors out of so many: David was Israel's king and Abraham
+   its founding father, so the title names the two descents that matter.
+   Link it to the last item of *One ending*: **υἱοῦ** names only a
+   relationship, and each one here is fixed by the name that follows it.
+3. The genealogy traces descent from father to son, and a daughter leaves
+   the line rather than carrying it on; the title says **υἱοῦ** twice for
+   the same reason. Pupils who know the passage may object that women are
+   named in it: four besides Mary, but each as the mother of a son, never
+   as anyone's daughter. An answer from the vocabulary note (its genitive
+   waits for Lesson 15) explains why the tablet cannot use the word, not
+   why Matthew did not.
+:::
+
 ::: story
 The tablet went back on Theodoros's shelf, where it had been for eleven
 years before Felix borrowed it without asking.

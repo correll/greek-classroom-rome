@@ -599,6 +599,30 @@ Read the whole tablet aloud before you answer anything.
    *means*. Was that a fair distinction, or was he avoiding her question?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Emphasis. The endings settle who did what "before word order gets a
+   vote"; the order decides what the hearer meets first, which is why
+   **τὸν φίλον βλέπει ὁ ἄνθρωπος** is *it is the friend the man sees*.
+   Putting the accused first tells the court whom to look at before it has
+   heard what was done. Expect some pupils to hold Sabina's first
+   conclusion, that the order does nothing; it is reasonable, because the
+   verdict really did not change.
+2. Open. A strong answer notices that the Greek word describes truth from
+   the side of whoever sees it (*what has not got past you*), while English
+   *true* is a fact about the thing, seen or not. In the English sense,
+   yes, a thing can be true and hidden; the lesson's own tablet has one.
+   The cat has the lamp, the judge does not see the lamp, and no verdict is
+   given. Sabina's last sentence, a claim about truth written where it
+   would not be noticed, is worth raising too.
+3. Open. In its favour: Sabina used *mean* for who did what, which the
+   endings had settled, so the order looked idle; asking what it *does* led
+   straight to emphasis. Against: the table gives each order a different
+   English sentence, and a pupil may fairly say emphasis is part of
+   meaning. As for avoiding her, asking instead of telling has been his
+   habit since the alphabet in Lesson 1; let the class decide whether a
+   habit can be an evasion.
+:::
+
 ::: story
 The court was adjourned without a verdict, on the grounds that no lamp had
 been taken.

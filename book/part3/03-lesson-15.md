@@ -633,6 +633,30 @@ Read the adapted version aloud, then the Homer, slowly. Then answer.
    that make the last fourteen lessons worth less, or more?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open, but the lesson gives two good leads. Homer composed in
+   performance, and asks the Muse because, as the Voice says, the poet
+   does not claim to be the one who knows: **μοι**, never *I*. Virgil writes,
+   and writes knowing his models; *cano* takes the goddess's **ἄειδε** for
+   himself. A strong answer also notices that Virgil does call on the Muse,
+   seven lines later (*Musa, mihi causas memora*), so the change is in
+   where the poet stands, not in whether the goddess is wanted.
+2. The lesson says yes, and a strong answer uses its vocabulary notes.
+   **ἄνδρα**, not **ἄνθρωπον**: a man of a certain kind, and the choice is
+   the first thing the poem tells you. **μῆνις** is the anger of a god or
+   hero, not ordinary temper. A sceptic may say the metre put the words
+   there, since Homer's order is free; that is a reasonable thought, and
+   the answer is the Voice's *same shape, twice* — two poems, both with the
+   subject first.
+3. More is the lesson's own answer: you cannot see a difference without a
+   standard to see it against, and Attic was the standard for prose ever
+   afterwards. Pupils who feel cheated are taking Julia's side, and she had
+   reason; point them to her objection's answers — a rule describes the
+   texts it was made from, *limited* is not *wrong*, and a map of Rome is
+   not wrong for leaving out Athens. The closing story makes the same
+   case from the other end.
+:::
+
 ::: story
 Sabina asked whether she could learn Homeric Greek instead.
 

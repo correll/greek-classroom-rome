@@ -621,6 +621,28 @@ Read both versions aloud before you answer anything.
    room. Is a question with no answer a failed question?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open; the Voice says the *Meno* spends its length finding out "whether
+   that is honesty or a trick". A strong answer uses the reading. The reason
+   given there for not answering is a real one: you cannot say whether
+   virtue can be taught before you know what it is (**οὐδὲ γὰρ οἶδα τί ἐστιν
+   ἡ ἀρετή**). Gorgias, by contrast, taught the Thessalians to answer
+   anyone. A pupil who says *evasion* has noticed that no answer comes; ask
+   what an honest answer to Meno would have been.
+2. Yes: the question mark, with the voice behind it. *You came?* differs
+   from *You came.* by one stroke on the page and a rise in the voice aloud,
+   which is the lesson's **σοφός ἐστιν ὁ ἀνήρ;** in English. Otherwise
+   English moves words (*is he* for *he is*) or adds *do*, which costs more
+   than a stroke. A pupil who offers *I know who came* has found the
+   indirect question: the question word kept, the question gone.
+3. Open, and the lesson supplies both sides. Meno's question also goes
+   unanswered (the dialogue "will fail to answer" it), and yet it opens the
+   whole *Meno*; Pilate's ends an interrogation because he does not wait.
+   The Voice's point is that only what the asker did next tells them apart.
+   A strong answer separates *unanswered* from *failed*. Marcus got silence,
+   and the Voice says he was right to feel that it was a kind of reply.
+:::
+
 ::: story
 Livia's second question, when she was allowed it, was **τίς ἐστιν ὁ
 διδάσκαλος;** with the accent, read aloud so that everyone could hear it.

@@ -755,6 +755,32 @@ Read the adapted version aloud, then John, slowly. Then answer.
    method that cannot finish the job still worth having?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open, and a strong answer gives two different verdicts. A reader
+   persuades only himself, so being wrong is the worse failure there. A
+   teacher's mistakes travel: the class has just seen a wrong argument
+   nearly carry the room, and Lesson 17's sentence was quoted wrongly for
+   four hundred years. Ask what made Julia unconvincing. It was not her
+   argument, which named the article; it was that nobody heard her. The
+   section on defensible and persuasive translation says the best
+   translation is both.
+2. Differently, and the Voice gives the evidence: in *et Deus erat Verbum*
+   the distinction is not mistranslated but gone, and a Latin reader has
+   to decide from the surrounding argument. So the Latin sentence carries
+   less; whether its reader understands less depends on how well he reads
+   the rest. A strong answer also notices how little the Greek reader's
+   advantage settles: the article fixes **ὁ λόγος** as subject, and *God*,
+   *a god* or *divine* stays open in either language.
+3. The lesson answers yes, at the end of the Voice: the grammar tells an
+   argument about the sentence from a feeling about it, which is smaller
+   than certainty and worth more. The fifth question exercise adds why the
+   stopping point is useful: the places a translation could be wrong are
+   the places the translator is deciding. Pupils who say no are where
+   Felix is in the closing story, wanting to know who won; the note on
+   the doctrinal question explains what a method that claimed to finish
+   would teach them.
+:::
+
 ::: story
 Afterwards Felix wanted to know who had won.
 

@@ -597,6 +597,30 @@ Read both tiers aloud before you answer anything.
    that had no answer. Does this one? Who is supposed to supply it?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open. The key to item 5 names the exchange: Nicodemus "asked a
+   mechanism and was given a requirement". His *how* comes from hearing
+   **ἄνωθεν** as *again*; the second *unless*, with **ἐξ ὕδατος καὶ
+   πνεύματος**, answers the other sense. A pupil who calls it a dodge is
+   reasonable, and should be sent to the wind at the end: **οὐκ οἶδας
+   πόθεν ἔρχεται**, a thing known by its effects and not its workings. Note
+   that Nicodemus's own first sentence ends in **ἐὰν μὴ ὁ θεὸς ᾖ σὺν αὐτῷ**.
+2. Open. A strong answer counts the six jobs before choosing. Purpose,
+   exhortation and deliberation look forward; prohibition and **οὐ μή**,
+   "the strongest *no* Greek has about the future", are not hopeful at
+   all, and the lesson's list of what the mood covers puts *feared* before
+   *hoped*. The conditions table is the best evidence for *careful*: read
+   downward, it is "a scale of confidence". Press the premise too: English
+   has almost lost the mood and does the work with *may*, *should*, *let*.
+3. In the story it has an answer, and Theodoros gives it once the vowel is
+   right: the last lesson, and **δίδωμι**. Pilate's question in Lesson 25
+   asked what *is*; **τί ποιῶμεν;** asks what should be, and is answered by
+   a decision rather than a fact. So a strong answer says whose decision it
+   is. Livia's crowds put **τί οὖν ποιήσωμεν;** to John the Baptist; the
+   verb is first person plural, and whoever asks it has counted themselves
+   among those who must answer.
+:::
+
 ::: story
 Quintus asked again, at the door, what they were to do in the last lesson.
 

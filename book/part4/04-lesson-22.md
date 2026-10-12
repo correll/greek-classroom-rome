@@ -704,6 +704,30 @@ participle, as you did in The Investigation.
    generous way to name someone, or an evasive one?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. The lesson leans to yes. Jesus ends with **πορεύου καὶ σὺ ποίει
+   ὁμοίως**, and the last answer to *Understanding the reading* reads the
+   command as the reply: he asked *who is my neighbour?* and was told *go
+   and be one*. Luke says the lawyer was **θέλων δικαιῶσαι ἑαυτόν**,
+   wanting to justify himself; a strong answer may argue that a definition
+   would have told him where his duty stopped. A pupil who calls it a
+   dodge has a fair first reading; ask what definition would have served.
+2. Open, but the lesson has one consequence ready: in *Who did what?*
+   item 10, **ὁδεύοντα** for **ὁδεύων** would give him "a verb of his own
+   at last, and Sabina's reading would be wrong". A strong answer picks a
+   verb and follows it through. If he called out, the priest and the
+   Levite would be refusing a request, not passing a sight, and the
+   Samaritan would be answering rather than beginning. The story as told
+   puts the whole weight on what the three men do on seeing him.
+3. Open, and the lesson declines to settle it: The Ancient Voice offers
+   both readings, and its teacher's note says the text does not decide.
+   The evasive reading assumes the hostility between Jews and Samaritans,
+   which the lesson implies and does not state; supply it if the class
+   lacks it. The generous reading rests on the grammar: **ὁ ποιήσας τὸ
+   ἔλεος** names a man by his act, which is the parable's own account of
+   a neighbour. A strong answer notices that it can be both at once.
+:::
+
 ::: story
 Marcus said that he had lost the thread at the Levite because the sentence
 had too many verbs in it.

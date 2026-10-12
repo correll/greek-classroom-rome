@@ -529,6 +529,30 @@ Read the whole tablet aloud before you answer anything.
    on with it?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Both can be defended, and a strong answer says which question it is
+   answering. To a Greek reader it was one case: one set of endings, with
+   the sense deciding the job, which is why a pupil can read **τῇ φωνῇ** as
+   *to the voice*. Historically it is the second: the Greek dative took in
+   older cases for place and means, which is why the Latin notes in
+   Lessons 8 and 9 find it doing the ablative's work. A pupil who uses the
+   Latin split as evidence has the right instinct.
+2. Open. The lesson says English "leaves you to guess", so the case for loss
+   is that Greek forces the writer to decide, as in **σὺν τῷ υἱῷ** against
+   **τοῖς γράμμασιν**. The case for shedding is that the guess is nearly
+   always easy: a pen cannot walk beside you. A strong answer looks for an
+   English sentence where *with* is ambiguous, and weighs how
+   often that happens against the cost of the distinction. The cat sleeping
+   **σὺν τῇ ἐπιστολῇ** is a good test case.
+3. Open. A strong answer weighs the reader's trust against the reader's
+   patience: a note on every choice makes the page unreadable, and silence
+   hides that **εὐδοκίας** and **εὐδοκία** give the peace to different
+   people. Press for a line between choices that change what a sentence
+   claims and choices that change only its English. The six translations
+   of **λόγος** in Lesson 6 are the useful contrast: there the translator
+   chooses a word, here a text.
+:::
+
 ::: story
 Felix delivered the corrected message at the end of the lesson, folded, with
 some ceremony.

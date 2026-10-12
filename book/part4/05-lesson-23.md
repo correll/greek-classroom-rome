@@ -709,6 +709,30 @@ Read each adapted text aloud, then its original. Keep the table open.
    Which Greek was the better instrument for what each wanted to say?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Simpler for adults learning it as a second language, and for
+   listeners: *Why the change?* says such speakers drop forms with no
+   obvious job, and *What tells you that?* finds the Koine longer but
+   easier to hear. The lesson says "Neither is better". A strong answer
+   names something Koine gave up (the dual, the optative, **μέν … δέ**
+   holding an argument) and something it gained, and asks whether
+   *better* belongs to a language or to a language used for a purpose.
+2. Take the two words separately. Honest: he never told them, but he
+   admitted it the moment Felix asked and gave his reason, that you
+   cannot see a difference without a standard. Kind is more open. A strong
+   answer weighs what Attic gave the class (the standard every educated
+   Greek learned to write, and the ear Felix has just used) against the
+   cost of not knowing what their teacher spoke. His last speech in the
+   closing story is his own defence; let the class judge it.
+3. On The Ancient Voice's reading, each had the right instrument. The
+   Attic sentence is "built like an argument", for a reader who has the
+   sentence before it, and Socrates's good is an examining that never
+   ends; the Koine is "built like a promise", heard once by a crowd, and
+   John's good is a truth that arrives. A strong answer tries the swap and
+   says what breaks. A pupil may object that Socrates wrote nothing; the
+   source line credits Plato. Keep the two claims apart: Lesson 24 needs it.
+:::
+
 ::: story
 At the end, Felix asked whether he could learn the Greek Theodoros spoke at
 home instead of the Greek he taught.

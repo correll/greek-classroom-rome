@@ -597,7 +597,8 @@ Read both versions aloud before you answer anything.
     **ἀπό**, with **υἱοῦ** in apposition: *from Apion, his son*. The back
     is the envelope, and it carries two addresses: this one, for the
     family in Philadelphia, and another sending the letter first to the
-    cohort at Alexandria to be passed on. It went by hand, in stages,
+    first cohort of the Apamenians, for a secretary named Julianus, to be
+    passed on. It went by hand, in stages,
     across the sea and up the Nile.
     Spellings the regularised tier corrected: **Μησήνους** for
     **Μισηνούς** — **η** and **ι** had come to sound the same; **χέραν** for **χεῖρα** — **ει** and **ε** likewise, and the
@@ -637,6 +638,30 @@ say so if a pupil asks whether this is *all* of it.
 3. Every Greek letter begins with an infinitive whose verb nobody writes.
    What else in your own language is like that — a form everybody uses and
    nobody could parse?
+:::
+
+::: {.teacheronly label="Discussing the questions"}
+1. Open, with a case for *yes*. It was written for one reader who knew
+   everything it leaves out; to us Capito and Serenilla are only "people at
+   home". A strong answer reads it for what it takes for granted, and does
+   not mark Apion down for spelling: he wrote for his father, not an
+   examiner. Listen for the observation that the formulas are not empty
+   here: he has nearly drowned, and the health wish is followed at once by
+   thanks for his rescue.
+2. Open, and the second question is the better one. By Theodoros's test,
+   whether a letter would have been understood, both pass. The lesson pulls
+   both ways: its rule prefers less in correct Greek to more that the reader
+   must repair, and its Voice says "Aim for Apion". A strong answer asks
+   what each letter was for: Apion had news, a request and a father waiting;
+   Felix had an exercise and a cat. A pupil who says spelling does not
+   matter has gone a step too far.
+3. The lesson gives one: Latin *salutem*, with *dicit* understood. English
+   has plenty. *Thank you* has lost its *I*; *Yours sincerely* has no verb;
+   *goodbye* is a worn-down *God be with you*, which few speakers could
+   reconstruct. A strong answer finds them where the Greek has them, at the
+   opening and the close, and says why: a formula wears down because
+   everyone knows what it says. **ἔρρωσο** belongs here too, the one form of
+   its verb that everybody used.
 :::
 
 ::: story

@@ -689,6 +689,30 @@ Read the adapted version aloud, then the Plato, slowly. Then answer.
    He does not say it is a bad life. Is that a different claim?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Both, and a strong answer says which part is which. His vocabulary and
+   endings were fine; what he passed over was **δέ**, which is Greek and
+   which told Julia, without the missing half, that the sentence was a
+   reply. The Latin bridge describes his exact mistake: losing the argument
+   while translating every word correctly. Pupils who say it was not his
+   fault, since Theodoros withheld the context, are right that reading
+   needs more than one sentence; but the sentence itself said so.
+2. The lesson's own answer is the voice: the lift on *the teacher* when
+   *the pupils* are coming. Others that work: the rising tone that turns
+   *you're coming* into a question, or the tone that makes *oh, great*
+   mean the opposite. On the page, the comma the lesson recommends for
+   **μέν … δέ** does some of the same work. Pupils will offer *on the one
+   hand*; point out that it says aloud what the Greek only signals.
+3. Yes. **βιωτός** is *livable, worth living*, and **ἀνθρώπῳ**, with no
+   article, is *for anyone who is human*: the claim is about what kind of
+   life it is, not how good. The vocabulary note helps: **βίος** is the
+   life as lived, the only kind that can be examined, as against **ζωή**,
+   which even a plant has. Be ready for a pupil who connects *not worth
+   living* with his refusing exile and silence; the Voice invites it, and
+   in the closing story Quintus puts the sentence and the death side by
+   side.
+:::
+
 ::: story
 Afterwards Quintus stayed behind, which he never did.
 

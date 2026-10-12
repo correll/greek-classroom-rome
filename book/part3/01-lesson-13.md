@@ -498,6 +498,30 @@ augments.
    teaching* and *he always taught*?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open, and a strong answer says *both*. The distinction was in the scene
+   before it was in any grammar: Quintus found it by describing rain and a
+   lamp, and English, Latin (*-ba-*) and Greek (augment and endings) all
+   mark it, each in a different place. But Marcus could still say that a
+   past is a past, and the Voice shows English *was* not marking it at all.
+   The thing offers the distinction; each language decides whether to
+   spend a form on it.
+2. Differently shaped. English has the distinction in its ordinary verbs —
+   Quintus used *was falling* without meaning to — and lacks it only for
+   *was*, which, as the Voice says, is just as happy reporting a thing that
+   lasted an instant. Greek pays elsewhere: **ἔλεγον** is both *I* and
+   *they*, and needs **ἐγώ** or a subject to settle it. A good answer weighs
+   what each language gives up, not which has more forms.
+3. In English, yes: *was always teaching* puts you inside the activity and
+   often carries a tone (fondness or exasperation); *always taught* states
+   a habit from outside. In Greek, with what the class has, both come out as
+   **ἀεὶ ἐδίδασκε**, because the imperfect covers *used to* as well as
+   *was doing*. A pupil who wants next lesson's tense for *always taught*
+   has gone by the English form, as with *used to sing* in the sorting
+   exercise: *taught* looks like Quintus's list, but *always* makes it a
+   situation.
+:::
+
 ::: story
 Quintus asked afterwards whether he could have his thought back now that it
 had turned out to be grammar.

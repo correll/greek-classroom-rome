@@ -346,8 +346,8 @@ above it.
    two feminine nouns in **-ος** — and mark the one ending that tells
    them apart.
 10. Write one sentence about the room that is grammatically faultless and
-    plainly untrue, as Felix's label was. Then say what tells you it is
-    untrue: the grammar, or the world.
+    plainly untrue. Then say what tells you it is untrue: the grammar, or
+    the world.
 :::
 
 ::: answers
@@ -369,7 +369,7 @@ above it.
    you learn it.
 8. **ἡ δέλτος ἔχει τὸν παιδαγωγόν.** Faultless Greek; untrue — or true
    only as a joke about a man who cannot put the thing down. Grammar does
-   not police sense. This is Felix's label again.
+   not police sense.
 9. For example **ἡ δέλτος ἔχει τὴν ὁδόν** — the tablet has the road, a
    drawing of one, say. **ἡ … -ος** against **τὴν … -ον**: the article and
    the final letter together, and nothing else.
@@ -484,6 +484,29 @@ Read the whole tablet aloud before you answer anything.
 3. Felix labelled Quintus **ὁ ἄνθρωπος** and Theodoros called it accurate
    before making him take it off. What was wrong with it, if it was not
    wrong?
+:::
+
+::: {.teacheronly label="Discussing the questions"}
+1. All three, as the question suspects: **χαλεπὰ τὰ καλά** carries no tone
+   of its own, and the speaker supplies it. A complaint from a pupil halfway
+   through the alphabet; a consolation from a teacher, since the difficulty
+   becomes a sign the thing is worth having; a warning to someone starting
+   out. In Plato it is a correction: Glaucon uses it to say that the
+   question Socrates called trivial is not. A strong answer gives each
+   reading a speaker.
+2. A strong answer separates two kinds of precision. The grammar is
+   exact: the article marks **τὰ καλά** as the subject and **χαλεπά** as
+   what is said about it. The four English versions disagree about how
+   wide the claim is, and pupils may argue either that Greek leaves that to
+   the reader or that it never needed saying. **καλά** is wide too: the
+   gloss gives *fine*, *beautiful* and *noble*. Lesson 6 asks the same of
+   *logos*.
+3. Nothing was wrong with the Greek or the fact; Felix said so himself,
+   and Theodoros agreed. What was wrong was where he put it. The class was
+   labelling objects, and a tag says what a thing is and nothing else, so
+   tagging Quintus put him among the stools and the sandal. A strong answer
+   separates being accurate from being fit to say. A pupil who calls it
+   rude is right, and can be asked how a true label manages to be rude.
 :::
 
 ::: story

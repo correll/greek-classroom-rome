@@ -594,6 +594,30 @@ Read the adapted Psalm aloud, all of it, before you look at the original.
    noticed. Why not?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. The shape of the Hebrew, which they thought was part of its meaning:
+   Theodoros says every word of it was holy, and the **καί, καί, καί**,
+   the verb in *the Lord shepherds me* and the chains of genitives are
+   that shape showing through. They gave up the Greek Plato would have
+   written, and with it ease and elegance. *Rewrite as Attic* measures the
+   cost from the other side: each Attic version is "more elegant and less
+   faithful", and item 7 loses most.
+2. By Plato's standard Julia is right, and the lesson says so. Whether
+   that is the standard for a translation is the question; Theodoros puts
+   it as "a defect or a decision". A strong answer names a standard
+   (faithfulness, clarity to its readers, staying power) and tests it on
+   the Psalm: **σκιᾶς θανάτου** fails as Attic and, as The Ancient Voice
+   says, has outlived every elegant alternative. The aim, as the note on
+   her objection says, is that the class can say why it reads so.
+3. Because they heard it before they could judge it. The class grew up
+   with the Latin Psalms, so the *and-and-and* sounded like the Psalms and
+   not like a mistake; Theodoros's remark that the strangeness becomes a
+   style in three hundred years holds for the Latin too. Augustine, the
+   Latin bridge says, did notice as a young man, so it can be heard.
+   Aelia's grandmother is the same thing in Greek: seventy years of
+   translation Greek without a Hebrew text in front of her.
+:::
+
 ::: story
 Aelia said that in Antioch, where her mother's family came from, people
 talked like the Psalm.

@@ -709,6 +709,30 @@ Read both tiers aloud before you answer anything.
    notice, the speakers or the people who learn it afterwards?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Both, in Julia's words: *a present with the past inside it*. What it
+   says is a present state, the thing stands finished; the finishing
+   happened in the past. The key to *Into Greek* item 2 makes the test:
+   **τετέλεσται χθές** puts a *now* tense with a *then* adverb. On the last
+   part the lesson sides with what it *says*: "ask what state the world is
+   in because of it." A pupil who answers *past* is hearing English *has
+   been finished*; Theodoros's question, why not **ἐτελέσθη**, answers them.
+2. The second part has the lesson's answer: the same theory, earlier.
+   **γιγνώσκω** is the process; **οἶδα** is "the process over and its
+   result in hand". The first part is open. A strong answer notes that the
+   word ties knowing to having witnessed, and also that a word's history
+   need not be its speakers' theory: Theodoros tells Felix the meaning of
+   **οἶδα** was never in doubt, only the name. Latin *nōvī*, built on
+   *coming to know* rather than on *seeing*, is a useful contrast.
+3. Open. What is lost is not the meaning, which context and adverbs
+   supply, but the obligation to choose: *scrīpsī* leaves it to the reader,
+   and Greek "makes you say which". The lesson's evidence for the second
+   part is Jerome: *cōnsummātum est* carries **τετέλεσται** correctly only
+   because the reader supplies the *is*. Speakers rarely miss a distinction
+   they never had; translators and learners meet it first, as Marcus did.
+   His new heading in the closing story is that discovery written down.
+:::
+
 ::: story
 Marcus kept his paper. He had kept the tablet from Lesson 14 too, the one
 headed **things Latin cannot do**, and afterwards he added a line to it,

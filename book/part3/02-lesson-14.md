@@ -536,6 +536,30 @@ Read it aloud first. Then go through it a second time marking every verb
    what it refuses to tell you?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open. The Voice is the evidence for *more precise*: John had both forms
+   and the choice carries his meaning, which **ἦν σάρξ** or **ἐγένετο ἐν
+   ἀρχῇ** would have changed. The case for *choosing for you* is that a
+   Greek writer cannot leave the shape unsaid in a past statement. A strong
+   answer notices that one of the two options is the aorist, which declines
+   to describe the shape — so the forced choice includes a way of saying
+   less.
+2. From context and from what hangs on it. Where nothing does, *was* is
+   fine even for **ἐγένετο**: the class translated **τότε ἐγένετο μεγάλη
+   φωνὴ** as *there was a loud voice*. Where something does, English spends
+   words — *became*, *came to be*, *was and went on being*. What to do when
+   they cannot decide is open; listen for a pupil who says *keep the
+   ambiguity in the English*, and ask whether English *was* really is
+   ambiguous, or silent.
+3. Because the aorist is the plain report: the action happened, and nothing
+   is added about how long or how often. The imperfect is the tense that
+   makes a claim; the aorist is named for the claim it does not make. Expect
+   the objection that the aorist does say something — *one complete thing*,
+   *edges on both sides* — which is a reasonable reading of the Voice. The
+   answer is that seeing an action whole, from outside, is what you get
+   when you say nothing about its inside.
+:::
+
 ::: story
 Marcus wrote both sentences out, at the back of his tablet, under a heading
 of his own.

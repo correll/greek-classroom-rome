@@ -419,6 +419,28 @@ some four hundred years before the marks were invented.
    as statements?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open; Lesson 1's third question asked the same of one maxim. Neither
+   says anything about the future. Both are about how the visitor lives,
+   and both are addressed to anyone who walks past. A strong answer starts
+   from that and says what it implies about the oracle: that conduct comes
+   before prophecy, or that the god declines to tell fortunes at the door.
+   Either is defensible if it uses the setting.
+2. Open. A strong answer separates knowing a thing from doing it: hardly
+   anyone disputes **μηδὲν ἄγαν**, and hardly anyone keeps it. It may also
+   notice that the maxim does not say where excess begins, so it is less
+   obvious in use than in the saying. Quintus has a real point, since a
+   sentence everyone accepts tells them nothing new; have the class answer
+   it rather than dismiss it. Ask why anyone would carve it at the door if
+   nobody needed reminding.
+3. Open; listen for two ideas. A statement can be admired from a
+   distance, but a command is addressed to the reader and can only be
+   obeyed or not. And a command at the door of a god's house is the god
+   speaking to the visitor, which suits a place people came to be spoken
+   to. Pupils may notice that **μηδὲν ἄγαν** has no verb, so the reader
+   supplies the order. Leave the form itself to Lesson 26.
+:::
+
 ::: story
 At the end of the lesson Livia asked, without raising her voice, whether
 the two missing letters had really been missing or whether Theodoros had

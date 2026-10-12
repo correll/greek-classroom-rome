@@ -656,6 +656,30 @@ read it cold.
    kindness or a cruelty? Would unlimited help have taught you more?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Personal, so there is no key, but the key to *Choose your three* gives
+   the measure. Questions that are all vocabulary say less about weak Greek
+   than about an unused method; a lexicon answers them. Questions about
+   connectors, aspect or what a participle hangs from point to the step
+   where reading breaks down, and naming that step answers the second half.
+   The story gives the range: Livia spent one, Marcus all three on the same
+   two words, Felix one on the cat.
+2. Look at what the four-fifths were, in the key to *The method, applied*:
+   mostly articles, pronouns, the negatives, a preposition and **ἀλλά**, the
+   words in every sentence. A strong answer says that learning a language is
+   largely owning those; the lexicon is for the rest. Listen for *so I
+   understood four-fifths*: reasonable, but the count is of words, and the
+   method still had to find the verbs and their subjects. And some forms,
+   like **ἦλθον**, cannot be looked up at all.
+3. Open. The case for kindness is in the story: Quintus framed a question so
+   precisely that it answered itself, which is what the limit is for. The
+   case against: a question spent badly, like Felix's on the cat, is gone. A
+   strong answer weighs what the help is for: unlimited answers might buy a
+   better-prepared passage and a weaker reader, and Lesson 30 is read
+   without help. A pupil who says unlimited help teaches more, faster, is
+   right about vocabulary; ask whether it would teach the method.
+:::
+
 ::: story
 Felix asked, as his second question, whether Apion had ever got home.
 

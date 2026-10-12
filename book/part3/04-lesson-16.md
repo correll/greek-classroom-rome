@@ -754,6 +754,31 @@ Read the adapted version aloud, then the Homer, slowly. Then answer.
    would you have to find in the poem to prove her wrong?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. Open, and the note after the Voice says to keep it so. The lesson's own
+   words are evidence on both sides: *every word of it is true*, and yet
+   Theodoros calls it a lie told *by saying a true thing in a shape that
+   will be misheard*. A strong answer separates what was said from what
+   was meant to be understood. The second half is Theodosius against
+   Quintus — principle or circumstance — and Felix's question about his
+   mother is the same half, asked as a joke.
+2. Every language, and English proves it: the story at the top retells
+   the trick in English and it still works, because *nobody* is a pronoun
+   too. The class has met this all along — **ἔλεγον** is *I* or *they*,
+   and one Greek word for *word* needed six English ones in Lesson 6 —
+   and context has settled it each time. A pupil who calls it a weakness
+   has a fair point; ask what the neighbours had to go on besides the
+   word. The capital letter that marks the name is a modern editor's; they
+   heard it shouted.
+3. Words in the poem's own voice praising the deceit, or a lie that costs
+   Odysseus nothing. Against her, the class has the opening lines they read
+   in Lesson 15: the companions died by their own reckless folly, not his.
+   For her, Theodoros's last answer: the homecoming and the cost are
+   connected. Listen for a pupil who sees that almost anything can be read
+   as *watching*, and ask whether a claim that hard to disprove is strong
+   or weak.
+:::
+
 ::: story
 At the end, Theodosius asked whether Odysseus got home.
 

@@ -564,6 +564,30 @@ sentence that is almost Protagoras.
    way?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. The lesson lists five losses: the emphasis of **πάντων χρημάτων** at the
+   front, the open bare **ἄνθρωπος**, the weaker bare **μέτρον**, the word
+   *all*, and **χρημάτων** itself — "a different sentence, and a smaller
+   one". The note settles honesty: labelled, so not dishonest. Necessary is
+   open; a strong answer says what the class could not yet have read. The
+   reading gives the warning case: Quintus quotes the adaptation as the
+   wise man's, and the label has fallen off.
+2. The Greek cannot settle it, and the lesson says why: without the article
+   **ἄνθρωπος** can be *a man*, *each man* or *man*, and readers have argued
+   ever since. A strong answer shows how the reading of the word drives the
+   verdict: if each man's view is the measure, there is no truth beyond
+   opinion, which can be heard as freedom or as ruin. The tablet has already
+   staged the argument: Sabina makes her own **γνώμη** the measure, and
+   Julia answers **οὐ μέτρον ἡ γνώμη, ἀλλὰ ἡ ἀλήθεια**.
+3. Open. The case for is step five: a translation that sounds right proves
+   nothing, and the reasoning is what carries to the next unseen sentence.
+   The case against is the closing story: Sabina's team was right, scored
+   nothing, and Theodoros looked unhappy about it. A strong answer weighs
+   both, and may ask whether Marcus in Lesson 11, who read endings without
+   knowing it, would have scored. Pupils will mention showing working in
+   mathematics; ask whether that gives *all* the marks to the working.
+:::
+
 ::: story
 Sabina's team lost.
 

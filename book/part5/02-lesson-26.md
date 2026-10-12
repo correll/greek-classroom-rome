@@ -580,6 +580,30 @@ Read both versions aloud before you answer anything.
    rather be good at? Which is harder to fix?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. The command is easiest: Theodoros's whole reply to Marcus was
+   **γράφετε**. Persuasion is hardest, because it needs reasons, and Marcus
+   has just shown that a **γάρ** can promise one and not deliver. Greek
+   keeps the three apart with verbs (**κελεύω**, **συμβουλεύω**, **πείθω**),
+   not moods. A strong answer adds **πείθομαι**: the ordinary word for
+   obeying is *I am persuaded*, so Greek files obedience under persuasion,
+   not command.
+2. Open. The Voice reads the aorist as two claims: that the knowing can be
+   done, and that it has not been done yet. The present, *be always getting
+   to know yourself*, sounds humbler and may be truer to experience. A
+   strong answer weighs a goal that can be reached against one that never
+   quite is. Listen for a pupil who hears *once* as *quickly*: the aorist
+   presents the knowing as one complete thing, and the maxim, the note says,
+   "does not say it is easy".
+3. Open. Most pupils will say grammar is easier to fix, and the lesson shows
+   why: Julia checked the Greek against rules and found nothing, while Livia
+   had to ask whether each **γάρ** clause was evidence, which no table
+   answers. But Livia's audit depended on reading the connector exactly; the
+   skills are not rivals. Ask whether a well-formed bad argument is more
+   dangerous than a clumsy good one: Marcus sat down "to something close to
+   applause".
+:::
+
 ::: story
 Marcus asked, at the end, whether he had at least been right that learning
 takes place in the soul.

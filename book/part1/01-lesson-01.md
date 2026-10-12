@@ -355,6 +355,30 @@ It means **know yourself**.
    refusal?
 :::
 
+::: {.teacheronly label="Discussing the questions"}
+1. They matched each shape to a letter and each letter to a sound, and
+   said *gnō-thi sau-ton*; the meaning was handed to them afterwards. The
+   lesson calls that reading of one kind: "You can still read it, which is
+   a different skill." A strong answer separates sounding out from
+   understanding. A pupil who says they read it because they know what it
+   means has counted what they were told, which is Aelia's slip with
+   **ΑΘΗΝΑ** in the investigation.
+2. The lesson does not settle this; let the class reason from what they
+   have just done. Without spaces the reader has to find the words, and
+   sounding the line out is the obvious way to do it (try a Latin sentence
+   run together, silently and then aloud). That favours reading aloud. It
+   does not prove nobody read silently: Augustine, in Theodoros's own day,
+   records Ambrose reading with voice and tongue at rest. A strong answer
+   says how far the evidence goes.
+3. Open. The lesson sets it up and stops: "Of all the things
+   that could have been written at the entrance to a place where people
+   come for answers, this is what was written." A refusal, if the question
+   was *what will happen to me*; an answer, if what happens to a person
+   depends on what kind of person they are. A strong answer uses the
+   setting as well as the words. A pupil who calls it a dodge has a fair
+   reading of a sign that answers a question nobody asked.
+:::
+
 ::: story
 At the end of the lesson Theodoros asked each pupil to write one Greek word
 before leaving.
