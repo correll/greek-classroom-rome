@@ -473,7 +473,7 @@ and forms you have)*
 ::: gloss
 - **ὁ Ἰησοῦς** — Jesus *(genitive **Ἰησοῦ**)*
 - **εἶδε** — saw *(aorist of **ὁράω**, I see; Lesson 22 has its participle)*
-- **αὐτόν, αὐτούς, αὐτοῖς** — him, them, to them *(cases of this lesson's
+- **αὐτόν, αὐτοῖς, αὐτούς** — him, to them, them *(cases of this lesson's
   **αὐτός**)*
 - **οἳ … ἔχουσιν** — *(the people)* who have … *(the relative with no noun
   in front of it: Greek lets it stand alone)*

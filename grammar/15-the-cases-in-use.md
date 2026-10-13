@@ -12,10 +12,10 @@ plan.
 ## Planned subsections
 
 1. Nominative: subject; **predicate nominative** and the article's role in identifying it (§3.3)
-2. Vocative: direct address, with and without **ὦ**
-3. Accusative: direct object; extent of space and time; respect; the cognate accusative; double accusatives
-4. Genitive: possession; the partitive genitive; genitive of comparison, value, time within which, and separation; the genitive absolute (§13.7)
-5. Dative: indirect object; dative of means, manner, respect, and accompaniment; the dative of possession; dative of agent with the perfect passive
+2. Genitive: possession; the partitive genitive; genitive of comparison, value, time within which, and separation; the genitive absolute (§13.7)
+3. Dative: indirect object; dative of means, manner, respect, and accompaniment; the dative of possession; dative of agent with the perfect passive
+4. Accusative: direct object; extent of space and time; respect; the cognate accusative; double accusatives
+5. Vocative: direct address, with and without **ὦ**
 6. Why the Greek genitive covers two older cases (genitive and ablative) and the dative three (dative, instrumental, locative)
 7. Agreement: subject and verb, adjective and noun, and the neuter plural subject with a singular verb (§5.2)
 

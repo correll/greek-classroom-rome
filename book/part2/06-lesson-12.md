@@ -57,32 +57,33 @@ by hand.
 | | m. | f. | n. | | m. | f. | n. |
 |:--|:--|:--|:--|:--|:--|:--|:--|
 | **nom.** | **ὁ** | **ἡ** | **τό** | | **οἱ** | **αἱ** | **τά** |
-| **acc.** | **τόν** | **τήν** | **τό** | | **τούς** | **τάς** | **τά** |
 | **gen.** | **τοῦ** | **τῆς** | **τοῦ** | | **τῶν** | **τῶν** | **τῶν** |
 | **dat.** | **τῷ** | **τῇ** | **τῷ** | | **τοῖς** | **ταῖς** | **τοῖς** |
+| **acc.** | **τόν** | **τήν** | **τό** | | **τούς** | **τάς** | **τά** |
 
 **The nouns**
 
 | | **ὁ λόγος** | **ἡ ψυχή** | **ἡ οἰκία** | **τὸ δῶρον** |
 |:--|:--|:--|:--|:--|
 | **nom. s.** | **λόγος** | **ψυχή** | **οἰκία** | **δῶρον** |
-| **acc. s.** | **λόγον** | **ψυχήν** | **οἰκίαν** | **δῶρον** |
 | **gen. s.** | **λόγου** | **ψυχῆς** | **οἰκίας** | **δώρου** |
 | **dat. s.** | **λόγῳ** | **ψυχῇ** | **οἰκίᾳ** | **δώρῳ** |
+| **acc. s.** | **λόγον** | **ψυχήν** | **οἰκίαν** | **δῶρον** |
 | **nom. p.** | **λόγοι** | **ψυχαί** | **οἰκίαι** | **δῶρα** |
-| **acc. p.** | **λόγους** | **ψυχάς** | **οἰκίας** | **δῶρα** |
 | **gen. p.** | **λόγων** | **ψυχῶν** | **οἰκιῶν** | **δώρων** |
 | **dat. p.** | **λόγοις** | **ψυχαῖς** | **οἰκίαις** | **δώροις** |
+| **acc. p.** | **λόγους** | **ψυχάς** | **οἰκίας** | **δῶρα** |
 
 **The verb**: **-ω, -εις, -ει, -ομεν, -ετε, -ουσι(ν)**
 
 **εἰμί**: **εἰμί, εἶ, ἐστί(ν), ἐσμέν, ἐστέ, εἰσί(ν)**
 
-**The four jobs**: nominative does; accusative receives; genitive owns or
-comes from; dative is given to.
+**The four jobs**: nominative does; genitive owns or comes from; dative is
+given to; accusative receives.
 
 **The article as a knife**: adjective inside the group describes; outside it,
-asserts.
+asserts: **ὁ ἀγαθὸς λόγος**, *the good word*; **ὁ λόγος ἀγαθός**, *the word
+is good*.
 
 ## How to attack a sentence you have not seen
 
@@ -99,8 +100,8 @@ before you have found the subject.
 the verb ending. If you think you have found two, one of them is a
 predicate.
 
-**Four. Assign every other noun a job.** Accusative: it is being acted on.
-Genitive: it belongs to something. Dative: something is coming to it.
+**Four. Assign every other noun a job.** Genitive: it belongs to something.
+Dative: something is coming to it. Accusative: it is being acted on.
 
 **Five. Only now, build the English.** And then check it against the
 endings, not against whether it sounds plausible.

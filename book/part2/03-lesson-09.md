@@ -98,9 +98,9 @@ dative into something else. Write it.
 **You now have all four cases**, one line each:
 
 - **nominative** — the one doing it
-- **accusative** — the one it is done to
 - **genitive** — whose it is, or where it came from
 - **dative** — the one it goes to
+- **accusative** — the one it is done to
 
 Every noun inside a sentence is in one of these four, and tells you which.
 (The vocative, for calling to someone, stands outside the sentence; you had

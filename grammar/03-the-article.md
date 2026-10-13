@@ -59,7 +59,7 @@ the predicate:
 > fine*. **τὰ καλά** has the article; **χαλεπά** does not.
 
 This convention is regular and is the ordinary way Greek forms a predicate
-(§15.2). It is also how a reader tells a definition from a description.
+(§15.1). It is also how a reader tells a definition from a description.
 
 ## Attributive and predicate position
 

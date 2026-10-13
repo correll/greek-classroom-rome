@@ -102,14 +102,14 @@ been told to wait for since Lesson 4. Here it is, on **ὁ ἀνήρ**, *man*.
 | | singular | plural |
 |:--|:--|:--|
 | **nominative** | **ὁ ἀνήρ** | **οἱ ἄνδρες** |
-| **accusative** | **τὸν ἄνδρα** | **τοὺς ἄνδρας** |
 | **genitive** | **τοῦ ἀνδρός** | **τῶν ἀνδρῶν** |
 | **dative** | **τῷ ἀνδρί** | **τοῖς ἀνδράσι(ν)** |
+| **accusative** | **τὸν ἄνδρα** | **τοὺς ἄνδρας** |
 
 The endings are the thing to learn, because they are the same for most
 masculine and feminine nouns of this declension (the ones whose stem ends
-in a consonant): **-ς** or nothing, **-α**,
-**-ος**, **-ι**; then **-ες**, **-ας**, **-ων**, **-σι(ν)**. Neuters, as
+in a consonant): **-ς** or nothing, **-ος**,
+**-ι**, **-α**; then **-ες**, **-ων**, **-σι(ν)**, **-ας**. Neuters, as
 always, have nominative and accusative alike, and **-α** in the plural
 (**τὸ ὄνομα**, **τὰ ὀνόματα**).
 

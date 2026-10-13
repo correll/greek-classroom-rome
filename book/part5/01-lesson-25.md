@@ -61,10 +61,12 @@ the third-declension nouns you have been recognising all through this course.
 | | Masc./Fem. | Neuter |
 |:--|:--|:--|
 | **Nominative sg.** | **τίς** | **τί** |
-| **Accusative sg.** | **τίνα** | **τί** |
 | **Genitive sg.** | **τίνος** | **τίνος** |
 | **Dative sg.** | **τίνι** | **τίνι** |
+| **Accusative sg.** | **τίνα** | **τί** |
 | **Nominative pl.** | **τίνες** | **τίνα** |
+| **Genitive pl.** | **τίνων** | **τίνων** |
+| **Dative pl.** | **τίσι(ν)** | **τίσι(ν)** |
 | **Accusative pl.** | **τίνας** | **τίνα** |
 
 **τίς ἐστιν;** — *who is it?* **τίνα βλέπεις;** — *whom do you see?*

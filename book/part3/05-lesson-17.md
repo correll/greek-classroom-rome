@@ -132,13 +132,13 @@ it beside the article you learned in Lesson 3.
 | | Masculine | Feminine | Neuter |
 |:--|:--|:--|:--|
 | **Nominative sg.** | **ὅς** | **ἥ** | **ὅ** |
-| **Accusative sg.** | **ὅν** | **ἥν** | **ὅ** |
 | **Genitive sg.** | **οὗ** | **ἧς** | **οὗ** |
 | **Dative sg.** | **ᾧ** | **ᾗ** | **ᾧ** |
+| **Accusative sg.** | **ὅν** | **ἥν** | **ὅ** |
 | **Nominative pl.** | **οἵ** | **αἵ** | **ἅ** |
-| **Accusative pl.** | **οὕς** | **ἅς** | **ἅ** |
 | **Genitive pl.** | **ὧν** | **ὧν** | **ὧν** |
 | **Dative pl.** | **οἷς** | **αἷς** | **οἷς** |
+| **Accusative pl.** | **οὕς** | **ἅς** | **ἅ** |
 
 It is the article with the **τ** knocked off and a rough breathing put on
 instead. **τόν** becomes **ὅν**. **τῶν** becomes **ὧν**. **τοῖς** becomes
@@ -537,8 +537,8 @@ them what every Athenian speaker called a jury. The second is Plato.
 ::: gloss
 - **ὦ ἄνδρες** — gentlemen *(vocative plural of **ἀνήρ**; how a speaker
   addressed an Athenian jury)*
-- **με, μοι, ἐμοῦ** — me, to me, of me *(the accusative, dative and
-  genitive of **ἐγώ**; the first two are enclitic)*
+- **ἐμοῦ, μοι, με** — of me, to me, me *(the genitive, dative and
+  accusative of **ἐγώ**; the last two are enclitic)*
 - **ἡ ἡσυχία** — quiet, stillness; **ἡσυχίαν ἔχειν** / **ἄγειν** — to keep
   quiet, to live quietly
 - **ἡ ἀρετή** — excellence, virtue *(Lesson 2)*
