@@ -119,6 +119,9 @@ scripts/
                       heading of the teacher's edition
   student_pages.py    harvests those page numbers from the student build
   lulu_cover.py       the wrap cover for a Lulu hardcover
+  lulu_bleed.py       adds Lulu's 0.125 in bleed to an interior PDF
+  filters/ebook.lua   part pages and lesson numbers for the EPUB
+  ebook_cover.py      the 1600 × 2560 Kindle cover
   build_site.py       builds site/ from the same Markdown
   build_glossary.py   regenerates the two vocabularies in book/back/
   check_greek.py      validates Greek text and block syntax
@@ -128,6 +131,7 @@ assets/
   illustrations/      cover, character sheet, and the spot drawings
   css/site.css        the scrolling site's styles
   css/ebook.css       the flip-book reader's styles
+  css/epub.css        the Kindle/EPUB ebook's styles
   js/ebook.js         the flip-book reader
   vendor/pdfjs/       PDF.js, vendored (Apache 2.0)
 docs/                 the writing guide, the voice of the book, the
@@ -299,6 +303,18 @@ box is set). They meet Lulu's other checks too: fonts embedded, every picture
 at 400–450 PPI, an even page count, and the front matter in book order
 (i cover page, iii title page, v contents) so right-hand pages fall on the
 right.
+
+## Publishing on Kindle
+
+`make epub` writes `build/greek-classroom.epub`, the student edition as a
+reflowable EPUB 3, and `build/ebook-cover.jpg`, the cover at 1600 × 2560 px.
+Kindle Direct Publishing takes both as they are: upload the EPUB as the
+manuscript and the JPEG as the cover. The EPUB passes EPUBCheck with no
+errors or warnings. Gentium Book Plus and GFS Didot are embedded (their
+licence allows it), so the polytonic Greek displays on any device; the
+reader can still switch to a Kindle font. The answer keys and teacher's
+notes are left out, as in the student PDF, and the spot drawings, which
+exist to fill space on a printed page, are left out too.
 
 ## Deploying
 

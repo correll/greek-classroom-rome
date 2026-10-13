@@ -73,7 +73,7 @@ cd $(TEXDIR) && $(XELATEX) $(2).tex >/dev/null 2>&1 || \
 @echo "  -> $@"
 endef
 
-.PHONY: all pdf teacher grammar site lulu check glossary clean distclean fonts help
+.PHONY: all pdf teacher grammar site lulu epub check glossary clean distclean fonts help
 
 all: pdf teacher grammar site
 
@@ -82,6 +82,7 @@ help:
 	@echo "make teacher  - teacher edition PDF      -> $(BUILD)/greek-classroom-teacher.pdf"
 	@echo "make grammar  - reference grammar PDF    -> $(BUILD)/greek-grammar.pdf"
 	@echo "make site     - GitHub Pages site        -> $(SITE)/"
+	@echo "make epub     - Kindle/EPUB ebook and its cover -> $(BUILD)/greek-classroom.epub"
 	@echo "make lulu     - Lulu hardcover upload: interiors and wrap covers -> $(BUILD)/lulu/"
 	@echo "make check    - validate Greek text and block syntax"
 	@echo "make glossary - regenerate the cumulative vocabulary from the lessons"
@@ -122,6 +123,26 @@ lulu: $(BUILD)/greek-classroom.pdf $(BUILD)/greek-classroom-teacher.pdf scripts/
 	python3 scripts/lulu_cover.py $(LULU)/greek-classroom-interior.pdf $(LULU)/greek-classroom-cover.pdf
 	python3 scripts/lulu_cover.py $(LULU)/greek-classroom-teacher-interior.pdf $(LULU)/greek-classroom-teacher-cover.pdf \
 	  --subtitle "Teacher's Edition · with answer keys"
+
+# The ebook: the student edition as a reflowable EPUB 3, which Kindle
+# Direct Publishing takes directly. Same sources and filter as the print
+# book, plus ebook.lua (part pages and lesson numbers) and a stylesheet
+# Kindle can render. The fonts are embedded so the polytonic Greek shows
+# whatever the device has installed; the reader can still choose another.
+EPUB_FONTS := $(foreach f,GentiumBookPlus-Regular GentiumBookPlus-Bold GentiumBookPlus-Italic GentiumBookPlus-BoldItalic GFSDidot-Regular,--epub-embed-font=assets/fonts/$(f).ttf)
+epub: $(BUILD)/greek-classroom.epub
+$(BUILD)/ebook-cover.jpg: scripts/ebook_cover.py assets/illustrations/cover.jpg | $(BUILD)
+	python3 scripts/ebook_cover.py $@
+$(BUILD)/greek-classroom.epub: $(BOOK_SRC) scripts/filters/ebook.lua scripts/filters/blocks.lua assets/css/epub.css $(BUILD)/ebook-cover.jpg | $(BUILD)
+	$(PANDOC) --from=$(FROM) --to=epub3 \
+	  --lua-filter=scripts/filters/ebook.lua --lua-filter=scripts/filters/blocks.lua \
+	  --metadata=edition:student \
+	  --metadata=cover-image:$(BUILD)/ebook-cover.jpg \
+	  --metadata=rights:"Text CC BY-NC-SA 4.0; fonts SIL OFL 1.1" \
+	  --css=assets/css/epub.css $(EPUB_FONTS) \
+	  --toc --toc-depth=1 --split-level=1 \
+	  $(BOOK_SRC) -o $@
+	@echo "  -> $@"
 
 check:
 	python3 scripts/check_greek.py

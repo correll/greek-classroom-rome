@@ -1,0 +1,89 @@
+/* ------------------------------------------------------------------
+   Schola Graeca — ebook styles (EPUB for Kindle and other readers).
+   Kindle's renderer is conservative: no custom properties, no grid or
+   flex, sizes in em, colours that still read on a grey e-ink screen.
+   The reader's own font and size settings win, as they should.
+   ------------------------------------------------------------------ */
+
+@font-face { font-family: "Gentium Book Plus"; font-weight: normal; font-style: normal;
+             src: url("../fonts/GentiumBookPlus-Regular.ttf"); }
+@font-face { font-family: "Gentium Book Plus"; font-weight: bold; font-style: normal;
+             src: url("../fonts/GentiumBookPlus-Bold.ttf"); }
+@font-face { font-family: "Gentium Book Plus"; font-weight: normal; font-style: italic;
+             src: url("../fonts/GentiumBookPlus-Italic.ttf"); }
+@font-face { font-family: "Gentium Book Plus"; font-weight: bold; font-style: italic;
+             src: url("../fonts/GentiumBookPlus-BoldItalic.ttf"); }
+@font-face { font-family: "GFS Didot"; font-weight: normal; font-style: normal;
+             src: url("../fonts/GFSDidot-Regular.ttf"); }
+
+body { font-family: "Gentium Book Plus", serif; line-height: 1.45; }
+p { margin: 0 0 0.6em 0; text-indent: 0; }
+
+h1, h2, h3, h4 { font-family: "Gentium Book Plus", serif; color: #1F3A5F;
+                 page-break-after: avoid; line-height: 1.2; }
+h1 { font-size: 1.6em; margin: 1.5em 0 1em 0; font-weight: normal; }
+h1 .num { display: block; color: #9C3D2E; font-size: 2em; margin-bottom: 0.2em; }
+h2 { font-size: 1.25em; margin: 1.4em 0 0.5em 0; }
+h3 { font-size: 1.1em; margin: 1.2em 0 0.4em 0; }
+
+/* the part pages */
+h1.partdivider { font-family: "GFS Didot", serif; text-align: center;
+                 margin-top: 3em; font-size: 1.7em; }
+div.partgoal p { text-align: center; color: #4A4A4A; margin: 0 1.5em 2em 1.5em; }
+
+/* the title page pandoc writes */
+section.titlepage, .titlepage { text-align: center; }
+.titlepage h1.title { font-family: "GFS Didot", serif; font-size: 2.1em; margin-top: 2em; }
+.titlepage .subtitle { font-style: italic; color: #4A4A4A; }
+.titlepage .author { margin-top: 2em; }
+
+/* the six movements of a lesson */
+.rubric { font-size: 0.8em; font-weight: bold; letter-spacing: 0.08em;
+          text-transform: uppercase; color: #9C3D2E;
+          border-bottom: 1px solid #C8BBA6; padding-bottom: 0.2em;
+          margin: 1.6em 0 0.6em 0; }
+.rubric-meta { display: block; font-weight: normal; letter-spacing: 0.04em;
+               text-transform: none; color: #4A4A4A; font-size: 0.95em; }
+
+section.story { font-style: italic; border-left: 3px solid #9C3D2E;
+                padding-left: 0.8em; margin: 1em 0; }
+section.story .rubric { font-style: normal; }
+section.newgreek { background-color: #F7F1E6; padding: 0.4em 0.8em; margin: 1em 0; }
+section.voice { border-left: 3px solid #1F3A5F; padding-left: 0.8em; margin: 1em 0; }
+section.question { border-left: 3px solid #6B7A4F; padding-left: 0.8em; margin: 1em 0; }
+section.question .rubric { color: #6B7A4F; }
+
+section.vocab, section.note, section.latinbridge, section.grammar {
+  border: 1px solid #C8BBA6; padding: 0.3em 0.8em; margin: 1em 0; }
+section.vocab ul, section.glossary ul, section.reading .gloss ul {
+  list-style-type: none; padding-left: 0; margin-left: 0; }
+section.vocab li { margin: 0.2em 0; }
+
+section.exercise { margin: 1.2em 0; }
+section.exercise .rubric { color: #1F3A5F; }
+section.answers, section.teacheronly { border-top: 1px solid #6B7A4F; margin: 1em 0; }
+section.answers .rubric, section.teacheronly .rubric { color: #6B7A4F; }
+
+/* the reading: on a small screen the glosses go under the Greek */
+section.reading .greek { line-height: 1.7; margin-bottom: 0.6em; }
+section.reading .gloss { font-size: 0.92em; border-top: 1px solid #C8BBA6;
+                         padding-top: 0.4em; margin-bottom: 0.8em; }
+section.reading .gloss li { margin: 0 0 0.2em 0; }
+
+section.glossary { font-size: 0.95em; }
+section.glossary li { margin: 0 0 0.2em 0; }
+section.glossary .lesson { color: #4A4A4A; font-size: 0.85em; }
+
+/* paradigm tables */
+table { border-collapse: collapse; margin: 0.8em 0; font-size: 0.95em; }
+th, td { padding: 0.15em 0.5em; text-align: left; vertical-align: top; }
+thead th { border-bottom: 1px solid #C8BBA6; font-weight: normal; color: #4A4A4A; }
+
+blockquote { margin: 0.8em 1.2em; }
+.gap { display: inline-block; width: 1.4em; border-bottom: 1px solid #262523; }
+.gref { color: #6B7A4F; font-size: 0.9em; }
+.gk { letter-spacing: 0.04em; }
+
+/* the table of contents pandoc writes */
+nav#toc ol { list-style-type: none; padding-left: 0; }
+nav#toc ol ol { padding-left: 1.2em; }
