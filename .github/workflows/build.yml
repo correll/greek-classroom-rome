@@ -46,7 +46,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install Python dependencies
-        run: pip install fonttools brotli
+        run: pip install fonttools brotli pillow
 
       # Printed on every run so that a failure a year from now still has the
       # context needed to explain itself.

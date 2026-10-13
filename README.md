@@ -77,7 +77,7 @@ the published site makes no third-party requests at all.
 |:--|:--|
 | **Pandoc** | 2.9 or newer |
 | **XeLaTeX** | from TeX Live 2021 or newer, with `latex-extra` for `tcolorbox` |
-| **Python** | 3.8+, with `fonttools` and `brotli` for the site's web fonts |
+| **Python** | 3.8+, with `fonttools` and `brotli` for the site's web fonts, and `pillow` to size the cover for the web (optional) |
 
 Everything else — the Greek fonts included — is vendored in `assets/`.
 
