@@ -1,4 +1,4 @@
-# A Greek Letter from Rome
+# A Greek Letter from Rome {summary="Writing a letter in Greek, after a soldier’s letter home from Roman Egypt."}
 
 ::: story
 "A letter," said Theodoros, "to anyone you like. In Greek. Using only what

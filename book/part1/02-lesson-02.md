@@ -1,4 +1,4 @@
-# The Case of the Missing Letters
+# The Case of the Missing Letters {summary="Diphthongs and breathing marks, and how to rebuild a word from what is left of it."}
 
 ::: story
 Felix arrived with a grievance.

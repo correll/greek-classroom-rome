@@ -1,4 +1,4 @@
-# The Words of Homer
+# The Words of Homer {summary="Homer’s Greek: the epic dialect, the third declension, and the opening of the Odyssey."}
 
 ::: story
 The scroll Theodoros brought out had been repaired three times and smelled

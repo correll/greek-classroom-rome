@@ -1,4 +1,4 @@
-# What Stands Done
+# What Stands Done {summary="The perfect: an action done and its result still standing; Paul on what was handed on."}
 
 ::: story
 The written papers came back face down, one to a desk,

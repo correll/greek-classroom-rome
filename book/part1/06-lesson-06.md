@@ -1,4 +1,4 @@
-# The First Real Sentence
+# The First Real Sentence {summary="Article, noun and verb together, and a first complete sentence: the opening of John."}
 
 ::: story
 Theodoros was at the board before anyone sat down, and he did not greet

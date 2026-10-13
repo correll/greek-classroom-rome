@@ -1,4 +1,4 @@
-# The Good Samaritan
+# The Good Samaritan {summary="Participles carrying a story: the Good Samaritan."}
 
 ::: story
 Theodoros read the story through once, in Greek, at speaking pace, and then

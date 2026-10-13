@@ -1,4 +1,4 @@
-# Odysseus and the Problem of Cleverness
+# Odysseus and the Problem of Cleverness {summary="Infinitives and indirect statement, and the name Odysseus gave the Cyclops."}
 
 ::: story
 Theodoros had been reading them the Cyclops a dozen lines at a time, and at

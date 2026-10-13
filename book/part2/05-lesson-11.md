@@ -1,4 +1,4 @@
-# One Verb, Several Clues
+# One Verb, Several Clues {summary="The present tense in full: person and number from the ending alone."}
 
 ::: story
 Theodoros handed out a sheet with five sentences on it. Every one of them

@@ -1,4 +1,4 @@
-# The Trial of a Translation
+# The Trial of a Translation {summary="Case, aspect, the article and the connectors reviewed, by putting one translation on trial."}
 
 ::: story
 Theodoros put eight wax tablets face down on the table and said that there

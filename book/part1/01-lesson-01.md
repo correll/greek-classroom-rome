@@ -1,4 +1,4 @@
-# The Unwelcome Tablet
+# The Unwelcome Tablet {summary="The Greek alphabet, the letters that look Latin and are not, and the two forms of sigma; first words from Delphi."}
 
 ::: story
 Marcus arrived late. He did not hurry, because hurrying would have

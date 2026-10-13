@@ -1,4 +1,4 @@
-# The Final Examination
+# The Final Examination {summary="The final examination: reading, grammar, translation and reflection, on the prologue of John."}
 
 ::: story
 The courtyard had been swept, which it never was, and there were benches

@@ -1,4 +1,4 @@
-# The Article's Many Disguises
+# The Article's Many Disguises {summary="The article in all its forms, and what it tells you before the noun arrives."}
 
 ::: story
 "**ἡ λόγος**," said Marcus.

@@ -1,4 +1,4 @@
-# The Dative and the Recipient
+# The Dative and the Recipient {summary="The dative: the one who receives, the means by which, and the angels’ song in Luke."}
 
 ::: story
 Felix had been composing quietly, which was unusual, and smiling

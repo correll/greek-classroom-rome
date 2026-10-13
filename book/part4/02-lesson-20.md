@@ -1,4 +1,4 @@
-# The Greek of the Septuagint
+# The Greek of the Septuagint {summary="Translation Greek: the Septuagint, with Hebrew showing through the shepherd psalm."}
 
 ::: story
 Julia read the Psalm through twice, and then said what she thought, which

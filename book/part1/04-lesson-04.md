@@ -1,4 +1,4 @@
-# Who Did What?
+# Who Did What? {summary="Subject and object, why Greek can put its words in almost any order, and Pilate’s question."}
 
 ::: story
 Sabina had rearranged the furniture before anyone else arrived.

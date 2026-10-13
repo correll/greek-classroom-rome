@@ -1,4 +1,4 @@
-# The Past Comes Alive
+# The Past Comes Alive {summary="The imperfect and the augment: the past seen as something going on."}
 
 ::: story
 "A story is not a list," said Quintus.

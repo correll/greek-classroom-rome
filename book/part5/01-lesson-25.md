@@ -1,4 +1,4 @@
-# The Grammar of Questions
+# The Grammar of Questions {summary="Questions, direct and indirect, and Meno’s question to Socrates."}
 
 ::: story
 "I will answer any question," said Theodoros, "that is correctly formed in

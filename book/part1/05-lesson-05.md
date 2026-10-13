@@ -1,4 +1,4 @@
-# The Verb Appears
+# The Verb Appears {summary="The verb arrives: the present tense, and εἰμί, to be."}
 
 ::: story
 "Each of you will say one thing about yourself," said Theodoros. "In Greek.

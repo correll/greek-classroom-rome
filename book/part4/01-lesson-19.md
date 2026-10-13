@@ -1,4 +1,4 @@
-# The Familiar Words Return
+# The Familiar Words Return {summary="Words the class already knows, and how far their meanings stretch in the Greek of scripture."}
 
 ::: story
 Theodoros wrote two words on the board and asked what they meant.

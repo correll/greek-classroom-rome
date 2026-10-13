@@ -1,4 +1,4 @@
-# What Makes a Just Person?
+# What Makes a Just Person? {summary="μέν … δέ, the other connectors and the pronouns, and Socrates on the unexamined life."}
 
 ::: story
 Quintus had been asking for Plato since Lesson 1.

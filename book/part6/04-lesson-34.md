@@ -1,4 +1,4 @@
-# Verbs That Melt
+# Verbs That Melt {summary="Contract verbs, whose vowels melt together: three questions on the shore."}
 
 ::: story
 Theodosius had been reading ahead, which was not forbidden, and had brought

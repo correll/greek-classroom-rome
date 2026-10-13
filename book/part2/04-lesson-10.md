@@ -1,4 +1,4 @@
-# Adjectives Must Agree
+# Adjectives Must Agree {summary="Adjectives that agree in gender, number and case, and where they stand: the good shepherd."}
 
 ::: story
 "Everyone gets an adjective," said Sabina. "I have chosen them."

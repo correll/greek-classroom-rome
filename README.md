@@ -142,7 +142,7 @@ give the book its structure, and the same source produces both the print
 and the web layout.
 
 ````markdown
-# The Unwelcome Tablet
+# The Unwelcome Tablet {summary="The Greek alphabet, and the two forms of sigma."}
 
 ::: {.story time="5 min"}
 Marcus arrived late…
@@ -176,6 +176,9 @@ The Greek alphabet has twenty-four letters…
 What exactly did you do when you read that?
 :::
 ````
+
+The `summary=` on a lesson's title is the one line printed in italics under
+it in the list of lessons on the website. The PDFs do not use it.
 
 ### All the blocks
 

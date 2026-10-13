@@ -1,4 +1,4 @@
-# The Sermon on the Mount
+# The Sermon on the Mount {summary="Sentences without a verb, ὅτι as because, and the Beatitudes."}
 
 ::: story
 "You all know this," said Theodoros. "Every one of you. You have known it

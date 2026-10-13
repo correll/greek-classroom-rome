@@ -1,4 +1,4 @@
-# The Translator's Dilemma
+# The Translator's Dilemma {summary="Ambiguity, idiom and range of meaning: what a translator has to decide, on the storm on the lake."}
 
 ::: story
 Two tablets, one sentence, and Theodoros said that this time both

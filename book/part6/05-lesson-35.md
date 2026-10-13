@@ -1,4 +1,4 @@
-# What Might Be
+# What Might Be {summary="The subjunctive: purpose, condition, and Nicodemus by night."}
 
 ::: story
 "Two lessons remain," said Theodoros. "This one and one more. I have not

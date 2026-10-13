@@ -1,4 +1,4 @@
-# The First Reading Challenge
+# The First Reading Challenge {summary="Everything so far, put to work, and a sentence of Protagoras: man is the measure of all things."}
 
 ::: story
 "Four teams," said Theodoros. "Each team gets a sentence. You translate it,

@@ -1,4 +1,4 @@
-# The Old Verbs
+# The Old Verbs {summary="The old verbs in -μι, εἰμί and εἶμι in full, and Socrates refusing to stop asking."}
 
 ::: story
 Theodoros came in with the box.

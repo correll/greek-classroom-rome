@@ -1,4 +1,4 @@
-# What Will Be
+# What Will Be {summary="The future tense, and the birds and the lilies."}
 
 ::: story
 "One sentence each," said Theodoros, "about the end of the course. In Greek.

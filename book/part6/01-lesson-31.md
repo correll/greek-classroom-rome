@@ -1,4 +1,4 @@
-# The Voice That Looks Back
+# The Voice That Looks Back {summary="The middle and passive voices, and the deponents: the baptism in Mark."}
 
 ::: story
 Nobody saw how the cat got into the ink, and the cat was not saying.

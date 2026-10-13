@@ -1,4 +1,4 @@
-# Two Worlds, One Language Family
+# Two Worlds, One Language Family {summary="Close reading across both kinds of Greek, with Aesop’s wind and sun."}
 
 ::: story
 "One rule," said Theodoros. "You may not say that two texts agree when they

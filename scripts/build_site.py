@@ -60,6 +60,20 @@ def heading_of(path):
     return os.path.basename(path)
 
 
+def html_escape(t):
+    return t.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def summary_of(path):
+    """The lesson's one-line summary: summary="..." on its first heading."""
+    with io.open(path, encoding="utf-8") as f:
+        for line in f:
+            if line.startswith("# "):
+                m = re.search(r'summary="([^"]*)"', line)
+                return m.group(1) if m else ""
+    return ""
+
+
 def collect():
     """Return [(section_label, [(slug, title, srcpath), ...]), ...]."""
     out = []
@@ -302,6 +316,8 @@ def landing(groups):
 
     body = u"""
 <div class="hero">
+  <img class="cover" src="cover.jpg" width="1200" height="896"
+       alt="Eight pupils, one teacher and one cat in a Roman schoolroom. Only the cat is giving the lesson its full attention.">
   <h1>{t}</h1>
   <p class="sub">{s}</p>
   <p class="greek">ΤΟ ΔΙΔΑΣΚΑΛΕΙΟΝ</p>
@@ -353,7 +369,7 @@ comedy; the texts themselves provide the substance.</p>
 {p}
 
 <h2>The thirty-six lessons</h2>
-<ol>
+<ol class="lessons">
 {l}
 </ol>
 
@@ -364,8 +380,10 @@ source files, so they cannot drift apart. On this site you can toggle the
 answer keys with the button in the top right.</p>
 """.format(t=TITLE, s=SUBTITLE, p=pdf_html, repo=REPO,
            repo_short=REPO.replace("https://", ""),
-           l="\n".join('<li><a href="%s.html">%s</a></li>' % (s, t)
-                       for s, t, _ in lessons))
+           l="\n".join('<li><a href="%s.html">%s</a>%s</li>' % (
+                           s, t, ('<span class="summary">%s</span>' % html_escape(summary_of(p))
+                                  if summary_of(p) else ""))
+                       for s, t, p in lessons))
     return body
 
 
@@ -381,6 +399,16 @@ def main():
         shutil.rmtree(SITE)
     os.makedirs(os.path.join(SITE, "fonts"))
 
+    # the cover for the landing page, at screen size (the print file is
+    # twice this); without Pillow the full-size file is copied as it is
+    cover = os.path.join(ROOT, "assets", "illustrations", "cover.jpg")
+    try:
+        from PIL import Image
+        im = Image.open(cover)
+        im.thumbnail((1200, 1200))
+        im.save(os.path.join(SITE, "cover.jpg"), quality=85, optimize=True)
+    except ImportError:
+        shutil.copy(cover, os.path.join(SITE, "cover.jpg"))
     shutil.copy(os.path.join(ROOT, "assets", "css", "site.css"),
                 os.path.join(SITE, "style.css"))
     shutil.copy(os.path.join(ROOT, "assets", "css", "ebook.css"),

@@ -1,4 +1,4 @@
-# Names and Nouns
+# Names and Nouns {summary="Gender, the nominative and accusative, and the article: endings that carry information."}
 
 ::: story
 Theodoros arrived with a handful of small wooden tags and a pot of ink.

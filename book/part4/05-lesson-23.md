@@ -1,4 +1,4 @@
-# Attic and Koine Face to Face
+# Attic and Koine Face to Face {summary="Attic and Koine side by side: Xenophon and Mark."}
 
 ::: story
 Felix had been waiting twenty-two lessons to be right about something, and

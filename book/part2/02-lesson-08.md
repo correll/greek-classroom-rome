@@ -1,4 +1,4 @@
-# The Genitive Mystery
+# The Genitive Mystery {summary="The genitive: possession, relation, and the first line of Matthew."}
 
 ::: story
 The wax tablet turned up at last, in Quintus's satchel, which

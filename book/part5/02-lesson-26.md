@@ -1,4 +1,4 @@
-# Commands, Advice, and Persuasion
+# Commands, Advice, and Persuasion {summary="Commands, prohibitions and obligation: ask, seek, knock."}
 
 ::: story
 Marcus had asked for a long hearing and been given a short one, and he used it.

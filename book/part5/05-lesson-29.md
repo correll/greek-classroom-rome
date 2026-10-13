@@ -1,4 +1,4 @@
-# The Great Reading
+# The Great Reading {summary="Preparing a real text alone: Crito at Socrates’ prison before dawn."}
 
 ::: story
 "Three questions," said Theodoros. "Each of you. About your own passage,

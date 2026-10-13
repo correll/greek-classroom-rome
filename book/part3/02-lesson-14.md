@@ -1,4 +1,4 @@
-# The Aorist Arrives
+# The Aorist Arrives {summary="The aorist: the past seen as one complete event, and what that difference does."}
 
 ::: story
 "One past," said Marcus, "ought to be enough for anyone."
