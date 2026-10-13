@@ -118,7 +118,7 @@ scripts/
                       puts the student edition's page numbers under each
                       heading of the teacher's edition
   student_pages.py    harvests those page numbers from the student build
-  lulu_cover.py       the wrap cover for a Lulu hardcover
+  lulu_cover.py       the wrap cover for a Lulu hardcover or a KDP paperback
   lulu_bleed.py       adds Lulu's 0.125 in bleed to an interior PDF
   filters/ebook.lua   part pages and lesson numbers for the EPUB
   ebook_cover.py      the 1600 × 2560 Kindle cover
@@ -303,6 +303,17 @@ box is set). They meet Lulu's other checks too: fonts embedded, every picture
 at 400–450 PPI, an even page count, and the front matter in book order
 (i cover page, iii title page, v contents) so right-hand pages fall on the
 right.
+
+## Printing with Amazon KDP
+
+`make kdp` writes a paperback set to `build/kdp/`: the interior (the 7 × 10
+student PDF; choose **No bleed** in KDP) and the wrap cover in KDP's
+geometry, 0.125 in bleed all round, the spine from KDP's per-page formula,
+every word at least 0.5 in inside the trim (KDP's check asks for 0.375 in
+from the edge) and the lower right of the back left clear for KDP's
+barcode. There is one cover per colour paper, because the spine differs:
+`…-standard-color.pdf` and `…-premium-color.pdf`. Other papers:
+`scripts/lulu_cover.py … --kdp-paperback white|cream`.
 
 ## Publishing on Kindle
 

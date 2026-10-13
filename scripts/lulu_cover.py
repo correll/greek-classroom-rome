@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-lulu_cover.py - the one-piece wrap cover for a Lulu hardcover (casewrap).
+lulu_cover.py - the one-piece wrap cover, for a Lulu hardcover (casewrap)
+or, with --kdp-paperback, for an Amazon KDP paperback.
 
 Lulu prints the cover of a casewrap hardcover as a single sheet: back panel,
 spine, front panel, with a wrap margin all round that folds over the boards.
@@ -14,10 +15,23 @@ The geometry below is Lulu's cover template for a 7 x 10 in interior
                          spine-side safety line (left free for Lulu's ISBN)
     spine width          from the interior's page count (table below)
 
-Usage: lulu_cover.py INTERIOR.pdf OUT.pdf [--subtitle TEXT] [--spine INCHES]
+KDP paperback (--kdp-paperback PAPER; help topic "Create a Paperback Cover"):
 
-The interior's page count is read with pdfinfo. If Lulu's own template for
-the upload gives a different spine width, pass it with --spine.
+    trim                 7 x 10 in per panel
+    bleed, all round     0.125 in
+    text                 at least 0.375 in from every edge of the file (KDP's
+                         print check); kept here 0.5 in inside the trim
+    spine width          pages x 0.002252 in (white, standard colour),
+                         x 0.0025 (cream), x 0.002347 (premium colour)
+    spine text           at least 0.375 in from top and bottom
+    barcode              KDP prints it 2 x 1.2 in, lower right of the back,
+                         and the design leaves that corner empty
+
+Usage: lulu_cover.py INTERIOR.pdf OUT.pdf [--subtitle TEXT] [--spine INCHES]
+                     [--kdp-paperback white|cream|standard-color|premium-color]
+
+The interior's page count is read with pdfinfo. If the printer's own
+template gives a different spine width, pass it with --spine.
 """
 import argparse
 import os
@@ -31,6 +45,10 @@ PANEL_W, PANEL_H = 7.25, 10.5
 WRAP = 0.625
 SAFE = 0.625
 BARCODE_W, BARCODE_H = 3.622, 1.26
+
+# KDP paperback: spine inches per page, by paper
+KDP_PAPER = {"white": 0.002252, "cream": 0.0025,
+             "standard-color": 0.002252, "premium-color": 0.002347}
 
 # Lulu hardcover casewrap: (last page count in the band, spine width in inches)
 SPINE_TABLE = [
@@ -177,10 +195,18 @@ def main():
     ap.add_argument("out")
     ap.add_argument("--subtitle", default="A Classical Greek course")
     ap.add_argument("--spine", type=float, default=None)
+    ap.add_argument("--kdp-paperback", choices=sorted(KDP_PAPER), default=None)
     a = ap.parse_args()
 
+    global PANEL_W, PANEL_H, WRAP, SAFE
     pages = page_count(a.interior)
-    spine = a.spine if a.spine else spine_for(pages)
+    if a.kdp_paperback:
+        PANEL_W, PANEL_H, WRAP, SAFE = 7.0, 10.0, 0.125, 0.5
+        if pages < 80:
+            sys.exit("KDP prints spine text only from 80 pages; this has %d" % pages)
+        spine = a.spine if a.spine else round(pages * KDP_PAPER[a.kdp_paperback], 4)
+    else:
+        spine = a.spine if a.spine else spine_for(pages)
     with tempfile.TemporaryDirectory() as d:
         src = os.path.join(d, "cover.tex")
         with open(src, "w", encoding="utf-8") as f:

@@ -73,7 +73,7 @@ cd $(TEXDIR) && $(XELATEX) $(2).tex >/dev/null 2>&1 || \
 @echo "  -> $@"
 endef
 
-.PHONY: all pdf teacher grammar site lulu epub check glossary clean distclean fonts help
+.PHONY: all pdf teacher grammar site lulu kdp epub check glossary clean distclean fonts help
 
 all: pdf teacher grammar site
 
@@ -82,6 +82,7 @@ help:
 	@echo "make teacher  - teacher edition PDF      -> $(BUILD)/greek-classroom-teacher.pdf"
 	@echo "make grammar  - reference grammar PDF    -> $(BUILD)/greek-grammar.pdf"
 	@echo "make site     - GitHub Pages site        -> $(SITE)/"
+	@echo "make kdp      - Amazon KDP paperback: interior and covers -> $(BUILD)/kdp/"
 	@echo "make epub     - Kindle/EPUB ebook and its cover -> $(BUILD)/greek-classroom.epub"
 	@echo "make lulu     - Lulu hardcover upload: interiors and wrap covers -> $(BUILD)/lulu/"
 	@echo "make check    - validate Greek text and block syntax"
@@ -123,6 +124,16 @@ lulu: $(BUILD)/greek-classroom.pdf $(BUILD)/greek-classroom-teacher.pdf scripts/
 	python3 scripts/lulu_cover.py $(LULU)/greek-classroom-interior.pdf $(LULU)/greek-classroom-cover.pdf
 	python3 scripts/lulu_cover.py $(LULU)/greek-classroom-teacher-interior.pdf $(LULU)/greek-classroom-teacher-cover.pdf \
 	  --subtitle "Teacher's Edition · with answer keys"
+
+# Amazon KDP paperback, 7 x 10 in, interior without bleed: the student PDF
+# as it is, and the wrap cover in KDP's geometry (0.125 in bleed, spine from
+# KDP's per-page formula). One cover per colour paper, since the spine differs.
+KDP := $(BUILD)/kdp
+kdp: $(BUILD)/greek-classroom.pdf scripts/lulu_cover.py
+	@mkdir -p $(KDP)
+	cp $(BUILD)/greek-classroom.pdf $(KDP)/greek-classroom-kdp-interior.pdf
+	python3 scripts/lulu_cover.py $(KDP)/greek-classroom-kdp-interior.pdf $(KDP)/greek-classroom-kdp-cover-standard-color.pdf --kdp-paperback standard-color
+	python3 scripts/lulu_cover.py $(KDP)/greek-classroom-kdp-interior.pdf $(KDP)/greek-classroom-kdp-cover-premium-color.pdf --kdp-paperback premium-color
 
 # The ebook: the student edition as a reflowable EPUB 3, which Kindle
 # Direct Publishing takes directly. Same sources and filter as the print
