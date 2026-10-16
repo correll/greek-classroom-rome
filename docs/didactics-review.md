@@ -147,6 +147,20 @@ narrative effect on retention for ages 12–15 in any classical language.
   points the same way: one read-aloud task per lesson.
 - **Built-in spaced review.** No Greek course has it; the evidence for it
   is the strongest in this review.
+- **Letter names in Latin letters.** Children learn a letter's sound more
+  easily when its name begins with that sound (*v* better than *m* or *h*;
+  Treiman et al. 2008, *Cognition* 106), and teaching names with sounds
+  beats sounds alone (Piasta, Purpura & Wagner 2010). Every Greek letter
+  name is of that kind, *alpha* to *ō mega*, so the names are worth
+  learning; but a pupil can only say a name he can read, so the alphabet
+  tables give each name in Latin letters too. The caution is Bassetti's
+  work on orthographic input (2008): learners read a Latin spelling with
+  their own language's sound values, as Italian learners voice pinyin
+  *b* and *d*. Hence macrons (*ēta*, not *eta*), the sound column as the
+  authority, and Latin-letter forms kept to the alphabet itself rather
+  than printed beside every word. That romanised text slows the learning
+  of a new script is widely believed by teachers of Japanese and Arabic,
+  but has not been shown experimentally.
 - **Assessment.** The Cambridge Latin Course recommends at least 60% of
   grades from comprehension and translation, with diagnostic tests every
   four Stages.

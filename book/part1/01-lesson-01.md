@@ -50,18 +50,23 @@ sound *w*.
 
 | | Name | Sound | | | Name | Sound |
 |:--|:--|:--|:-:|:--|:--|:--|
-| Α α | **ἄλφα** | *a* | | Ν ν | **νῦ** | *n* |
-| Β β | **βῆτα** | *b* | | Ξ ξ | **ξῖ** | *ks* |
-| Γ γ | **γάμμα** | *g* (hard) | | Ο ο | **ὂ μικρόν** | short *o* |
-| Δ δ | **δέλτα** | *d* | | Π π | **πῖ** | *p* |
-| Ε ε | **ἒ ψιλόν** | short *e* | | Ρ ρ | **ῥῶ** | *r* |
-| Ζ ζ | **ζῆτα** | *zd* | | Σ σ ς | **σίγμα** | *s* |
-| Η η | **ἦτα** | long *e* | | Τ τ | **ταῦ** | *t* |
-| Θ θ | **θῆτα** | *t* + puff | | Υ υ | **ὖ ψιλόν** | French *u* |
-| Ι ι | **ἰῶτα** | *i* | | Φ φ | **φῖ** | *p* + puff |
-| Κ κ | **κάππα** | *k* | | Χ χ | **χῖ** | *k* + puff |
-| Λ λ | **λάμβδα** | *l* | | Ψ ψ | **ψῖ** | *ps* |
-| Μ μ | **μῦ** | *m* | | Ω ω | **ὦ μέγα** | long *o* |
+| Α α | **ἄλφα** *alpha* | *a* | | Ν ν | **νῦ** *nü* | *n* |
+| Β β | **βῆτα** *bēta* | *b* | | Ξ ξ | **ξῖ** *xī* | *ks* |
+| Γ γ | **γάμμα** *gamma* | *g* (hard) | | Ο ο | **ὂ μικρόν** *o mikron* | short *o* |
+| Δ δ | **δέλτα** *delta* | *d* | | Π π | **πῖ** *pī* | *p* |
+| Ε ε | **ἒ ψιλόν** *e psilon* | short *e* | | Ρ ρ | **ῥῶ** *rhō* | *r* |
+| Ζ ζ | **ζῆτα** *zēta* | *zd* | | Σ σ ς | **σίγμα** *sigma* | *s* |
+| Η η | **ἦτα** *ēta* | long *e* | | Τ τ | **ταῦ** *tau* | *t* |
+| Θ θ | **θῆτα** *thēta* | *t* + puff | | Υ υ | **ὖ ψιλόν** *ü psilon* | French *u* |
+| Ι ι | **ἰῶτα** *iōta* | *i* | | Φ φ | **φῖ** *phī* | *p* + puff |
+| Κ κ | **κάππα** *kappa* | *k* | | Χ χ | **χῖ** *khī* | *k* + puff |
+| Λ λ | **λάμβδα** *lambda* | *l* | | Ψ ψ | **ψῖ** *psī* | *ps* |
+| Μ μ | **μῦ** *mü* | *m* | | Ω ω | **ὦ μέγα** *ō mega* | long *o* |
+
+The italics spell each name in Latin letters, so that you can say it before
+you can read it; a line over a vowel, as in *ēta*, means it is long. You
+know several already from mathematics — **π**, **Δ**, **Ω** — but said the
+English way. Here *pī* rhymes with *see*, not *sky*.
 
 Learn them in this order. It is the order the Greeks used, the order the
 Romans borrowed, and the order every dictionary you will ever open is

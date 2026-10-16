@@ -47,30 +47,30 @@ so, since you may meet Erasmian elsewhere.
 
 | Letter | Name | Our sound | Roughly as in |
 |:--|:--|:--|:--|
-| Α α | **ἄλφα** | [a] short, [aː] long | *aha*, *father* |
-| Β β | **βῆτα** | [b] | *bed* |
-| Γ γ | **γάμμα** | [g] always hard | *go*, never *gem* |
-| Δ δ | **δέλτα** | [d] | *dog* |
-| Ε ε | **ἒ ψιλόν** | [e] short | French *é*; near *pet* |
-| Ζ ζ | **ζῆτα** | [zd] | wi*sd*om |
-| Η η | **ἦτα** | [ɛː] long | *air* held long |
-| Θ θ | **θῆτα** | [tʰ] | *t* with a puff: *top* |
-| Ι ι | **ἰῶτα** | [i], [iː] | *machine* |
-| Κ κ | **κάππα** | [k] unaspirated | s*k*ip |
-| Λ λ | **λάμβδα** | [l] | *let* |
-| Μ μ | **μῦ** | [m] | *met* |
-| Ν ν | **νῦ** | [n] | *net* |
-| Ξ ξ | **ξῖ** | [ks] | ta*x* |
-| Ο ο | **ὂ μικρόν** | [o] short | French *eau*, short |
-| Π π | **πῖ** | [p] unaspirated | s*p*in |
-| Ρ ρ | **ῥῶ** | [r] trilled | Italian or Scots *r* |
-| Σ σ ς | **σίγμα** | [s] | *sit* |
-| Τ τ | **ταῦ** | [t] unaspirated | s*t*op |
-| Υ υ | **ὖ ψιλόν** | [y], [yː] | French *tu*, German *über* |
-| Φ φ | **φῖ** | [pʰ] | *p* with a puff: *pot* |
-| Χ χ | **χῖ** | [kʰ] | *k* with a puff: *cot* |
-| Ψ ψ | **ψῖ** | [ps] | la*ps* |
-| Ω ω | **ὦ μέγα** | [ɔː] long | *saw* held long |
+| Α α | **ἄλφα** *alpha* | [a] short, [aː] long | *aha*, *father* |
+| Β β | **βῆτα** *bēta* | [b] | *bed* |
+| Γ γ | **γάμμα** *gamma* | [g] always hard | *go*, never *gem* |
+| Δ δ | **δέλτα** *delta* | [d] | *dog* |
+| Ε ε | **ἒ ψιλόν** *e psilon* | [e] short | French *é*; near *pet* |
+| Ζ ζ | **ζῆτα** *zēta* | [zd] | wi*sd*om |
+| Η η | **ἦτα** *ēta* | [ɛː] long | *air* held long |
+| Θ θ | **θῆτα** *thēta* | [tʰ] | *t* with a puff: *top* |
+| Ι ι | **ἰῶτα** *iōta* | [i], [iː] | *machine* |
+| Κ κ | **κάππα** *kappa* | [k] unaspirated | s*k*ip |
+| Λ λ | **λάμβδα** *lambda* | [l] | *let* |
+| Μ μ | **μῦ** *mü* | [m] | *met* |
+| Ν ν | **νῦ** *nü* | [n] | *net* |
+| Ξ ξ | **ξῖ** *xī* | [ks] | ta*x* |
+| Ο ο | **ὂ μικρόν** *o mikron* | [o] short | French *eau*, short |
+| Π π | **πῖ** *pī* | [p] unaspirated | s*p*in |
+| Ρ ρ | **ῥῶ** *rhō* | [r] trilled | Italian or Scots *r* |
+| Σ σ ς | **σίγμα** *sigma* | [s] | *sit* |
+| Τ τ | **ταῦ** *tau* | [t] unaspirated | s*t*op |
+| Υ υ | **ὖ ψιλόν** *ü psilon* | [y], [yː] | French *tu*, German *über* |
+| Φ φ | **φῖ** *phī* | [pʰ] | *p* with a puff: *pot* |
+| Χ χ | **χῖ** *khī* | [kʰ] | *k* with a puff: *cot* |
+| Ψ ψ | **ψῖ** *psī* | [ps] | la*ps* |
+| Ω ω | **ὦ μέγα** *ō mega* | [ɔː] long | *saw* held long |
 
 ::: note
 **σ and ς.** The same letter. **ς** is used at the end of a word,
