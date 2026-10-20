@@ -35,7 +35,13 @@ Attic and it is regular.
 | vocative | **οἰκίᾱ** | **οἰκίαι** |
 
 Like **οἰκία**: **ἡ ἡμέρᾱ** *day* · **ἡ χώρᾱ** *land* · **ἡ σοφίᾱ**
-*wisdom* · **ἡ ἀλήθειᾰ** (but see below).
+*wisdom* · **ἡ μοῖρᾰ** *fate* · **ἡ ἀλήθειᾰ** *truth*.
+
+The last two carry a **short** alpha in the nominative, vocative and
+accusative singular and a long one in the genitive and dative:
+**ἀλήθειᾰ, ἀληθείᾱς, ἀληθείᾱ, ἀλήθειᾰν**. The quantity varies; the
+**vowel** does not, because the letter before the ending is **ι** or **ρ**.
+They belong here, not in §4.3, whatever their nominative looks like.
 
 ::: note
 **The ε, ι, ρ rule.** If the letter before the ending is **ε**, **ι**, or
@@ -49,9 +55,14 @@ Attic **θεά** (§16.2).
 
 ## Feminine in short -ᾰ
 
-A third group has a **short** alpha in the nominative and accusative
-singular, and **η** in the genitive and dative. These are nouns whose stem
-ends in a double consonant or a cluster.
+A third group has a **short** alpha in the nominative, vocative and
+accusative singular, and **η** in the genitive and dative.
+
+This is not a separate rule. It is §4.2's rule applied to a nominative
+that misleads: the letter before the ending is not **ε**, **ι** or **ρ**,
+so the genitive and dative show **η**, exactly as **ψυχή** does. What is
+exceptional is the nominative's short alpha, which these nouns show after
+**ζ**, **ξ**, **ψ**, a doubled consonant, or — in **μοῦσα** — a single sigma.
 
 | | **ἡ θάλαττᾰ** *sea* | |
 |:--|:--|:--|
@@ -63,7 +74,18 @@ ends in a double consonant or a cluster.
 | vocative | **θάλαττᾰ** | **θάλατται** |
 
 Like **θάλαττα**: **ἡ γλῶττᾰ** *tongue* · **ἡ μοῦσᾰ** *Muse* ·
-**ἡ δόξᾰ** *opinion, reputation* · **ἡ ἀλήθειᾰ** *truth*.
+**ἡ δόξᾰ** *opinion, reputation* · **ἡ τράπεζᾰ** *table*.
+
+::: note
+**ἡ ἀλήθειᾰ does not belong here**, though its nominative looks as
+though it should. Before its ending stands **ι**, so it keeps alpha all
+the way down: **τῆς ἀληθείᾱς**, never **τῆς ἀληθείης** (§4.2). The same
+goes for **ἡ μοῖρᾰ** (**μοίρᾱς**) and **ἡ γέφυρᾰ** *bridge*
+(**γεφύρᾱς**), both after **ρ**.
+
+A short alpha in the nominative is therefore not by itself evidence of
+anything. The letter before the ending is.
+:::
 
 Note that the short alpha affects the accent: **θάλαττα** can keep its
 accent on the antepenult because the ultima is short (§2.3, Rule 2), but
@@ -146,6 +168,6 @@ Three rules, applied in this order.
 | | |
 |:--|:--|
 | Lesson 3 | nominative and accusative, **-η** and **-ᾱ** types |
-| Lesson 8 | genitive |
-| Lesson 9 | dative |
+| Lesson 8 | genitive; the **ε**, **ι**, **ρ** rule stated; the short-alpha type (§4.3) |
+| Lesson 9 | dative, including the short-alpha type |
 | Lesson 12 | the full declension consolidated |

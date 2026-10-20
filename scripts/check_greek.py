@@ -12,8 +12,9 @@ Checks performed:
   4. Every Greek word beginning with a vowel carries a breathing mark on
      its first vowel, or on the second if the word opens with a diphthong.
   5. Final sigma occurs only at the end of a word, medial sigma never does.
-  6. No Latin lookalike letters hide inside a Greek word - the commonest
-     and least visible copy-paste error in Greek typesetting.
+  6. No Latin lookalike letters hide inside a Greek word, or stand at the
+     head of one - the commonest and least visible error in Greek
+     typesetting, and invisible on screen.
   7. Every 'answers' block is preceded in its file by an 'exercise' block.
 
 A line containing the comment <!--nocheck--> is skipped entirely. Use it on
@@ -51,7 +52,11 @@ GREEK_WORD = re.compile("[" + GREEK + COMBINING + "]{2,}")
 # a Greek word not preceded by a hyphen or asterisk: those mark bare endings
 # (-essi) and reconstructed stems (*s-), both legitimately unbreathed
 WORD_START = re.compile("(?<![-*" + GREEK + "])([" + GREEK + COMBINING + "]{2,})")
-LATIN_IN_GREEK = re.compile("[" + GREEK + "]+[aeopxvurcAEOPXBHKMNTZ][" + GREEK + "]+")
+LATIN_LOOKALIKE = "aeopxvurcAEOPXBHKMNTZ"
+# a lookalike between Greek letters, and - the case this missed for a
+# while - one standing at the head of an otherwise Greek word
+LATIN_IN_GREEK = re.compile("[" + GREEK + "]+[" + LATIN_LOOKALIKE + "][" + GREEK + "]+")
+LATIN_HEADS_GREEK = re.compile("(?<![A-Za-z])[" + LATIN_LOOKALIKE + "][" + GREEK + "]{2,}")
 FENCE = re.compile(r"^(:::+)\s*(.*)$")
 CLASSNAME = re.compile(r"\{\s*\.([A-Za-z][\w-]*)|^([A-Za-z][\w-]*)\s*$")
 
@@ -128,6 +133,9 @@ def check_greek(path, text):
             if LATIN_IN_GREEK.search(w):
                 errors.append("%s:%d: Latin letter inside a Greek word: %s"
                               % (rel(path), i, w))
+        for m in LATIN_HEADS_GREEK.finditer(line):
+            errors.append("%s:%d: Greek word starting with a Latin letter: %s"
+                          % (rel(path), i, m.group(0)))
 
         low = line.lower()
         if "transliterat" in low or "alphabet" in low:

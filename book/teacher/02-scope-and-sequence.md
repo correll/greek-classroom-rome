@@ -64,7 +64,7 @@ and the present tense.*
 | | Lesson | Language | Story and text |
 |:--|:--|:--|:--|
 | 7 | The Article's Many Disguises | **ὁ ἡ τό** in full; the article as a signpost | Julia catches Marcus assigning the wrong article. Greek articles turn out to be more than decoration. |
-| 8 | The Genitive Mystery | Genitive; possession and relation | Someone has claimed another pupil's tablet. The class must work out whose it is from the Greek alone. |
+| 8 | The Genitive Mystery | Genitive; possession and relation; the **ε**, **ι**, **ρ** rule stated, and the short-alpha type (**τράπεζα**, **θάλαττα**) that follows from it | Someone has claimed another pupil's tablet. The class must work out whose it is from the Greek alone. |
 | 9 | The Dative and the Recipient | Dative; indirect object; dative of means | Felix writes a message for Theodoros but accidentally makes the recipient the object. |
 | 10 | Adjectives Must Agree | Gender, number, case agreement; attributive vs. predicate position | Sabina insists on giving everyone increasingly ridiculous adjectives. |
 | 11 | One Verb, Several Clues | Present active conjugation; person and number | Theodoros removes the subjects from a set of sentences. The verb endings have to do the work. |

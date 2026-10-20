@@ -170,6 +170,7 @@ taught), adjectives in the masculine nominative singular.
 ### Θ
 
 - **ἡ θάλασσα** — sea *(Attic **θάλαττα**)* [23]{.lesson}
+- **ἡ θάλαττα** — sea *(genitive **τῆς θαλάττης**: alpha in the nominative, eta in the genitive)* [8]{.lesson}
 - **ὁ θάνατος** — death [20]{.lesson}
 - **θάπτω** — I bury *(aorist passive **ἐτάφην**)* [33]{.lesson}
 - **θαυμάζω** — I wonder at, am amazed; I admire [6]{.lesson}

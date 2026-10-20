@@ -94,6 +94,12 @@ it stopped being written.
 It is easy to miss, it is easy to leave out, and leaving it out turns a
 dative into something else. Write it.
 
+The dative follows the genitive in everything, including last lesson's
+awkward group. **ἡ τράπεζα** gave **τῆς τραπέζης**, so it gives
+**τῇ τραπέζῃ**; **ἡ θάλαττα** gives **τῇ θαλάττῃ**. Alpha in the
+nominative and accusative, eta in the genitive and dative, and the same
+test — the letter before the ending — decides both.
+
 ::: note
 **You now have all four cases**, one line each:
 

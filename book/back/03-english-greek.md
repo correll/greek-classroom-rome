@@ -429,7 +429,7 @@ most of what composing well consists of.
 - say — **λέγω**, **φημί** [5, 36]{.lesson}
 - says — **λέγει** [4]{.lesson}
 - scroll — **τὸ βιβλίον** [3]{.lesson}
-- sea — **ἡ θάλασσα** [23]{.lesson}
+- sea — **ἡ θάλαττα**, **ἡ θάλασσα** [8, 23]{.lesson}
 - season — **ἡ ὥρα** [2]{.lesson}
 - second — **δεύτερος** [34]{.lesson}
 - see — **βλέπω**, **ὁράω** [5, 32]{.lesson}

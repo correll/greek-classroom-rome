@@ -99,6 +99,62 @@ It is the one place in the first declension where the accent does something
 you cannot predict from the nominative, so memorise it deliberately.
 :::
 
+## When the nominative misleads
+
+You have taken the first declension on trust since Lesson 3: some nouns show
+**η**, some show **α**, and the dictionary tells you which. Here is the rule
+behind it, because the genitive is where it begins to matter.
+
+**Look at the letter immediately before the ending.** If it is **ε**, **ι**
+or **ρ**, the first declension keeps **α**. Anything else, and it shows
+**η**.
+
+| | before the ending | genitive |
+|:--|:--|:--|
+| **ἡ οἰκία** | **ι** | **τῆς οἰκίας** |
+| **ἡ ἡμέρα** | **ρ** | **τῆς ἡμέρας** |
+| **ἡ ψυχή** | **χ** | **τῆς ψυχῆς** |
+| **ἡ ἀρχή** | **χ** | **τῆς ἀρχῆς** |
+
+So far the nominative has told you what the genitive would do. Now a group
+of nouns where it does not.
+
+| | **ἡ τράπεζα** *table* | **ἡ θάλαττα** *sea* |
+|:--|:--|:--|
+| **nominative** | **ἡ τράπεζα** | **ἡ θάλαττα** |
+| **genitive** | **τῆς τραπέζης** | **τῆς θαλάττης** |
+| **dative** | **τῇ τραπέζῃ** | **τῇ θαλάττῃ** |
+| **accusative** | **τὴν τράπεζαν** | **τὴν θάλατταν** |
+
+Alpha in the nominative and accusative; **eta** in the genitive and dative.
+
+This is not a third pattern to learn, and you should resist being told that
+it is. It is the rule above, obeyed exactly. Before the ending **τράπεζα**
+has **ζ** and **θάλαττα** has **ττ** — neither is **ε**, **ι** or **ρ** — so the
+genitive and dative must show **η**. The odd form is the *nominative*, which
+shows a short alpha where the rule would have predicted eta.
+
+::: note
+**How to spot one without a list.** Do not try to memorise which nouns
+behave this way. Apply the same test to the letter before the ending, and
+keep two specimens in your head:
+
+**ἡ τράπεζα, τῆς τραπέζης** — the table the cat has occupied since
+Lesson 3.
+
+**ἡ θάλαττα, τῆς θαλάττης** — the sea.
+
+Then when you first meet **ἡ γλῶττα** *tongue*, **ἡ μοῦσα** *Muse* or
+**ἡ δόξα** *glory*, the test answers before anyone tells you: **ττ**, **σ**,
+**ξ**, none of them **ε**, **ι** or **ρ** — so **γλώττης**, **μούσης**,
+**δόξης**.
+
+The test keeps you right in the other direction too. **ἡ ἀλήθεια** has a
+short alpha in the nominative as well — but before the ending stands **ι**,
+so it keeps alpha the whole way down: **τῆς ἀληθείας**, never
+**τῆς ἀληθείης**.
+:::
+
 ## Three prepositions that demand it
 
 Some prepositions insist on a particular case, and three common ones insist
@@ -144,6 +200,7 @@ not look for an ablative ending.
 - **λείπω** — I leave, leave behind *(Lesson 6)*
 - **οὐδέ** — and not, nor; not even *(Lesson 6)*
 - **ἐκεῖ** — there
+- **ἡ θάλαττα** — sea *(genitive **τῆς θαλάττης**: alpha in the nominative, eta in the genitive)*
 
 ::: note
 **ὁ υἱός** behaves like **ὁ λόγος**: **τοῦ υἱοῦ**, **τῶν υἱῶν**. Use it
@@ -321,6 +378,9 @@ teacher had given him the tablet.
 9. Give the genitive singular of **ἡ δέλτος**, with its article.
 10. If the tablet had read **ΤΟΥ ΥΙΟΥ**, whose would it have been — and
     would the argument have been settled?
+11. Give the genitive singular, with its article, of **ἡ ἡμέρα** and of
+    **ἡ τράπεζα**. They end alike in the nominative. Why not in the
+    genitive?
 :::
 
 ::: answers
@@ -350,6 +410,12 @@ teacher had given him the tablet.
     person, and the argument would have moved rather than ended. The point
     worth drawing out is that the genitive answers *whose* only as far as
     the noun it is attached to does.
+11. **τῆς ἡμέρας** and **τῆς τραπέζης.** Before the ending **ἡμέρα**
+    has **ρ**, which is one of the three letters that keep alpha;
+    **τράπεζα** has **ζ**, which is not. **τῆς τραπέζας** is the error to
+    expect, and it is the right error: the pupil has used the pattern of
+    **οἰκία** without checking the letter the pattern depends on. Ask them
+    which letter decides it before you give the form.
 :::
 :::
 
