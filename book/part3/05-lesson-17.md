@@ -175,6 +175,43 @@ it.
 :::
 :::
 
+## The pronoun that turns back
+
+There is a third pronoun in this lesson, and you met it on your first day
+without being told what it was.
+
+**γνῶθι σαυτόν** — *know yourself*. **σαυτόν** is a **reflexive** pronoun:
+it points back at the subject of its own sentence. English does it with
+*-self*, and so, nearly, does Greek.
+
+| | | |
+|:--|:--|:--|
+| **ἐμαυτόν, ἐμαυτοῦ** | myself | *of* **ἐγώ** |
+| **σεαυτόν, σεαυτοῦ** | yourself | *of* **σύ** — often shortened to **σαυτόν, σαυτοῦ** |
+| **ἑαυτόν, ἑαυτοῦ** | himself, herself, itself | and in the plural, *themselves* |
+
+Two things to notice, and the first is the useful one.
+
+**There is no nominative.** A reflexive points back at the subject, so it can
+never *be* the subject. If you have written one in the nominative, you have
+written something that cannot mean anything.
+
+**Watch the breathing.** **αὐτοῦ** with a smooth breathing means *of him*;
+**αὑτοῦ** with a rough one is **ἑαυτοῦ** contracted, and means *of himself*.
+One hook is the whole difference between *he took his cloak* and *he took
+his own cloak*, and the editors of your text have decided which it is.
+
+::: note
+**Socrates, in this lesson, is full of them.** When he says he spends his
+life examining **ἐμαυτὸν καὶ ἄλλους** — *myself and others* — the reflexive
+is doing real work: the examination turns back on the examiner. An
+accusative **με** there would have said something smaller and less
+uncomfortable.
+
+The Delphic maxim does the same thing in two words, which is why it was worth
+carving.
+:::
+
 ::: vocab
 - **δίκαιος** — just, righteous
 - **ἄδικος** — unjust

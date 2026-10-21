@@ -129,6 +129,43 @@ this, has written that as a young man he did.
 :::
 :::
 
+## Counting
+
+The Psalms count, the Gospels count, and Xenophon counts constantly. The
+numbers are mostly free: only the first four decline, and after that they
+sit unchanged wherever you put them.
+
+| | | | |
+|:--|:--|:--|:--|
+| 1 | **εἷς, μία, ἕν** | 6 | **ἕξ** |
+| 2 | **δύο** | 7 | **ἑπτά** |
+| 3 | **τρεῖς, τρία** | 8 | **ὀκτώ** |
+| 4 | **τέτταρες, τέτταρα** | 9 | **ἐννέα** |
+| 5 | **πέντε** | 10 | **δέκα** |
+
+**εἷς** has three genders and a full set of cases — **ἑνός, ἑνί, ἕνα** in the
+masculine, **μιᾶς, μιᾷ, μίαν** in the feminine — and it is worth knowing
+because it is also the word for *a single*, *one and the same*, and, with a
+negative, *not one*.
+
+**τρεῖς** and **τέτταρες** have one form for masculine and feminine and
+another for neuter. **δύο** barely declines at all.
+
+**From five upward nothing changes.** **πέντε ἄνθρωποι**, **πέντε
+ἀνθρώπων**, **πέντε ἀνθρώποις** — the number simply stands there.
+
+::: note
+**The ordinals do decline**, like ordinary adjectives: **πρῶτος** first,
+**δεύτερος** second, **τρίτος** third, **τέταρτος** fourth, **πέμπτος**
+fifth. You have had **πρῶτος** since Lesson 10.
+
+**And the Greeks wrote numbers with letters.** **α΄** is 1, **β΄** is 2,
+**ι΄** is 10, **κ΄** is 20 — the alphabet you learned in Lesson 1, doing a
+second job, with a small mark to show it is a number and not a word. This is
+why the alphabet kept three letters nobody pronounced any more: they were
+still needed for 6, 90 and 900.
+:::
+
 ::: vocab
 - **ὁ ποιμήν** — shepherd *(genitive **ποιμένος**; you met **ὁ ποιμὴν ὁ
   καλός** in Lesson 10)*

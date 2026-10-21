@@ -226,6 +226,13 @@ object and its agent. **πείθομαι** — I let myself be persuaded: I obey
 own account. The voice looks back at its subject and says: *this concerns
 you*.
 
+This is also where the middle is confused with the reflexive pronoun of
+Lesson 17, and the difference is worth holding onto. **λούω ἐμαυτόν** says
+*I wash myself* and makes a small drama of it: there is an agent, and there
+is a separate object that happens to be the same person. **λούομαι** does not
+split them at all. It is one act with the subject inside it, and English has
+no way to say it in one word, which is why *I wash* has to do.
+
 ::: latinbridge
 **Latin has a passive, and you have had it for years.** *Lavātur*, *he is
 washed*; *lavābātur*, *he was being washed*; the agent with *ā* or *ab* and

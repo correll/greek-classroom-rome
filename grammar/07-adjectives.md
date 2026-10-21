@@ -23,4 +23,6 @@ plan.
 
 ## Lesson references
 
-Lesson 10 introduces agreement and position; comparison appears in Volume II.
+Lesson 10 introduces agreement and position, and with them comparison
+(§7.7) and the adverb in **-ως** (§10.3); Lesson 23 meets comparatives in
+Xenophon.

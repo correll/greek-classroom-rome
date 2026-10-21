@@ -22,4 +22,6 @@ plan.
 
 ## Lesson references
 
-Lesson 17 introduces the connective particles as the key to following an argument.
+Lesson 10 introduces the adverb in **-ως**; Lesson 20 the numerals one to
+ten and the alphabetic figures. Lesson 17 introduces the connective
+particles as the key to following an argument.

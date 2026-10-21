@@ -135,6 +135,78 @@ moving one word.
 :::
 :::
 
+## More, most, and the adverb
+
+An adjective can do two more things, and both are cheap.
+
+### Comparison
+
+Add **-τερος** for *more*, **-τατος** for *most*. They decline like any
+adjective you have met.
+
+| | | |
+|:--|:--|:--|
+| **σοφός** *wise* | **σοφώτερος** *wiser* | **σοφώτατος** *wisest* |
+| **δίκαιος** *just* | **δικαιότερος** | **δικαιότατος** |
+| **καλός** *fine* | **καλλίων** | **κάλλιστος** |
+
+The **ο** of the ending lengthens to **ω** when the syllable before it is
+short: **σοφ-** is short, so **σοφώτερος**; **δικαι-** is not, so
+**δικαιότερος**. Your ear will do this before your memory does.
+
+Six are irregular, and they are six of the commonest words in Greek. Learn
+them as a set, the way you learned *good, better, best*.
+
+| | | |
+|:--|:--|:--|
+| **ἀγαθός** good | **ἀμείνων** better | **ἄριστος** best |
+| **κακός** bad | **κακίων**, **χείρων** worse | **κάκιστος**, **χείριστος** worst |
+| **μέγας** great | **μείζων** greater | **μέγιστος** greatest |
+| **πολύς** much | **πλείων** more | **πλεῖστος** most |
+| **μικρός** small | **ἐλάττων** smaller | **ἐλάχιστος** smallest |
+
+### Than what?
+
+Greek says *than* in two ways, and the second is the one that will catch
+you.
+
+> **σοφώτερός ἐστιν ἢ ὁ ἀδελφός.** — *He is wiser than his brother.*
+>
+> **σοφώτερός ἐστι τοῦ ἀδελφοῦ.** — The same thing, with no word for
+> *than* at all.
+
+The second puts the thing compared into the **genitive**, and leaves you to
+supply *than*. It is called the **genitive of comparison**, and once you
+have seen it you will see it everywhere. A superlative takes a genitive
+too, but it means something different — *of* rather than *than*:
+
+> **ὁ σοφώτατος τῶν μαθητῶν.** — *The wisest of the pupils.*
+
+### The adverb
+
+To turn an adjective into an adverb, take its **genitive plural** and change
+the **-ων** to **-ως**. That is the whole rule, accent included.
+
+| adjective | genitive plural | adverb |
+|:--|:--|:--|
+| **σοφός** | **σοφῶν** | **σοφῶς** *wisely* |
+| **κακός** | **κακῶν** | **κακῶς** *badly* |
+| **καλός** | **καλῶν** | **καλῶς** *finely, well* |
+| **δίκαιος** | **δικαίων** | **δικαίως** *justly* |
+
+::: note
+**You have already met one.** In Lesson 11 you will meet **κακῶς πράττω**,
+*I fare badly* — and **οὕτως**, from Lesson 7, looks like an adverb of this
+kind and is not. It is simply a word. **εὖ**, *well*, is another. A handful
+of the commonest adverbs are their own words; everything else obeys the rule
+above.
+:::
+
+The comparative adverb is the comparative adjective's **neuter singular**,
+and the superlative adverb its **neuter plural**:
+
+> **σοφῶς** wisely · **σοφώτερον** more wisely · **σοφώτατα** most wisely
+
 ::: vocab
 - **ἀγαθός** — good
 - **κακός** — bad, evil

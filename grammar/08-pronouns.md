@@ -22,4 +22,6 @@ plan.
 
 ## Lesson references
 
-Lesson 17 introduces demonstratives and relatives; Lesson 25 the interrogatives.
+Lesson 17 introduces the relative, the demonstrative and the reflexive;
+Lesson 25 the interrogatives. Lesson 31 distinguishes the reflexive pronoun
+from the middle voice.

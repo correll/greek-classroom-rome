@@ -23,4 +23,6 @@ plan.
 
 ## Lesson references
 
-Lesson 16 introduces the infinitive; Lesson 22 introduces the aorist participle in narrative.
+Lesson 16 introduces the infinitive, including the infinitive of result
+with **ὥστε**; Lesson 22 introduces the participle and the genitive
+absolute, and the aorist participle in narrative.

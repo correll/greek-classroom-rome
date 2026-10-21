@@ -120,6 +120,48 @@ lets Greek narrative move the way it does.
 :::
 :::
 
+## The participle that belongs to nobody
+
+Everything above depends on a participle agreeing with a word in the
+sentence. Greek has one construction where it agrees with nothing in the
+sentence at all, and it is the commonest way a Greek narrator says *while*
+or *after*.
+
+Put a noun and a participle **both in the genitive**, and stand them outside
+the main clause:
+
+> **ταῦτα λέγοντος τοῦ διδασκάλου, οἱ μαθηταὶ ἐσίγων.**
+> — *While the teacher was saying these things, the pupils were silent.*
+
+**τοῦ διδασκάλου** is not the subject of **ἐσίγων**, and it is not the object
+of anything. It is not a part of the main sentence; it is a little scene set
+beside it. That is the **genitive absolute** — *absolute* in its old sense of
+*loosed*, standing free.
+
+**How to recognise one.** A genitive noun and a genitive participle, side by
+side, with no other word in the sentence for them to belong to. If the
+genitive noun *does* have a job in the main clause, it is not a genitive
+absolute and you should not read it as one.
+
+**How to translate one.** Supply a conjunction English requires and Greek
+does not — *when*, *while*, *since*, *after*, *although* — and let the aspect
+choose it for you:
+
+| | |
+|:--|:--|
+| present participle | *while X was doing* — going on at the same time |
+| aorist participle | *after X had done* — finished first |
+
+::: latinbridge
+**You have met this before, in the ablative.** Latin's *ablative absolute* —
+*Caesare duce*, *his rebus dictis* — is the same idea in a different case: a
+noun and a participle, loosed from the sentence, setting the scene.
+
+Greek has no ablative, so it does the job with the genitive. If you can
+construe *his rebus dictis*, you can construe **τούτων ῥηθέντων**, and you
+have one less thing to learn than you thought.
+:::
+
 ::: vocab
 - **ὁ ἱερεύς** — priest *(genitive **ἱερέως**)*
 - **ὁ λῃστής** — bandit, robber

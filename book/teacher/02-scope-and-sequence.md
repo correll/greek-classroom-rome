@@ -66,7 +66,7 @@ and the present tense.*
 | 7 | The Article's Many Disguises | **ὁ ἡ τό** in full; the article as a signpost | Julia catches Marcus assigning the wrong article. Greek articles turn out to be more than decoration. |
 | 8 | The Genitive Mystery | Genitive; possession and relation; the **ε**, **ι**, **ρ** rule stated, and the short-alpha type (**τράπεζα**, **θάλαττα**) that follows from it | Someone has claimed another pupil's tablet. The class must work out whose it is from the Greek alone. |
 | 9 | The Dative and the Recipient | Dative; indirect object; dative of means | Felix writes a message for Theodoros but accidentally makes the recipient the object. |
-| 10 | Adjectives Must Agree | Gender, number, case agreement; attributive vs. predicate position | Sabina insists on giving everyone increasingly ridiculous adjectives. |
+| 10 | Adjectives Must Agree | Gender, number, case agreement; attributive vs. predicate position; comparison and the genitive of comparison; adverbs in **-ως** | Sabina insists on giving everyone increasingly ridiculous adjectives. |
 | 11 | One Verb, Several Clues | Present active conjugation; person and number | Theodoros removes the subjects from a set of sentences. The verb endings have to do the work. |
 | 12 | The First Reading Challenge | Consolidation | An adapted sentence of Protagoras, then the authentic one. Teams explain every ending. |
 
@@ -86,8 +86,8 @@ the language creates meaning.*
 | 13 | The Past Comes Alive | Imperfect indicative active; the augment | Quintus argues that a story is not the same as a list of events. Greek agrees with him. |
 | 14 | The Aorist Arrives | Aorist indicative active; aspect vs. tense | Marcus claims one past tense ought to be enough. Theodoros demonstrates why it is not. |
 | 15 | The Words of Homer | Epic dialect; the third declension; formulaic language | The first lines of the *Odyssey* and the *Iliad*. Homeric Greek is not Attic, and the class is told so plainly. |
-| 16 | Odysseus and the Problem of Cleverness | Infinitives; indirect statement | An episode from the *Odyssey* raises questions about intelligence, courage, and deception. |
-| 17 | What Makes a Just Person? | Connectors; **μέν … δέ**; pronouns | Plato, *Apology* 38a: a seven-word sentence whose meaning rides on **δέ**, a missing verb and a dative without an article. |
+| 16 | Odysseus and the Problem of Cleverness | Infinitives; indirect statement; the infinitive of result with **ὥστε** | An episode from the *Odyssey* raises questions about intelligence, courage, and deception. |
+| 17 | What Makes a Just Person? | Connectors; **μέν … δέ**; the relative, demonstrative and reflexive pronouns | Plato, *Apology* 38a: a seven-word sentence whose meaning rides on **δέ**, a missing verb and a dative without an article. |
 | 18 | The Trial of a Translation | Review: case, aspect, the article, connectors | Each pupil defends a translation. The judges must separate evidence from eloquence. |
 
 Homer arrives with scaffolding and with the dialect difference stated, not
@@ -101,9 +101,9 @@ Attic.*
 | | Lesson | Language | Story and text |
 |:--|:--|:--|:--|
 | 19 | The Familiar Words Return | Shared vocabulary; semantic range | Theodosius recognises a word from a passage he knows in Latin. Familiar-looking words carry different shades. |
-| 20 | The Greek of the Septuagint | Translation Greek; Hebrew word order showing through | A short Psalm. Why the Greek sometimes sounds unlike Greek. |
+| 20 | The Greek of the Septuagint | Translation Greek; Hebrew word order showing through; the numerals | A short Psalm. Why the Greek sometimes sounds unlike Greek. |
 | 21 | The Sermon on the Mount | Verbless predication; **ὅτι** as *because*; the dative of respect; **μακάριος** | Matthew 5:3–10. Short, memorable clauses; what translation preserves and what it cannot. |
-| 22 | The Good Samaritan | Participles in narrative; aorist chains | Luke 10:30–37. Tracking who acts and who receives the action. |
+| 22 | The Good Samaritan | Participles in narrative; aorist chains; the genitive absolute | Luke 10:30–37. Tracking who acts and who receives the action. |
 | 23 | Attic and Koine Face to Face | Vocabulary, style, and grammar compared directly | A classical sentence beside a New Testament one. Languages change; authors write for different readers. |
 | 24 | Two Worlds, One Language Family | Consolidation; close reading | Each pupil presents one classical and one biblical passage, explains the grammar, and discusses the meaning. |
 

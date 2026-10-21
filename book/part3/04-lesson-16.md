@@ -207,6 +207,37 @@ prefer it. For now, recognise it. The infinitive construction is the one to
 be able to build.
 :::
 
+## So … that: the infinitive of result
+
+One more job for the infinitive, and it is the one you will meet first in
+real Greek.
+
+**ὥστε** means *so that*, *with the result that*. It most often takes an
+infinitive:
+
+> **οὕτω σοφός ἐστιν ὥστε πάντας διδάσκειν.**
+> — *He is so wise as to teach everyone.*
+
+The infinitive keeps its aspect and loses its time, exactly as above. And
+the construction is often set up in advance by a word meaning *so* or *so
+great* — **οὕτω**, **τοσοῦτος** — which tells you a **ὥστε** is coming
+before you reach it. Greek likes to warn you.
+
+::: note
+**ὥστε with a finite verb.** You will also see **ὥστε** followed by an
+ordinary indicative. The difference is small but real:
+
+- **ὥστε** + **infinitive** — the result that would naturally follow.
+- **ὥστε** + **indicative** — the result that actually did follow.
+
+*He was so wise as to teach everyone* against *he was so wise that he in
+fact taught everyone.* Most writers do not press the distinction hard, and
+you should not either until you have read a great deal more.
+
+One tell, if you need it: the infinitive form is negated with **μή**, the
+indicative with **οὐ**.
+:::
+
 ::: vocab
 - **βούλομαι** — I want, I wish *(3rd singular **βούλεται**)*
 - **δύναμαι** — I am able, I can *(3rd singular **δύναται**)*
