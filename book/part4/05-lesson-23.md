@@ -1,4 +1,4 @@
-# Attic and Koine Face to Face {summary="Attic and Koine side by side: Xenophon and Mark."}
+# Attic and Koine Face to Face — what separates Koine Greek from Attic {summary="Attic and Koine side by side: Xenophon and Mark."}
 
 ::: story
 Felix had been waiting twenty-two lessons to be right about something, and
@@ -45,7 +45,7 @@ Felix looked as if he did not know whether he had been praised.
 :::
 
 ::: newgreek
-## Two varieties, one language
+## Attic and Koine: two varieties of one language
 
 Felix heard the difference before he had a name for it: the Greek
 Theodoros teaches, and the Greek he shouts at carters. **Attic** is the
@@ -76,7 +76,7 @@ different people for different ends. Here is where they part.
 | **Spelling** | **θάλαττα**, **πράττω** | **θάλασσα**, **πράσσω** |
 | **The dual** | present | gone |
 
-## Three to understand, not just notice
+## Three Koine changes that matter for reading
 
 **One. ὅτι replaces the infinitive.** The construction you built in Lesson
 16 — *he says the man to be good* — is still available in Koine but is

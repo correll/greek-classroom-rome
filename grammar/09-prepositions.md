@@ -9,7 +9,7 @@ completed sections (§§1–5) will remain valid. The subsections below are the
 plan.
 :::
 
-## Planned subsections
+## What this section will cover: prepositions by the case each takes
 
 1. Prepositions with one case: **ἐν**, **σύν**, **εἰς**, **ἐκ**, **ἀπό**, **πρό**, **ἀντί**
 2. Prepositions with two cases: **διά**, **κατά**, **ὑπέρ**, **μετά**

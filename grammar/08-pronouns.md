@@ -9,7 +9,7 @@ completed sections (§§1–5) will remain valid. The subsections below are the
 plan.
 :::
 
-## Planned subsections
+## What this section will cover: personal, demonstrative, relative, interrogative and reflexive
 
 1. Personal pronouns: **ἐγώ**, **σύ**, and the third person supplied by **αὐτός**
 2. The emphatic and unemphatic forms, and when the subject pronoun is used at all

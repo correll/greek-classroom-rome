@@ -9,7 +9,7 @@ completed sections (§§1–5) will remain valid. The subsections below are the
 plan.
 :::
 
-## Planned subsections
+## What this section will cover: what each case does, and agreement
 
 1. Nominative: subject; **predicate nominative** and the article's role in identifying it (§3.3)
 2. Genitive: possession; the partitive genitive; genitive of comparison, value, time within which, and separation; the genitive absolute (§13.7)

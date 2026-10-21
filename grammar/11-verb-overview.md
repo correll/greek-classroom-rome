@@ -9,7 +9,7 @@ completed sections (§§1–5) will remain valid. The subsections below are the
 plan.
 :::
 
-## Planned subsections
+## What this section will cover: person, voice, mood, aspect and the principal parts
 
 1. Person and number: three persons, three numbers (the dual is rare)
 2. Voice: active, middle, passive — and why the middle has no English equivalent

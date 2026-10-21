@@ -49,7 +49,7 @@ STUDENT_PAGES := $(BUILD)/student-pages.lua
 TEXOPTS  := --from=$(FROM) $(FILTER) \
             --template=templates/book.latex \
             --top-level-division=chapter \
-            --toc --toc-depth=1 \
+            --toc --toc-depth=2 \
             --variable=fontdir:"$(FONTDIR)"
 
 STUDENT_FLAGS := --metadata=edition:student

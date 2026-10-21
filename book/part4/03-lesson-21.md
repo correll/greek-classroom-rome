@@ -1,4 +1,4 @@
-# The Sermon on the Mount {summary="Sentences without a verb, ὅτι as because, and the Beatitudes."}
+# The Sermon on the Mount — sentences with no verb, ὅτι meaning because, and the dative of respect {summary="Sentences without a verb, ὅτι as because, and the Beatitudes."}
 
 ::: story
 "You all know this," said Theodoros. "Every one of you. You have known it
@@ -54,7 +54,7 @@ them."
 :::
 
 ::: newgreek
-## The blessing formula
+## Sentences with no verb: the blessing formula
 
 **μακάριοι οἱ πτωχοί.** Two words, no verb.
 
@@ -66,14 +66,14 @@ the poor.* The verb is understood, and the sentence is a pronouncement.
 
 Each line then adds **ὅτι** — *because* — and a reason.
 
-## ὅτι, again
+## ὅτι again, this time meaning because
 
 In Lesson 16 you met **ὅτι** meaning *that*, introducing reported speech:
 **λέγει ὅτι …**, *he says that …*. Here it means *because*. Same word;
 context decides, and the Gospels use both constantly. A **ὅτι** after a blessing is *because*; a **ὅτι** after *he said*
 is *that*.
 
-## The article makes a noun out of anything
+## The article turning an adjective into a noun
 
 **οἱ πτωχοί** is an adjective with the article: *the poor ones*. You know
 this from Lesson 10.
@@ -88,14 +88,14 @@ are the subject of the next lesson. For now, treat
 **-μένοι**) as *the people who are doing, or have had done to them, that*,
 and move on.
 
-## The dative of respect
+## The dative of respect: poor in what?
 
 **οἱ πτωχοὶ τῷ πνεύματι** — *the poor in spirit*. The dative says *in what
 respect*: poor *as to* spirit. **οἱ καθαροὶ τῇ καρδίᾳ** — the pure *in
 heart*. You know the dative from Lesson 9 as the case of *to* and *for*;
 here it answers *in what way?*
 
-## αὐτοί
+## αὐτοί: the pronoun used for emphasis
 
 Most of the reasons begin **ὅτι αὐτοί** — *because they*. Greek, you
 remember, does not need a word for *they*; the verb ending carries it. When

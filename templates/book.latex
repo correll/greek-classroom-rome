@@ -107,6 +107,37 @@
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \renewcommand{\sectionmark}[1]{\markright{#1}}
 
+%% ---- table of contents ------------------------------------------
+%% Lesson titles say what the lesson teaches, so they are long and they wrap.
+%% book.cls sets chapter entries with \hfil and no leaders, which puts the
+%% page number on top of the last word of a title that runs past one line.
+%% This is \l@section's shape - hanging indent, dot leaders, a reserved
+%% column at the right - in bold, for chapters.
+\makeatletter
+\renewcommand{\@pnumwidth}{2.4em}
+\renewcommand{\@tocrmarg}{3.4em}
+\renewcommand*{\l@chapter}[2]{%
+  \ifnum \c@tocdepth >\m@ne
+    \addpenalty{-\@highpenalty}%
+    \vskip 7\p@ \@plus\p@
+    \setlength\@tempdima{2.4em}%
+    \begingroup
+      \parindent\z@ \rightskip\@pnumwidth
+      \parfillskip -\@pnumwidth
+      \hyphenpenalty\@M \exhyphenpenalty\@M
+      \tolerance 9999 \emergencystretch 2em
+      \leavevmode\bfseries\color{inkblue}%
+      \advance\leftskip\@tempdima \hskip -\leftskip
+      #1\nobreak
+      \leaders\hbox{$$\m@th\mkern\@dotsep mu\hbox{.}\mkern\@dotsep mu$$}\hfill
+      \nobreak\hb@xt@\@pnumwidth{\hss #2}\par
+      \penalty\@highpenalty
+    \endgroup
+  \fi}
+%% sections line up under the chapter title, not to the left of it
+\renewcommand*{\l@section}{\@dottedtocline{1}{2.4em}{2.6em}}
+\makeatother
+
 %% ---- chapter (= lesson) openers ---------------------------------
 \titleformat{\chapter}[display]
   {\normalfont\LARGE\bfseries\color{inkblue}}

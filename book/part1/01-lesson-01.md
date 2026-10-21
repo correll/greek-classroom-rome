@@ -1,4 +1,4 @@
-# The Unwelcome Tablet {summary="The Greek alphabet, the letters that look Latin and are not, and the two forms of sigma; first words from Delphi."}
+# The Unwelcome Tablet — the Greek alphabet, the lookalike letters, and the two sigmas {summary="The Greek alphabet, the letters that look Latin and are not, and the two forms of sigma; first words from Delphi."}
 
 ::: story
 Marcus arrived late. He did not hurry, because hurrying would have
@@ -38,7 +38,7 @@ in large, careful strokes he wrote:
 :::
 
 ::: newgreek
-## Twenty-four letters
+## The alphabet: twenty-four letters and their names
 
 Look again at the board. Greek has twenty-four letters, and you know more
 of them than you expect, because the Latin alphabet is descended from the Greek one — the
@@ -72,7 +72,7 @@ Learn them in this order. It is the order the Greeks used, the order the
 Romans borrowed, and the order every dictionary you will ever open is
 arranged in.
 
-## The ones that will catch you
+## Six letters that look Latin and are not
 
 Six letters look like Latin letters and are not.
 
@@ -88,14 +88,14 @@ Six letters look like Latin letters and are not.
 Marcus will get three of these wrong at first. So will you. Then you will
 stop.
 
-## σ and ς
+## σ and ς: why sigma has two shapes
 
 One letter, two shapes. **ς** goes at the end of a word and **σ**
 everywhere else:
 
 **σοφός** — *wise*. Never *σοφοσ*, never *ςοφός*. <!--nocheck-->
 
-## The sound of two names
+## Sounding out a word, letter by letter
 
 Theodoros wrote **ΑΘΗΝΑ**. Letter by letter: **Α Θ Η Ν Α** — *a*, *th*
 (with a puff), long *e*, *n*, *a*. Sound it out: *a-thē-na*.

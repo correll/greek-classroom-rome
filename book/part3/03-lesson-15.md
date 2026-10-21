@@ -1,4 +1,4 @@
-# The Words of Homer {summary="Homer’s Greek: the epic dialect, the third declension, and the opening of the Odyssey."}
+# The Words of Homer — the epic dialect of Homer, and the third declension {summary="Homer’s Greek: the epic dialect, the third declension, and the opening of the Odyssey."}
 
 ::: story
 The scroll Theodoros brought out had been repaired three times and smelled
@@ -50,7 +50,7 @@ be told. It has to happen to you."
 :::
 
 ::: newgreek
-## Greek is not one language
+## Attic, Ionic and Homeric: the dialects of Greek
 
 Marcus said the scroll was not Greek. It is; but the Greek you have been
 learning is **Attic** — the speech of Athens in the fifth and fourth
@@ -64,7 +64,7 @@ needed them.
 The differences you are about to meet belong to an older stage and a
 different variety of the same language, not to carelessness.
 
-## Four differences, and why they exist
+## Four ways Homer's Greek differs from Attic
 
 **One. The article is mostly absent.** Homer has **ὁ, ἡ, τό**, but they are
 not yet articles; they are demonstratives, meaning *that one*, *he*, *she*.
@@ -125,7 +125,7 @@ You have already met several of these without their endings: **ὁ μάρτυς,
 (Lesson 8). The article in front of each has been telling you the case all
 along; now the noun can too.
 
-## Formulas
+## Formulas: the repeated phrases of oral poetry
 
 Homer is built out of repeated phrases — **πολύμητις Ὀδυσσεύς**, *Odysseus
 of many wiles*; *swift-footed Achilles*; *the wine-dark sea* — the technique of a poet composing in

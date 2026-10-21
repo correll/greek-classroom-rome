@@ -1,4 +1,4 @@
-# Who Did What? {summary="Subject and object, why Greek can put its words in almost any order, and Pilate’s question."}
+# Who Did What? — word order, the vocative, and the connectives καί and ἀλλά {summary="Subject and object, why Greek can put its words in almost any order, and Pilate’s question."}
 
 ::: story
 Sabina had rearranged the furniture before anyone else arrived.
@@ -50,7 +50,7 @@ the order mean*. Ask *what does the order do*."
 :::
 
 ::: newgreek
-## The order moved; the meaning did not
+## Why Greek word order can move without changing the sense
 
 Sabina's court returned the same verdict every time, for a reason you met
 at the end of Lesson 3, where Marcus got half of it. These four sentences
@@ -90,7 +90,7 @@ weight on *hominem*. If you have met Latin word order and been told it is
 better.
 :::
 
-## Speaking to someone: the vocative
+## The vocative: speaking to someone
 
 So far every noun has been talked *about*. When you talk *to* someone,
 Greek marks that too, with a case called the **vocative**.
@@ -118,7 +118,7 @@ theatrical *O*. Leave it untranslated.
 Other kinds of noun form the vocative differently, and the dictionary will
 tell you when you need one. For now, **-ος → -ε** will carry you.
 
-## Joining things: καί and ἀλλά
+## καί and ἀλλά: joining words and clauses
 
 Two small words that do a great deal of work.
 

@@ -1,4 +1,4 @@
-# What Will Be {summary="The future tense, and the birds and the lilies."}
+# What Will Be — the future, the liquid futures, and the middle futures {summary="The future tense, and the birds and the lilies."}
 
 ::: story
 "One sentence each," said Theodoros, "about the end of the course. In Greek.
@@ -129,7 +129,7 @@ share only the middle, and the middle is the **σ**, which only tells you
 that one of the two is in play.
 :::
 
-## Verbs that will not take the σ
+## Liquid futures: verbs whose stem ends in λ, μ, ν, ρ
 
 Verbs whose stem ends in **λ, μ, ν** or **ρ** — the *liquid* verbs — refuse
 the **σ**. They form the future with **-ε-** and then contract it, so that
@@ -151,7 +151,7 @@ judge*. And **λέγω** — which has a second aorist of its own — has a futu
 of its own too: **ἐρῶ**, *I will say*, on this same pattern. Learn it as a
 pair with **εἶπον**.
 
-## The future of *to be*
+## The future of εἰμί
 
 ::: paradigm
 | | | |
@@ -167,7 +167,7 @@ pair with **εἶπον**.
 Middle in form, with no middle meaning. Note **ἔσται**, without the vowel
 the rest of the table has; it is the form you will meet most.
 
-## The future of *to come*: εἶμι
+## εἶμι: the future that stands in for ἔρχομαι
 
 Attic prose avoids a future of **ἔρχομαι**. It borrows one from an older verb,
 **εἶμι**, which in the present means *I am going* and in Attic prose is
@@ -192,7 +192,7 @@ decides, as it decided **λούεται**.
 Koine let **ἔρχομαι** grow a future of its own, **ἐλεύσομαι**, and the
 Gospels use it. Recognise it; in this room, write **εἶμι**.
 
-## The futures that go middle
+## Verbs that are active now and middle in the future
 
 A number of common verbs are active in the present and **middle in the
 future**, with no change of meaning. There is no rule. There is a list.
@@ -210,7 +210,7 @@ The deponents stay deponent: **βούλομαι → βουλήσομαι**, **δ
 δυνήσομαι**, **γίγνομαι → γενήσομαι**, **ψεύδομαι → ψεύσομαι**, **εὔχομαι →
 εὔξομαι**.
 
-## What the future does not do
+## Why the future carries no aspect
 
 Every tense you have learned so far asked two questions: *when*, and *what
 shape*. **ἔλεγε** and **εἶπε** are both past and differ in aspect; **λέγε**

@@ -61,7 +61,8 @@ def heading_of(path):
 
 
 def html_escape(t):
-    return t.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    return (t.replace("&", "&amp;").replace("<", "&lt;")
+             .replace(">", "&gt;").replace('"', "&quot;"))
 
 
 def summary_of(path):
@@ -152,8 +153,15 @@ def nav_html(groups, current=None):
                 n = int(m.group(1))
                 num = '<span class="num">%d</span>' % n
             cur = ' class="current"' if slug == current else ""
-            parts.append('<li><a href="%s.html"%s>%s%s</a></li>'
-                         % (slug, cur, num, title))
+            # Lesson titles read "Story Title — what the lesson teaches". The
+            # sidebar is a list to scan, not to read, so it shows the half
+            # before the dash and keeps the rest as the link's tooltip; the
+            # page itself, the landing page and the PDF contents all carry
+            # the whole thing.
+            short, sep, tail = title.partition(" — ")
+            tip = ' title="%s"' % html_escape(title) if sep else ""
+            parts.append('<li><a href="%s.html"%s%s>%s%s</a></li>'
+                         % (slug, cur, tip, num, html_escape(short)))
         parts.append("</ol>")
     parts.append("</nav>")
     return "\n".join(parts)

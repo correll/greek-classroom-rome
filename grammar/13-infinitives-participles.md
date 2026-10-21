@@ -9,7 +9,7 @@ completed sections (§§1–5) will remain valid. The subsections below are the
 plan.
 :::
 
-## Planned subsections
+## What this section will cover: infinitive and participle forms and their uses
 
 1. Infinitive forms in all tenses and voices
 2. The complementary infinitive; the infinitive after verbs of wishing, being able, and ordering

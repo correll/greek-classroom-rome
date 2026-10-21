@@ -1,4 +1,4 @@
-# The Trial of a Translation {summary="Case, aspect, the article and the connectors reviewed, by putting one translation on trial."}
+# The Trial of a Translation — four questions to ask of any Greek sentence {summary="Case, aspect, the article and the connectors reviewed, by putting one translation on trial."}
 
 ::: story
 Theodoros put eight wax tablets face down on the table and said that there
@@ -76,13 +76,13 @@ survives."
 :::
 
 ::: newgreek
-## No new grammar
+## No new grammar: everything you need you already have
 
 Julia's case rested on grammar you have had since Lesson 4. Everything you
 need you already have, and that is the point: this is the lesson where the
 parts become a method.
 
-## Four questions
+## Four questions to put to any sentence
 
 Put these to any Greek sentence, in this order, before you translate a word
 of it.
@@ -110,7 +110,7 @@ conclusion. **δέ** is the next step. **μέν** is a promise of a second half.
 These are the skeleton of the argument, and they are the first thing a hasty
 reader drops.
 
-## And then the fifth question, which is not grammar
+## The fifth question: what would make my translation wrong?
 
 Ask it of your own translation, out loud, before you defend it:
 
@@ -135,7 +135,7 @@ adjective — **ὁ καλὸς λόγος**, *the beautiful word*, a label that
 nothing. Check where the article is, and you can defend your translation in
 one sentence.
 
-## Defensible and persuasive
+## Defensible against persuasive: two kinds of translation
 
 A **persuasive** translation makes the hearer agree. It can do this with
 rhythm, with confidence, with a good speaking voice, with being first, with

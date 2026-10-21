@@ -9,7 +9,7 @@ completed sections (§§1–5) will remain valid. The subsections below are the
 plan.
 :::
 
-## Planned subsections
+## What this section will cover: how each tense is built, tense by tense
 
 1. The present and imperfect: the present stem, thematic vowel, and primary and secondary endings
 2. Contract verbs in **-άω**, **-έω**, **-όω**, and the contraction rules

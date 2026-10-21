@@ -1,4 +1,4 @@
-# Commands, Advice, and Persuasion {summary="Commands, prohibitions and obligation: ask, seek, knock."}
+# Commands, Advice, and Persuasion — the imperative, prohibition with μή, and δεῖ and χρή {summary="Commands, prohibitions and obligation: ask, seek, knock."}
 
 ::: story
 Marcus had asked for a long hearing and been given a short one, and he used it.
@@ -41,7 +41,7 @@ made, and he had lost.
 :::
 
 ::: newgreek
-## The imperative
+## The imperative: the forms of command
 
 You have been reading commands since Lesson 1 — **γνῶθι**, **ἄειδε**,
 **ἔννεπε**, **πορεύου**, **ποίει** — without the form being named. The
@@ -63,7 +63,7 @@ The second-person plural of the present looks exactly like the indicative
 τοὺς ἐχθροὺς ὑμῶν** in Lesson 11 was a command, and you read it as one
 without knowing why.)
 
-## Aspect, for the last time
+## Aspect in a command: present against aorist
 
 A present imperative asks for an *activity* — ongoing, repeated, a habit, a
 rule of life. An aorist imperative asks for a *deed* — once, now, complete.
@@ -79,7 +79,7 @@ You have met this difference in the indicative (Lesson 14), the infinitive
 and, for this course, the last place it lives, and the one that matters
 most in daily speech: most of what people say to each other is commands.
 
-## Saying *don't*
+## Prohibition: μή, never οὐ
 
 Greek forbids with **μή**, never with **οὐ**.
 
@@ -98,7 +98,7 @@ why the maxim used the **μή** word for *nothing*. It is a command — *[do] no
 There is no verb in the maxim; the **μ-** tells you one is understood.
 :::
 
-## Obligation
+## δεῖ and χρή: saying what must be done
 
 Look again at how Marcus's conclusion began. **δεῖ** — *it is necessary* — and **χρή** — *one ought* — are impersonal.
 They have no subject in the ordinary sense; the person who must do the
@@ -111,7 +111,7 @@ It is the construction of Lesson 16 with a one-word verb on the front.
 Marcus's whole argument rested on **οὐ δεῖ** + accusative + infinitive, and
 he built it correctly.
 
-## Telling, advising, persuading
+## κελεύω, συμβουλεύω, πείθω: telling, advising, persuading
 
 Greek keeps these apart with its verbs, not its moods.
 

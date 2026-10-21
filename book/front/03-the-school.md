@@ -24,7 +24,7 @@ the medieval world is centuries away. What the children are being given is a
 late-antique education in which Homer and the Psalms sit on the same shelf
 and are read with the same attention, though not with the same authority.
 
-## The room
+## The room, and what is in it
 
 The school occupies a room opening onto a courtyard. The children sit on
 stools with wax tablets on their knees. They have reed pens, papyrus for more
@@ -40,7 +40,7 @@ The classroom itself will feel familiar: a bored
 student, an ingenious excuse, a competitive classmate, a misunderstood
 instruction, and the teacher who somehow sees through everything.
 
-## The people
+## The people in it: nine names to know
 
 Eight pupils and one teacher share this room with you for thirty-six lessons.
 You will learn who they are the way you learn who anyone is — by watching

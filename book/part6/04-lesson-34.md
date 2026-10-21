@@ -1,4 +1,4 @@
-# Verbs That Melt {summary="Contract verbs, whose vowels melt together: three questions on the shore."}
+# Verbs That Melt — contract verbs in -άω, -έω and -όω {summary="Contract verbs, whose vowels melt together: three questions on the shore."}
 
 ::: story
 Theodosius had been reading ahead, which was not forbidden, and had brought
@@ -40,7 +40,7 @@ collision; then we argue; and I tell you now that I shall not settle it."
 :::
 
 ::: newgreek
-## Verbs that melt
+## Contract verbs: stems ending in α, ε or ο
 
 Both of John's verbs for love have a stem that ends in a vowel, and so do
 many others — **α**, **ε** or **ο**. In most of the verb that is no
@@ -56,7 +56,7 @@ long vowel or diphthong. These are the **contract verbs** — verbs that melt
 **ποιεῖ**, **εὐλογεῖ**, **λαλεῖ**, **ἐρωτᾷ**. Only two tenses melt. The
 rest of the verb is as regular as **λύω**.
 
-## The rules of melting
+## The contraction table
 
 | stem vowel | + **ε** | + **ει** | + **ο** | + **ου** | + **ω** | + **η** | + **ῃ** | + **οι** |
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
@@ -82,7 +82,7 @@ earlier in the word than either, nothing happens: **ἐποίε-ε → ἐποί
 Lesson 11 called the circumflex a scar. It is: the mark of an accent that
 was standing on the first vowel when the two became one.
 
-## The present active
+## The present active of -άω, -έω and -όω verbs
 
 | | **-άω** ἀγαπάω, *I love* | **-έω** ποιέω, *I make* | **-όω** δηλόω, *I show* |
 |:--|:--|:--|:--|
@@ -104,7 +104,7 @@ the second person, **-μεν**, **-τε**, **-σι**. Ask of **ποιοῦμεν
 the word tells you that?* and the answer is **-μεν**, as it was for
 **λύομεν**. The stem has changed its surface; the evidence has not moved.
 
-## The imperfect active
+## The imperfect active of contract verbs
 
 | | | | |
 |:--|:--|:--|:--|
@@ -119,7 +119,7 @@ The augment is the one you know (Lesson 13): **ἐ-** before a consonant,
 **α** lengthened to **η** in **ἠγάπων**. First singular and third plural
 are identical, as they were in **ἔλεγον**.
 
-## The present and imperfect middle
+## The present and imperfect middle of contract verbs
 
 The middle and passive endings of Lesson 31 melt in exactly the same way.
 

@@ -1,4 +1,4 @@
-# The Old Verbs {summary="The old verbs in -μι, εἰμί and εἶμι in full, and Socrates refusing to stop asking."}
+# The Old Verbs — the -μι verbs, and εἰμί, εἶμι and φημί in full {summary="The old verbs in -μι, εἰμί and εἶμι in full, and Socrates refusing to stop asking."}
 
 ::: story
 Theodoros came in with the box.
@@ -40,7 +40,7 @@ were strange."
 :::
 
 ::: newgreek
-## The verbs that did not change
+## The -μι verbs: the ones that never changed
 
 Say Theodoros's three words aloud and listen for what is missing. Every
 verb you have learned ends its first person in **-ω**, and puts a
@@ -83,7 +83,7 @@ The imperfect takes an augment and the short-vowel endings:
 ἵσταμεν, ἵστατε, ἵστασαν**. The singulars of the first two have borrowed
 the look of a contract verb; the plurals are plain.
 
-## The aorist
+## The aorist of δίδωμι, τίθημι and ἵστημι
 
 | | **δίδωμι** | **τίθημι** | **ἵστημι** |
 |:--|:--|:--|:--|
@@ -115,7 +115,7 @@ standing* — the perfect as a present state, Lesson 33, in its purest case.
 **γνῶθι**, Lesson 26. And the aorist subjunctives are the lesson of Lesson
 35 reduced to a single long vowel and an ending: **δῶ**, *that I may give*.
 
-## The middle
+## The middle of the -μι verbs
 
 The middle endings of Lesson 31 go straight onto the short stem. Present:
 **δίδομαι, δίδοσαι, δίδοται, διδόμεθα, δίδοσθε, δίδονται**; so **τίθεται**,
@@ -146,7 +146,7 @@ it was — which is why it is also Latin *est* and, with the vowel worn off
 the front, English *is*. The third singular of the future, **ἔσται**, has
 no thematic vowel either; it is the oldest form in the table.
 
-## εἶμι
+## εἶμι, I go, and why it has future meaning
 
 **εἶμι**, *I go*, is a different verb from **εἰμί**, told apart only by its
 accent, and in Attic it has **future meaning**: Lesson 32 gave it to you as
@@ -166,7 +166,7 @@ is *he will go*, and **εἰσί** — accent on the end, no circumflex — is
 ask the question, and the answer is the same as the first time: the
 accent, and nothing else.
 
-## φημί
+## φημί, I say, and reporting what somebody said
 
 **φημί**, *I say, I assert*, is the Attic verb for stating a view, and the
 one Plato uses when Socrates reports what somebody *said*.

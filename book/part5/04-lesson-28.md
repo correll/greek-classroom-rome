@@ -1,4 +1,4 @@
-# A Greek Letter from Rome {summary="Writing a letter in Greek, after a soldier’s letter home from Roman Egypt."}
+# A Greek Letter from Rome — the form of a Greek letter, and writing within your range {summary="Writing a letter in Greek, after a soldier’s letter home from Roman Egypt."}
 
 ::: story
 "A letter," said Theodoros, "to anyone you like. In Greek. Using only what
@@ -37,7 +37,7 @@ Greek."
 :::
 
 ::: newgreek
-## The shape of a Greek letter
+## The shape of a Greek letter: opening, body, farewell
 
 Felix's letter to the cat opens and closes as Greek letters did for a
 thousand years, and the shape is built out of grammar you have.

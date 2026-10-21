@@ -1,4 +1,4 @@
-# What Stands Done {summary="The perfect: an action done and its result still standing; Paul on what was handed on."}
+# What Stands Done — the perfect, reduplication, οἶδα, and the pluperfect {summary="The perfect: an action done and its result still standing; Paul on what was handed on."}
 
 ::: story
 The written papers came back face down, one to a desk,
@@ -169,7 +169,7 @@ you will meet it more than any other perfect in Greek.
 **σ** before the ending, as some vowel stems do. **ἐγήγερται**, *he has
 been raised — he is risen*, is the same ending on **ἐγείρω**.
 
-## οἶδα, explained at last
+## οἶδα: a perfect that means I know
 
 **οἶδα** is a perfect. Its root is the one in **εἶδον**, *I saw*; the
 perfect of *see* is *I have seen*, and in Greek, to have seen is to know.
@@ -207,7 +207,7 @@ then*; **ἐτεθνήκει** — *he had died, he was dead by then*; **ἐλε
 need to write in this course, and you will need it: *I knew* is a common thing
 to have to say. The rest, recognise.
 
-## Past or present?
+## Is the perfect a past or a present?
 
 Julia's question. The perfect is about *now* and built on *then*, and a
 language with this tense can say in one word what English needs a clause

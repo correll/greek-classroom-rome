@@ -1,4 +1,4 @@
-# The Great Reading {summary="Preparing a real text alone: Crito at Socrates’ prison before dawn."}
+# The Great Reading — using a lexicon, and reading a passage unprepared {summary="Preparing a real text alone: Crito at Socrates’ prison before dawn."}
 
 ::: story
 "Three questions," said Theodoros. "Each of you. About your own passage,
@@ -72,7 +72,7 @@ already declared itself.
 true in the Greek for this to be wrong?* If you cannot answer, go back to
 step two.
 
-## Using a lexicon
+## Using a lexicon: finding the dictionary form
 
 Look up **ἦλθεν** and you will not find it; the lexicon lists **ἔρχομαι**.
 Every word is entered in its *dictionary form*: nouns in the nominative
@@ -105,7 +105,7 @@ verbs they do not resemble. Learn these; they cannot be looked up.
 | **ἦν** | **εἰμί** | be |
 :::
 
-## What you may skip
+## What you may skip without construing
 
 Not everything in a sentence needs to be construed to be understood. A
 place-name is a place-name. A string of genitives after **ὑπό** is *by

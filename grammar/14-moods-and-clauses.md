@@ -9,7 +9,7 @@ completed sections (§§1–5) will remain valid. The subsections below are the
 plan.
 :::
 
-## Planned subsections
+## What this section will cover: subjunctive, optative, imperative and the clause types
 
 1. The subjunctive: forms, and its use in exhortations, deliberation, and prohibition
 2. The optative: forms, and its use in wishes and in secondary sequence

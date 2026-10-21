@@ -9,7 +9,7 @@ completed sections (§§1–5) will remain valid. The subsections below are the
 plan.
 :::
 
-## Planned subsections
+## What this section will cover: declension, position, and comparison
 
 1. Adjectives of the first and second declension: **ἀγαθός, ἀγαθή, ἀγαθόν**
 2. Two-termination adjectives: **ἄδικος, ἄδικον**, chiefly compounds

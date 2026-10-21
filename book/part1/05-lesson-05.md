@@ -1,4 +1,4 @@
-# The Verb Appears {summary="The verb arrives: the present tense, and εἰμί, to be."}
+# The Verb Appears — the present indicative active, and the verb εἰμί {summary="The verb arrives: the present tense, and εἰμί, to be."}
 
 ::: story
 "Each of you will say one thing about yourself," said Theodoros. "In Greek.
@@ -46,7 +46,7 @@ usually when asked where something was.
 :::
 
 ::: newgreek
-## The ending tells you who
+## The six endings of the present active
 
 Until now you have borrowed verbs whole: **βλέπει**, **γράφει**, **ἔχει**,
 **λέγει** — all of them *he, she, or it does this*. Here are the rest, and
@@ -98,7 +98,7 @@ it than your Latin master was, because Greek authors use the extra pronoun
 deliberately and you will be asked why.
 :::
 
-## The verb that refuses to behave
+## εἰμί, the irregular verb to be
 
 Aelia's verb, **εἰμί** — *I am* — is the commonest in Greek and the least
 regular.
@@ -124,7 +124,7 @@ makes English choose *an apple* over *a apple*. Greek does this constantly
 and you will soon stop noticing it.
 :::
 
-## What εἰμί does not do
+## Why εἰμί is followed by a nominative, not an object
 
 **εἰμί** does not take an object. It links two things and says they are the
 same thing, so what follows it is **nominative**, not accusative:

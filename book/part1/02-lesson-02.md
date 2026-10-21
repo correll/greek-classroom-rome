@@ -1,4 +1,4 @@
-# The Case of the Missing Letters {summary="Diphthongs and breathing marks, and how to rebuild a word from what is left of it."}
+# The Case of the Missing Letters — diphthongs, breathing marks, and the three accents {summary="Diphthongs and breathing marks, and how to rebuild a word from what is left of it."}
 
 ::: story
 Felix arrived with a grievance.
@@ -27,7 +27,7 @@ Marcus looked sceptical. "Any letter could go in a gap."
 :::
 
 ::: newgreek
-## Two vowels, one sound
+## Diphthongs: two vowels making one sound
 
 Some pairs of vowels, standing together, make a single sound. The pair is
 called a **diphthong**, and it counts as *one* vowel for every
@@ -48,7 +48,7 @@ since become single long vowels in Attic — a long close *e* and a long
 *oo*. The spelling preserves a pronunciation that had already disappeared
 before Plato was born.
 
-## The mark over every initial vowel
+## Breathing marks: rough and smooth
 
 A Greek word that begins with a vowel **always** carries one of two marks
 over it. No initial vowel goes bare.
@@ -85,7 +85,7 @@ Latin word appears. It will not always work. It works often enough to be
 worth the half-second.
 :::
 
-## Where the voice goes
+## The three accents: acute, grave and circumflex
 
 Almost every Greek word carries an accent — the exceptions are a few little
 words such as the article **ὁ**, **ἡ** and the negative **οὐ** — and the
@@ -109,7 +109,7 @@ word's accent as you learn its letters.
 These are not the same word written carelessly. They are different words.
 :::
 
-## Punctuation
+## Punctuation, and the mark that is a question mark
 
 | Mark | What it does |
 |:--|:--|

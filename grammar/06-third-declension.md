@@ -9,7 +9,7 @@ completed sections (§§1–5) will remain valid. The subsections below are the
 plan.
 :::
 
-## Planned subsections
+## What this section will cover: stems, endings, and the irregular nouns
 
 1. The stem and how to find it: the genitive singular, not the nominative
 2. Endings common to all consonant stems

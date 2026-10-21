@@ -1,4 +1,4 @@
-# What Might Be {summary="The subjunctive: purpose, condition, and Nicodemus by night."}
+# What Might Be — the subjunctive, purpose clauses, and conditions {summary="The subjunctive: purpose, condition, and Nicodemus by night."}
 
 ::: story
 "Two lessons remain," said Theodoros. "This one and one more. I have not
@@ -45,7 +45,7 @@ lesson is, as it happens, the question that chapter is about."
 :::
 
 ::: newgreek
-## A mood for what is not yet
+## The subjunctive: a mood for what is not yet
 
 Quintus changed his question by making one vowel longer. The **indicative**
 states what is; the **imperative** orders what is to be done; the
@@ -72,7 +72,7 @@ Set it beside **λύω, λύεις, λύει, λύομεν, λύετε, λύου
 difference against the rule. The first singular, **λύω**, is
 identical in both moods; the sentence decides.
 
-## The aorist subjunctive
+## The aorist subjunctive, and why it has no augment
 
 The aorist subjunctive has **no augment**. The augment is a mark of past
 time (Lesson 13), and the subjunctive has no time in it — only aspect, as
@@ -110,7 +110,7 @@ short one, so **ἀγαπῶ, ἀγαπᾷς, ἀγαπᾷ, ἀγαπῶμεν, 
 which.
 :::
 
-## What the mood is for
+## Six jobs for the subjunctive
 
 Six jobs; you have met five of them already without the name.
 
@@ -146,7 +146,7 @@ has about the future.
 The negative of the subjunctive is **μή**, always, in every job but the
 last — and there **μή** is present too.
 
-## Conditions, in one table
+## Conditional sentences, in one table
 
 | | the *if*-clause | the main clause | |
 |:--|:--|:--|:--|

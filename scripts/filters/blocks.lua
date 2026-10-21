@@ -494,6 +494,17 @@ function Table(el)
   return latex(table.concat(lines, "\n"))
 end
 
+-- Lesson titles read "Story Title — what the lesson teaches". The whole title
+-- belongs on the page and in the table of contents, which is what a reader
+-- scans to find a construction. The running head has room for neither, so the
+-- mark is re-set to the half before the colon as soon as the chapter opens.
+function Header(el)
+  if el.level ~= 1 or not FORMAT:match("latex") then return nil end
+  local short = pandoc.utils.stringify(el.content):match("^(.-) — ")
+  if not short then return nil end
+  return { el, latex("\\chaptermark{" .. short .. "}") }
+end
+
 -- first pass: mark the tables that stand outside any box
 function Pandoc(doc)
   for _, b in ipairs(doc.blocks) do
@@ -504,5 +515,5 @@ end
 
 return {
   { Meta = Meta, Pandoc = Pandoc },
-  { Div = Div, Span = Span, Table = Table },
+  { Div = Div, Span = Span, Table = Table, Header = Header },
 }

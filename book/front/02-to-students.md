@@ -100,7 +100,7 @@ later.
 routinely puts things in an order English cannot copy, and the word that
 explains everything is often the last one.
 
-## One more thing
+## One more thing: the moment you read a sentence unaided
 
 You will meet, fairly early, a sentence you can read without help. It will be
 short. It will probably be something a Greek child also had to read.

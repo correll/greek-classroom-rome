@@ -9,7 +9,7 @@ completed sections (§§1–5) will remain valid. The subsections below are the
 plan.
 :::
 
-## Planned subsections
+## What this section will cover: script, Homeric, Koine and metre
 
 1. **The written text.** Majuscule script, *scriptio continua*, no accents or breathings before the Alexandrians; what a modern edition has added, and when
 2. **Homeric Greek.** An artificial literary dialect, chiefly Ionic with Aeolic elements, archaic by the classical period: uncontracted forms, **-οιο** and **-άων** genitives, **-εσσι** datives, the article as demonstrative, **τε** as a generalising particle, tmesis, and the metrical traces of the lost digamma

@@ -1,4 +1,4 @@
-# The Voice That Looks Back {summary="The middle and passive voices, and the deponents: the baptism in Mark."}
+# The Voice That Looks Back — the middle and passive voices, and the deponents {summary="The middle and passive voices, and the deponents: the baptism in Mark."}
 
 ::: story
 Nobody saw how the cat got into the ink, and the cat was not saying.
@@ -80,7 +80,7 @@ No. It is not."
 :::
 
 ::: newgreek
-## Three voices
+## Active, middle and passive
 
 Look at the board again. In the first sentence Felix does the washing:
 that is the **active** voice, and until this lesson it was the only one you
@@ -99,7 +99,7 @@ The middle and the passive share their forms in the present and the
 imperfect. Only the aorist keeps them apart, which is why the paradigms
 come in two halves.
 
-## The present and the imperfect: one set of endings, two voices
+## The present and imperfect: one set of endings, two voices
 
 Here is **λύω** — *I loose* — which the course has used as its pattern verb
 since Lesson 11, in its middle-and-passive form.
@@ -125,7 +125,7 @@ for them. **βούλεται**, **δύναται**, **ψεύδεται**, **γί
 **ἔρχεται**, **ἀποκρίνομαι**, **εὔχομαι**, **ἀσπάζομαι** — every one is in
 this table.
 
-## The aorist: two sets, and they do not share
+## The aorist middle and the aorist passive
 
 **The aorist middle** has the **-σα-** of Lesson 14 with a second set of
 endings behind it:
@@ -173,7 +173,7 @@ So, for the cat:
 | **ἐλούσατο** | it washed (itself) | middle |
 | **ἐλούθη** | it was washed | passive |
 
-## Who did it
+## ὑπό with the genitive: the agent of a passive
 
 The person a passive action is done *by* goes after **ὑπό** with the
 genitive. **ὁ αἴλουρος ἐλούθη ὑπὸ τοῦ Φήλικος** — *the cat was washed by
@@ -184,7 +184,7 @@ dative of means always did: **ὕδατι**, *with water*.
 or passive and only the world can tell you; with it, the sentence has
 named an agent, and an agent means a passive.
 
-## The verbs that laid down their active
+## Deponents: middle in form, active in meaning
 
 Some verbs have middle or passive forms and no active at all, and mean
 something perfectly active by them. Grammarians call them **deponents** —
@@ -203,7 +203,7 @@ passive (**ἐβουλήθην**, *I wanted*; the Gospels' **ἀπεκρίθην
 answered*, is Koine). It is a fact about each verb, learned with the
 verb, like a second aorist.
 
-## For reading: the infinitive and the participle
+## The middle and passive infinitive and participle
 
 The middle-and-passive infinitives are **λύεσθαι** (present), **λύσασθαι**
 (aorist middle) and **λυθῆναι** (aorist passive); you had **ψεύδεσθαι** in

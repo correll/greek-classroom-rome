@@ -1,4 +1,4 @@
-# The Grammar of Questions {summary="Questions, direct and indirect, and Meno’s question to Socrates."}
+# The Grammar of Questions — τίς and the question words, and indirect questions {summary="Questions, direct and indirect, and Meno’s question to Socrates."}
 
 ::: story
 "I will answer any question," said Theodoros, "that is correctly formed in
@@ -53,7 +53,7 @@ have just written one. Sit down."
 :::
 
 ::: newgreek
-## The question word
+## τίς and τί: the interrogative pronoun
 
 **τίς** — *who?*, *which?* — and its neuter **τί** — *what?* — decline like
 the third-declension nouns you have been recognising all through this course.
@@ -73,7 +73,7 @@ the third-declension nouns you have been recognising all through this course.
 **τίνος ἐστὶ τὸ βιβλίον;** — *whose is the book?* **τί λέγεις;** — *what
 are you saying?*
 
-## The accent is the whole difference
+## τίς against τις: the accent is the whole difference
 
 Livia's sentence and the one she meant to write differ by a single stroke.
 **τίς** with the acute is the question word. It keeps its acute always — it
@@ -124,7 +124,7 @@ for a year and never looked at is exactly the kind of thing this course
 has been trying to make you look at.
 :::
 
-## The other question words
+## ποῦ, πῶς, πότε, διὰ τί: the other question words
 
 | | | |
 |:--|:--|:--|
@@ -137,7 +137,7 @@ Each has a twin without the accent — **που** *somewhere*, **πως** *someh
 **ποτε** *at some time* — and each twin is enclitic. The pattern is the
 same every time: the accent asks; its absence states.
 
-## Questions with no question word
+## Yes-or-no questions, and what ἆρα, οὐ and μή expect
 
 *Is the man wise?* has no *who* or *what* in it. Greek asks it in three
 ways.

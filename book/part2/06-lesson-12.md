@@ -1,4 +1,4 @@
-# The First Reading Challenge {summary="Everything so far, put to work, and a sentence of Protagoras: man is the measure of all things."}
+# The First Reading Challenge — Parts I and II reviewed, and a method for reading a new sentence {summary="Everything so far, put to work, and a sentence of Protagoras: man is the measure of all things."}
 
 ::: story
 "Four teams," said Theodoros. "Each team gets a sentence. You translate it,
@@ -47,7 +47,7 @@ better thing."
 :::
 
 ::: newgreek
-## Everything you have, in one page
+## Parts I and II on a single page
 
 No new grammar. Here is the whole of Parts I and II on one page. Copy it out
 by hand.

@@ -1,4 +1,4 @@
-# The Genitive Mystery {summary="The genitive: possession, relation, and the first line of Matthew."}
+# The Genitive Mystery — the genitive, the alpha-to-eta rule, and prepositions that take it {summary="The genitive: possession, relation, and the first line of Matthew."}
 
 ::: story
 The wax tablet turned up at last, in Quintus's satchel, which
@@ -51,7 +51,7 @@ down and I will show you how it works."
 :::
 
 ::: newgreek
-## A third case, and what it is for
+## The genitive: possession, origin and relation
 
 Look again at the back of Felix's tablet. You have the **nominative**, for
 the one doing, and the **accusative**, for the one it is done to. Those
@@ -65,7 +65,7 @@ Two nouns, each with its own article, standing next to each other. The one
 in the genitive is the owner. Nothing else is needed — no word for *of*, no
 apostrophe, no preposition. The ending is the whole machinery.
 
-## The forms
+## The genitive forms of the article and the nouns
 
 The article first, since it is the signpost:
 
@@ -99,7 +99,7 @@ It is the one place in the first declension where the accent does something
 you cannot predict from the nominative, so memorise it deliberately.
 :::
 
-## What the genitive does to alpha
+## First declension: when alpha turns into eta
 
 You have taken the first declension on trust since Lesson 3: some nouns show
 **η**, some show **α**, and the dictionary tells you which. That has not
@@ -164,7 +164,7 @@ A short alpha in the nominative is not, by itself, evidence of anything.
 The letter before the ending is.
 :::
 
-## Three prepositions that demand it
+## ἐκ, ἀπό and περί: three prepositions with the genitive
 
 Some prepositions insist on a particular case, and three common ones insist
 on the genitive. Two, **ἐκ** and **ἀπό**, mean *coming away from*

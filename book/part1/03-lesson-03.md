@@ -1,4 +1,4 @@
-# Names and Nouns {summary="Gender, the nominative and accusative, and the article: endings that carry information."}
+# Names and Nouns — gender, the nominative and accusative, and the article {summary="Gender, the nominative and accusative, and the article: endings that carry information."}
 
 ::: story
 Theodoros arrived with a handful of small wooden tags and a pot of ink.
@@ -25,7 +25,7 @@ lesson plan. "Because in Greek, a noun has a sex."
 :::
 
 ::: newgreek
-## Every noun has a gender
+## Gender: every noun is masculine, feminine or neuter
 
 Julia found three words for *the* because every Greek noun is
 **masculine**, **feminine**, or **neuter**. This is a fact about the
@@ -57,7 +57,7 @@ Where Latin makes you deduce, Greek tells you. Marcus will not believe this
 for another two lessons.
 :::
 
-## Endings carry the job
+## Case endings, not word order, carry the job
 
 Look at these two sentences. The man stays first, the horse stays last, and
 the verb stays in the middle. Find what changed before you read on.
@@ -88,7 +88,7 @@ This is why Theodoros keeps asking *what in the sentence tells you that*.
 In Greek, something always does.
 :::
 
-## The pattern, for now
+## The article and the nominative and accusative endings
 
 | | masculine | feminine | neuter |
 |:--|:--|:--|:--|
@@ -111,7 +111,7 @@ are **identical**. **τὸ δῶρον** is both, and so is every neuter noun in
 Greek, in every declension, in both numbers, forever. When the subject and object are both neuter, the sentence itself
 must tell you which is which.
 
-## Three verbs, borrowed early
+## Three verbs, borrowed whole for now
 
 You cannot make a sentence out of nouns alone. Take these three as whole
 words for now; Lesson 5 explains the ending.

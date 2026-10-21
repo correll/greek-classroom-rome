@@ -1,4 +1,4 @@
-# The Article's Many Disguises {summary="The article in all its forms, and what it tells you before the noun arrives."}
+# The Article's Many Disguises — the article in full, the noun plurals, and the antepenult rule {summary="The article in all its forms, and what it tells you before the noun arrives."}
 
 ::: story
 "**ἡ λόγος**," said Marcus.
@@ -48,7 +48,7 @@ The words are identical. Not one letter has changed. What moved?"
 :::
 
 ::: newgreek
-## The whole article, at last
+## The article in all twenty-four forms
 
 Marcus lost his argument to a word two letters long. You have been using five
 or six forms of the article; here is all of it you need for the next six
@@ -81,7 +81,7 @@ that is the neuter rule again.)
 the world, not with the nearest word, not with what you expected. Gender,
 number, case — all three, every time.
 
-## Nouns in the plural
+## The plural of the first and second declensions
 
 The nouns follow, in the two patterns you already half know:
 
@@ -95,7 +95,7 @@ The nouns follow, in the two patterns you already half know:
 The second declension (**λόγος**, **δῶρον**) and the first (**ψυχή**,
 **οἰκία**) are the two you will meet most. The third arrives in Lesson 15.
 
-## Why ἄνθρωπος moves its accent
+## Why ἄνθρωπος moves its accent: the antepenult rule
 
 One oddity, and it has a rule behind it.
 
@@ -142,7 +142,7 @@ Greek adds one twist: the length of the **ultima** counts as well. That is
 the rule above, and the only new thing here.
 :::
 
-## What the article is for
+## The four jobs the article does
 
 Marcus was wrong in an interesting way: he took the article for an English
 *the*. It does four things at once, and the fourth decided his proverb.

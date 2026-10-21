@@ -1,4 +1,4 @@
-# The Past Comes Alive {summary="The imperfect and the augment: the past seen as something going on."}
+# The Past Comes Alive — the imperfect, the augment, and the past as something going on {summary="The imperfect and the augment: the past seen as something going on."}
 
 ::: story
 "A story is not a list," said Quintus.
@@ -43,7 +43,7 @@ was a past.
 :::
 
 ::: newgreek
-## A past with a shape
+## The imperfect: a past action still going on
 
 Quintus's second set of verbs — *was falling, was going out, was speaking*
 — has a Greek tense of its own, the **imperfect**. It describes an action
@@ -54,7 +54,7 @@ situation rather than an event.
 
 Not *I said*. That is a different tense, and it arrives next lesson.
 
-## Two things happen to the verb
+## The augment in front, the imperfect endings behind
 
 **At the front, an augment.** The imperfect puts **ἐ-** before the stem.
 That prefix is the single clearest signal in Greek that you are looking at a
@@ -89,7 +89,7 @@ Lesson 11, which turns out to have a second job: removing an ambiguity the
 endings cannot.
 :::
 
-## εἰμί in the past
+## The imperfect of εἰμί
 
 You have already read this verb in the past tense, in Lesson 6, without
 being able to name it.

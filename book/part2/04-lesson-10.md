@@ -1,4 +1,4 @@
-# Adjectives Must Agree {summary="Adjectives that agree in gender, number and case, and where they stand: the good shepherd."}
+# Adjectives Must Agree — agreement, attributive and predicate position, and comparison {summary="Adjectives that agree in gender, number and case, and where they stand: the good shepherd."}
 
 ::: story
 "Everyone gets an adjective," said Sabina. "I have chosen them."
@@ -51,7 +51,7 @@ one day it will be in your examination."
 :::
 
 ::: newgreek
-## An adjective takes the gender of its noun
+## Agreement in gender, number and case
 
 Sabina's defence was agreement: masculine, masculine, masculine. An
 adjective must match its noun in **gender**, **number**, and **case** — all
@@ -85,7 +85,7 @@ a noun that looks masculine. Gender is a fact about words, as it was in
 Lesson 3, and the adjective follows the word.
 :::
 
-## Where it stands changes what it says
+## Attributive and predicate position
 
 Look again at the two lines Theodoros wrote on the board. Greek says two
 quite different things with the same two words, and the difference is
@@ -135,11 +135,11 @@ moving one word.
 :::
 :::
 
-## More, most, and the adverb
+## Comparison, and the adverb in -ως
 
 An adjective can do two more things, and both are cheap.
 
-### Comparison
+### The comparative in -τερος and the superlative in -τατος
 
 Add **-τερος** for *more*, **-τατος** for *most*. They decline like any
 adjective you have met.
@@ -165,7 +165,7 @@ them as a set, the way you learned *good, better, best*.
 | **πολύς** much | **πλείων** more | **πλεῖστος** most |
 | **μικρός** small | **ἐλάττων** smaller | **ἐλάχιστος** smallest |
 
-### Than what?
+### Than what: ἤ and the genitive of comparison
 
 Greek says *than* in two ways, and the second is the one that will catch
 you.
@@ -182,7 +182,7 @@ too, but it means something different — *of* rather than *than*:
 
 > **ὁ σοφώτατος τῶν μαθητῶν.** — *The wisest of the pupils.*
 
-### The adverb
+### The adverb, formed from the genitive plural
 
 To turn an adjective into an adverb, take its **genitive plural** and change
 the **-ων** to **-ως**. That is the whole rule, accent included.

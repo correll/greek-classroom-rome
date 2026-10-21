@@ -1,4 +1,4 @@
-# Two Worlds, One Language Family {summary="Close reading across both kinds of Greek, with Aesop’s wind and sun."}
+# Two Worlds, One Language Family — five questions to ask of a whole passage {summary="Close reading across both kinds of Greek, with Aesop’s wind and sun."}
 
 ::: story
 "One rule," said Theodoros. "You may not say that two texts agree when they
@@ -42,7 +42,7 @@ manage that. Sit down, all of you, and we will see what you have found."
 :::
 
 ::: newgreek
-## No new grammar
+## No new grammar: the four kinds of Greek you now read
 
 This is the last lesson of Part IV. You now have four kinds of Greek in
 your hands:
@@ -57,7 +57,7 @@ your hands:
 You can tell them apart. That is the achievement of Parts III and IV, and
 it is a larger one than it looks.
 
-## Five questions for a passage
+## Five questions to put to a whole passage
 
 In Lesson 18 you had four questions for a *sentence*. For a *passage* — a
 whole text, with an author and an audience — add five more, and put them
@@ -81,7 +81,7 @@ argues. Homer invokes.
 whom, in what Greek, doing what — because each of those changes what the
 words mean.
 
-## The rule, and why it is a grammar rule
+## Why not making two texts agree is a rule of reading
 
 *You may not say two texts agree when they do not* sounds like a rule about
 honesty. It is also a rule about reading.

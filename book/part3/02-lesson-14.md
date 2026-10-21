@@ -1,4 +1,4 @@
-# The Aorist Arrives {summary="The aorist: the past seen as one complete event, and what that difference does."}
+# The Aorist Arrives — the aorist, first and second, and what aspect is {summary="The aorist: the past seen as one complete event, and what that difference does."}
 
 ::: story
 "One past," said Marcus, "ought to be enough for anyone."
@@ -64,7 +64,7 @@ The difference is not **when** but **how**, and that is called **aspect**.
 The name says so. **ἀόριστος** means *undefined*, *without boundaries* — the
 tense that declines to tell you anything about the shape of the action.
 
-## Two ways to build one
+## The first aorist in -σα-, and the second aorist
 
 **The first aorist** adds **-σα-** between stem and ending, and takes the
 augment like the imperfect:
@@ -103,7 +103,7 @@ an imperfect. If it is a stem you have to learn separately, it is an aorist.
 This is why vocabulary lists give you the aorist. It is not decoration.
 :::
 
-## Why Marcus lost
+## Why Latin cannot keep up: aspect against time
 
 In the indicative, aspect and time travel together, and Latin can keep up:
 *dicebat* and *dixit* do the work of **ἔλεγε** and **εἶπε**.

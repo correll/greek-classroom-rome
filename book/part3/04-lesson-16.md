@@ -1,4 +1,4 @@
-# Odysseus and the Problem of Cleverness {summary="Infinitives and indirect statement, and the name Odysseus gave the Cyclops."}
+# Odysseus and the Problem of Cleverness — the infinitive, indirect statement, and ὥστε of result {summary="Infinitives and indirect statement, and the name Odysseus gave the Cyclops."}
 
 ::: story
 Theodoros had been reading them the Cyclops a dozen lines at a time, and at
@@ -84,7 +84,7 @@ Greek you need the infinitive."
 :::
 
 ::: newgreek
-## The verb with no person
+## The infinitive: a verb with no person
 
 Every verb form you have met so far has told you who was doing it.
 **λέγω** is *I say*; **λέγει** is *he says*; **ἔλεγον** was *I was saying*.
@@ -107,7 +107,7 @@ action, with Nobody attached to it.
 English does the same thing with *to*: *to say*, *to write*, *to be*. Latin
 does it with **-re**: *dīcere*, *scrībere* (and, irregularly, *esse*).
 
-## Two jobs, and they are not the same job
+## Two jobs: the complementary infinitive and indirect statement
 
 The infinitive turns up in two different places, and telling them apart
 is most of this lesson.
@@ -150,7 +150,7 @@ When you translate, you supply *that* out of your own pocket, and you should
 know that you are adding it.
 :::
 
-## Aspect comes with it
+## Aspect in the infinitive: present against aorist
 
 In Lesson 14 Marcus said *volo dicere* twice, for two Greek infinitives that
 are not the same: the infinitive carries the *shape* of an action — and this
@@ -195,7 +195,7 @@ at all.
 Latin hands you the construction. It does not hand you the meaning.
 :::
 
-## A second way to do it
+## ὅτι with a finite verb: the other indirect statement
 
 Greek also reports speech with **ὅτι** and an ordinary verb, much as English
 does:
@@ -207,7 +207,7 @@ prefer it. For now, recognise it. The infinitive construction is the one to
 be able to build.
 :::
 
-## So … that: the infinitive of result
+## ὥστε with the infinitive: the clause of result
 
 One more job for the infinitive, and it is the one you will meet first in
 real Greek.

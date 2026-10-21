@@ -1,4 +1,4 @@
-# The Final Examination {summary="The final examination: reading, grammar, translation and reflection, on the prologue of John."}
+# The Final Examination — the whole course examined, on the prologue of John {summary="The final examination: reading, grammar, translation and reflection, on the prologue of John."}
 
 ::: story
 The courtyard had been swept, which it never was, and there were benches
@@ -63,7 +63,7 @@ else, and it was the highest mark he ever gave anyone.
 :::
 
 ::: newgreek
-## Everything
+## Everything the course has taught, in one list
 
 No new grammar. This is what you have, and Marcus's five words used most of
 it.

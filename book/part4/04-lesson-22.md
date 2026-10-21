@@ -1,4 +1,4 @@
-# The Good Samaritan {summary="Participles carrying a story: the Good Samaritan."}
+# The Good Samaritan — the participle, its agreement, and the genitive absolute {summary="Participles carrying a story: the Good Samaritan."}
 
 ::: story
 Theodoros read the story through once, in Greek, at speaking pace, and then
@@ -43,7 +43,7 @@ Now it is going to be impossible not to."
 :::
 
 ::: newgreek
-## The participle
+## The participle: a verb in adjective's clothes
 
 Most of Sabina's thirteen verbs for the Samaritan are participles. A
 **participle** is a verb wearing an adjective's clothes. It has a verb's
@@ -56,7 +56,7 @@ passed by*. One main verb; the other action hangs from it as a participle.
 A Greek sentence can have one main verb and five participles, each marking a
 step, and the whole thing reads as a single movement.
 
-## The forms you need
+## The participle forms you need
 
 The nominative singular, masculine, feminine and neuter. The masculine is
 the one you will meet most.
@@ -73,7 +73,7 @@ The masculine genitive is **-οντος** or **-αντος**: **ἰδόντος*
 **γράψαντος**. You will see one in the passage — **τοῦ ἐμπεσόντος**, *of the
 one who fell among* — and you can recognise it from the ending.
 
-## Aspect, one more time
+## The participle carries aspect, not time
 
 The participle carries aspect, not time. This is the third time the course
 has said this and it is the most important.
@@ -89,7 +89,7 @@ A chain of aorist participles is a sequence of steps. A present participle
 among them is something going on during a step. Read the aspect and you have
 the choreography.
 
-## Agreement tells you who
+## Agreement tells you who is doing it
 
 The participle agrees with the person doing it. **ἰδών** is masculine
 nominative singular, so it goes with the subject — the priest, the Levite,
@@ -99,7 +99,7 @@ with the man on the ground.
 This is how you track who is doing what in a long sentence: the participle
 ending points at its noun the way an adjective ending did in Lesson 10.
 
-## The article makes a noun of it
+## The articular participle: the one who did it
 
 You saw this in Lesson 21: **οἱ πενθοῦντες**, *those who mourn*. The
 passage ends with two of them. **ὁ ποιήσας τὸ ἔλεος** — *the one who did the
@@ -120,7 +120,7 @@ lets Greek narrative move the way it does.
 :::
 :::
 
-## The participle that belongs to nobody
+## The genitive absolute
 
 Everything above depends on a participle agreeing with a word in the
 sentence. Greek has one construction where it agrees with nothing in the

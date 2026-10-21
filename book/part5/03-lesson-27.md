@@ -1,4 +1,4 @@
-# The Translator's Dilemma {summary="Ambiguity, idiom and range of meaning: what a translator has to decide, on the storm on the lake."}
+# The Translator's Dilemma — ambiguity, idiom, and what every translation gives up {summary="Ambiguity, idiom and range of meaning: what a translator has to decide, on the storm on the lake."}
 
 ::: story
 Two tablets, one sentence, and Theodoros said that this time both
@@ -46,7 +46,7 @@ cannot do."
 :::
 
 ::: newgreek
-## Where grammar stops
+## Where grammar stops and judgement begins
 
 Julia's translation passes every test of the method Lesson 18 gave you:
 endings, article, aspect, connectors, and then the fifth question. So does
@@ -89,7 +89,7 @@ English verb that keeps both — *the darkness has not mastered it* — has
 done better, and such verbs are rare. The honest thing, often, is to pick
 one and say in a note that the other was there.
 
-## What a translator is actually choosing between
+## What a translator chooses between: not right and wrong, but losses
 
 Not between right and wrong, mostly. Between *losses*. Every translation of
 a sentence with range in it loses something; the translator's job is to

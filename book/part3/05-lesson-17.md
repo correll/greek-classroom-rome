@@ -1,4 +1,4 @@
-# What Makes a Just Person? {summary="μέν … δέ, the other connectors and the pronouns, and Socrates on the unexamined life."}
+# What Makes a Just Person? — the particles, the relative pronoun, and the reflexive {summary="μέν … δέ, the other connectors and the pronouns, and Socrates on the unexamined life."}
 
 ::: story
 Quintus had been asking for Plato since Lesson 1.
@@ -60,7 +60,7 @@ they matter, and they are the only things that do."
 :::
 
 ::: newgreek
-## The words that hold an argument together
+## The particles that chain Greek prose: δέ, γάρ, οὖν
 
 Julia read the sentence on the board from its second word and knew it was
 answering something. Greek prose is *chained*. In a page of Plato, almost every sentence after the
@@ -84,7 +84,7 @@ Learn them as a set of road signs. **γάρ** means *here comes the evidence*.
 those three coming, you can follow an argument in Greek before you can
 translate it.
 
-## They do not come first
+## Postpositives: the words that cannot stand first
 
 **δέ**, **γάρ**, **οὖν** and **μέν** are **postpositive**: they cannot stand
 first in their clause. They take second place, behind whatever word the
@@ -100,7 +100,7 @@ not. When you translate, the word you pick up second you will put down first.
 **ἀλλά** is the exception. It does stand first, and it is the strongest of
 the five: it does not advance an argument, it overturns one.
 
-## μέν … δέ
+## μέν … δέ: the sentence in two halves
 
 **μέν** is a promise. It says: *there is a second half coming*. The second
 half arrives with **δέ**.
@@ -122,7 +122,7 @@ information in the voice — in the lift you put on *the teacher* when you know
 *the pupils* are coming. Greek writes it down.
 :::
 
-## The pronoun that is the article in disguise
+## The relative pronoun ὅς, ἥ, ὅ
 
 Two more small words, and then the sentence.
 
@@ -175,7 +175,7 @@ it.
 :::
 :::
 
-## The pronoun that turns back
+## The reflexive pronouns ἐμαυτόν, σεαυτόν, ἑαυτόν
 
 There is a third pronoun in this lesson, and you met it on your first day
 without being told what it was.

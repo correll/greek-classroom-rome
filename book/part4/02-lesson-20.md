@@ -1,4 +1,4 @@
-# The Greek of the Septuagint {summary="Translation Greek: the Septuagint, with Hebrew showing through the shepherd psalm."}
+# The Greek of the Septuagint — Hebrew idiom showing through Greek, and the numerals {summary="Translation Greek: the Septuagint, with Hebrew showing through the shepherd psalm."}
 
 ::: story
 Julia read the Psalm through twice, and then said what she thought, which
@@ -53,7 +53,7 @@ or a decision, and you are now going to find the evidence."
 :::
 
 ::: newgreek
-## Translation Greek
+## Translation Greek: Hebrew idiom showing through
 
 Julia could find no mistake in the Psalm, and Plato would not have written
 a line of it. The Septuagint — the Greek Old Testament, made in Alexandria
@@ -100,7 +100,7 @@ article marks what is definite; here its absence marks something more
 definite still.
 :::
 
-## The Attic for comparison
+## The same psalm as an Athenian would have written it
 
 An Athenian might have put the first line of the Psalm like this
 (composed for this lesson, not quoted):
@@ -129,7 +129,7 @@ this, has written that as a young man he did.
 :::
 :::
 
-## Counting
+## The numerals: cardinals, ordinals and alphabetic figures
 
 The Psalms count, the Gospels count, and Xenophon counts constantly. The
 numbers are mostly free: only the first four decline, and after that they

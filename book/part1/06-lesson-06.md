@@ -1,4 +1,4 @@
-# The First Real Sentence {summary="Article, noun and verb together, and a first complete sentence: the opening of John."}
+# The First Real Sentence — article, noun and verb together, and the negative οὐ {summary="Article, noun and verb together, and a first complete sentence: the opening of John."}
 
 ::: story
 Theodoros was at the board before anyone sat down, and he did not greet
@@ -53,7 +53,7 @@ Marcus looked at the board for a long moment.
 :::
 
 ::: newgreek
-## Reading a sentence you cannot yet read
+## A method for reading a sentence beyond you
 
 Livia read the board with no new machinery, only a method. The method is
 worth more than any single ending.
@@ -84,7 +84,7 @@ Remember it when something fluent and confident tells you something and
 you cannot say how it knows.
 :::
 
-## Saying no
+## οὐ, οὐκ, οὐχ: saying no
 
 One small word you met in Lesson 2, now with its rule in full, and one
 small complication.
@@ -117,7 +117,7 @@ forbidden, or supposed — and the choice between them tells a reader what
 kind of statement they are in. You meet **μή** in Part V.
 :::
 
-## Everything in Part I, in one line
+## Part I in one line
 
 You now have all of this, and it took six lessons:
 

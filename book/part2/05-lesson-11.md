@@ -1,4 +1,4 @@
-# One Verb, Several Clues {summary="The present tense in full: person and number from the ending alone."}
+# One Verb, Several Clues — the six present endings, recessive accent, and contract verbs {summary="The present tense in full: person and number from the ending alone."}
 
 ::: story
 Theodoros handed out a sheet with five sentences on it. Every one of them
@@ -45,7 +45,7 @@ so far."
 :::
 
 ::: newgreek
-## The six endings, drilled
+## The six present endings, drilled
 
 Marcus supplied four subjects while arguing that nobody could. He was
 reading these endings, which you met in Lesson 5. Everything in Part III
@@ -67,7 +67,7 @@ several hundred verbs.
 **λύω** is the verb grammars drill on, because it is short and entirely
 regular. You will meet it in every Greek book you ever open.
 
-## The accent you never have to learn
+## Recessive accent: the one accent you never have to learn
 
 Look down the **λύω** column and ask where the accent is. It does not move:
 **λύ-ω**, **λύ-εις**, **λύ-ο-μεν**, **λύ-ου-σι**. It has gone as far back as
@@ -101,7 +101,7 @@ Half of Greek accentuation is therefore free. The half that is not is the
 half you have already been learning, one noun at a time, since Lesson 1.
 :::
 
-## Verbs that contract
+## Contract verbs, in outline
 
 Some verbs have a stem ending in a vowel, and when that vowel meets the
 ending's vowel the two fuse. These are **contract verbs**.
@@ -132,7 +132,7 @@ in the vocabulary and **ἀγαπῶ** in the text, and they are the same word. 
 dictionary shows you the machinery; the text shows you the result.
 :::
 
-## Marcus's question
+## Why Greek writes ἐγώ when the ending already says I
 
 So why write **ἐγώ**? Ask what the extra word buys.
 

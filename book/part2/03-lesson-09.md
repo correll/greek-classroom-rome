@@ -1,4 +1,4 @@
-# The Dative and the Recipient {summary="The dative: the one who receives, the means by which, and the angels’ song in Luke."}
+# The Dative and the Recipient — the dative of the indirect object, of means, and of place {summary="The dative: the one who receives, the means by which, and the angels’ song in Luke."}
 
 ::: story
 Felix had been composing quietly, which was unusual, and smiling
@@ -56,7 +56,7 @@ yet, so sit still and be peculiar while I teach it."
 :::
 
 ::: newgreek
-## The one it goes to
+## The dative of the indirect object
 
 Felix needed to say who his letter was going to. That is the job of the
 **dative**, the fourth and last case you need: it marks the person something
@@ -74,7 +74,7 @@ Try putting the teacher at the front of the sentence. Does anything change
 about who gets the letter? English would need *to* and a fixed position to
 say it. Greek has said it already, in the ending.
 
-## The forms
+## The dative forms of the article and the nouns
 
 | | masculine | feminine | neuter |
 |:--|:--|:--|:--|
@@ -113,7 +113,7 @@ Every noun inside a sentence is in one of these four, and tells you which.
 it in Lesson 4.) The rest of Part II is practice.
 :::
 
-## Two more things the dative does
+## The dative of means, and the dative with ἐν and σύν
 
 **By means of.** With no preposition at all, the dative can say what
 something was done *with*:

@@ -1,4 +1,4 @@
-# The Familiar Words Return {summary="Words the class already knows, and how far their meanings stretch in the Greek of scripture."}
+# The Familiar Words Return — semantic range, and how a word's meaning shifts with time {summary="Words the class already knows, and how far their meanings stretch in the Greek of scripture."}
 
 ::: story
 Theodoros wrote two words on the board and asked what they meant.
@@ -60,7 +60,7 @@ is the worst."
 :::
 
 ::: newgreek
-## Welcome to Part IV
+## What Koine is, and where it came from
 
 The Greek in this part of the book is mostly **Koine** — the "common" Greek
 spoken across the eastern Mediterranean from about 300 BC onwards, after
@@ -74,7 +74,7 @@ where, each time. Where a form or a usage is Koine and not Attic, it is
 marked *(Koine)* in the vocabulary. Everything unmarked is the Greek you
 already know.
 
-## A word is a region, not a point
+## Semantic range: a word is a region, not a point
 
 You have been treating vocabulary as a list of equations: **ὁ λόγος** =
 *word*. That was right for a beginner and it is now wrong for you.
@@ -86,7 +86,7 @@ English word covers that ground. When you translate **λόγος** as *word* you
 are choosing one corner of a large field and hoping it was the right corner.
 Every translator does the same.
 
-## Words move
+## How a word moves between Homer, Plato and John
 
 The range also shifts with time. A word in Homer, the same word in Plato,
 and the same word in the Gospel of John may sit in three different places,

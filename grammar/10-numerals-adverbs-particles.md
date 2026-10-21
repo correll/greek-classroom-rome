@@ -9,7 +9,7 @@ completed sections (§§1–5) will remain valid. The subsections below are the
 plan.
 :::
 
-## Planned subsections
+## What this section will cover: numerals, adverbs, negatives and particles
 
 1. Cardinal numbers 1-10 and their declension (**εἷς**, **δύο**, **τρεῖς**, **τέτταρες**); the rest are indeclinable
 2. Ordinals; the alphabetic numeral system and the three obsolete letters it preserves (§1.1)
