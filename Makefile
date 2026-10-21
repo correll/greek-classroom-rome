@@ -73,7 +73,7 @@ cd $(TEXDIR) && $(XELATEX) $(2).tex >/dev/null 2>&1 || \
 @echo "  -> $@"
 endef
 
-.PHONY: all pdf teacher grammar site lulu kdp epub check glossary clean distclean fonts help
+.PHONY: all pdf teacher grammar site lulu kdp epub print check glossary clean distclean fonts help
 
 all: pdf teacher grammar site
 
@@ -82,10 +82,11 @@ help:
 	@echo "make teacher  - teacher edition PDF      -> $(BUILD)/greek-classroom-teacher.pdf"
 	@echo "make grammar  - reference grammar PDF    -> $(BUILD)/greek-grammar.pdf"
 	@echo "make site     - GitHub Pages site        -> $(SITE)/"
-	@echo "make kdp      - Amazon KDP paperback: interior and covers -> $(BUILD)/kdp/"
+	@echo "make kdp      - Amazon KDP paperbacks, all three volumes  -> $(BUILD)/kdp/"
 	@echo "make epub     - Kindle/EPUB ebook and its cover -> $(BUILD)/greek-classroom.epub"
-	@echo "make lulu     - Lulu hardcover upload: interiors and wrap covers -> $(BUILD)/lulu/"
-	@echo "make check    - validate Greek text and block syntax"
+	@echo "make lulu     - Lulu hardcovers, all three volumes        -> $(BUILD)/lulu/"
+	@echo "make print    - every print-ready file: kdp, lulu and the ebook"
+	@echo "make check    - validate Greek text, block syntax and section references"
 	@echo "make glossary - regenerate the cumulative vocabulary from the lessons"
 	@echo "make fonts    - (re)download the vendored OFL fonts"
 	@echo "make clean    - remove build output"
@@ -117,23 +118,43 @@ site: pdf teacher grammar
 # the wrap cover is generated to Lulu's template, its spine sized from the
 # interior's page count. See scripts/lulu_cover.py.
 LULU := $(BUILD)/lulu
-lulu: $(BUILD)/greek-classroom.pdf $(BUILD)/greek-classroom-teacher.pdf scripts/lulu_cover.py scripts/lulu_bleed.py
+TEACHER_SUB := Teacher's Edition · with answer keys
+lulu: $(BUILD)/greek-classroom.pdf $(BUILD)/greek-classroom-teacher.pdf $(BUILD)/greek-grammar.pdf scripts/lulu_cover.py scripts/lulu_bleed.py
 	@mkdir -p $(LULU)
 	python3 scripts/lulu_bleed.py $(BUILD)/greek-classroom.pdf $(LULU)/greek-classroom-interior.pdf
 	python3 scripts/lulu_bleed.py $(BUILD)/greek-classroom-teacher.pdf $(LULU)/greek-classroom-teacher-interior.pdf
+	python3 scripts/lulu_bleed.py $(BUILD)/greek-grammar.pdf $(LULU)/greek-grammar-interior.pdf
 	python3 scripts/lulu_cover.py $(LULU)/greek-classroom-interior.pdf $(LULU)/greek-classroom-cover.pdf
 	python3 scripts/lulu_cover.py $(LULU)/greek-classroom-teacher-interior.pdf $(LULU)/greek-classroom-teacher-cover.pdf \
-	  --subtitle "Teacher's Edition · with answer keys"
+	  --subtitle "$(TEACHER_SUB)"
+	python3 scripts/lulu_cover.py $(LULU)/greek-grammar-interior.pdf $(LULU)/greek-grammar-cover.pdf \
+	  --volume grammar
 
-# Amazon KDP paperback, 7 x 10 in, interior without bleed: the student PDF
-# as it is, and the wrap cover in KDP's geometry (0.125 in bleed, spine from
-# KDP's per-page formula). One cover per colour paper, since the spine differs.
+# Amazon KDP paperback, 7 x 10 in, interior without bleed: the PDFs as they
+# are, and a wrap cover in KDP's geometry (0.125 in bleed, spine from KDP's
+# per-page formula). Two covers per volume, since the spine differs by paper.
+#
+# KDP caps the page count per paper, and the standard-colour ceiling of 600
+# is the one to watch: the teacher's edition is already past 560. If it goes
+# over, drop the standard-colour cover and publish that volume on premium
+# colour, which takes 828. lulu_cover.py refuses outright above the limit.
 KDP := $(BUILD)/kdp
-kdp: $(BUILD)/greek-classroom.pdf scripts/lulu_cover.py
+KDP_INT := $(KDP)/greek-classroom-kdp-interior.pdf
+KDP_TINT := $(KDP)/greek-classroom-teacher-kdp-interior.pdf
+KDP_GINT := $(KDP)/greek-grammar-kdp-interior.pdf
+kdp: $(BUILD)/greek-classroom.pdf $(BUILD)/greek-classroom-teacher.pdf $(BUILD)/greek-grammar.pdf scripts/lulu_cover.py
 	@mkdir -p $(KDP)
-	cp $(BUILD)/greek-classroom.pdf $(KDP)/greek-classroom-kdp-interior.pdf
-	python3 scripts/lulu_cover.py $(KDP)/greek-classroom-kdp-interior.pdf $(KDP)/greek-classroom-kdp-cover-standard-color.pdf --kdp-paperback standard-color
-	python3 scripts/lulu_cover.py $(KDP)/greek-classroom-kdp-interior.pdf $(KDP)/greek-classroom-kdp-cover-premium-color.pdf --kdp-paperback premium-color
+	cp $(BUILD)/greek-classroom.pdf $(KDP_INT)
+	cp $(BUILD)/greek-classroom-teacher.pdf $(KDP_TINT)
+	cp $(BUILD)/greek-grammar.pdf $(KDP_GINT)
+	python3 scripts/lulu_cover.py $(KDP_INT) $(KDP)/greek-classroom-kdp-cover-standard-color.pdf --kdp-paperback standard-color
+	python3 scripts/lulu_cover.py $(KDP_INT) $(KDP)/greek-classroom-kdp-cover-premium-color.pdf --kdp-paperback premium-color
+	python3 scripts/lulu_cover.py $(KDP_TINT) $(KDP)/greek-classroom-teacher-kdp-cover-standard-color.pdf --kdp-paperback standard-color --subtitle "$(TEACHER_SUB)"
+	python3 scripts/lulu_cover.py $(KDP_TINT) $(KDP)/greek-classroom-teacher-kdp-cover-premium-color.pdf --kdp-paperback premium-color --subtitle "$(TEACHER_SUB)"
+	python3 scripts/lulu_cover.py $(KDP_GINT) $(KDP)/greek-grammar-kdp-cover-standard-color.pdf --kdp-paperback standard-color --volume grammar
+	python3 scripts/lulu_cover.py $(KDP_GINT) $(KDP)/greek-grammar-kdp-cover-premium-color.pdf --kdp-paperback premium-color --volume grammar
+
+print: kdp lulu epub
 
 # The ebook: the student edition as a reflowable EPUB 3, which Kindle
 # Direct Publishing takes directly. Same sources and filter as the print

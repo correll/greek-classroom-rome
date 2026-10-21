@@ -27,13 +27,20 @@ KDP paperback (--kdp-paperback PAPER; help topic "Create a Paperback Cover"):
     barcode              KDP prints it 2 x 1.2 in, lower right of the back,
                          and the design leaves that corner empty
 
-Usage: lulu_cover.py INTERIOR.pdf OUT.pdf [--subtitle TEXT] [--spine INCHES]
+Usage: lulu_cover.py INTERIOR.pdf OUT.pdf [--volume textbook|grammar]
+                     [--subtitle TEXT] [--spine INCHES]
                      [--kdp-paperback white|cream|standard-color|premium-color]
+
+--volume picks the back-cover copy. The textbook's back carries the story
+blurb and the cast plate; the grammar's carries its own blurb and a list of
+its sixteen sections, read from grammar/*.md at build time so that the cover
+cannot drift from the book.
 
 The interior's page count is read with pdfinfo. If the printer's own
 template gives a different spine width, pass it with --spine.
 """
 import argparse
+import io
 import os
 import subprocess
 import sys
@@ -45,10 +52,18 @@ PANEL_W, PANEL_H = 7.25, 10.5
 WRAP = 0.625
 SAFE = 0.625
 BARCODE_W, BARCODE_H = 3.622, 1.26
+SPINE_CLEAR = 0.0625   # KDP: spine text keeps this clear of each fold
 
 # KDP paperback: spine inches per page, by paper
 KDP_PAPER = {"white": 0.002252, "cream": 0.0025,
              "standard-color": 0.002252, "premium-color": 0.002347}
+
+# KDP paperback: (minimum, maximum) pages the paper takes. These are the US
+# figures; some trim sizes cap lower, so check KDP's own table before a first
+# upload. The standard-colour ceiling of 600 is the one that bites here - the
+# teacher's edition is already past 560.
+KDP_PAGES = {"white": (24, 828), "cream": (24, 776),
+             "standard-color": (72, 600), "premium-color": (24, 828)}
 
 # Lulu hardcover casewrap: (last page count in the band, spine width in inches)
 SPINE_TABLE = [
@@ -73,6 +88,46 @@ question, \textit{what in the sentence tells you that?}, is the whole
 transferable skill."""
 
 
+BLURB_GRAMMAR = r"""The companion volume to \textit{Schola Graeca}. The textbook teaches
+Greek in a sequence, one idea at a time. This book does not teach anything:
+it states what is true about Classical Attic, in an order you can look
+something up in.
+
+Sixteen sections and a paradigm appendix, from the alphabet to the moods,
+with the rare forms left
+out so that the common ones are easy to find. Every section
+is cross-referenced to the textbook in both directions: a lesson points here
+for the full paradigm, and each section says which lesson introduces it."""
+
+VOLUMES = {
+    "textbook": {"subtitle": "A Classical Greek course", "blurb": BLURB},
+    "grammar": {"subtitle": "A reference grammar", "blurb": BLURB_GRAMMAR},
+}
+
+GRAMMAR_DIR = os.path.join(ROOT, "grammar")
+
+
+def grammar_sections():
+    """The grammar's numbered chapters, in order, read from the files.
+
+    The back cover lists them, and listing them by hand would be one more
+    thing to keep in step with the book. The unnumbered introduction is
+    skipped, exactly as pandoc skips it when it numbers the sections.
+    """
+    out = []
+    for name in sorted(os.listdir(GRAMMAR_DIR)):
+        if not name.endswith(".md"):
+            continue
+        with io.open(os.path.join(GRAMMAR_DIR, name), encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("# "):
+                    title = line[2:].strip()
+                    if "{.unnumbered}" not in title:
+                        out.append(title)
+                    break
+    return out
+
+
 def page_count(pdf):
     out = subprocess.run(["pdfinfo", pdf], capture_output=True, text=True,
                          check=True).stdout
@@ -91,7 +146,7 @@ def spine_for(pages):
     sys.exit("more than 800 pages: outside Lulu's casewrap table")
 
 
-def tex(spine, subtitle):
+def tex(spine, subtitle, volume, blurb):
     W = 2 * WRAP + 2 * PANEL_W + spine
     H = 2 * WRAP + PANEL_H
     fonts = os.path.join(ROOT, "assets", "fonts") + "/"
@@ -107,6 +162,48 @@ def tex(spine, subtitle):
     safe_w = PANEL_W - 2 * SAFE
     sub = (r"{\color{cream}\large\itshape %s\par}\vspace{10pt}" % subtitle
            if subtitle else "")
+    # A spine carries text only if the text can sit inside it with the
+    # 0.0625 in of clearance KDP asks for on each side, and still be big
+    # enough to read. A thin book gets a plain spine, which is what a
+    # printer would do anyway: setting 5 pt type on a quarter-inch spine
+    # produces a line nobody can read and a fold the press may cut through.
+    avail_pt = (spine - 2 * SPINE_CLEAR) * 72
+    spine_mid_x = back_r + spine / 2
+    if avail_pt < 9:
+        spine_nodes = "  %% spine too thin for text (%.3f in)\n" % spine
+    else:
+        pt = min(26, int(spine * 26), int(avail_pt))
+        spine_nodes = r"""  \node[rotate=-90, anchor=center] at (%(mid).4f, %(title_y).4f)
+    {{\didot\color{cream}\fontsize{%(pt)d}{%(pt)d}\selectfont Schola Graeca}%%
+     \hspace{0.35in}{\didot\color{gold}\fontsize{%(gk)d}{%(gk)d}\selectfont ΤΟ ΔΙΔΑΣΚΑΛΕΙΟΝ}};
+  \node[rotate=-90, anchor=east] at (%(mid).4f, %(author_y).4f)
+    {{\color{cream}\fontsize{%(au)d}{%(au)d}\selectfont Correll}};
+""" % dict(mid=spine_mid_x, title_y=top - 3.4,
+           author_y=bottom + SAFE + 0.2, pt=pt,
+           gk=min(20, int(spine * 19), int(avail_pt)),
+           au=min(16, int(spine * 15), int(avail_pt)))
+
+    geom = dict(back_mid=(back_l + back_r) / 2, safe_w=safe_w,
+                back_plate_y=bottom + 4.0, back_caption_y=bottom + 4.0 - 1.36,
+                cast=cast)
+    if volume == "grammar":
+        back_lower = r"""  \node[anchor=north, text width=%(safe_w).4fin, align=center]
+    at (%(back_mid).4f, %(contents_y).4f) {%%
+    {\color{gold}\rule{0.4\linewidth}{0.8pt}}\\[14pt]
+    {\color{cream}\fontsize{11}{16}\selectfont
+     \begin{tabular}{@{}r@{\hspace{0.9em}}l@{}}%(rows)s\end{tabular}\par}};
+""" % dict(geom, contents_y=bottom + 0.665 * PANEL_H,
+           rows="\\\\\n".join(
+               r"{\color{gold}%d} & %s" % (i, s)
+               for i, s in enumerate(grammar_sections(), 1)))
+    else:
+        back_lower = r"""  \node[anchor=center] at (%(back_mid).4f, %(back_plate_y).4f)
+    {\plate{%(cast)s}{5.55in}};
+  \node[anchor=north, text width=%(safe_w).4fin, align=center]
+    at (%(back_mid).4f, %(back_caption_y).4f)
+    {\color{cream}\small\itshape Theodoros, Marcus, Julia, Felix, Sabina, Quintus,
+     Livia, Theodosius, Aelia\\ and the cat, who is the κύριος of all of them.};
+""" % geom
     return r"""\documentclass{article}
 \usepackage[paperwidth=%(W).4fin,paperheight=%(H).4fin,margin=0in]{geometry}
 \usepackage{fontspec}
@@ -149,24 +246,13 @@ def tex(spine, subtitle):
     {\color{cream}\Large Nikolaus Correll};
 
   %% ---- spine: reads top to bottom ----
-  \node[rotate=-90, anchor=center] at (%(spine_mid).4f, %(spine_title_y).4f)
-    {{\didot\color{cream}\fontsize{%(spine_pt)d}{%(spine_pt)d}\selectfont Schola Graeca}%%
-     \hspace{0.35in}{\didot\color{gold}\fontsize{%(spine_gk)d}{%(spine_gk)d}\selectfont ΤΟ ΔΙΔΑΣΚΑΛΕΙΟΝ}};
-  \node[rotate=-90, anchor=east] at (%(spine_mid).4f, %(spine_author_y).4f)
-    {{\color{cream}\fontsize{%(spine_au)d}{%(spine_au)d}\selectfont Correll}};
-
+%(spine_nodes)s
   %% ---- back panel ----
   \node[anchor=north, text width=%(safe_w).4fin, align=justify]
     at (%(back_mid).4f, %(top_safe).4f) {%%
     \color{cream}\fontsize{12}{16.2}\selectfont
     \setlength{\parskip}{8pt}%(blurb)s\par};
-  \node[anchor=center] at (%(back_mid).4f, %(back_plate_y).4f)
-    {\plate{%(cast)s}{5.55in}};
-  \node[anchor=north, text width=%(safe_w).4fin, align=center]
-    at (%(back_mid).4f, %(back_caption_y).4f)
-    {\color{cream}\small\itshape Theodoros, Marcus, Julia, Felix, Sabina, Quintus,
-     Livia, Theodosius, Aelia\\ and the cat, who is the κύριος of all of them.};
-  %% the barcode area stays empty; nothing above is allowed to reach it
+%(back_lower)s  %% the barcode area stays empty; nothing above is allowed to reach it
 \end{tikzpicture}
 \end{document}
 """ % dict(
@@ -174,18 +260,14 @@ def tex(spine, subtitle):
         safe_w=safe_w,
         front_mid=(front_l + front_r) / 2,
         back_mid=(back_l + back_r) / 2,
-        spine_mid=back_r + spine / 2,
         top_safe=top - SAFE,
         bottom_safe=bottom + SAFE,
         front_plate_y=bottom + 4.15,
         back_plate_y=bottom + 4.0,
         back_caption_y=bottom + 4.0 - 1.36,
-        spine_title_y=top - 3.4,
-        spine_author_y=bottom + SAFE + 0.2,
-        spine_pt=min(26, int(spine * 26)),
-        spine_gk=min(20, int(spine * 19)),
-        spine_au=min(16, int(spine * 15)),
-        blurb=BLURB,
+        blurb=blurb,
+        back_lower=back_lower,
+        spine_nodes=spine_nodes,
     )
 
 
@@ -193,10 +275,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("interior")
     ap.add_argument("out")
-    ap.add_argument("--subtitle", default="A Classical Greek course")
+    ap.add_argument("--volume", choices=sorted(VOLUMES), default="textbook")
+    ap.add_argument("--subtitle", default=None)
     ap.add_argument("--spine", type=float, default=None)
     ap.add_argument("--kdp-paperback", choices=sorted(KDP_PAPER), default=None)
     a = ap.parse_args()
+    vol = VOLUMES[a.volume]
+    subtitle = a.subtitle if a.subtitle is not None else vol["subtitle"]
 
     global PANEL_W, PANEL_H, WRAP, SAFE
     pages = page_count(a.interior)
@@ -204,13 +289,20 @@ def main():
         PANEL_W, PANEL_H, WRAP, SAFE = 7.0, 10.0, 0.125, 0.5
         if pages < 80:
             sys.exit("KDP prints spine text only from 80 pages; this has %d" % pages)
+        lo, hi = KDP_PAGES[a.kdp_paperback]
+        if not lo <= pages <= hi:
+            sys.exit("KDP %s takes %d-%d pages; this interior has %d"
+                     % (a.kdp_paperback, lo, hi, pages))
+        if pages > hi - 40:
+            sys.stderr.write("  note: %d pages is near KDP's %d-page ceiling "
+                             "for %s\n" % (pages, hi, a.kdp_paperback))
         spine = a.spine if a.spine else round(pages * KDP_PAPER[a.kdp_paperback], 4)
     else:
         spine = a.spine if a.spine else spine_for(pages)
     with tempfile.TemporaryDirectory() as d:
         src = os.path.join(d, "cover.tex")
         with open(src, "w", encoding="utf-8") as f:
-            f.write(tex(spine, a.subtitle))
+            f.write(tex(spine, subtitle, a.volume, vol["blurb"]))
         # twice: the page-anchored TikZ picture needs its position from
         # the first run
         for _ in range(2):
