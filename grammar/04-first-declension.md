@@ -22,8 +22,14 @@ Like **ψυχή**: **ἡ ἀρχή** *beginning, rule* · **ἡ γραφή** *wr
 ## Feminine in -ᾱ
 
 After **ε**, **ι**, or **ρ**, the stem vowel appears as long **ᾱ** rather
-than **η**, throughout the singular. This is a purely phonetic rule of
-Attic and it is regular.
+than **η**, throughout the singular — Attic reverting an inherited **ᾱ**
+that Ionic had turned into **η**.
+
+As a statement about Attic nouns that *have* alpha, this is exceptionless,
+and it is the form in which Lesson 8 teaches it. As a prediction of which
+nouns have alpha at all it is only a strong tendency: **ἡ κόρη** *girl*
+(**τῆς κόρης**) and **ἡ δέρη** *neck* keep **η** after **ρ**, because a
+digamma once stood between (**κόρϝᾱ**) and blocked the reversion.
 
 | | **ἡ οἰκίᾱ** *house* | |
 |:--|:--|:--|
@@ -58,11 +64,17 @@ Attic **θεά** (§16.2).
 A third group has a **short** alpha in the nominative, vocative and
 accusative singular, and **η** in the genitive and dative.
 
-This is not a separate rule. It is §4.2's rule applied to a nominative
-that misleads: the letter before the ending is not **ε**, **ι** or **ρ**,
-so the genitive and dative show **η**, exactly as **ψυχή** does. What is
-exceptional is the nominative's short alpha, which these nouns show after
-**ζ**, **ξ**, **ψ**, a doubled consonant, or — in **μοῦσα** — a single sigma.
+This is not a separate rule but the §4.2 test applied to a noun whose
+nominative shows alpha: the letter before the ending is not **ε**, **ι**
+or **ρ**, so the genitive and dative show **η**.
+
+Note the scope. The test decides what happens to an **alpha already in
+the nominative**; it does not predict which nouns have alpha there in the
+first place. A noun with **η** in the nominative simply keeps it
+(**ψυχή**, **ἀρχή**, **ζωή**), and no question arises.
+
+These nouns show their short nominative alpha after **ζ**, **ξ**, **ψ**, a
+doubled consonant, or — in **μοῦσα** — a single sigma.
 
 | | **ἡ θάλαττᾰ** *sea* | |
 |:--|:--|:--|

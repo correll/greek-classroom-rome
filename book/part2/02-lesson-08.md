@@ -99,60 +99,69 @@ It is the one place in the first declension where the accent does something
 you cannot predict from the nominative, so memorise it deliberately.
 :::
 
-## When the nominative misleads
+## What the genitive does to alpha
 
 You have taken the first declension on trust since Lesson 3: some nouns show
-**η**, some show **α**, and the dictionary tells you which. Here is the rule
-behind it, because the genitive is where it begins to matter.
+**η**, some show **α**, and the dictionary tells you which. That has not
+changed. The nominative is given to you; it is not something you work out.
 
-**Look at the letter immediately before the ending.** If it is **ε**, **ι**
-or **ρ**, the first declension keeps **α**. Anything else, and it shows
-**η**.
+What you do have to work out begins here, in the genitive — and only for
+some of these nouns.
 
-| | before the ending | genitive |
+**A noun with η in the nominative keeps it.** There is no question to ask.
+
+| | genitive | dative |
 |:--|:--|:--|
-| **ἡ οἰκία** | **ι** | **τῆς οἰκίας** |
-| **ἡ ἡμέρα** | **ρ** | **τῆς ἡμέρας** |
-| **ἡ ψυχή** | **χ** | **τῆς ψυχῆς** |
-| **ἡ ἀρχή** | **χ** | **τῆς ἀρχῆς** |
+| **ἡ ψυχή** | **τῆς ψυχῆς** | **τῇ ψυχῇ** |
+| **ἡ ἀρχή** | **τῆς ἀρχῆς** | **τῇ ἀρχῇ** |
+| **ἡ ζωή** | **τῆς ζωῆς** | **τῇ ζωῇ** |
 
-So far the nominative has told you what the genitive would do. Now a group
-of nouns where it does not.
+**A noun with α in the nominative is the one to think about**, because that
+alpha may stay, or may turn into **η** as soon as you leave the accusative.
 
-| | **ἡ τράπεζα** *table* | **ἡ θάλαττα** *sea* |
-|:--|:--|:--|
-| **nominative** | **ἡ τράπεζα** | **ἡ θάλαττα** |
-| **genitive** | **τῆς τραπέζης** | **τῆς θαλάττης** |
-| **dative** | **τῇ τραπέζῃ** | **τῇ θαλάττῃ** |
-| **accusative** | **τὴν τράπεζαν** | **τὴν θάλατταν** |
+Here is the test, and it is the only one you need. **Look at the letter
+immediately before the ending.** If it is **ε**, **ι** or **ρ**, the alpha
+stays. Anything else, and the genitive and dative show **η**.
 
-Alpha in the nominative and accusative; **eta** in the genitive and dative.
+| | before the ending | genitive | dative |
+|:--|:--|:--|:--|
+| **ἡ οἰκία** | **ι** | **τῆς οἰκίας** | **τῇ οἰκίᾳ** |
+| **ἡ ἡμέρα** | **ρ** | **τῆς ἡμέρας** | **τῇ ἡμέρᾳ** |
+| **ἡ θεά** *goddess* | **ε** | **τῆς θεᾶς** | **τῇ θεᾷ** |
+| **ἡ τράπεζα** | **ζ** | **τῆς τραπέζης** | **τῇ τραπέζῃ** |
+| **ἡ θάλαττα** *sea* | **ττ** | **τῆς θαλάττης** | **τῇ θαλάττῃ** |
+| **ἡ δόξα** *glory; opinion* | **ξ** | **τῆς δόξης** | **τῇ δόξῃ** |
 
-This is not a third pattern to learn, and you should resist being told that
-it is. It is the rule above, obeyed exactly. Before the ending **τράπεζα**
-has **ζ** and **θάλαττα** has **ττ** — neither is **ε**, **ι** or **ρ** — so the
-genitive and dative must show **η**. The odd form is the *nominative*, which
-shows a short alpha where the rule would have predicted eta.
+The last three are the ones to notice. Alpha in the nominative and
+accusative — **τὴν τράπεζαν**, **τὴν θάλατταν**, **τὴν δόξαν** —
+and **η** in the genitive and dative.
+
+They are not a third pattern to learn, and you should resist being told that
+they are. They are the test above, answered honestly. Before the ending
+**τράπεζα** has **ζ**, **θάλαττα** has **ττ**, **δόξα** has **ξ**. None of
+those is **ε**, **ι** or **ρ**, so the genitive and dative must show **η**.
 
 ::: note
 **How to spot one without a list.** Do not try to memorise which nouns
-behave this way. Apply the same test to the letter before the ending, and
-keep two specimens in your head:
+behave this way. Put the test to the letter before the ending, and keep two
+specimens in your head:
 
 **ἡ τράπεζα, τῆς τραπέζης** — the table the cat has occupied since
 Lesson 3.
 
 **ἡ θάλαττα, τῆς θαλάττης** — the sea.
 
-Then when you first meet **ἡ γλῶττα** *tongue*, **ἡ μοῦσα** *Muse* or
-**ἡ δόξα** *glory*, the test answers before anyone tells you: **ττ**, **σ**,
-**ξ**, none of them **ε**, **ι** or **ρ** — so **γλώττης**, **μούσης**,
-**δόξης**.
+Then when you first meet **ἡ γλῶττα** *tongue* or **ἡ μοῦσα** *Muse*, the
+test answers before anyone tells you: **ττ** and **σ**, neither of them **ε**,
+**ι** or **ρ** — so **γλώττης** and **μούσης**.
 
-The test keeps you right in the other direction too. **ἡ ἀλήθεια** has a
-short alpha in the nominative as well — but before the ending stands **ι**,
-so it keeps alpha the whole way down: **τῆς ἀληθείας**, never
+The test keeps you right in the other direction too. **ἡ ἀλήθεια** ends
+in a short alpha just as **θάλαττα** does — but before its ending stands
+**ι**, so it keeps alpha the whole way down: **τῆς ἀληθείας**, never
 **τῆς ἀληθείης**.
+
+A short alpha in the nominative is not, by itself, evidence of anything.
+The letter before the ending is.
 :::
 
 ## Three prepositions that demand it
