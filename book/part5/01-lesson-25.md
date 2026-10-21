@@ -95,6 +95,35 @@ in behind the verb. (And a detail for later: before another enclitic, such
 as **ἐστιν**, even *someone* takes an accent — **τίς ἐστιν** can be either
 word, and only the context tells you which.)
 
+::: note
+**What the marks are called, and why.**
+
+You have been saying *acute*, *grave* and *circumflex* since Lesson 2
+without being told where the words come from. They are Latin translations
+of what the Greeks called them, and the Greek names describe a voice:
+
+| Greek | meaning | Latin | ours |
+|:--|:--|:--|:--|
+| **ἡ ὀξεῖα** | sharp | *acuta* | acute |
+| **ἡ βαρεῖα** | heavy | *gravis* | grave |
+| **ἡ περισπωμένη** | drawn around | *circumflexus* | circumflex |
+
+The breathings are named the same way: **ἡ δασεῖα** *the thick one* and
+**ἡ ψιλή** *the bare one*, which Latin rendered *spiritus asper* and
+*spiritus lenis* — the rough breath and the smooth — and which you met in
+Lesson 2.
+
+Every one of these is a feminine adjective with **ἡ προσῳδία** *accent,
+tune* understood: *the sharp one*, *the heavy one*, *the drawn-around one*.
+You can now parse the names of the marks you have been writing for
+twenty-five lessons, which is a small thing, and a fair measure of how far
+this has come.
+
+Nobody will ask you for these. They are here because a word you have used
+for a year and never looked at is exactly the kind of thing this course
+has been trying to make you look at.
+:::
+
 ## The other question words
 
 | | | |

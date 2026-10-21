@@ -67,6 +67,40 @@ several hundred verbs.
 **λύω** is the verb grammars drill on, because it is short and entirely
 regular. You will meet it in every Greek book you ever open.
 
+## The accent you never have to learn
+
+Look down the **λύω** column and ask where the accent is. It does not move:
+**λύ-ω**, **λύ-εις**, **λύ-ο-μεν**, **λύ-ου-σι**. It has gone as far back as
+it can get, and stayed there.
+
+Now **ἀκούω**, which has one more syllable to play with: **ἀ-κού-ω**,
+**ἀ-κού-ο-μεν**. Why is the accent not on **ἀ-**, which is further back
+still? Because of the rule you met in Lesson 7. In **ἀκούω** the ultima
+**-ω** is long, so the accent cannot reach the antepenult; in **ἀκούομεν**
+the antepenult is as far as three syllables allow.
+
+So the accent is not sitting anywhere interesting. It is being pushed
+backwards until something stops it.
+
+::: note
+**Two kinds of accent, and only one of them is work.**
+
+**A verb's accent runs back as far as the rules allow.** It is called a
+**recessive** accent — *receding*, retreating — and it is entirely
+predictable. You can work out where a verb's accent goes without being
+told, and you never need to memorise one.
+
+**A noun's or adjective's accent stays where the nominative put it**, and
+moves only when a rule forces it to. It is called a **persistent** accent.
+Nothing predicts it: **λόγος** keeps its accent near the front,
+**θεός** keeps its on the end, and no amount of staring at either word will
+tell you which. That is why you learn a noun **with** its accent, as you
+learn it with its article.
+
+Half of Greek accentuation is therefore free. The half that is not is the
+half you have already been learning, one noun at a time, since Lesson 1.
+:::
+
 ## Verbs that contract
 
 Some verbs have a stem ending in a vowel, and when that vowel meets the

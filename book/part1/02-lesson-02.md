@@ -58,6 +58,10 @@ over it. No initial vowel goes bare.
 - **Rough breathing** **῾** — means an *h* is pronounced before the vowel.
   **ὁδός** = *hodos*.
 
+Older books, and most dictionaries, call them by their Latin names:
+*spiritus lenis*, the smooth breath, and *spiritus asper*, the rough one.
+You can read those off your Latin without help.
+
 Three more rules, all needed in this lesson:
 
 1. On a **diphthong**, the mark sits over the *second* vowel:

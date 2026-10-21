@@ -18,7 +18,7 @@ By the Koine period the distinction had already become one of stress.
 
 ## Names of the syllables
 
-Counting from the end of the word:
+Counting from the end of the word (Lesson 7):
 
 | | |
 |:--|:--|
@@ -120,8 +120,20 @@ enclitic, not to accent one.
 
 ## Accent in this course
 
-Volume I introduces accentuation in three stages: the marks themselves in
-Lesson 2, the three governing rules alongside the article in Lesson 7, and
-the recessive verb accent with the present tense in Lesson 11. Students are
-expected to accent correctly in written work from Lesson 7 onward, and to
-read accents aloud — as stress, if pitch is beyond them — from the start.
+Volume I introduces accentuation in four stages.
+
+| | |
+|:--|:--|
+| Lesson 2 | the three marks, and the two breathings with their Latin names |
+| Lesson 7 | **ultima**, **penult**, **antepenult** (§2.2); the three-syllable limit and the long-ultima restriction (§2.3) |
+| Lesson 8 | the circumflex on a long penult; the first-declension genitive plural in **-ῶν** |
+| Lesson 11 | recessive against persistent accent (§2.7) — that a verb's accent is free and a noun's must be learned |
+| Lesson 25 | the accent as the whole of a word's meaning (**τίς** / **τις**), enclitics, and where the names of the marks come from |
+
+Students are expected to accent correctly in written work from Lesson 7
+onward, and to read accents aloud — as stress, if pitch is beyond them —
+from the start.
+
+The Greek names of the marks (**ὀξεῖα**, **βαρεῖα**, **περισπωμένη**,
+**δασεῖα**, **ψιλή**) are given in Lesson 25 as etymology rather than as
+terms to learn; nothing in the course requires them.

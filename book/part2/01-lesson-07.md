@@ -102,15 +102,29 @@ One oddity, and it has a rule behind it.
 > **ὁ ἄνθρωπος** → **τοὺς ἀνθρώπους**
 
 The accent has walked forward one syllable. Compare the last syllables: what
-else is different? Greek accents obey one mechanical restriction:
+else is different?
 
-**An accent cannot stand on the third syllable from the end if the last
-syllable is long.**
+Before the rule, three names. Greek accents only ever concern the last three
+syllables of a word, and those three have names you will need every time an
+accent is discussed:
 
-**ἄν-θρω-πος** has a short last syllable, so the accent may sit three back.
-**ἀν-θρώ-πους** has a long one — **-ους** — so the accent is forced forward
-to the second. The meaning has not changed; the word is obeying a rule
-about weight.
+| | | **ἄν-θρω-πος** |
+|:--|:--|:--|
+| **antepenult** | third from the end | **ἄν-** |
+| **penult** | second from the end | **-θρω-** |
+| **ultima** | the last | **-πος** |
+
+They are Latin words and they mean what they say: *ultima* is the last,
+*paenultima* the almost-last, *antepaenultima* the one before the
+almost-last. Nothing turns on the names themselves, but every rule about
+Greek accents is stated in them, including this one:
+
+**An accent cannot stand on the antepenult if the ultima is long.**
+
+**ἄν-θρω-πος** has a short ultima, so the accent may sit on the
+antepenult. **ἀν-θρώ-πους** has a long one — **-ους** — so the accent is
+forced forward onto the penult. The meaning has not changed; the word is
+obeying a rule about weight.
 
 Many nouns do this, and it is always this rule; you need not learn them one
 by one.
@@ -122,7 +136,9 @@ where it lands. If you have ever been taught *penultimate long, accent on
 the penult; penultimate short, accent on the antepenult*, you have already
 met the idea.
 
-Greek adds one twist: the length of the **last** syllable counts too. That is
+The names are the same ones, too, and they come from your Latin grammar.
+
+Greek adds one twist: the length of the **ultima** counts as well. That is
 the rule above, and the only new thing here.
 :::
 
