@@ -48,8 +48,15 @@ grammars, and students coming from Latin should notice the difference once
 and then stop being bothered by it.
 
 ::: note
-**Status of this volume.** Sections 1–5 are complete. Sections 6–16 are
-outlined, with their structure fixed and their content to be written. The
-paradigm appendix (§17) is partially populated. Nothing in the completed
-sections is expected to change; the numbering is already stable.
+**Status of this volume.** All sixteen sections are written, and the
+paradigm appendix (§17) carries every paradigm the course uses.
+
+The numbering is stable and was fixed before the sections were written, so
+every reference printed in the textbook points where it did. New material
+will be added as a further subsection rather than by renumbering.
+
+What is deliberately left out: the dual beyond recognition (§6.9), the
+optative beyond recognition (§14.2), the fuller enclitic rules (§2.7),
+verbal adjectives in **-τέος**, and the rarer third-declension stems. Each
+is named where it would have gone, with a pointer to Smyth.
 :::

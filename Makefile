@@ -157,6 +157,7 @@ $(BUILD)/greek-classroom.epub: $(BOOK_SRC) scripts/filters/ebook.lua scripts/fil
 
 check:
 	python3 scripts/check_greek.py
+	python3 scripts/check_refs.py
 
 glossary:
 	python3 scripts/build_glossary.py
