@@ -151,7 +151,7 @@ $(BUILD)/greek-classroom.epub: $(BOOK_SRC) scripts/filters/ebook.lua scripts/fil
 	  --metadata=cover-image:$(BUILD)/ebook-cover.jpg \
 	  --metadata=rights:"Text CC BY-NC-SA 4.0; fonts SIL OFL 1.1" \
 	  --css=assets/css/epub.css $(EPUB_FONTS) \
-	  --toc --toc-depth=1 --split-level=1 \
+	  --toc --toc-depth=2 --split-level=1 \
 	  $(BOOK_SRC) -o $@
 	@echo "  -> $@"
 
